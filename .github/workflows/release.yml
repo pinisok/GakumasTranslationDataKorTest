@@ -1,0 +1,34 @@
+name: "release"
+
+on:
+  workflow_dispatch
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+
+      - name: Checkout
+        uses: actions/checkout@v4
+          
+      - name: Package
+        run: |
+          zip -r ${{ github.event.repository.name }}-$(cat version.txt).zip version.txt local-files
+
+      - name: Get version
+        id: vars
+        run: echo "version=$(cat version.txt)" >> $GITHUB_OUTPUT
+
+      - name: Release
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: ${{ steps.vars.outputs.version }}
+          prerelease: false
+          title: ${{ github.event.workflow_run.head_commit.message }}
+          files: |
+            ${{ github.event.repository.name }}-*

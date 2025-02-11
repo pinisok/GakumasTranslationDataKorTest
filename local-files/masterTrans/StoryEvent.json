@@ -1,0 +1,73 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "box-gasha-event-001",
+      "title": "한여름의 서머 라이브 페스티벌"
+    },
+    {
+      "id": "box-gasha-event-002",
+      "title": "여름밤의 대결"
+    },
+    {
+      "id": "box-gasha-event-003",
+      "title": "할로윈 광소곡"
+    },
+    {
+      "id": "box-gasha-event-004",
+      "title": "케이크가 맺어주는 친구 크리스마스"
+    },
+    {
+      "id": "box-gasha-event-005",
+      "title": "발렌타인 협주곡"
+    },
+    {
+      "id": "main-story-event-001",
+      "title": "하츠보시 커뮤 이벤트 2장 아이돌들의 공동생활vol.1"
+    },
+    {
+      "id": "main-story-event-002",
+      "title": "하츠보시 커뮤 이벤트"
+    },
+    {
+      "id": "main-story-event-003",
+      "title": "하츠보시 커뮤 이벤트"
+    },
+    {
+      "id": "main-story-event-004",
+      "title": "하츠보시 커뮤 이벤트"
+    },
+    {
+      "id": "main-story-event-005",
+      "title": "하츠보시 커뮤 이벤트"
+    },
+    {
+      "id": "main-story-event-006",
+      "title": "하츠보시 커뮤 이벤트"
+    },
+    {
+      "id": "main-story-event-007",
+      "title": "하츠보시 커뮤 이벤트"
+    },
+    {
+      "id": "story-event-001",
+      "title": "1학년 1반의 아이돌들"
+    },
+    {
+      "id": "story-event-002",
+      "title": "하츠보시 온천 ~나무를 죽이고 흩어지다~"
+    },
+    {
+      "id": "story-event-003",
+      "title": "1학년 2반의 아이돌들"
+    },
+    {
+      "id": "story-event-004",
+      "title": "학생회의 아이돌들"
+    }
+  ]
+}
