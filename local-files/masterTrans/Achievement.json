@@ -351,6 +351,21 @@
       "description": "【Campus mode!!】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-jsna-3-003-01",
+      "name": "너에게 줄게",
+      "description": "【해피 밀푀유】주오 세나의 프로듀스로 최종 시험 합격"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-02",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-03",
+      "name": "빨리 증거 인멸을",
+      "description": "【해피 밀푀유】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-kcna-3-001-01",
       "name": "다과회에 오신 것을 환영합니다♪",
       "description": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
@@ -903,7 +918,7 @@
     {
       "id": "achieve-p_common-024",
       "name": "봉오리에서 꽃으로",
-      "description": "True End를 {threshold}명 달성"
+      "description": "True End를 {threshold}명 보자"
     },
     {
       "id": "achieve-p_common-025",

@@ -7,98 +7,98 @@
   "data": [
     {
       "characterId": "amao",
-      "name": "아리무라 마오",
-      "regexp": "마오"
+      "name": "有村 麻央",
+      "regexp": "麻央"
     },
     {
       "characterId": "atbm",
-      "name": "아마야 츠바메",
-      "regexp": "츠바메"
+      "name": "雨夜 燕",
+      "regexp": "燕"
     },
     {
       "characterId": "fktn",
-      "name": "후지타 코토네",
-      "regexp": "코토네"
+      "name": "藤田 ことね",
+      "regexp": "ことね"
     },
     {
       "characterId": "gkgt",
-      "name": "극월학원",
-      "regexp": "극월학원"
+      "name": "極月学園",
+      "regexp": "極月学園"
     },
     {
       "characterId": "hmsz",
-      "name": "하타야 미스즈",
-      "regexp": "미스즈"
+      "name": "秦谷 美鈴",
+      "regexp": "美鈴"
     },
     {
       "characterId": "hrnm",
-      "name": "히메사키 리나미",
-      "regexp": "리나미"
+      "name": "姫崎 莉波",
+      "regexp": "莉波"
     },
     {
       "characterId": "hski",
-      "name": "하나미 사키",
-      "regexp": "사키"
+      "name": "花海 咲季",
+      "regexp": "咲季"
     },
     {
       "characterId": "hume",
-      "name": "하나미 우메",
-      "regexp": "우메"
+      "name": "花海 佑芽",
+      "regexp": "佑芽"
     },
     {
       "characterId": "jkno",
-      "name": "주오 쿠니오",
-      "regexp": "쿠니오"
+      "name": "十王 邦夫",
+      "regexp": "邦夫"
     },
     {
       "characterId": "jsna",
-      "name": "주오 세나",
-      "regexp": "세나"
+      "name": "十王 星南",
+      "regexp": "星南"
     },
     {
       "characterId": "kcna",
-      "name": "쿠라모토 치나",
-      "regexp": "치나"
+      "name": "倉本 千奈",
+      "regexp": "千奈"
     },
     {
       "characterId": "kllj",
-      "name": "카츠라기 릴리야",
-      "regexp": "릴리야"
+      "name": "葛城 リーリヤ",
+      "regexp": "リーリヤ"
     },
     {
       "characterId": "nasr",
-      "name": "네오 아사리",
-      "regexp": "아사리 선생"
+      "name": "根緒 亜紗里",
+      "regexp": "あさり先生"
     },
     {
       "characterId": "shro",
-      "name": "시노사와 히로",
-      "regexp": "히로"
+      "name": "篠澤 広",
+      "regexp": "広"
     },
     {
       "characterId": "ssmk",
-      "name": "시운 스미카",
-      "regexp": "스미카"
+      "name": "紫雲 清夏",
+      "regexp": "清夏"
     },
     {
       "characterId": "trda",
-      "name": "댄스 트레이너",
-      "regexp": "댄스 트레이너"
+      "name": "ダンストレーナー",
+      "regexp": "ダンストレーナー"
     },
     {
       "characterId": "trvi",
-      "name": "비주얼 트레이너",
-      "regexp": "비주얼 트레이너"
+      "name": "ビジュアルトレーナー",
+      "regexp": "ビジュアルトレーナー"
     },
     {
       "characterId": "trvo",
-      "name": "보컬 트레이너",
-      "regexp": "보컬 트레이너"
+      "name": "ボーカルトレーナー",
+      "regexp": "ボーカルトレーナー"
     },
     {
       "characterId": "ttmr",
-      "name": "츠키무라 테마리",
-      "regexp": "테마리"
+      "name": "月村 手毬",
+      "regexp": "手毬"
     }
   ]
 }

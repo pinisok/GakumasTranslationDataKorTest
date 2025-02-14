@@ -9,122 +9,122 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "몰아치기 레슨 시작!"
+      "title": "追い込みレッスン開始！"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "몰아치기 레슨 시작!"
+      "title": "追い込みレッスン開始！"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "몰아치기 레슨 시작!"
+      "title": "追い込みレッスン開始！"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "최종 시험 전날"
+      "title": "最終試験前日"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "중간고사 전날"
+      "title": "中間試験前日"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "중간고사 전날"
+      "title": "中間試験前日"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_Opening",
-      "title": "정기공연 『하지메』"
+      "title": "定期公演『初』"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "몰아치기 레슨 시작!"
+      "title": "追い込みレッスン開始！"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "몰아치기 레슨 시작!"
+      "title": "追い込みレッスン開始！"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "몰아치기 레슨 시작!"
+      "title": "追い込みレッスン開始！"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "최종 오디션 전날"
+      "title": "最終オーディション前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "1차 오디션 전날"
+      "title": "１次オーディション前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "2차 오디션 전날"
+      "title": "２次オーディション前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionSelect",
-      "title": "최종 오디션 선택"
+      "title": "最終オーディション選択"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionSelect",
-      "title": "1차 오디션 선택"
+      "title": "１次オーディション選択"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionSelect",
-      "title": "2차 오디션 선택"
+      "title": "２次オーディション選択"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_StepSkip",
-      "title": "오늘은 쉬자"
+      "title": "今日は休もう"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -134,37 +134,37 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "최종평가는..."
+      "title": "最終評価は……"
     }
   ]
 }

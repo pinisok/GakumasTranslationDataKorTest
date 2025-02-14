@@ -7,63 +7,63 @@
   "data": [
     {
       "id": "comeback_daily_release_mission_001_point",
-      "name": "컴백 미션 포인트"
+      "name": "カムバックミッションポイント"
     },
     {
       "id": "highscore-event-001_point",
-      "name": "아이돌 강화 월간 이벤트 포인트"
+      "name": "アイドル強化月間イベントポイント"
     },
     {
       "id": "highscore-event-002_point",
-      "name": "아이돌 강화 월간 이벤트 포인트"
+      "name": "アイドル強化月間イベントポイント"
     },
     {
       "id": "highscore-event-003_point",
-      "name": "하이스코어 이벤트 포인트"
+      "name": "ハイスコアイベントポイント"
     },
     {
       "id": "highscore-event-004_point",
-      "name": "하이스코어 이벤트 포인트"
+      "name": "ハイスコアイベントポイント"
     },
     {
       "id": "main-story-event-001_point",
-      "name": "하츠보시 커뮤 이벤트 미션 Pt"
+      "name": "初星コミュイベントミッションPt"
     },
     {
       "id": "main-story-event-002_point",
-      "name": "하츠보시 커뮤 이벤트 포인트"
+      "name": "初星コミュイベントポイント"
     },
     {
       "id": "main-story-event-003_point",
-      "name": "하츠보시 커뮤 이벤트 포인트"
+      "name": "初星コミュイベントポイント"
     },
     {
       "id": "main-story-event-004_point",
-      "name": "하츠보시 커뮤 이벤트 포인트"
+      "name": "初星コミュイベントポイント"
     },
     {
       "id": "main-story-event-005_point",
-      "name": "하츠보시 커뮤 이벤트 포인트"
+      "name": "初星コミュイベントポイント"
     },
     {
       "id": "main-story-event-006_point",
-      "name": "하츠보시 커뮤 이벤트 포인트"
+      "name": "初星コミュイベントポイント"
     },
     {
       "id": "main-story-event-007_point",
-      "name": "하츠보시 커뮤 이벤트 포인트"
+      "name": "初星コミュイベントポイント"
     },
     {
       "id": "mission-daily-point",
-      "name": "데일리 Pt"
+      "name": "デイリーPt"
     },
     {
       "id": "mission-release_memorial_point",
-      "name": "초보자 Pt"
+      "name": "初心者Pt"
     },
     {
       "id": "mission-weekly-point",
-      "name": "주간 Pt"
+      "name": "ウィークリーPt"
     }
   ]
 }

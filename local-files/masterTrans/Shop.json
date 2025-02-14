@@ -7,19 +7,19 @@
   "data": [
     {
       "id": "shop_costume",
-      "name": "의상"
+      "name": "衣装"
     },
     {
       "id": "shop_jewel",
-      "name": "쥬얼"
+      "name": "ジュエル"
     },
     {
       "id": "shop_pack",
-      "name": "팩"
+      "name": "パック"
     },
     {
       "id": "shop_pass",
-      "name": "패스"
+      "name": "パス"
     }
   ]
 }

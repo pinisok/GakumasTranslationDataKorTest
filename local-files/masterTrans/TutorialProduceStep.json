@@ -13,84 +13,84 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "비주얼 레슨"
+      "name": "ビジュアルレッスン"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "댄스 레슨"
+      "name": "ダンスレッスン"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 3,
       "tutorialStep": 10,
       "stepType": "ProduceStepType_Refresh",
-      "name": "휴식"
+      "name": "休む"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "최종 시험"
+      "name": "最終試験"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "댄스 레슨"
+      "name": "ダンスレッスン"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "비주얼 레슨"
+      "name": "ビジュアルレッスン"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 3,
       "tutorialStep": 10,
       "stepType": "ProduceStepType_Refresh",
-      "name": "휴식"
+      "name": "休む"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "최종 시험"
+      "name": "最終試験"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "댄스 레슨"
+      "name": "ダンスレッスン"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVocalNormal",
-      "name": "보컬 레슨"
+      "name": "ボーカルレッスン"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 3,
       "tutorialStep": 10,
       "stepType": "ProduceStepType_Refresh",
-      "name": "휴식"
+      "name": "休む"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "최종 시험"
+      "name": "最終試験"
     }
   ]
 }
