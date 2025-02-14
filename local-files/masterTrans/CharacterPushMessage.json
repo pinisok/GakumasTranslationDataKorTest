@@ -11,1002 +11,1002 @@
       "characterId": "amao",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "さぁ、プロデュースの時間ですよ！"
+      "title": "아리무라 마오",
+      "message": "자, 프로듀스 시간이에요!"
     },
     {
       "characterId": "amao",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "有村 麻央",
-      "message": "ゆっくり休めましたか？　ボクも\n休んだので、元気満タンですよ"
+      "title": "아리무라 마오",
+      "message": "푹 쉬셨나요? 저도\n쉬어서, 힘이 넘쳐요"
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "プロデューサー、\nマニーを受け取りましょう"
+      "title": "아리무라 마오",
+      "message": "프로듀서,\n머니를 받죠"
     },
     {
       "characterId": "amao",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "有村 麻央",
-      "message": "マニーを受け取りに行きましょうか、\n付き合います"
+      "title": "아리무라 마오",
+      "message": "머니를 받으러 갈까요,\n함께 갈게요"
     },
     {
       "characterId": "amao",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "デイリーミッションを忘れて\nませんか？　ボクも頑張りますから、\n一緒にやりましょうか"
+      "title": "아리무라 마오",
+      "message": "데일리 미션을 잊고\n계시지 않나요? 저도 열심히 할 테니까,\n함께 할까요"
     },
     {
       "characterId": "amao",
       "type": "PushType_Login",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "ボクは、キミに\nプロデュースしてほしい。\nだから、戻ってきてくれませんか？"
+      "title": "아리무라 마오",
+      "message": "저는, 당신이\n프로듀스 해줬으면 좋겠어요.\n그러니까, 돌아와주시겠어요?"
     },
     {
       "characterId": "amao",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "まだコンテストに挑戦できますね。\nいろんなボクの姿を、\nファンのみんなに見てもらいたいです"
+      "title": "아리무라 마오",
+      "message": "아직 콘테스트에 도전할 수 있어요.\n여러 가지 제 모습을,\n팬 여러분이 봐줬으면 좋겠어요"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "ミニライブ終わりました！\nすごく楽しかったです、\nプロデューサー見てくれてましたか？"
+      "title": "아리무라 마오",
+      "message": "미니 라이브 끝났어요!\n굉장히 즐거웠어요,\n프로듀서 보고 계셨나요?"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "有村 麻央",
-      "message": "ミニライブの報酬、受け取れるみたい\nですよ。ボクの頑張りが結果で\n見えるのは嬉しいですね"
+      "title": "아리무라 마오",
+      "message": "미니 라이브의 보수, 받을 수 있나\n봐요. 제 노력이 결과로\n보이는 건 기쁘네요"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "有村 麻央",
-      "message": "ボクらしいミニライブができたと\n思います。プロデューサー、報酬の\n受け取りお願いしますね"
+      "title": "아리무라 마오",
+      "message": "저다운 미니 라이브를 할 수 있었다고\n생각해요. 프로듀서, 보수를\n받아주세요"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "有村 麻央",
-      "message": "配信お疲れ様でした！　報酬を受け取ったら、感想を聞かせてください"
+      "title": "아리무라 마오",
+      "message": "방송 수고하셨습니다! 보수를 받고 나면, 감상을 들려주세요"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "有村 麻央",
-      "message": "報酬が受け取れるみたいです。\nボクの魅力を、配信で伝えられた\nような気がします！"
+      "title": "아리무라 마오",
+      "message": "보수를 받을 수 있나 봐요.\n제 매력을, 방송을 통해 전할 수 있었다고\n생각해요!"
     },
     {
       "characterId": "amao",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "有村 麻央",
-      "message": "配信のお仕事終わりました。\n試行錯誤しながらですけど、\n楽しめたと思います"
+      "title": "아리무라 마오",
+      "message": "방송 일이 끝났어요.\n시행착오를 거쳤지만,\n즐겼다고 생각해요"
     },
     {
       "characterId": "fktn",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "プロデューサー！\nもう元気満タンなんで、\nレッスンしたいでーすッ！"
+      "title": "후지타 코토네",
+      "message": "프로듀서!\n이제 힘이 넘치니까,\n레슨하고 싶어ー요!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "藤田 ことね",
-      "message": "プロデュースする元気、そろそろ\n出てきたんじゃないですかぁ？\nレッスン、やっちゃいましょ～♪"
+      "title": "후지타 코토네",
+      "message": "프로듀스할 힘, 슬슬\n나지 않았나요오?\n레슨, 해버리죠~♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "マニー、プロデューサーが\n受け取らないならぁ……\nあたしがもらっちゃおっかなぁ～♪"
+      "title": "후지타 코토네",
+      "message": "머니, 프로듀서가\n받지 않으면……\n내가 받아버릴까나아~♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "藤田 ことね",
-      "message": "マニーがたぁんまり……ふへへ～♪\nプロデューサー、\n受け取りに行きましょッ♡"
+      "title": "후지타 코토네",
+      "message": "머니가 자안뜩……흐헤헤~♪\n프로듀서,\n받으러 가죠♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "デイリーミッション、終わってない\nなんてもったいないですって！　一緒\nにやるんで、終わらせちゃいましょ！"
+      "title": "후지타 코토네",
+      "message": "데일리 미션, 끝내지 않는\n다니 아깝다고요! 함께\n할 테니까, 끝내버리죠!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_Login",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "あたし、プロデューサーとなら夢を\n叶えられるって思ってます！\nだから、戻ってきてください……！"
+      "title": "후지타 코토네",
+      "message": "저, 프로듀서와 함께라면 꿈을\n이룰 수 있을 거라고 생각하고 있어요!\n그러니까, 돌아와주세요……!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "コンテスト、まだまだ挑戦\nできますよ～？　超可愛いあたしを、\n見せちゃいまぁすッ♡"
+      "title": "후지타 코토네",
+      "message": "콘테스트, 아직 도전\n할 수 있다고요~? 엄청 귀여운 저를,\n보여드릴게요♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "ミニライブ楽しかったで～す！\nアイドルのお仕事して報酬もらえる\nなんて幸せですねぇ♪"
+      "title": "후지타 코토네",
+      "message": "미니 라이브 즐거웠어~요!\n아이돌 일을 하고 보수도 받을 수 있\n다니 행복하네요오♪"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "藤田 ことね",
-      "message": "カワイイことねちゃんを存分に\n見てもらえたライブでしたね～♪\nそれで報酬ももらえて幸せぇ～♡"
+      "title": "후지타 코토네",
+      "message": "귀여운 코토네 쨩을 충분히\n보일 수 있었던 라이브였네요~♪\n게다가 보수도 받을 수 있어서 행복해에~♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "藤田 ことね",
-      "message": "ミニライブ、成功～♡\nプロデューサー褒めてくださぁ～い！"
+      "title": "후지타 코토네",
+      "message": "미니라이브, 성공~♡\n프로듀서 칭찬해주세요~!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "藤田 ことね",
-      "message": "今回の配信もおーわりっ！　\nカワイイことねちゃんを\n世界に発信しちゃったなぁ～♡"
+      "title": "후지타 코토네",
+      "message": "이번 방송도 끄ー읕!\n귀여운 코토네 쨩을\n세계에 방송해버렸네에~♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "藤田 ことね",
-      "message": "配信の反応も悪くなかったし、\nいいお仕事したなぁ～♪\nどれくらい報酬もらえましたかね～"
+      "title": "후지타 코토네",
+      "message": "방송 반응도 나쁘지 않았고,\n좋은 일이네에~♪\n얼마나 보수를 받았으려나요~"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "藤田 ことね",
-      "message": "楽しく配信終わることができました！\nアイドルのお仕事してるーって感じで\n幸せでっす♡"
+      "title": "후지타 코토네",
+      "message": "즐겁게 방송을 마칠 수 있었어요!\n아이돌 일을 하고 있다는 느낌이 들어서\n행복해요♡"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "元気になったみたいだね。\nそれじゃあ、プロデュースよろしく\nお願いします。プロデューサーくん"
+      "title": "히메사키 리나미",
+      "message": "힘이 났나보네.\n그럼, 프로듀스 잘\n부탁해요. 프로듀서군"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "姫崎 莉波",
-      "message": "ゆっくり休めた？　元気出たなら、\nレッスン、付き合ってくれないかな？"
+      "title": "히메사키 리나미",
+      "message": "푹 쉬었어? 힘 났으면,\n레슨, 함께 해줄래?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "マニー、一緒に受け取りに行こっか"
+      "title": "히메사키 리나미",
+      "message": "머니, 함께 받으러 갈까"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "姫崎 莉波",
-      "message": "マニーの受け取り、忘れないようにね\nちゃんと行くんだよ？"
+      "title": "히메사키 리나미",
+      "message": "머니를 받는 거, 잊지 말자\n제대로 가야 된다고?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "今日のミッション、まだ終わってない\nみたいだね。\nささっとやっちゃおっか？"
+      "title": "히메사키 리나미",
+      "message": "오늘 미션, 아직 끝나지 않\n았나보네.\n빨리 해버릴까?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_Login",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "そろそろ会いたいよ、\nプロデューサーくん。\n私、待ってるから"
+      "title": "히메사키 리나미",
+      "message": "슬슬 만나고 싶어,\n프로듀서 군.\n나, 기다릴 테니까"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "コンテスト、挑戦できるみたい。\n頑張る私の姿、きみにも見て欲しいな"
+      "title": "히메사키 리나미",
+      "message": "콘테스트, 도전할 수 있나 봐.\n열심히 하는 내 모습, 너도 봐줬으면 좋겠어"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "ミニライブ、終わったよ。\nちゃんとお姉さん、できてたかなぁ？"
+      "title": "히메사키 리나미",
+      "message": "미니 라이브, 끝났어.\n제대로 누나 역할, 해냈으려나?"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "姫崎 莉波",
-      "message": "お仕事終わったから、\n報酬を受け取ってくれるかな？\nよろしくね、プロデューサーくん"
+      "title": "히메사키 리나미",
+      "message": "일 끝났으니까,\n보수를 받아줄래?\n잘 부탁해, 프로듀서군"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "姫崎 莉波",
-      "message": "ミニライブって、やっぱり\n緊張するね……　でもね、\nすっごく楽しかったよ"
+      "title": "히메사키 리나미",
+      "message": "미니 라이브는, 역시\n긴장되네…… 하지만,\n굉장히 즐거웠어"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "姫崎 莉波",
-      "message": "配信終わったけど、どうだったかな？\nきみの感想、教えてほしいな"
+      "title": "히메사키 리나미",
+      "message": "방송 끝났는데, 어땠으려나?\n네 감상, 들려줬으면 좋겠어"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "姫崎 莉波",
-      "message": "お疲れ様、プロデューサーくん。\n配信終わったから報酬の受け取り、\nよろしくね"
+      "title": "히메사키 리나미",
+      "message": "수고했어, 프로듀서군.\n방송 끝났으니까 보수 받는 건,\n잘 부탁해"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "姫崎 莉波",
-      "message": "配信、楽しんでもらえたかな……\nプロデューサーくん、どうだった？"
+      "title": "히메사키 리나미",
+      "message": "방송, 즐겨줬으려나……\n프로듀서군, 어땠어?"
     },
     {
       "characterId": "hski",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "そろそろ元気になったかしら？\nわたしはもちろん準備万端！\n早く会いに来なさいよね！"
+      "title": "하나미 사키",
+      "message": "슬슬 힘이 났으려나?\n나는 물론 준비 다 됐어!\n빨리 만나러 오라고!"
     },
     {
       "characterId": "hski",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "花海 咲季",
-      "message": "プロデューサー、休憩は終わった？\n早くレッスンをしましょう、\nもう待ちきれないわ！"
+      "title": "하나미 사키",
+      "message": "프로듀서, 휴식은 마쳤어?\n빨리 레슨을 하자,\n더는 못 기다려!"
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "マニーのこと忘れてない？\nちゃ～んと受け取ること"
+      "title": "하나미 사키",
+      "message": "머니를 받는 거 잊지 않았어?\n제~대로 받으라고"
     },
     {
       "characterId": "hski",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "花海 咲季",
-      "message": "ちょっとプロデューサー？　\n早くマニーを受け取りなさいよ。"
+      "title": "하나미 사키",
+      "message": "저기 프로듀서?\n빨리 머니를 받아."
     },
     {
       "characterId": "hski",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "今日のミッションが終わってないわ。\nほら、早くすませちゃいましょ"
+      "title": "하나미 사키",
+      "message": "오늘 미션이 안 끝났어.\n자, 빨리 마쳐버리자"
     },
     {
       "characterId": "hski",
       "type": "PushType_Login",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "プロデューサー、わたしはあなたと\nトップアイドルを目指したいの。\n早く戻ってきなさい"
+      "title": "하나미 사키",
+      "message": "프로듀서, 나는 당신과 함께\n톱 아이돌을 노리고 싶어.\n빨리 돌아와"
     },
     {
       "characterId": "hski",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "まだ、コンテストに挑戦できるわ。\nプロデューサー！\n一緒に勝ちにいきましょ！"
+      "title": "하나미 사키",
+      "message": "아직, 콘테스트에 도전할 수 있어.\n프로듀서!\n함께 이기러 가자!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "ミニライブの盛り上がり、\n悪くなかったんじゃないかしら！\nふふん、いい仕事したわね！"
+      "title": "하나미 사키",
+      "message": "미니 라이브의 열기,\n나쁘지 않았지!\n흐흥, 좋은 일을 했네!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "花海 咲季",
-      "message": "ミニライブは無事終わったわよ。\nステージに立つと、アイドルしてる\nって気がしてすごく楽しかったわ！"
+      "title": "하나미 사키",
+      "message": "미니 라이브는 무사히 끝났어.\n스테이지에 서면, 아이돌 활동을 하고 있다는\n느낌이 들어서 굉장히 즐거웠어!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "花海 咲季",
-      "message": "今日のライブもいい出来だったわ！\nプロデューサー、褒めていいわよ！"
+      "title": "하나미 사키",
+      "message": "오늘 라이브도 잘 해냈어!\n프로듀서, 칭찬해도 돼!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "花海 咲季",
-      "message": "配信って、ライブとはまた違って\n面白いわね。どうやって楽しませる\nべきか、さっそく反省会よ！"
+      "title": "하나미 사키",
+      "message": "방송은, 라이브와는 또 달라서\n재미있네. 어떻게 즐기게\n해야할지, 바로 반성회를 열자!"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "花海 咲季",
-      "message": "配信のお仕事なら終わったわ。\nちゃーんと楽しんでもらえたと\n思うから、安心しなさい"
+      "title": "하나미 사키",
+      "message": "방송 일이라면 끝났어.\n제대로 즐겁게 만들었다고\n생각하니까, 안심해"
     },
     {
       "characterId": "hski",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "花海 咲季",
-      "message": "お仕事、終わったわよ。\nふふ～ん、いい配信だったわ！"
+      "title": "하나미 사키",
+      "message": "일, 끝났어.\n흐흥~, 좋은 방송이었어!"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "花海佑芽、元気満タンでっす！\nプロデューサーさん、\nプロデュースをお願いしますっ！"
+      "title": "하나미 우메",
+      "message": "하나미 우메, 힘이 넘쳐요!\n프로듀서 님,\n프로듀스를 부탁드려요!"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "花海 佑芽",
-      "message": "元気出ましたか？　あたしは\nお姉ちゃん特製SSDですっかり\n元気です。レッスンしましょう！"
+      "title": "하나미 우메",
+      "message": "힘 나셨나요? 저는\n언니 특제 SSD를 마셔서 완전히\n힘이 넘쳐요. 레슨하죠!"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "マニーがたまったみたいです。\n早く受け取りにいかないと！"
+      "title": "하나미 우메",
+      "message": "머니가 쌓였나봐요.\n빨리 받으러 가야죠!"
     },
     {
       "characterId": "hume",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "花海 佑芽",
-      "message": "そろそろマニーを受け取る\nタイミングですよー！"
+      "title": "하나미 우메",
+      "message": "슬슬 머니를 받을\n타이밍이에요ー!"
     },
     {
       "characterId": "hume",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "今日のミッションがまだ終わってない\nみたいですよ？\n一緒にやっちゃいましょう！"
+      "title": "하나미 우메",
+      "message": "오늘 미션이 아직 안 끝났나\n봐요?\n함께 해버리죠!"
     },
     {
       "characterId": "hume",
       "type": "PushType_Login",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "あたしがお姉ちゃんに勝つためには、\nプロデューサーさんの力が必要なん\nです！　戻ってきてください！"
+      "title": "하나미 우메",
+      "message": "제가 언니를 이기기 위해서는,\n프로듀서님의 힘이 필요해\n요! 돌아와주세요!"
     },
     {
       "characterId": "hume",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "あたし、コンテストに挑戦できます！\nどーんとやっちゃいましょう、\nプロデューサーさんっ！"
+      "title": "하나미 우메",
+      "message": "저, 콘테스트에 도전할 수 있어요!\n팍팍 해치워버리죠,\n프로듀서님!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "ミニライブのお仕事、終わりました！\nえへへ～、もう次のお仕事が\n待ち遠しいです！"
+      "title": "하나미 우메",
+      "message": "미니 라이브 일, 끝났어요!\n에헤헤~, 벌써 다음 일이\n기대돼요!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "花海 佑芽",
-      "message": "今回のミニライブ、お客さんも一緒に\nたくさん盛り上がってくれました！\nあー、楽しかったぁ"
+      "title": "하나미 우메",
+      "message": "이번 라이브, 관객분도 함께\n잔뜩 즐겨주셨어요!\n아ー, 재밌었다아"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "花海 佑芽",
-      "message": "ミニライブ楽しかったです！　でも、\nまだまだ頑張らないと！　なので、\n後で反省会よろしくお願いします！"
+      "title": "하나미 우메",
+      "message": "미니 라이브 재미있었어요! 하지만,\n아직 열심히 해야지! 그러니까,\n나중에 반성회 잘 부탁드려요!"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "花海 佑芽",
-      "message": "配信のお仕事、ドキドキしたけど\n無事終わりましたっ！\n楽しんでもらえてたら嬉しいなぁ"
+      "title": "하나미 우메",
+      "message": "방송 일, 조마조마했지만\n무사히 끝났어요!\n즐겨주셨다면 좋겠어요"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "花海 佑芽",
-      "message": "お仕事終わりました！　お姉ちゃんに\n配信の秘策を教えてもらったん\nですけど、どうでしたか！？"
+      "title": "하나미 우메",
+      "message": "일 끝났어요! 언니에게\n방송의 비책을 배웠는\n데요, 어땠나요!?"
     },
     {
       "characterId": "hume",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "花海 佑芽",
-      "message": "配信終わりました！\nプロデューサーさん、見ててくれまし\nたか？　反省点あったらください！"
+      "title": "하나미 우메",
+      "message": "방송 끝났어요!\n프로듀서님, 봐주셨\n나요? 반성할 점이 있다면 알려주세요!"
     },
     {
       "characterId": "jsna",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "十王 星南",
-      "message": "疲れは取れたかしら？　\n私は準備万端よ。\nレッスンを始めましょう"
+      "title": "주오 세나",
+      "message": "피로는 가셨으려나?\n나는 준비 다 됐어.\n레슨을 시작하자"
     },
     {
       "characterId": "jsna",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "十王 星南",
-      "message": "休憩は終わりね。さあ、\nプロデュースのお手本を見せて頂戴。\n先輩？"
+      "title": "주오 세나",
+      "message": "휴식은 끝이야. 자,\n프로듀스의 본보기를 보여달라고.\n선배?"
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "十王 星南",
-      "message": "マニーを受け取る時間ね。\n一緒にいきましょう"
+      "title": "주오 세나",
+      "message": "머니를 받을 시간이네.\n함께 가자"
     },
     {
       "characterId": "jsna",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "十王 星南",
-      "message": "マニーの受け取り、忘れていない\nかしら？　ちゃんと受け取って頂戴ね"
+      "title": "주오 세나",
+      "message": "머니를 받는 거, 잊지 않았\n어? 제대로 받아줘"
     },
     {
       "characterId": "jsna",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "十王 星南",
-      "message": "今日のミッションが終わっていないようね。一緒にやりましょうか"
+      "title": "주오 세나",
+      "message": "오늘 미션이 안 끝났나보네. 함께 할까"
     },
     {
       "characterId": "jsna",
       "type": "PushType_Login",
       "number": 1,
-      "title": "十王 星南",
-      "message": "あなたから学びたいことがまだまだ\nたくさんあるの。\n戻ってきて頂戴、先輩"
+      "title": "주오 세나",
+      "message": "당신에게 배우고 싶은 게 아직\n잔뜩 있어.\n돌아와줘, 선배"
     },
     {
       "characterId": "jsna",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "十王 星南",
-      "message": "まだコンテストに挑戦できるわね。\n調整は完璧。十王星南の新たな\n可能性、見せつけにいきましょう！"
+      "title": "주오 세나",
+      "message": "아직 콘테스트에 도전할 수 있겠네.\n조정은 완벽해. 주오 세나의 새로운\n가능성, 보여주러 가자!"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "十王 星南",
-      "message": "ミニライブが終わったわ。\n後輩やファンに恥じない\nパフォーマンスができたはずよ"
+      "title": "주오 세나",
+      "message": "미니 라이브가 끝났어.\n후배나 팬에게 부끄럽지 않을\n퍼포먼스를 해냈다고 생각해"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "十王 星南",
-      "message": "良いミニライブだったわ。\nあなたの意見を聞くのが楽しみね"
+      "title": "주오 세나",
+      "message": "좋은 미니 라이브였어.\n당신의 의견을 듣는 게 기대되네"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "十王 星南",
-      "message": "ミニライブ、今終わったわ。早速\n振り返りに付き合ってくれるかしら？"
+      "title": "주오 세나",
+      "message": "미니 라이브, 방금 끝났어. 바로\n복습하는 데 어울려줄래?"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "十王 星南",
-      "message": "配信終了よ。ファンと直接交流できる\n機会は、貴重ね"
+      "title": "주오 세나",
+      "message": "방송 끝났어. 팬과 직접 교류할 수 있는\n기회는, 귀중하네"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "十王 星南",
-      "message": "配信が終わったわ。\nあなたも見ていたなら、\n意見を聞かせて頂戴"
+      "title": "주오 세나",
+      "message": "방송이 끝났어.\n당신도 보고 있었다면,\n의견을 들려줘"
     },
     {
       "characterId": "jsna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "十王 星南",
-      "message": "配信後の反省会、来てくれるかしら？\n新しい挑戦が多かったから\n相談したいわ"
+      "title": "주오 세나",
+      "message": "방송 후의 반성회, 와줄래?\n새로운 도전을 많이 했으니까\n상담을 받고 싶어"
     },
     {
       "characterId": "kcna",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "先生、元気になりましたか？\nわたくしは元気満タンですわ！"
+      "title": "쿠라모토 치나",
+      "message": "선생님, 힘이 나셨나요?\n저는 힘이 넘치와요!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "倉本 千奈",
-      "message": "先生、完全復活しましたわっ！\nわたくし素敵なアイドル\n目指してがんばります！"
+      "title": "쿠라모토 치나",
+      "message": "선생님, 완전히 부활했답니다!\n저 훌륭한 아이돌\n을 목표로 열심히 할게요!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "先生、\nマニーを受け取りに行きましょう！"
+      "title": "쿠라모토 치나",
+      "message": "선생님,\n머니를 받으러 가죠!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "倉本 千奈",
-      "message": "マニーを使うと、どんないいことが\nあるのでしょう？\nさっそく受け取りに行きませんと！"
+      "title": "쿠라모토 치나",
+      "message": "머니를 쓰면, 어떤 좋은 일이\n있는 걸까요?\n빨리 받으러 가야겠네요!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "デイリーミッションが\n残っていますわ！\n先生、お忘れではありませんか？"
+      "title": "쿠라모토 치나",
+      "message": "데일리 미션이\n남아있사와요!\n선생님, 잊고 계시진 않으신가요?"
     },
     {
       "characterId": "kcna",
       "type": "PushType_Login",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "先生、どうか、どうかっ！　\n戻ってきてくださいませぇ～～～～っ！"
+      "title": "쿠라모토 치나",
+      "message": "선생님, 부디, 부디!\n돌아와주세요오~~~~!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "まだコンテストに\n挑戦できるそうです。先生！\n一緒にまいりましょう！"
+      "title": "쿠라모토 치나",
+      "message": "아직 콘테스트에\n도전할 수 있나봐요. 선생님!\n함께 가죠!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "先生！　ミニライブのお仕事、\n終わりましたわ。\nとっても楽しい時間でした！"
+      "title": "쿠라모토 치나",
+      "message": "선생님! 미니 라이브 일,\n끝났사와요.\n굉장히 즐거운 시간을 보냈어요!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "倉本 千奈",
-      "message": "ミニライブ、とっても\n楽しかったですわ！\n報酬ももらえましたの！"
+      "title": "쿠라모토 치나",
+      "message": "미니 라이브, 굉장히\n즐거웠사와요!\n보수도 받았답니다!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "倉本 千奈",
-      "message": "ミニライブが終わりましたので、\n報酬を受け取りましょう！"
+      "title": "쿠라모토 치나",
+      "message": "미니 라이브가 끝났으니,\n보수를 받죠!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "倉本 千奈",
-      "message": "配信のお仕事、終わりましたわ！\nうまくできたと思うのですが、\nいかがでしたか？"
+      "title": "쿠라모토 치나",
+      "message": "방송 일, 끝났사와요!\n잘 했다고 생각하는데,\n어떠셨나요?"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "倉本 千奈",
-      "message": "先生、配信が終わりました。\nアイドルのお仕事、楽しいですわ～！"
+      "title": "쿠라모토 치나",
+      "message": "선생님, 방송이 끝났어요.\n아이돌 일, 즐겁사와요~!"
     },
     {
       "characterId": "kcna",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "倉本 千奈",
-      "message": "お仕事が終わりましたわ！　\n見ていただけましたか、先生！"
+      "title": "쿠라모토 치나",
+      "message": "일이 끝났사와요!\n봐주셨나요, 선생님!"
     },
     {
       "characterId": "kllj",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "……センパイ、レッスンをお願い\nできますか？　休んで元気が\n出てきたので……！"
+      "title": "카츠라기 릴리야",
+      "message": "……선배, 레슨을 부탁\n드려도 될까요? 쉬어서 힘이\n났으니까요……!"
     },
     {
       "characterId": "kllj",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "葛城 リーリヤ",
-      "message": "センパイ、元気になりましたか？\nレッスン、お願いします……！"
+      "title": "카츠라기 릴리야",
+      "message": "선배, 힘이 나셨나요?\n레슨, 부탁드려요……!"
     },
     {
       "characterId": "kllj",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "……マニーを、\n受け取りに行きますか？"
+      "title": "카츠라기 릴리야",
+      "message": "……머니를,\n받으러 가실래요?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "葛城 リーリヤ",
-      "message": "レッスン、してほしいですけど……\nまずは、マニーを受け取ったほうが……"
+      "title": "카츠라기 릴리야",
+      "message": "레슨, 해주셨으면 하지만……\n우선은, 머니를 받는 편이……"
     },
     {
       "characterId": "kllj",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "デイリーミッションが、\nまだ終わってないみたいです……"
+      "title": "카츠라기 릴리야",
+      "message": "데일리 미션이,\n아직 안 끝났나봐요……"
     },
     {
       "characterId": "kllj",
       "type": "PushType_Login",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "……センパイ。わたし、頑張ります。\nだから、戻ってきてください。"
+      "title": "카츠라기 릴리야",
+      "message": "……선배. 저, 열심히 할게요.\n그러니까, 돌아와주세요."
     },
     {
       "characterId": "kllj",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "まだコンテストに挑戦できる、\nみたいです。わたし……\nセンパイと一緒に、勝ちたいです……！"
+      "title": "카츠라기 릴리야",
+      "message": "아직 콘테스트에 도전할 수,\n있나봐요. 저……\n선배하고 함께, 이기고 싶어요……!"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "ミニライブ、終わりました……。\n自分なりには、上手くできた……\nと、思います"
+      "title": "카츠라기 릴리야",
+      "message": "미니 라이브, 끝났어요…….\n제 나름대로는, 잘 했다……\n고, 생각해요"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "葛城 リーリヤ",
-      "message": "……センパイ、ミニライブ\n終わりました。報酬の受け取りを……\nお願いします。"
+      "title": "카츠라기 릴리야",
+      "message": "……선배, 미니 라이브\n끝났어요. 보수를 받는 거……\n부탁드려요."
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "葛城 リーリヤ",
-      "message": "ミニライブ……き、緊張しました。\n反省会、よろしくお願いします"
+      "title": "카츠라기 릴리야",
+      "message": "미니 라이브……기, 긴장했어요.\n반성회, 잘 부탁드려요"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "葛城 リーリヤ",
-      "message": "は、配信終わりました……。\n報酬の受け取りは、\nお願いしても……いい、ですか？"
+      "title": "카츠라기 릴리야",
+      "message": "바, 방송 끝났어요…….\n보수를 받는 건,\n부탁드려도……될, 까요?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "葛城 リーリヤ",
-      "message": "うぅ……一応、配信終わったんです、\nけど……。だ、大丈夫でしたか……？"
+      "title": "카츠라기 릴리야",
+      "message": "으으……일단, 방송 끝났는,\n데요……. 괘, 괜찮았나요……?"
     },
     {
       "characterId": "kllj",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "葛城 リーリヤ",
-      "message": "配信のお仕事、終わりました。\n……報酬も、もらえるみたいです"
+      "title": "카츠라기 릴리야",
+      "message": "방송 일, 끝났어요.\n……보수도, 받을 수 있나봐요"
     },
     {
       "characterId": "shro",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "わたしもプロデューサーも、\n元気になった。レッスン、やろう"
+      "title": "시노사와 히로",
+      "message": "나도 프로듀서도,\n힘이 났어. 레슨, 하자"
     },
     {
       "characterId": "shro",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "篠澤 広",
-      "message": "ふっかつしたよ、わたし。だから、\nきついレッスン、期待してる"
+      "title": "시노사와 히로",
+      "message": "부활했어, 나. 그러니까,\n힘든 레슨, 기대하고 있을게"
     },
     {
       "characterId": "shro",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "マニーの受け取り、行こう"
+      "title": "시노사와 히로",
+      "message": "머니를 받으러, 가자"
     },
     {
       "characterId": "shro",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "篠澤 広",
-      "message": "マニーを受け取りに行くのも、\nトレーニングになる？"
+      "title": "시노사와 히로",
+      "message": "머니를 받으러 가는 것도,\n트레이닝이 될까?"
     },
     {
       "characterId": "shro",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "プロデューサー、でいりーみっしょん\n忘れてるよ。一緒にやる？"
+      "title": "시노사와 히로",
+      "message": "프로듀서, 데일리 미션\n까먹고 있어. 함께 할래?"
     },
     {
       "characterId": "shro",
       "type": "PushType_Login",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "プロデューサー……ついに、\nわたしを見捨てた？　……さみしい。"
+      "title": "시노사와 히로",
+      "message": "프로듀서…… 드디어,\n나를 버린 거야? ……외로워."
     },
     {
       "characterId": "shro",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "コンテスト、まだ挑戦できる、よ。\n当たって、こなごなに砕けにいこう"
+      "title": "시노사와 히로",
+      "message": "콘테스트, 아직 도전할 수 있, 어.\n도전해서, 가루가 되도록 부서지러 가자"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "プロデューサー、\nミニライブが終わったよ。\n報酬の受け取り、よろしく"
+      "title": "시노사와 히로",
+      "message": "프로듀서,\n미니 라이브 끝났어.\n보수 받는 건, 부탁해"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "篠澤 広",
-      "message": "ミニライブ……終わったよ……\nもう、動けない……"
+      "title": "시노사와 히로",
+      "message": "미니 라이브……끝났어……\n더는, 못 움직여……"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "篠澤 広",
-      "message": "わたしにしては、いい動きだった……\nと思う。プロデューサー、\nどうだった？"
+      "title": "시노사와 히로",
+      "message": "나 치고는, 좋은 움직임이었……\n다고 생각해. 프로듀서,\n어땠어?"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "篠澤 広",
-      "message": "配信が終わったよ。\n報酬も、受け取れるって"
+      "title": "시노사와 히로",
+      "message": "방송 끝났어.\n보수도, 받을 수 있대"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "篠澤 広",
-      "message": "配信の仕事、\nミッションコンプリート。\nプロデューサー、褒めて"
+      "title": "시노사와 히로",
+      "message": "방송 일,\n미션 컴플리트.\n프로듀서, 칭찬해줘"
     },
     {
       "characterId": "shro",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "篠澤 広",
-      "message": "配信の仕事……なんとか……\n終わった。報酬、受け取……って"
+      "title": "시노사와 히로",
+      "message": "방송 일……어떻게든……\n끝났어. 보수, 받아……줘"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "レッスンするの？？　\n別にいーけど……その前に\n遊びに行くってのはどーよ？"
+      "title": "시운 스미카",
+      "message": "레슨하는거야?　\n별로 상관없지만……그 전에\n놀러가는 건 어때ー?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "紫雲 清夏",
-      "message": "Pっち、元気満タンになった感じ？\nいーじゃん、いーじゃん！"
+      "title": "시운 스미카",
+      "message": "핏치, 힘이 넘쳐?\n좋ー네, 좋ー아!"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "マニーのこと忘れてない？\n受け取ったら、それでデート行こっ♪"
+      "title": "시운 스미카",
+      "message": "머니 받는 거 잊지 않았어?\n받으면, 그걸로 데이트 가자♪"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "紫雲 清夏",
-      "message": "そろそろマニー受け取る時間だよー！\nほらほら、早く早く～！"
+      "title": "시운 스미카",
+      "message": "슬슬 머니 받을 시간이야ー!\n자 자, 빨리 빨리~!"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "今日のミッション終わってない\nみたいだよ～　Pっちもサボったり\nするんだねー"
+      "title": "시운 스미카",
+      "message": "오늘 미션 안 끝났\n나봐~ 핏치도 농땡이라든가\n피우는구나ー"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_Login",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "少しだけアイドルがんばろーかなって\n思ってるんだ、あたし。\nだから戻ってきてよ、Pっち"
+      "title": "시운 스미카",
+      "message": "살짝 아이돌 열심히 해볼까 하고\n생각하고 있어, 나.\n그러니까 돌아와줘, 핏치"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "まだコンテストに挑戦できるよ？\nこれはもう、やるしかないよねっ♪"
+      "title": "시운 스미카",
+      "message": "아직 콘테스트 도전할 수 있다고?\n이건 완전히, 할 수 밖에 없지♪"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "ミニライブ、おーわりっ！\nPっち、報酬受け取っちゃって♪"
+      "title": "시운 스미카",
+      "message": "미니 라이브, 끄ー읕!\n핏치, 보수 받아줘♪"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "紫雲 清夏",
-      "message": "Pっち、ミニライブ終わったよ～\nはぁ、疲れたぁ～　\nね、ご褒美くれたりしない？"
+      "title": "시운 스미카",
+      "message": "핏치, 미니 라이브 끝났어~\n하아, 지쳤어어~\n있지, 포상 주지 않을래?"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "紫雲 清夏",
-      "message": "ミニライブ楽しかった～♪\nお仕事の報酬もらえるらしいから、\nそれで遊びいこーよ！"
+      "title": "시운 스미카",
+      "message": "미니 라이브 즐거웠어~♪\n일의 보수도 받을 수 있나 보니까,\n그걸로 놀러 가자!"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "紫雲 清夏",
-      "message": "配信終わったから、ちょっと来て\nもらっていーい？\nPっち、お願いね～"
+      "title": "시운 스미카",
+      "message": "방송 끝났으니까, 조금 와\n줄래?\n핏치, 부탁이야~"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "紫雲 清夏",
-      "message": "Pっち、終わったよ～！　配信って\nいっても、ちゃーんとお仕事だから\n疲れるー……"
+      "title": "시운 스미카",
+      "message": "핏치, 끝났어~! 방송이라곤\n해도, 제대로 된 일이니까\n지치네ー……"
     },
     {
       "characterId": "ssmk",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "紫雲 清夏",
-      "message": "配信って手軽で楽しくて、\nいいお仕事だよね～\n報酬ももらえるし、たのしー♪"
+      "title": "시운 스미카",
+      "message": "방송은 간편하고 즐겁고,\n좋은 일이지~\n보수도 받을 수 있고, 즐거워ー♪"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_ApFull",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "休憩の時間は終わりですよ、\nプロデューサー。\nレッスン、早くはじめましょう"
+      "title": "츠키무라 테마리",
+      "message": "쉬는 시간은 끝이에요,\n프로듀서.\n레슨, 빨리 시작하죠"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_ApFull",
       "number": 2,
-      "title": "月村 手毬",
-      "message": "十分休む時間はあげましたよね。\nプロデューサー……\nここからはずっと、私との時間です。"
+      "title": "츠키무라 테마리",
+      "message": "충분히 쉴 시간은 드렸죠.\n프로듀서……\n지금부터는 계속, 저와 함께하는 시간이에요."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "マニー、早く受け取ったら？"
+      "title": "츠키무라 테마리",
+      "message": "머니, 빨리 받으시죠?"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_MoneyFull",
       "number": 2,
-      "title": "月村 手毬",
-      "message": "プロデューサー、マニーの受け取り\n忘れてる。早く行きなよ"
+      "title": "츠키무라 테마리",
+      "message": "프로듀서, 머니를 받는 거\n잊고 있어. 빨리 가라고"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_DailyMission",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "まだデイリーミッションが\n残ってます。私もレッスンしたいし、\n早く終わらせましょう"
+      "title": "츠키무라 테마리",
+      "message": "아직 데일리 미션이\n남아있어요. 저도 레슨을 하고 싶으니,\n빨리 끝내죠"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_Login",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "こんな私でもプロデュースしてくれる\nって言ってくれたのに……\nプロデューサー、戻ってきてよ"
+      "title": "츠키무라 테마리",
+      "message": "이런 저라도 프로듀스 해준\n다고 했으면서……\n프로듀서, 돌아와줘"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "まだコンテストに挑戦できます。\nほら、プロデューサー。\n一緒にいきますよ"
+      "title": "츠키무라 테마리",
+      "message": "아직 콘테스트에 도전할 수 있어요.\n자, 프로듀서.\n함께 가죠"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "ミニライブ、私としては満足のいく\n出来でした。……プロデューサーの\nご意見を教えてください"
+      "title": "츠키무라 테마리",
+      "message": "미니 라이브, 저는 만족할 만한\n완성도 였어요.……프로듀서의\n의견을 들려주세요"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
-      "title": "月村 手毬",
-      "message": "ライブの盛り上がりを感じるのって、\nやっぱり楽しい。またこの仕事を\nやりたいです、プロデューサー"
+      "title": "츠키무라 테마리",
+      "message": "라이브의 열기를 느낄 수 있는 건,\n역시 즐거워. 또 이 일을\n하고 싶어요, 프로듀서"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
-      "title": "月村 手毬",
-      "message": "ミニライブ終わりました。\n私の歌で、最高のライブにできたよ"
+      "title": "츠키무라 테마리",
+      "message": "미니 라이브가 끝났어요.\n제 노래로, 최고의 라이브로 만들 수 있었어요"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
-      "title": "月村 手毬",
-      "message": "配信、終わりました。……ちゃんと\nみんな楽しんでくれたかな"
+      "title": "츠키무라 테마리",
+      "message": "방송, 끝났어요.……제대로\n모두들 즐겨줬으려나"
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
-      "title": "月村 手毬",
-      "message": "仕事、終わったよ。\n配信って難しいね。そのぶん\nやりがいはある……かな。"
+      "title": "츠키무라 테마리",
+      "message": "일, 끝났어.\n방송은 어렵구나. 그만큼\n보람은 있으……려나."
     },
     {
       "characterId": "ttmr",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
-      "title": "月村 手毬",
-      "message": "プロデューサー、見てました？\n今回の配信も、上手くいったよ。\n報酬も期待できるね"
+      "title": "츠키무라 테마리",
+      "message": "프로듀서, 보고 있었나요?\n이번 방송도, 잘 해냈어요.\n보수도 기대해도 좋겠네요"
     }
   ]
 }

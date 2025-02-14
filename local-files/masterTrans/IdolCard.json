@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "i_card-amao-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-amao-1-001",
-      "name": "初恋"
+      "name": "첫사랑"
     },
     {
       "id": "i_card-amao-2-000",
-      "name": "はじまりはカッコよく"
+      "name": "시작은 멋있게"
     },
     {
       "id": "i_card-amao-3-000",
@@ -23,7 +23,7 @@
     },
     {
       "id": "i_card-amao-3-001",
-      "name": "キミとセミブルー"
+      "name": "너와 세미블루"
     },
     {
       "id": "i_card-amao-3-002",
@@ -35,19 +35,19 @@
     },
     {
       "id": "i_card-fktn-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-fktn-1-001",
-      "name": "初声"
+      "name": "첫 목소리"
     },
     {
       "id": "i_card-fktn-2-000",
-      "name": "カワイイ♡はじめました"
+      "name": "귀엽게♡ 시작했답니다"
     },
     {
       "id": "i_card-fktn-3-000",
-      "name": "世界一可愛い私"
+      "name": "세상에서 가장 귀여운 나"
     },
     {
       "id": "i_card-fktn-3-001",
@@ -55,7 +55,7 @@
     },
     {
       "id": "i_card-fktn-3-002",
-      "name": "冠菊"
+      "name": "관국"
     },
     {
       "id": "i_card-fktn-3-006",
@@ -67,15 +67,15 @@
     },
     {
       "id": "i_card-hrnm-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-hrnm-1-001",
-      "name": "初心"
+      "name": "초심"
     },
     {
       "id": "i_card-hrnm-2-000",
-      "name": "『私らしさ』のはじまり"
+      "name": "『나 다움』의 시작"
     },
     {
       "id": "i_card-hrnm-3-000",
@@ -83,7 +83,7 @@
     },
     {
       "id": "i_card-hrnm-3-001",
-      "name": "キミとセミブルー"
+      "name": "너와 세미블루"
     },
     {
       "id": "i_card-hrnm-3-002",
@@ -91,7 +91,7 @@
     },
     {
       "id": "i_card-hrnm-3-004",
-      "name": "ようこそ初星温泉"
+      "name": "어서 오세요 하츠보시 온천"
     },
     {
       "id": "i_card-hrnm-3-007",
@@ -99,19 +99,19 @@
     },
     {
       "id": "i_card-hrnm-3-008",
-      "name": "ハッピーミルフィーユ"
+      "name": "해피 밀푀유"
     },
     {
       "id": "i_card-hski-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-hski-1-001",
-      "name": "初声"
+      "name": "첫 목소리"
     },
     {
       "id": "i_card-hski-2-000",
-      "name": "わたしが一番！"
+      "name": "내가 제일!"
     },
     {
       "id": "i_card-hski-3-000",
@@ -123,11 +123,11 @@
     },
     {
       "id": "i_card-hski-3-002",
-      "name": "冠菊"
+      "name": "관국"
     },
     {
       "id": "i_card-hski-3-006",
-      "name": "古今東西ちょちょいのちょい"
+      "name": "고금동서 식은 죽 먹기"
     },
     {
       "id": "i_card-hski-3-008",
@@ -135,11 +135,11 @@
     },
     {
       "id": "i_card-hume-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-hume-2-000",
-      "name": "アイドル、はじめっ！"
+      "name": "아이돌, 시작!"
     },
     {
       "id": "i_card-hume-3-000",
@@ -155,35 +155,31 @@
     },
     {
       "id": "i_card-jsna-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-jsna-2-000",
-      "name": "一番星"
+      "name": "샛별"
     },
     {
       "id": "i_card-jsna-3-000",
-      "name": "小さな野望"
+      "name": "작은 야망"
     },
     {
       "id": "i_card-jsna-3-002",
       "name": "Campus mode!!"
     },
     {
-      "id": "i_card-jsna-3-003",
-      "name": "ハッピーミルフィーユ"
-    },
-    {
       "id": "i_card-kcna-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-kcna-1-001",
-      "name": "初心"
+      "name": "초심"
     },
     {
       "id": "i_card-kcna-2-000",
-      "name": "胸を張って一歩ずつ"
+      "name": "가슴을 펴고 한 발자국씩"
     },
     {
       "id": "i_card-kcna-3-000",
@@ -191,15 +187,15 @@
     },
     {
       "id": "i_card-kcna-3-001",
-      "name": "日々、発見的ステップ！"
+      "name": "매일매일, 발견적 단계!"
     },
     {
       "id": "i_card-kcna-3-002",
-      "name": "仮装狂騒曲"
+      "name": "가장광소곡"
     },
     {
       "id": "i_card-kcna-3-005",
-      "name": "ようこそ初星温泉"
+      "name": "어서 오세요 하츠보시 온천"
     },
     {
       "id": "i_card-kcna-3-007",
@@ -207,23 +203,23 @@
     },
     {
       "id": "i_card-kllj-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-kllj-1-001",
-      "name": "初心"
+      "name": "초심"
     },
     {
       "id": "i_card-kllj-2-000",
-      "name": "一つ踏み出した先に"
+      "name": "한발짝 내디딘 뒤에"
     },
     {
       "id": "i_card-kllj-3-000",
-      "name": "白線"
+      "name": "백선"
     },
     {
       "id": "i_card-kllj-3-001",
-      "name": "冠菊"
+      "name": "관국"
     },
     {
       "id": "i_card-kllj-3-005",
@@ -235,27 +231,27 @@
     },
     {
       "id": "i_card-shro-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-shro-1-001",
-      "name": "初恋"
+      "name": "첫사랑"
     },
     {
       "id": "i_card-shro-2-000",
-      "name": "一番向いてないこと"
+      "name": "가장 어울리지 않는 것"
     },
     {
       "id": "i_card-shro-3-000",
-      "name": "光景"
+      "name": "광경"
     },
     {
       "id": "i_card-shro-3-001",
-      "name": "コントラスト"
+      "name": "콘트라스트"
     },
     {
       "id": "i_card-shro-3-002",
-      "name": "仮装狂騒曲"
+      "name": "가장광소곡"
     },
     {
       "id": "i_card-shro-3-007",
@@ -263,19 +259,19 @@
     },
     {
       "id": "i_card-shro-3-008",
-      "name": "ハッピーミルフィーユ"
+      "name": "해피 밀푀유"
     },
     {
       "id": "i_card-ssmk-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-ssmk-1-001",
-      "name": "初恋"
+      "name": "첫사랑"
     },
     {
       "id": "i_card-ssmk-2-000",
-      "name": "夢へのリスタート"
+      "name": "꿈으로의 리스타트"
     },
     {
       "id": "i_card-ssmk-3-000",
@@ -283,11 +279,11 @@
     },
     {
       "id": "i_card-ssmk-3-001",
-      "name": "キミとセミブルー"
+      "name": "너와 세미블루"
     },
     {
       "id": "i_card-ssmk-3-002",
-      "name": "カクシタワタシ"
+      "name": "숨긴 나"
     },
     {
       "id": "i_card-ssmk-3-007",
@@ -295,15 +291,15 @@
     },
     {
       "id": "i_card-ttmr-1-000",
-      "name": "学園生活"
+      "name": "학교생활"
     },
     {
       "id": "i_card-ttmr-1-001",
-      "name": "初声"
+      "name": "첫 목소리"
     },
     {
       "id": "i_card-ttmr-2-000",
-      "name": "一匹狼"
+      "name": "고독한 늑대"
     },
     {
       "id": "i_card-ttmr-3-000",
@@ -311,11 +307,11 @@
     },
     {
       "id": "i_card-ttmr-3-001",
-      "name": "アイヴイ"
+      "name": "아이비"
     },
     {
       "id": "i_card-ttmr-3-002",
-      "name": "仮装狂騒曲"
+      "name": "가장광소곡"
     },
     {
       "id": "i_card-ttmr-3-007",

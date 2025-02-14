@@ -9,42 +9,42 @@
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "レッスン"
+      "text": "레슨"
     },
     {
       "id": "Swap_Convert_001",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "ターン"
+      "text": "턴"
     },
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "レッスン"
+      "text": "레슨"
     },
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "試験・ステージ"
+      "text": "시험·스테이지"
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "レッスンCLEARの"
+      "text": "수업 CLEAR의 "
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコアが"
+      "text": "점수가 "
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "レッスン未CLEAR"
+      "text": "수업 미 CLEAR"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコアが999以下"
+      "text": "스코어가 999이하"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_Value_100",
@@ -89,232 +89,232 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【ダンスレッスン・ダンスターンのみ】"
+      "text": "【댄스 레슨・댄스 턴일 경우 】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "ダンスターンなら、"
+      "text": "댄스턴 이라면, "
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【SPレッスンのみ】"
+      "text": "【SP 수업만 】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "【SPレッスンのみ】"
+      "text": "【SP 수업만 】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【ビジュアルレッスン・ビジュアルターンのみ】"
+      "text": "【비주얼 레슨・비주얼 턴일 경우 】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "ビジュアルターンなら、"
+      "text": "비주얼 턴이라면, "
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【ボーカルレッスン・ボーカルターンのみ】"
+      "text": "【보컬 레슨・보컬 턴일 경우 】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "ボーカルターンなら、"
+      "text": "보컬 턴이라면, "
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "レッスン中強化"
+      "text": "레슨 중 강화"
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "試験・ステージ中強化"
+      "text": "시험・스테이지 중 강화"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ"
+      "text": "파라미터"
     },
     {
       "id": "Swap_Label_ExamLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア"
+      "text": "스코어"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ上昇値変更"
+      "text": "파라미터 상승 변경"
     },
     {
       "id": "Swap_Label_ExamLessonChangeSpecifyLessThan",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア上昇値変更"
+      "text": "점수 상승 변경"
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "固定パラメータ"
+      "text": "고정 파라미터"
     },
     {
       "id": "Swap_Label_ExamLessonFix",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "固定スコア"
+      "text": "고정 점수"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ上昇量増加"
+      "text": "파라미터 상승량 증가"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultiple",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア上昇量増加"
+      "text": "점수 상승량 증가 "
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ上昇量減少"
+      "text": "파라미터 상승량 감소"
     },
     {
       "id": "Swap_Label_ExamLessonValueMultipleDown",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア上昇量減少"
+      "text": "점수 상승량 감소"
     },
     {
       "id": "Swap_Label_ExamStaminaDamage",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "体力減少"
+      "text": "체력 감소"
     },
     {
       "id": "Swap_Label_ExamStaminaDamage",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "体力減少"
+      "text": "체력 감소"
     },
     {
       "id": "Swap_Label_ExamStaminaRecoverFix",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "体力回復"
+      "text": "체력 회복"
     },
     {
       "id": "Swap_Label_ExamStaminaRecoverFix",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "体力回復"
+      "text": "체력 회복"
     },
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ値増加"
+      "text": "파라미터 증가"
     },
     {
       "id": "Swap_Label_LessonAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア値増加"
+      "text": "점수 증가"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ上昇回数増加"
+      "text": "파라미터 상승 횟수 증가"
     },
     {
       "id": "Swap_Label_LessonCountAdd",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア上昇回数増加"
+      "text": "점수 상승 횟수 증가"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ上昇回数減少"
+      "text": "파라미터 상승 횟수 감소"
     },
     {
       "id": "Swap_Label_LessonCountReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア上昇回数減少"
+      "text": "점수 상승 횟수 감소"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "パラメータ値減少"
+      "text": "파라미터 감소"
     },
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "スコア値減少"
+      "text": "점수 감소"
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "レッスン中1回"
+      "text": "레슨 중 1회"
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "試験・ステージ中1回"
+      "text": "시험・스테이지 중 1회 "
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "山札の上"
+      "text": "덱 위"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "山札の上"
+      "text": "덱 위"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "山札の下"
+      "text": "덱 아래"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckLast",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "山札の下"
+      "text": "덱 아래"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "山札のランダムな位置"
+      "text": "덱의 무작위 위치"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "山札のランダムな位置"
+      "text": "덱의 무작위 위치"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "捨札"
+      "text": "버림 패"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "捨札"
+      "text": "버림 패"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "手札"
+      "text": "손패"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Hand",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "手札"
+      "text": "손패"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "除外"
+      "text": "제외"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "除外"
+      "text": "제외"
     }
   ]
 }

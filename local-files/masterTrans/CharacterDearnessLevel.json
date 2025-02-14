@@ -14,97 +14,97 @@
     {
       "characterId": "amao",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にボーカルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「カッコよさだけじゃない」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「멋짐만 있는 게 아니야」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にボーカルを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "fktn",
@@ -114,97 +114,97 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にビジュアルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「アイドル適正S」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「아이돌 적정성 S」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にダンスを800以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 800 이상으로 만든다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "hrnm",
@@ -214,97 +214,97 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にダンスを450以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「あふれだす想い」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적「흘러넘치는 마음」을 획득한 상태에서 프로듀스의 중간시험을 통과한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にビジュアルを800以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 800 이상으로 만든다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "hski",
@@ -314,97 +314,97 @@
     {
       "characterId": "hski",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にボーカルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「合格は当たり前」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「합격은 당연하다」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にビジュアルを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "hume",
@@ -414,97 +414,97 @@
     {
       "characterId": "hume",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にダンスを450以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「姉への挑戦」を獲得する"
+      "produceConditionDescription": "업적 「언니를 향한 도전」을 획득한다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にボーカルを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "jsna",
@@ -514,97 +514,97 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にボーカルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「積み上げてきたもの」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「쌓아 온 것들」을 획득한 상태에서 프로듀스의 중간시험을 통과한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にビジュアルを900以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 900 이상으로 만든다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "kcna",
@@ -614,97 +614,97 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にビジュアルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「元気一点突破」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「원기일점 돌파」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にダンスを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 1000 이상으로 만든다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "kllj",
@@ -714,97 +714,97 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にボーカルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「笑顔の練習」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「미소 연습」을 획득한 상태에서 프로듀스 중간 시험을 통과한다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にビジュアルを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "shro",
@@ -814,97 +814,97 @@
     {
       "characterId": "shro",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にダンスを450以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「才能なしでもやれること」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「재능 없이도 할 수 있는 것」을 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にボーカルを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "ssmk",
@@ -914,97 +914,97 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にビジュアルを450以上にする"
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「本気を出せば」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「진심을 내면」을 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にダンスを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 1000 이상으로 만든다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
       "characterId": "ttmr",
@@ -1014,97 +1014,97 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 2,
-      "produceConditionDescription": "プロデュース中にレッスンを1回以上完了する"
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 3,
-      "produceConditionDescription": "プロデュース中に中間試験を合格後1週経過する"
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 4,
-      "produceConditionDescription": "プロデュース2週目"
+      "produceConditionDescription": "프로듀스 2주차"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 5,
-      "produceConditionDescription": "中間試験を1位通過する"
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 6,
-      "produceConditionDescription": "プロデュース中にダンスを450以上にする"
+      "produceConditionDescription": "프로듀스 중 댄스를 450 이상으로 만든다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 7,
-      "produceConditionDescription": "アチーブメント「妥協はナシ」を獲得した状態でプロデュースの中間試験を合格する"
+      "produceConditionDescription": "업적 「타협은 없다」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 8,
-      "produceConditionDescription": "プロデュース中にボーカルを1000以上にする"
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 9,
-      "produceConditionDescription": "難易度「プロ」のプロデュースの最終試験で1位になる"
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 10,
-      "produceConditionDescription": "プロデュースをA＋評価で完了する"
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 11,
-      "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 12,
-      "produceConditionDescription": "N.I.Aでプロデュースを進める"
+      "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 13,
-      "produceConditionDescription": "N.I.Aで1次オーディション突破"
+      "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 14,
-      "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+      "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 15,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 18,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+      "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 20,
-      "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+      "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     }
   ]
 }

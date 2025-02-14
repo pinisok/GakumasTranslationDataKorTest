@@ -7,19 +7,19 @@
   "data": [
     {
       "type": "ProducePlanType_Common",
-      "name": "共通"
+      "name": "공통"
     },
     {
       "type": "ProducePlanType_Plan1",
-      "name": "【センス専用】"
+      "name": "【센스 전용】"
     },
     {
       "type": "ProducePlanType_Plan2",
-      "name": "【ロジック専用】"
+      "name": "【로직 전용】"
     },
     {
       "type": "ProducePlanType_Plan3",
-      "name": "【アノマリー専用】"
+      "name": "【어노말리 전용】"
     }
   ]
 }
