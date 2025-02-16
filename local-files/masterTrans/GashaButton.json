@@ -97,12 +97,6 @@
       "description": "SSR확정 1연차"
     },
     {
-      "id": "gasha_ticket_ssr_button_2",
-      "order": 1,
-      "name": "첫 공연 기념 SSR 확정 티켓으로 뽑기",
-      "description": "SSR확정 1연차"
-    },
-    {
       "id": "gasha_ticket_ssr_button_idol",
       "order": 1,
       "name": "SSR확정 티켓으로 뽑기",

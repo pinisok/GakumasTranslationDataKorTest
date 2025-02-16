@@ -577,6 +577,21 @@
       "text": "이것이 화학 반응……！"
     },
     {
+      "supportCardId": "s_card-2-0042",
+      "number": 1,
+      "text": "このあたりを盛ると\nほほが柔らかく見えると思います。"
+    },
+    {
+      "supportCardId": "s_card-2-0042",
+      "number": 2,
+      "text": "なるほど……こうかしら？"
+    },
+    {
+      "supportCardId": "s_card-2-0042",
+      "number": 3,
+      "text": "はい。\nとても可愛らしくなりましたね。"
+    },
+    {
       "supportCardId": "s_card-3-0000",
       "number": 1,
       "text": "자, 한 입 줄게!"
@@ -1285,6 +1300,21 @@
       "supportCardId": "s_card-3-0047",
       "number": 3,
       "text": "에헤헤~ ♡\n기뻐해주면 좋겠다～！"
+    },
+    {
+      "supportCardId": "s_card-3-0048",
+      "number": 1,
+      "text": "ぎょ、行列ですわ～！"
+    },
+    {
+      "supportCardId": "s_card-3-0048",
+      "number": 2,
+      "text": "ふふ、こんなに集まってくれる\nなんて、嬉しいわ。"
+    },
+    {
+      "supportCardId": "s_card-3-0048",
+      "number": 3,
+      "text": "わたくしの順番、もうすぐ……\nん～！　ドキドキしますわぁ～！"
     }
   ]
 }

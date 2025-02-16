@@ -98,7 +98,7 @@
     {
       "id": "costume_head_fktn-cstm-0013",
       "name": "세상에서 가장 귀여운 나",
-      "description": "【세상에서 제일 귀여운 나】후지타 코토네의 재능 개화 4단계 달성"
+      "description": "【세상에서 제일 귀여운 나】 후지타 코토네의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_fktn-cstm-0027",
@@ -183,12 +183,12 @@
     {
       "id": "costume_head_hrnm-cstm-0005",
       "name": "clumsy trick",
-      "description": "【clumsy trick】히메사키 리나미 입수"
+      "description": "【clumsy trick】 히메사키 리나미 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0017",
       "name": "clumsy trick",
-      "description": "【clumsy trick】히메사키 리나미의 재능 개화 4단계 달성"
+      "description": "【clumsy trick】 히메사키 리나미의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_hrnm-cstm-0037",
@@ -203,7 +203,7 @@
     {
       "id": "costume_head_hrnm-cstm-0043",
       "name": "너와 세미블루",
-      "description": "【너와 세미블루】히메사키 리나미 입수"
+      "description": "【너와 세미블루】 히메사키 리나미 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0044",
@@ -233,7 +233,7 @@
     {
       "id": "costume_head_hrnm-cstm-0065",
       "name": "가장광소곡",
-      "description": "【clumsy trick】'24할로윈 히메사키 리나미를 입수"
+      "description": "【clumsy trick】'24할로윈 히메자키 리나미를 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0072",
@@ -278,12 +278,12 @@
     {
       "id": "costume_head_hski-cstm-0002",
       "name": "Fighting My Way",
-      "description": "【Fighting My Way】하나미 사키 입수"
+      "description": "【Fighting My Way】 하나미 사키 입수"
     },
     {
       "id": "costume_head_hski-cstm-0014",
       "name": "Fighting My Way",
-      "description": "【Fighting My Way】하나미 사키의 재능 개화 4단계 달성"
+      "description": "【Fighting My Way】 하나미 사키의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_hski-cstm-0029",
@@ -368,12 +368,12 @@
     {
       "id": "costume_head_hume-cstm-0010",
       "name": "The Rolling Riceball",
-      "description": "【The Rolling Riceball】하나미 우메를 입수했다."
+      "description": "【The Rolling Riceball】 하나미 우메를 입수했다."
     },
     {
       "id": "costume_head_hume-cstm-0022",
       "name": "The Rolling Riceball",
-      "description": "【The Rolling Riceball】하나미 우메의 재능 개화 4단계 달성"
+      "description": "【The Rolling Riceball】 하나미 우메의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_hume-cstm-0049",
@@ -456,6 +456,16 @@
       "description": "【Campus mode!!】주오 세나를 입수"
     },
     {
+      "id": "costume_head_jsna-cstm-0055",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】주오 세나를 입수"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0056",
+      "name": "해피 밀푀유",
+      "description": "【해피 밀푀유】주오 세나의 재능 개화 4단계 달성"
+    },
+    {
       "id": "costume_head_jsna-hair-0001",
       "name": "수국 머리 장식",
       "description": "수국 머리 장식(주오 세나)을 구매"
@@ -488,12 +498,12 @@
     {
       "id": "costume_head_kcna-cstm-0008",
       "name": "Wonder Scale",
-      "description": "【Wonder Scale】쿠라모토 치나 입수"
+      "description": "【Wonder Scale】 쿠라모토 치나 입수"
     },
     {
       "id": "costume_head_kcna-cstm-0020",
       "name": "Wonder Scale",
-      "description": "【Wonder Scale】쿠라모토 치나의 재능 개화 4단계 달성"
+      "description": "【Wonder Scale】 쿠라모토 치나의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_kcna-cstm-0033",
@@ -668,7 +678,7 @@
     {
       "id": "costume_head_ssmk-cstm-0009",
       "name": "Tame-Lie-One-Step",
-      "description": "【Tame-Lie-One-Step】시운 스미카 입수"
+      "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
     },
     {
       "id": "costume_head_ssmk-cstm-0039",
@@ -683,7 +693,7 @@
     {
       "id": "costume_head_ssmk-cstm-0044",
       "name": "너와 세미블루",
-      "description": "【너와 세미블루】시운 스미카의 재능 개화 4단계 달성"
+      "description": "【너와 세미블루】 시운 스미카의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_ssmk-cstm-0053",
@@ -698,7 +708,7 @@
     {
       "id": "costume_head_ssmk-cstm-0063",
       "name": "관국",
-      "description": "【Tame-Lie-One-Step】'24제 시운 스미카 획득"
+      "description": "【Tame-Lie-One-Step】 '24제 시운 스미카 획득"
     },
     {
       "id": "costume_head_ssmk-cstm-0065",
@@ -743,12 +753,12 @@
     {
       "id": "costume_head_ttmr-cstm-0003",
       "name": "Luna say maybe",
-      "description": "【Luna say maybe】츠키무라 테마리 입수"
+      "description": "【Luna say maybe】 츠키무라 테마리 입수"
     },
     {
       "id": "costume_head_ttmr-cstm-0025",
       "name": "아이비",
-      "description": "【아이비】츠키무라 테마리 입수"
+      "description": "【아이비】 츠키무라 테마리 입수"
     },
     {
       "id": "costume_head_ttmr-cstm-0047",

@@ -3182,6 +3182,18 @@
       "name": "【Campus mode!!】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-jsna-3-003-01",
+      "name": "【해피 밀푀유】주오 세나의 프로듀스로 최종 시험 합격"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-02",
+      "name": "【해피 밀푀유】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-03",
+      "name": "【해피 밀푀유】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-kcna-3-001-01",
       "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
@@ -3623,7 +3635,7 @@
     },
     {
       "id": "achieve-p_common-024",
-      "name": "True End를 {threshold}명 달성"
+      "name": "True End를 {threshold}명 보자"
     },
     {
       "id": "achieve-p_common-025",

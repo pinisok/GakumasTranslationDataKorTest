@@ -82,6 +82,10 @@
       "description": "MID 스테이지 적정"
     },
     {
+      "id": "common.meishi_base.description",
+      "description": "명함으로 설정할 수 있는 소재입니다"
+    },
+    {
       "id": "common.network.error.purchase_limit.description",
       "description": "구매 한도에 도달해 구매 할 수 없습니다. 아래에서 문의하십시오."
     },
