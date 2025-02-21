@@ -11468,7 +11468,7 @@
           "text": "2"
         }
       ],
-      "name": "도초의 키로쿠"
+      "name": "등정의 기록"
     },
     {
       "id": "pitem_00-3-059-0",
@@ -19958,7 +19958,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "아직 보지 못한 세상으로"
+      "name": "아직 보지 못한 세계로"
     },
     {
       "id": "pitem_01-3-036-0",
@@ -20784,7 +20784,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "짝사랑이 가득한+"
+      "name": "짝사랑이 가득+"
     },
     {
       "id": "pitem_01-3-044-0",
@@ -21342,7 +21342,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "우～라～메～시～야～"
+      "name": "한~스~러~워~"
     },
     {
       "id": "pitem_01-3-046-1",
@@ -21448,7 +21448,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "우～라～메～시～야～+"
+      "name": "한~스~러~워~+"
     },
     {
       "id": "pitem_01-3-049-0",
@@ -28154,7 +28154,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "첫 목소리의 증표・사키키"
+      "name": "첫 목소리의 증표・사키"
     },
     {
       "id": "pitem_02-1-013-1",
@@ -28645,7 +28645,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28811,7 +28811,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30224,7 +30224,7 @@
           "text": "6"
         }
       ],
-      "name": "귀여운 숨은 목욕 타월"
+      "name": "귀여운 가리개 목욕 타월"
     },
     {
       "id": "pitem_02-2-031-0",
@@ -35184,7 +35184,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "무패의 포이"
+      "name": "패배를 모르는 뜰채"
     },
     {
       "id": "pitem_02-3-040-1",
@@ -35300,7 +35300,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "무패의 포이+"
+      "name": "패배를 모르는 뜰채+"
     },
     {
       "id": "pitem_02-3-042-0",
@@ -35393,7 +35393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -35559,7 +35559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37704,7 +37704,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "파타파타우치와"
+      "name": "탁탁 부채"
     },
     {
       "id": "pitem_02-3-066-1",
@@ -37850,7 +37850,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "파타파타우치와+"
+      "name": "탁탁 부채+"
     },
     {
       "id": "pitem_02-3-071-0",
@@ -39813,7 +39813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -45282,7 +45282,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": " 새로운, 나+"
+      "name": "새로운, 나+"
     },
     {
       "id": "pitem_03-3-048-0",

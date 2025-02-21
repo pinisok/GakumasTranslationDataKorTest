@@ -43,7 +43,7 @@
     },
     {
       "id": "effect_group-visible-exam_aggressive_reduce-000",
-      "name": "동기감소"
+      "name": "의욕감소"
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
@@ -75,7 +75,7 @@
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
-      "name": "강세"
+      "name": "강기"
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
@@ -119,7 +119,7 @@
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
-      "name": "매개변수"
+      "name": "패러미터"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
