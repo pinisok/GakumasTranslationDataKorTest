@@ -73,6 +73,12 @@
       "texts": []
     },
     {
+      "id": "help-highscorerush",
+      "order": 20,
+      "name": "주오 쿠니오의 아이돌 강화의 달・개",
+      "texts": []
+    },
+    {
       "id": "help-home",
       "order": 1,
       "name": "홈",
@@ -93,7 +99,7 @@
     {
       "id": "help-main-story-event",
       "order": 19,
-      "name": "첫 스타 커뮤 이벤트",
+      "name": "하츠보시 커뮤 이벤트",
       "texts": []
     },
     {

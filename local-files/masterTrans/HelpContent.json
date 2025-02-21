@@ -53,13 +53,13 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-gasha",
       "order": 4,
-      "name": "이벤트 가샤"
+      "name": "이벤트 가챠"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-gasha-coin",
       "order": 7,
-      "name": "이벤트용 아이템"
+      "name": "이벤트 용 아이템"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
@@ -263,13 +263,61 @@
       "helpCategoryId": "help-highscore",
       "id": "highscore-ranking",
       "order": 2,
-      "name": "하이스코어 순위 유형"
+      "name": "하이 스코어 랭킹 유형"
     },
     {
       "helpCategoryId": "help-highscore",
       "id": "highscore-score_reward",
       "order": 3,
-      "name": "하이스코어 달성 보상"
+      "name": "하이 스코어 달성 보상"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-finish",
+      "order": 8,
+      "name": "이벤트 종료 후"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-gasha",
+      "order": 6,
+      "name": "이벤트 가챠"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-item",
+      "order": 3,
+      "name": "별의 반짝임"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-event-mission",
+      "order": 7,
+      "name": "이벤트 미션"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-eventmode-produce",
+      "order": 2,
+      "name": "이벤트 모드 프로듀스"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-highscorerush",
+      "order": 1,
+      "name": "주오 쿠니오의 아이돌 강화의 달・개의 개요"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-ranking",
+      "order": 4,
+      "name": "하이 스코어 랭킹 유형"
+    },
+    {
+      "helpCategoryId": "help-highscorerush",
+      "id": "highscorerush-score-reward",
+      "order": 5,
+      "name": "하이 스코어 달성 보상"
     },
     {
       "helpCategoryId": "help-home",
@@ -365,7 +413,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-parameter",
       "order": 3,
-      "name": "매개변수"
+      "name": "파라미터"
     },
     {
       "helpCategoryId": "help-idol",
@@ -1199,13 +1247,19 @@
       "helpCategoryId": "help-tower",
       "id": "tower",
       "order": 1,
-      "name": "아이돌의 길"
+      "name": "아이돌 길"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "tower-achivement",
       "order": 5,
       "name": "아이돌 길 업적"
+    },
+    {
+      "helpCategoryId": "help-tower",
+      "id": "tower-ranking",
+      "order": 6,
+      "name": "아이돌 길 랭킹"
     },
     {
       "helpCategoryId": "help-tower",

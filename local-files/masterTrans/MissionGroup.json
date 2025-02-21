@@ -39,7 +39,7 @@
     },
     {
       "id": "mission_group-weekly-001",
-      "name": "위클리 미션"
+      "name": "주간 미션"
     },
     {
       "id": "mission-group-box-gasha-event-001",
@@ -148,6 +148,26 @@
     {
       "id": "mission-group-highscore-event-004_5",
       "name": "아이돌 강화 월간 이벤트 미션"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_1",
+      "name": "주오 쿠니오의 아이돌 강화의 달・개"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_2",
+      "name": "주오 쿠니오의 아이돌 강화의 달・개"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_3",
+      "name": "주오 쿠니오의 아이돌 강화의 달・개"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_4",
+      "name": "주오 쿠니오의 아이돌 강화의 달・개"
+    },
+    {
+      "id": "mission-group-highscorerush-event-001_5",
+      "name": "주오 쿠니오의 아이돌 강화의 달・개"
     },
     {
       "id": "mission-group-main-story-event-001_1",

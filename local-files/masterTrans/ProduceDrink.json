@@ -125,7 +125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손 패를 모두 바꾼다"
+          "text": "패를 모두 바꾸기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -237,7 +237,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "패를 모두 "
+          "text": "손패를 모두 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -363,7 +363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 </nobr>) "
+          "text": "턴 </nobr>）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -383,7 +383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "소비 체력 감소"
+          "text": "소비 체력 경감 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -413,7 +413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "체력 소비"
+          "text": "체력소비"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -489,7 +489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "손패"
+          "text": "손 패"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -519,7 +519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "소비 체력 감소"
+          "text": "소비 체력 경감 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -549,7 +549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         }
       ],
       "name": "파워풀 한방 드링크"
@@ -565,7 +565,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "스킬 카드 사용수 추가"
+          "text": "스킬 카드 사용 횟수 추가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -611,7 +611,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위로 강화 된 스킬 카드(SSR)를, "
+          "text": "무작위로 강화 된 스킬 카드 (SSR), "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -621,7 +621,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hand",
-          "text": "손패"
+          "text": "손 패"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -631,7 +631,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "에 "
+          "text": "이(가) "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -645,6 +645,22 @@
         }
       ],
       "name": "하츠보시 스페셜 녹즙"
+    },
+    {
+      "id": "pdrink_00-3-013",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "무작위로 강화된 고유 스킬 카드(SSR)를 비용을 소비하지 않고 사용"
+        }
+      ],
+      "name": "하츠보시 스페셜 녹즙 X"
     },
     {
       "id": "pdrink_01-1-002",
@@ -687,7 +703,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         }
       ],
       "name": "비타민 드링크"
@@ -779,7 +795,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -951,7 +967,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -971,7 +987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "패를 모두 "
+          "text": "손패를 모두 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1367,7 +1383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "다음에 사용하는 "
+          "text": " 다음에 사용한다"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1447,7 +1463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 </nobr>) "
+          "text": "턴 </nobr>）"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1467,7 +1483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "체력 소비"
+          "text": "체력소비"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1517,7 +1533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "소비 체력 증가"
+          "text": "소비 체력 증가 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1547,7 +1563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         }
       ],
       "name": "특제 하츠보시 추출물"
@@ -1573,7 +1589,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "로 변경"
+          "text": "로 변경 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1593,7 +1609,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "전력치 "
+          "text": "전력치"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1649,7 +1665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "로 변경"
+          "text": "로 변경 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1669,7 +1685,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "전력치 "
+          "text": "전력치"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1715,7 +1731,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "덱이나 버림 패에 있는 스킬 카드를 선택하고, "
+          "text": "덱 이나 버림 패에서 스킬 카드를 선택하고, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -1775,7 +1791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "단계로 변경"
+          "text": "단계 째로 변경"
         }
       ],
       "name": "따뜻한 녹차"
@@ -1811,7 +1827,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "전력치 "
+          "text": "전력치"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1887,7 +1903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "단계로 변경"
+          "text": "단계 째로 변경"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1907,7 +1923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "소비 체력 감소"
+          "text": "소비 체력 경감 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1937,7 +1953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         }
       ],
       "name": "하츠보시 슈퍼 소다"
@@ -1953,7 +1969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamExtraTurn",
-          "text": "턴 추가"
+          "text": "턴 추가 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1983,7 +1999,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "체력 소비"
+          "text": "체력소비"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2033,7 +2049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "소비 체력 증가"
+          "text": "소비 체력 증가 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2063,7 +2079,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴</nobr> "
+          "text": "턴 </nobr>"
         }
       ],
       "name": "하츠보시 차"

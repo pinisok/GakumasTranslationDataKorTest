@@ -3183,7 +3183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3228,7 +3228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3273,7 +3273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4018,7 +4018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "효과를 <nobr>1.5배 </nobr>적용）"
+          "text": "효과를 <nobr>2.2배 </nobr>적용）"
         }
       ]
     },
@@ -16574,6 +16574,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "을(를), 체력을 소비하지 않고 사용"
+        }
+      ]
+    },
+    {
+      "id": "e_effect-exam_force_play_card_search-p_card_search-random-random_pool-p_random_pool-rush-ssr-upgrade_1-1-hand-random-1_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "무작위로 강화 된 고유 스킬 카드(SSR)를 비용을 소비하지 않고 사용"
         }
       ]
     },
@@ -65503,7 +65518,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAggressiveReduce",
-          "text": "동기감소"
+          "text": "의욕감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

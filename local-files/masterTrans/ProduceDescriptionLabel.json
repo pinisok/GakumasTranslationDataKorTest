@@ -992,7 +992,7 @@
           "text": "감소"
         }
       ],
-      "name": "동기감소"
+      "name": "의욕감소"
     },
     {
       "id": "Label_ExamAntiDebuff",
@@ -4538,6 +4538,22 @@
         }
       ],
       "name": "전력 감소"
+    },
+    {
+      "id": "Label_HighScoreRushGold",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "「주오 쿠니오의 아이돌 강화의 달・개」로 획득할 수 있는 아이템."
+        }
+      ],
+      "name": "별의 반짝임"
     },
     {
       "id": "Label_InitialAdd",

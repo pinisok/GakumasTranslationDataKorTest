@@ -54,6 +54,11 @@
       "id": "coin_gasha_button-newyear-001",
       "name": "1회뽑기",
       "description": "1회뽑기"
+    },
+    {
+      "id": "highscorerush-event-001_box_01_button",
+      "name": "뽑기",
+      "description": "뽑기"
     }
   ]
 }
