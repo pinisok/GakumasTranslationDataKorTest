@@ -206,6 +206,10 @@
       "name": "Campus mode!!"
     },
     {
+      "id": "i_card-kcna-3-009",
+      "name": "雪解けに"
+    },
+    {
       "id": "i_card-kllj-1-000",
       "name": "학교생활"
     },
@@ -287,7 +291,7 @@
     },
     {
       "id": "i_card-ssmk-3-002",
-      "name": "숨긴 나"
+      "name": "숨겨진 나"
     },
     {
       "id": "i_card-ssmk-3-007",
@@ -320,6 +324,10 @@
     {
       "id": "i_card-ttmr-3-007",
       "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-ttmr-3-009",
+      "name": "雪解けに"
     }
   ]
 }

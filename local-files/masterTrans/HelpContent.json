@@ -203,7 +203,7 @@
       "helpCategoryId": "help-event-mission",
       "id": "event-mission-rookie",
       "order": 1,
-      "name": "매일 해방 임무"
+      "name": "데일리 해방 미션"
     },
     {
       "helpCategoryId": "help-gasha",
@@ -257,7 +257,7 @@
       "helpCategoryId": "help-highscore",
       "id": "highscore-highscore",
       "order": 1,
-      "name": "주왕방남의 아이돌 강화 월간 개요"
+      "name": "주오 쿠니오의 아이돌 강화 월간 개요"
     },
     {
       "helpCategoryId": "help-highscore",
@@ -329,7 +329,7 @@
       "helpCategoryId": "help-home",
       "id": "home-day-reset",
       "order": 9,
-      "name": "날짜 업데이트"
+      "name": "날짜 갱신"
     },
     {
       "helpCategoryId": "help-home",
@@ -1241,31 +1241,31 @@
       "helpCategoryId": "help-tower",
       "id": "memory-memory-tower",
       "order": 4,
-      "name": "아이돌 길의 메모리 편성"
+      "name": "아이돌의 길 메모리 편성"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "tower",
       "order": 1,
-      "name": "아이돌 길"
+      "name": "아이돌의 길"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "tower-achivement",
       "order": 5,
-      "name": "아이돌 길 업적"
+      "name": "아이돌의 길 업적"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "tower-ranking",
       "order": 6,
-      "name": "아이돌 길 랭킹"
+      "name": "아이돌의 길 랭킹"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "tower-rule",
       "order": 2,
-      "name": "아이돌 길 규칙"
+      "name": "아이돌의 길 규칙"
     }
   ]
 }

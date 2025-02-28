@@ -355,7 +355,7 @@
     },
     {
       "id": "produce.schedule.step_self_dance_sp_description",
-      "description": "춤이 올라갑니다. \\n체력 소비량도 많지만 보상도 호화입니다."
+      "description": "댄스가 상습합니다. \\n체력 소비량도 많지만 보상도 호화입니다."
     },
     {
       "id": "produce.schedule.step_self_visual_description",
@@ -371,7 +371,7 @@
     },
     {
       "id": "produce.schedule.step_self_vocal_sp_description",
-      "description": "보컬이 올라갑니다. \\n체력 소비량도 많지만 보상도 호화입니다."
+      "description": "보컬이 상승합니다. \\n체력 소비량도 많지만 보상도 호화입니다."
     },
     {
       "id": "produce.shop.end_warning.description",
@@ -447,7 +447,7 @@
     },
     {
       "id": "story_event.box_gasha.reset_result.sheet.description",
-      "description": "{0}상자의 모든 보상을 획득했습니다\\n이벤트 가챠 업데이트"
+      "description": "ラインナップ更新条件を達成しました\\nイベントガシャを更新します"
     },
     {
       "id": "story_event.box_gasha.reset_result.sheet.title",
@@ -479,11 +479,11 @@
     },
     {
       "id": "story_event.guild_mission.join_sheet.guild_description",
-      "description": "연합 미션은 서클에 가입하여 참가할 수 있습니다. \\n서클로 이동하시겠습니까?"
+      "description": "연계 미션은 서클에 가입하여 참가할 수 있습니다. \\n서클로 이동하시겠습니까?"
     },
     {
       "id": "story_event.guild_mission.join_sheet.main_task_description",
-      "description": "연합 미션은 서클에 가입하여 참가할 수 있습니다. \\n<color=#u:Negative>{0}</color>"
+      "description": "연계 미션은 서클에 가입하여 참가할 수 있습니다. \\n<color=#u:Negative>{0}</color>"
     },
     {
       "id": "story_event.period.end",

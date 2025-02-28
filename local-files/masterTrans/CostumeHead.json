@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "costume_head_amao-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "id": "costume_head_atbm-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_fktn-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "id": "costume_head_fktn-cstm-0072",
-      "name": "금빛의 빛",
+      "name": "황금의 빛",
       "description": "후지타 코토네의 아이돌 길 스테이지 10 클리어"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "id": "costume_head_hmsz-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "id": "costume_head_hrnm-cstm-0072",
-      "name": "금빛의 빛",
+      "name": "황금의 빛",
       "description": "히메사키 리나미의 아이돌의 길 스테이지10를 클리어"
     },
     {
@@ -267,7 +267,7 @@
     },
     {
       "id": "costume_head_hrnm-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -308,7 +308,7 @@
     {
       "id": "costume_head_hski-cstm-0063",
       "name": "관국",
-      "description": "【관국화】하나미 사키 입수"
+      "description": "【관국】하나미 사키 입수"
     },
     {
       "id": "costume_head_hski-cstm-0065",
@@ -322,7 +322,7 @@
     },
     {
       "id": "costume_head_hski-cstm-0072",
-      "name": "금빛의 빛",
+      "name": "황금의 빛",
       "description": "하나미 사키의 아이돌 길 스테이지 10 클리어"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "id": "costume_head_hski-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "id": "costume_head_hume-cstm-0072",
-      "name": "금빛의 빛",
+      "name": "황금의 빛",
       "description": "하나미 우메의 아이돌의 길 스테이지10를 클리어"
     },
     {
@@ -436,8 +436,13 @@
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
     },
     {
+      "id": "costume_head_hume-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
+    },
+    {
       "id": "costume_head_hume-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -486,13 +491,18 @@
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
     },
     {
+      "id": "costume_head_jsna-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
+    },
+    {
       "id": "costume_head_jsna-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_kcna-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -519,6 +529,16 @@
       "id": "costume_head_kcna-cstm-0053",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】쿠라모토 치나를 입수했다."
+    },
+    {
+      "id": "costume_head_kcna-cstm-0061",
+      "name": "雪解けに",
+      "description": "【雪解けに】倉本 千奈を入手"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0062",
+      "name": "雪解けに",
+      "description": "【雪解けに】倉本 千奈の才能開花4段階目で入手"
     },
     {
       "id": "costume_head_kcna-cstm-0063",
@@ -549,6 +569,11 @@
       "id": "costume_head_kcna-hair-0004",
       "name": "고양이 귀",
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
+    },
+    {
+      "id": "costume_head_kcna-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -612,12 +637,12 @@
     },
     {
       "id": "costume_head_kllj-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_shro-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -676,13 +701,18 @@
       "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
     },
     {
+      "id": "costume_head_shro-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "プレミアムミッションパス 2025年3月で獲得"
+    },
+    {
       "id": "costume_head_ssmk-cstm-0009",
       "name": "Tame-Lie-One-Step",
       "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
     },
     {
       "id": "costume_head_ssmk-cstm-0039",
-      "name": "숨긴 나",
+      "name": "숨겨진 나",
       "description": "【숨겨진 나】시운 스미카를 입수"
     },
     {
@@ -737,12 +767,12 @@
     },
     {
       "id": "costume_head_ssmk-schl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
       "id": "costume_head_ttmr-casl-0000",
-      "name": "평소 헤어스타일",
+      "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
     {
@@ -782,7 +812,7 @@
     },
     {
       "id": "costume_head_ttmr-cstm-0072",
-      "name": "금빛의 빛",
+      "name": "황금의 빛",
       "description": "츠키무라 테마리의 아이돌 길 스테이지 10 클리어"
     },
     {

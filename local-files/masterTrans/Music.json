@@ -174,6 +174,14 @@
       "arranger": "나나호시 관현악단"
     },
     {
+      "id": "music-all-hrnm-009",
+      "title": "雪解けに",
+      "displayTitle": "雪解けに",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
+    },
+    {
       "id": "music-all-hski-001",
       "title": "하지메",
       "displayTitle": "하지메",
@@ -310,6 +318,14 @@
       "arranger": "나나호시 관현악단"
     },
     {
+      "id": "music-all-jsna-009",
+      "title": "雪解けに",
+      "displayTitle": "雪解けに",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
+    },
+    {
       "id": "music-all-kcna-001",
       "title": "하지메",
       "displayTitle": "하지메",
@@ -364,6 +380,14 @@
       "lyrics": "나나호시 관현악단",
       "composer": "이와미 리쿠",
       "arranger": "나나호시 관현악단"
+    },
+    {
+      "id": "music-all-kcna-009",
+      "title": "雪解けに",
+      "displayTitle": "雪解けに",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
     },
     {
       "id": "music-all-kllj-001",
@@ -478,6 +502,14 @@
       "arranger": "나나호시 관현악단"
     },
     {
+      "id": "music-all-shro-009",
+      "title": "雪解けに",
+      "displayTitle": "雪解けに",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
+    },
+    {
       "id": "music-all-ssmk-001",
       "title": "하지메",
       "displayTitle": "하지메",
@@ -534,6 +566,14 @@
       "arranger": "나나호시 관현악단"
     },
     {
+      "id": "music-all-ssmk-009",
+      "title": "雪解けに",
+      "displayTitle": "雪解けに",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
+    },
+    {
       "id": "music-all-ttmr-001",
       "title": "하지메",
       "displayTitle": "하지메",
@@ -588,6 +628,14 @@
       "lyrics": "나나호시 관현악단",
       "composer": "이와미 리쿠",
       "arranger": "나나호시 관현악단"
+    },
+    {
+      "id": "music-all-ttmr-009",
+      "title": "雪解けに",
+      "displayTitle": "雪解けに",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
     },
     {
       "id": "music-char-amao-001",
@@ -652,6 +700,14 @@
       "lyrics": "유키치 카사쿠/men",
       "composer": "유키치 카사쿠/men",
       "arranger": "쿠라우치 타츠야"
+    },
+    {
+      "id": "music-char-hrnm-003",
+      "title": "marble heart",
+      "displayTitle": "marble heart",
+      "lyrics": "品川 樹",
+      "composer": "須藤幽玄",
+      "arranger": "須藤幽玄"
     },
     {
       "id": "music-char-hski-001",
@@ -767,8 +823,8 @@
     },
     {
       "id": "music-char-ssmk-002",
-      "title": "숨긴 나",
-      "displayTitle": "숨긴 나",
+      "title": "숨겨진 나",
+      "displayTitle": "숨겨진 나",
       "lyrics": "아즈마 유타",
       "composer": "아즈마 유타",
       "arranger": "아즈마 유타"
