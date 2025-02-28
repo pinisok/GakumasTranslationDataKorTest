@@ -243,7 +243,7 @@
     {
       "id": "hrnm-cstm-0037",
       "name": "L.U.V",
-      "description": "【L.U.V】히메사키 리나미를 입수했다."
+      "description": "【L.U.V】히메사키 리나미를 입수"
     },
     {
       "id": "hrnm-cstm-0038",
@@ -263,7 +263,7 @@
     {
       "id": "hrnm-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】히메사키 리나미를 입수했다."
+      "description": "【Campus mode!!】히메사키 리나미를 입수"
     },
     {
       "id": "hrnm-cstm-0054",
@@ -309,6 +309,11 @@
       "id": "hrnm-cstm-0073",
       "name": "백금의 빛",
       "description": "히메사키 리나미의 아이돌의 길 스테이지15를 클리어"
+    },
+    {
+      "id": "hrnm-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【clumsy trick】'25 하나마츠리 히메사키 리나미 입수"
     },
     {
       "id": "hrnm-othr-0000",
@@ -463,7 +468,7 @@
     {
       "id": "hume-cstm-0010",
       "name": "The Rolling Riceball",
-      "description": "【The Rolling Riceball】 하나미 우메를 입수했다."
+      "description": "【The Rolling Riceball】 하나미 우메를 입수"
     },
     {
       "id": "hume-cstm-0022",
@@ -498,7 +503,7 @@
     {
       "id": "hume-cstm-0063",
       "name": "관국",
-      "description": "【The Rolling Riceball】'24 축제 하나미 우메를 입수했다."
+      "description": "【The Rolling Riceball】'24 축제 하나미 우메를 입수"
     },
     {
       "id": "hume-cstm-0065",
@@ -601,6 +606,11 @@
       "description": "주오 세나의 아이돌 길 스테이지15를 클리어"
     },
     {
+      "id": "jsna-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【작은 야망】'25 하나마츠리 주오 세나를 입수"
+    },
+    {
       "id": "jsna-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(주오 세나)을 구매"
@@ -648,7 +658,7 @@
     {
       "id": "kcna-cstm-0033",
       "name": "매일매일, 발견적 단계!",
-      "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수했다."
+      "description": "【매일매일, 발견적 단계!】쿠라모토 치나를 입수"
     },
     {
       "id": "kcna-cstm-0034",
@@ -663,7 +673,7 @@
     {
       "id": "kcna-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】쿠라모토 치나를 입수했다."
+      "description": "【Campus mode!!】쿠라모토 치나를 입수"
     },
     {
       "id": "kcna-cstm-0054",
@@ -671,14 +681,24 @@
       "description": "【Campus mode!!】쿠라모토 치나의 재능 개화 4단계 달성"
     },
     {
+      "id": "kcna-cstm-0061",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】쿠라모토 치나를 입수"
+    },
+    {
+      "id": "kcna-cstm-0062",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】쿠라모토 치나의 재능 개화 4단계 달성"
+    },
+    {
       "id": "kcna-cstm-0063",
       "name": "관국",
-      "description": "【Wonder Scale】'24 축제 쿠라모토 치나를 입수했다."
+      "description": "【Wonder Scale】'24 축제 쿠라모토 치나를 입수"
     },
     {
       "id": "kcna-cstm-0065",
       "name": "가장광소곡",
-      "description": "【가장광소곡】쿠라모토 치나를 입수했다."
+      "description": "【가장광소곡】쿠라모토 치나를 입수"
     },
     {
       "id": "kcna-cstm-0067",
@@ -888,7 +908,7 @@
     {
       "id": "shro-cstm-0063",
       "name": "관국",
-      "description": "【광경】'24 축제 시노사와 히로를 입수했다."
+      "description": "【광경】'24 축제 시노사와 히로를 입수"
     },
     {
       "id": "shro-cstm-0067",
@@ -914,6 +934,11 @@
       "id": "shro-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【해피 밀푀유】시노사와 히로를 입수"
+    },
+    {
+      "id": "shro-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【광경】'25 하나마츠리 시노사와 히로 입수"
     },
     {
       "id": "shro-othr-0002",
@@ -1014,6 +1039,11 @@
       "id": "ssmk-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【Tame-Lie-One-Step】'25 발렌타인 시운 스미카 입수"
+    },
+    {
+      "id": "ssmk-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【Tame-Lie-One-Step】'25 하나마츠리 시운 스미카 입수"
     },
     {
       "id": "ssmk-othr-0002",
@@ -1124,6 +1154,11 @@
       "id": "ttmr-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【Luna say maybe】'25 발렌타인 츠키무라 테마리 입수"
+    },
+    {
+      "id": "ttmr-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】츠키무라 테마리 입수"
     },
     {
       "id": "ttmr-othr-0002",

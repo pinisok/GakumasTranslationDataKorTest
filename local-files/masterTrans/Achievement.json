@@ -67,7 +67,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
-      "name": "여름 밤의 선향불꽃",
+      "name": "여름 밤의 향불",
       "description": "【관국】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "소나기 구름과, 너",
+      "name": "입도 구름과, 너",
       "description": "【너와 세미블루】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-01",
-      "name": "너에게 줄게",
+      "name": "당신에게 줄게",
       "description": "【해피 밀푀유】주오 세나의 프로듀스로 최종 시험 합격"
     },
     {
@@ -372,7 +372,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "매일매일, 발견적 스텝!",
+      "name": "매일매일, 발견적 단계!",
       "description": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
     },
     {
@@ -424,6 +424,21 @@
       "id": "achieve-i_card-kcna-3-007-03",
       "name": "순수한 자기 멋대로 아가씨",
       "description": "【Campus mode!!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-01",
+      "name": "작은 햇님",
+      "description": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-02",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-03",
+      "name": "사랑받은 책임",
+      "description": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
@@ -619,6 +634,21 @@
       "id": "achieve-i_card-ttmr-3-007-03",
       "name": "확실한 팬 서비스",
       "description": "【Campus mode!!】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-01",
+      "name": "접촉 주의!",
+      "description": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-02",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-03",
+      "name": "순서대로 되돌아 보자",
+      "description": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-m_amao-001",
