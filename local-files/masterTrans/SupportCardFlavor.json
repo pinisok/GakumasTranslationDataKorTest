@@ -592,6 +592,21 @@
       "text": "네.\n정말 귀여워졌네요."
     },
     {
+      "supportCardId": "s_card-2-0044",
+      "number": 1,
+      "text": "わぁ！　すごく綺麗な音色っ♪"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 2,
+      "text": "葉をピンと張って。\n咥えすぎないのがコツ。"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 3,
+      "text": "上手く吹くの……\nむ、難しいですわ～～～！"
+    },
+    {
       "supportCardId": "s_card-3-0000",
       "number": 1,
       "text": "자, 한 입 줄게!"
@@ -1315,6 +1330,21 @@
       "supportCardId": "s_card-3-0048",
       "number": 3,
       "text": "제 차례, 이제 곧……\n음~! 두근두근거려요~!"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 1,
+      "text": "今日は思いっきり遊ぼう！"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 2,
+      "text": "はげしすぎますわ～～～～！？"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 3,
+      "text": "おお……佑芽、わたしにもやって。"
     }
   ]
 }

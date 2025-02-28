@@ -175,8 +175,8 @@
     },
     {
       "id": "music-all-hrnm-009",
-      "title": "雪解けに",
-      "displayTitle": "雪解けに",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
       "lyrics": "오야마 쿄코 (Rebrast)",
       "composer": "카와하라 레오 (Rebrast)",
       "arranger": "카와하라 레오 (Rebrast)"
@@ -319,8 +319,8 @@
     },
     {
       "id": "music-all-jsna-009",
-      "title": "雪解けに",
-      "displayTitle": "雪解けに",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
       "lyrics": "오야마 쿄코 (Rebrast)",
       "composer": "카와하라 레오 (Rebrast)",
       "arranger": "카와하라 레오 (Rebrast)"
@@ -383,8 +383,8 @@
     },
     {
       "id": "music-all-kcna-009",
-      "title": "雪解けに",
-      "displayTitle": "雪解けに",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
       "lyrics": "오야마 쿄코 (Rebrast)",
       "composer": "카와하라 레오 (Rebrast)",
       "arranger": "카와하라 레오 (Rebrast)"
@@ -503,8 +503,8 @@
     },
     {
       "id": "music-all-shro-009",
-      "title": "雪解けに",
-      "displayTitle": "雪解けに",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
       "lyrics": "오야마 쿄코 (Rebrast)",
       "composer": "카와하라 레오 (Rebrast)",
       "arranger": "카와하라 레오 (Rebrast)"
@@ -567,8 +567,8 @@
     },
     {
       "id": "music-all-ssmk-009",
-      "title": "雪解けに",
-      "displayTitle": "雪解けに",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
       "lyrics": "오야마 쿄코 (Rebrast)",
       "composer": "카와하라 레오 (Rebrast)",
       "arranger": "카와하라 레오 (Rebrast)"
@@ -631,8 +631,8 @@
     },
     {
       "id": "music-all-ttmr-009",
-      "title": "雪解けに",
-      "displayTitle": "雪解けに",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
       "lyrics": "오야마 쿄코 (Rebrast)",
       "composer": "카와하라 레오 (Rebrast)",
       "arranger": "카와하라 레오 (Rebrast)"
@@ -649,9 +649,9 @@
       "id": "music-char-amao-002",
       "title": "Feel Jewel Dream",
       "displayTitle": "",
-      "lyrics": "DÉ DÉ MOUSE",
-      "composer": "DÉ DÉ MOUSE",
-      "arranger": "DÉ DÉ MOUSE"
+      "lyrics": "DÉ DÉ MOUSE ",
+      "composer": "DÉ DÉ MOUSE ",
+      "arranger": "DÉ DÉ MOUSE "
     },
     {
       "id": "music-char-amao-003",
@@ -671,7 +671,7 @@
     },
     {
       "id": "music-char-fktn-002",
-      "title": "Yellow Big Bang！",
+      "title": "Yellow Big Bang!",
       "displayTitle": "",
       "lyrics": "야기누마 카나",
       "composer": "세오 쇼타로 (MONACA)",
@@ -705,9 +705,9 @@
       "id": "music-char-hrnm-003",
       "title": "marble heart",
       "displayTitle": "marble heart",
-      "lyrics": "品川 樹",
-      "composer": "須藤幽玄",
-      "arranger": "須藤幽玄"
+      "lyrics": "시나가와 이츠키",
+      "composer": "스도 유겐",
+      "arranger": "스도 유겐"
     },
     {
       "id": "music-char-hski-001",
@@ -745,8 +745,8 @@
       "id": "music-char-jsna-003",
       "title": "Cosmetic",
       "displayTitle": "",
-      "lyrics": "Stephanie Topalian、MOMONADY",
-      "composer": "MOMONADY、YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "lyrics": "Stephanie Topalian, MOMONADY",
+      "composer": "MOMONADY, YUKI FUNAKOSHI (Digz, Inc. Group)",
       "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
     },
     {
