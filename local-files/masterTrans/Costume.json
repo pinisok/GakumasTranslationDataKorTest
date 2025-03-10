@@ -56,6 +56,16 @@
       "description": "【Campus mode!!】아리무라 마오의 재능 개화 4단계 달성"
     },
     {
+      "id": "amao-cstm-0061",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】아리무라 마오를 입수"
+    },
+    {
+      "id": "amao-cstm-0062",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】아리무라 마오의 재능 개화 4단계 달성"
+    },
+    {
       "id": "amao-cstm-0063",
       "name": "관국",
       "description": "【Fluorite】'24 축제 아리무라 마오 획득"
@@ -137,12 +147,12 @@
     },
     {
       "id": "fktn-cstm-0027",
-      "name": "Yellow Big Bang!",
+      "name": "Yellow Big Bang！",
       "description": "【Yellow Big Bang！】후지타 코토네 입수!"
     },
     {
       "id": "fktn-cstm-0028",
-      "name": "Yellow Big Bang!",
+      "name": "Yellow Big Bang！",
       "description": "【Yellow Big Bang！】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
@@ -199,6 +209,11 @@
       "id": "fktn-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【세계 제일 귀여운 나】'25 발렌타인 후지타 코토네 입수"
+    },
+    {
+      "id": "fktn-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【세계 제일 귀여운 나】'25 하나마츠리 후지타 코토네 입수"
     },
     {
       "id": "fktn-othr-0002",
@@ -434,6 +449,11 @@
       "id": "hski-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【Fighting My Way】'25 발렌타인 하나미 사키 입수"
+    },
+    {
+      "id": "hski-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【Fighting My Way】'25 하나마츠리 하나미 사키 입수"
     },
     {
       "id": "hski-othr-0002",
@@ -824,6 +844,11 @@
       "id": "kllj-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【백선】'25 발렌타인 카츠라기 릴리야를 입수"
+    },
+    {
+      "id": "kllj-cstm-0076",
+      "name": "눈이 녹을 때에",
+      "description": "【백선】'25 하나마츠리 카츠라기 릴리야를 입수"
     },
     {
       "id": "kllj-othr-0002",

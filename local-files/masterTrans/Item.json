@@ -235,43 +235,49 @@
     },
     {
       "id": "item-medal-main-story-event-001",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스로 입수"
     },
     {
       "id": "item-medal-main-story-event-002",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-003",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
       "description": "하츠보시 커뮤 이벤트에서 모으면 아이템 교환 가능",
       "acquisitionRouteDescription": "프로듀스로 입수"
     },
     {
       "id": "item-medal-main-story-event-004",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-005",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-006",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-007",
-      "name": "하츠보시의 책갈피",
+      "name": "하츠보시 책갈피",
+      "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
+      "acquisitionRouteDescription": "프로듀스 등"
+    },
+    {
+      "id": "item-medal-main-story-event-008",
+      "name": "하츠보시 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환하는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
@@ -368,6 +374,12 @@
     {
       "id": "item-piece-idol_amao-3-007",
       "name": "[Campus mode!!]아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
+    },
+    {
+      "id": "item-piece-idol_amao-3-009",
+      "name": "[눈이 녹을 때에]아리무라 마오의 피스",
       "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },

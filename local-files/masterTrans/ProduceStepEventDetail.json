@@ -63168,6 +63168,18 @@
       "produceDescriptions": []
     },
     {
+      "id": "event-detail-p_story-i_card-amao-3-009-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-amao-3-009-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-amao-3-009-03",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-fktn-3-001-01",
       "produceDescriptions": []
     },
@@ -66286,6 +66298,56 @@
       ]
     },
     {
+      "id": "event-detail-s_card-2-0045-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-03-sup-2_096",
+          "text": "작은 손님"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "을(를) 획득"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-2-0045-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "비주얼 상승 +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "15"
+        }
+      ]
+    },
+    {
       "id": "event-detail-s_card-3-0000-01",
       "produceDescriptions": [
         {
@@ -66496,7 +66558,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -66571,7 +66633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -66721,7 +66783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -66796,7 +66858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -66871,7 +66933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -66946,7 +67008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67021,7 +67083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67096,7 +67158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67246,7 +67308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67321,7 +67383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67396,7 +67458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67566,7 +67628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67716,7 +67778,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -67941,7 +68003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68016,7 +68078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68091,7 +68153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68166,7 +68228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68241,7 +68303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68316,7 +68378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68391,7 +68453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68541,7 +68603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68616,7 +68678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68691,7 +68753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68766,7 +68828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68841,7 +68903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68916,7 +68978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -68991,7 +69053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69066,7 +69128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69141,7 +69203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69216,7 +69278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69291,7 +69353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69366,7 +69428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69441,7 +69503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69516,7 +69578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69591,7 +69653,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69666,7 +69728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69741,7 +69803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69816,7 +69878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -69966,7 +70028,82 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 스킬 카드를 "
+          "text": "무작위 스킬카드를 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "강화"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0051-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_03-3-121-0",
+          "text": "체력 강자의 진심"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "을(를) 획득"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0051-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "비주얼 상승 +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0051-03",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "무작위 스킬카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",

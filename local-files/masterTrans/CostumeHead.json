@@ -41,6 +41,16 @@
       "description": "【Campus mode!!】아리무라 마오의 재능 개화 4단계 달성"
     },
     {
+      "id": "costume_head_amao-cstm-0061",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】아리무라 마오를 입수"
+    },
+    {
+      "id": "costume_head_amao-cstm-0062",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】아리무라 마오의 재능 개화 4단계 달성"
+    },
+    {
       "id": "costume_head_amao-cstm-0063",
       "name": "관국",
       "description": "【Fluorite】'24 축제 아리무라 마오 획득"
@@ -102,12 +112,12 @@
     },
     {
       "id": "costume_head_fktn-cstm-0027",
-      "name": "Yellow Big Bang!",
+      "name": "Yellow Big Bang！",
       "description": "【Yellow Big Bang！】후지타 코토네 입수!"
     },
     {
       "id": "costume_head_fktn-cstm-0028",
-      "name": "Yellow Big Bang!",
+      "name": "Yellow Big Bang！",
       "description": "【Yellow Big Bang！】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
@@ -438,7 +448,7 @@
     {
       "id": "costume_head_hume-hair-0006",
       "name": "하츠미☆액세서리",
-      "description": "プレミアムミッションパス 2025年3月で獲得"
+      "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
     },
     {
       "id": "costume_head_hume-schl-0000",
@@ -493,7 +503,7 @@
     {
       "id": "costume_head_jsna-hair-0006",
       "name": "하츠미☆액세서리",
-      "description": "プレミアムミッションパス 2025年3月で獲得"
+      "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
     },
     {
       "id": "costume_head_jsna-schl-0000",
@@ -573,7 +583,7 @@
     {
       "id": "costume_head_kcna-hair-0006",
       "name": "하츠미☆액세서리",
-      "description": "プレミアムミッションパス 2025年3月で獲得"
+      "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -703,7 +713,7 @@
     {
       "id": "costume_head_shro-hair-0006",
       "name": "하츠미☆액세서리",
-      "description": "プレミアムミッションパス 2025年3月で獲得"
+      "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
     },
     {
       "id": "costume_head_ssmk-cstm-0009",

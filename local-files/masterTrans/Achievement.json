@@ -51,6 +51,21 @@
       "description": "【Campus mode!!】아리무라 마오의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-amao-3-009-01",
+      "name": "입안 가득 3색",
+      "description": "【눈이 녹을 때에】아리무라 마오의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-02",
+      "name": "눈이 녹을 때에",
+      "description": "【눈이 녹을 때에】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-03",
+      "name": "남겨진 눈이 녹아버려도",
+      "description": "【눈이 녹을 때에】아리무라 마오의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-fktn-3-001-01",
       "name": "아드레날린 전개",
       "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
