@@ -10623,7 +10623,27 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr> 1.5배</nobr>"
+          "text": "<nobr>1.5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10799,7 +10819,27 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr> 1.5배</nobr>"
+          "text": "<nobr>1.5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12123,7 +12163,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2배 "
+          "text": "2"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12166,7 +12216,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_01-0-001-0-001",
@@ -12372,7 +12422,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_01-0-001-0-002",
@@ -12568,7 +12618,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_01-0-001-0-003",
@@ -12694,7 +12744,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_01-0-001-0-004",
@@ -12890,7 +12940,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_01-0-001-0-005",
@@ -12913,7 +12963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) 됬을 때, "
+          "text": "이(가) 됐을 때, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13096,7 +13146,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_01-0-005-0-000",
@@ -13262,7 +13312,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-001",
@@ -13358,7 +13408,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-002",
@@ -13504,7 +13554,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-003",
@@ -13670,7 +13720,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-004",
@@ -13836,7 +13886,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-005",
@@ -13932,7 +13982,7 @@
           "text": "내 4회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-006",
@@ -14108,7 +14158,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-007",
@@ -14204,7 +14254,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-008",
@@ -14300,7 +14350,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-009",
@@ -14446,7 +14496,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-010",
@@ -14592,7 +14642,7 @@
           "text": "내 1회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-005-0-011",
@@ -14798,7 +14848,7 @@
           "text": "내 3회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_01-0-014-0",
@@ -23279,7 +23329,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1.3배 "
+          "text": "1.3"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23405,7 +23465,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1.3배 "
+          "text": "1.3"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37897,7 +37967,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1.3배 "
+          "text": "1.3"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38063,7 +38143,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1.3배 "
+          "text": "1.3"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39443,7 +39533,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1.5배"
+          "text": "1.5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39609,7 +39709,17 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "1.6배 "
+          "text": "1.6"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39715,7 +39825,27 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr> 1.5배</nobr>"
+          "text": "<nobr>1.5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39941,7 +40071,27 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr> 1.5배</nobr>"
+          "text": "<nobr>1.5"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_EffectTimes",
+          "text": "倍"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50343,7 +50493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) 됬을 때, "
+          "text": "이(가) 됐을 때, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -50589,7 +50739,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "이(가) 됬을 때, "
+          "text": "이(가) 됐을 때, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -54568,7 +54718,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_010",
@@ -54674,7 +54824,7 @@
           "text": "(시작 7턴 동안 유효)"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_015",
@@ -54750,7 +54900,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_016",
@@ -54906,7 +55056,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_017",
@@ -55002,7 +55152,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_018",
@@ -55078,7 +55228,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_019",
@@ -55154,7 +55304,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-1-stage_020",
@@ -55250,7 +55400,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_005",
@@ -55356,7 +55506,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_010",
@@ -55472,7 +55622,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_015",
@@ -55678,7 +55828,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_016",
@@ -55754,7 +55904,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_017",
@@ -55840,7 +55990,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_018",
@@ -55906,7 +56056,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_019",
@@ -56062,7 +56212,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_lesson_buff-2-stage_020",
@@ -56168,7 +56318,7 @@
           "text": "내 9회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(은색)"
+      "name": "하츠보시 오브젝트(은색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_005",
@@ -56274,7 +56424,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_010",
@@ -56380,7 +56530,7 @@
           "text": "(시작 7턴 동안 유효)"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_015",
@@ -56456,7 +56606,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_016",
@@ -56612,7 +56762,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_017",
@@ -56708,7 +56858,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_018",
@@ -56784,7 +56934,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_019",
@@ -56860,7 +57010,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-1-stage_020",
@@ -56956,7 +57106,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_005",
@@ -57072,7 +57222,7 @@
           "text": "내 2회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_010",
@@ -57138,7 +57288,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_015",
@@ -57314,7 +57464,7 @@
           "text": "내 5회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_016",
@@ -57390,7 +57540,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_017",
@@ -57476,7 +57626,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_018",
@@ -57542,7 +57692,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_019",
@@ -57698,7 +57848,7 @@
           "text": ""
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_parameter_buff-2-stage_020",
@@ -57804,7 +57954,7 @@
           "text": "내 9회）"
         }
       ],
-      "name": "첫 번째 별 오브젝트(보라색)"
+      "name": "하츠보시 오브젝트(보라색)"
     },
     {
       "id": "pitem_tower_001-exam_review-1-stage_005",

@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "hidden_mission-app-review-main-task-clear",
-      "name": "도전 14 지우지 않음"
+      "name": "도전 14 클리어하지 않음"
     },
     {
       "id": "hidden_mission-normal-amao-piece-pack-remind",
@@ -59,7 +59,7 @@
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-jsna-3-000-b",
-      "name": "SSR 미나미로 B 평가"
+      "name": "SSR 세나로 B 평가"
     },
     {
       "id": "hidden_mission-normal-produce-clear-i_card-kcna-3-000-b",
@@ -211,7 +211,7 @@
     },
     {
       "id": "hidden_mission-view-ending-normal-a-jsna",
-      "name": "미나미로 A End를 보기"
+      "name": "세나로 A End를 보기"
     },
     {
       "id": "hidden_mission-view-ending-normal-a-kcna",
@@ -255,7 +255,7 @@
     },
     {
       "id": "hidden_mission-view-ending-normal-b-jsna",
-      "name": "미나미로 B End를 보기"
+      "name": "세나로 B End를 보기"
     },
     {
       "id": "hidden_mission-view-ending-normal-b-kcna",
@@ -343,7 +343,7 @@
     },
     {
       "id": "hidden_mission-view-ending-true-jsna",
-      "name": "미나미로 TrueEnd를 보기"
+      "name": "세나로 TrueEnd를 보기"
     },
     {
       "id": "hidden_mission-view-ending-true-kcna",
@@ -379,7 +379,7 @@
     },
     {
       "id": "hidden_mission-view-ending-true-produce_group-002-jsna",
-      "name": "미나미로 TrueEnd 달성"
+      "name": "세나로 TrueEnd 달성"
     },
     {
       "id": "hidden_mission-view-ending-true-produce_group-002-kcna",
@@ -423,7 +423,7 @@
     },
     {
       "id": "mission-box-gasha-event-001-mission_3",
-      "name": "이벤트 가챠를 {threshold}회 뽑자!"
+      "name": "이벤트 가챠를 {threshold}회 뽑자"
     },
     {
       "id": "mission-box-gasha-event-001-mission_4",
@@ -443,7 +443,7 @@
     },
     {
       "id": "mission-box-gasha-event-002-mission_3",
-      "name": "이벤트 가챠를 {threshold}회 뽑자!"
+      "name": "이벤트 가챠를 {threshold}회 뽑자"
     },
     {
       "id": "mission-box-gasha-event-002-mission_4",
@@ -463,7 +463,7 @@
     },
     {
       "id": "mission-box-gasha-event-003-mission_3",
-      "name": "이벤트 가챠를 {threshold}회 뽑자!"
+      "name": "이벤트 가챠를 {threshold}회 뽑자"
     },
     {
       "id": "mission-box-gasha-event-003-mission_4",
@@ -571,7 +571,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_15",
-      "name": "코인 가챠를 {threshold}번 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_16",
@@ -583,7 +583,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_22",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_23",
@@ -595,7 +595,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_25",
-      "name": "코인 가챠를 {threshold}번 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_26",
@@ -635,7 +635,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_43",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_44",
@@ -683,7 +683,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_63",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_64",
@@ -727,11 +727,11 @@
     },
     {
       "id": "mission-daily-incrementgashadrawcount-1",
-      "name": "코인 가챠를 {threshold}번 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-daily-incrementmoneyexchangecount-1",
-      "name": "머니 교환소에서 {threshold}번 교환하자!"
+      "name": "머니 교환소에서 {threshold}번 교환하자"
     },
     {
       "id": "mission-daily-incrementproduceclearcount-1",
@@ -743,7 +743,7 @@
     },
     {
       "id": "mission-daily-incrementreceivemoney-1",
-      "name": "머니를 회수하자!"
+      "name": "머니를 회수하자"
     },
     {
       "id": "mission-daily-incrementsupportcardenhancecount-1",
@@ -2255,7 +2255,7 @@
     },
     {
       "id": "mission-normal-incrementgashadrawcount-1",
-      "name": "코인 가챠를 {threshold}번 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-normal-incrementguilddonationcount-1",
@@ -2299,7 +2299,7 @@
     },
     {
       "id": "mission-normal-incrementmoneyexchangecount-1",
-      "name": "머니 교환소에서 {threshold}번 교환하자!"
+      "name": "머니 교환소에서 {threshold}번 교환하자"
     },
     {
       "id": "mission-normal-incrementproduceclearcount-1",
@@ -2340,6 +2340,10 @@
     {
       "id": "mission-normal-linkBandaiNamco-1",
       "name": "데이터 연동하기\n※메뉴 > 데이터 연동 에서 가능합니다"
+    },
+    {
+      "id": "mission-normal-linkBandaiNamco-2",
+      "name": "スマートフォン版とDMM GAMES版のデータ連携をしよう\n※メニュー > データ連携から可能です"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
@@ -2559,7 +2563,7 @@
     },
     {
       "id": "mission-panel-mission-2-4",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "mission-panel-mission-2-5",
@@ -2671,7 +2675,7 @@
     },
     {
       "id": "mission-release_mission-4-3",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "mission-release_mission-4-4",
@@ -2851,7 +2855,7 @@
     },
     {
       "id": "mission-weekly-incrementgashadrawcount-1",
-      "name": "코인 가챠를 {threshold}번 뽑자!"
+      "name": "코인 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-weekly-incrementlogincount-1",
@@ -2859,7 +2863,7 @@
     },
     {
       "id": "mission-weekly-incrementmoneyexchangecount-1",
-      "name": "머니 교환소에서 {threshold}번 교환하자!"
+      "name": "머니 교환소에서 {threshold}번 교환하자"
     },
     {
       "id": "mission-weekly-incrementproduceclearcount-1",
@@ -2895,7 +2899,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_14",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "panel_mission-event-002-mission_15",
@@ -2979,7 +2983,7 @@
     },
     {
       "id": "panel_mission-event-003-mission_8",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "panel_mission-event-003-mission_9",
@@ -3003,7 +3007,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_14",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "panel_mission-event-004-mission_15",
@@ -3075,7 +3079,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_14",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "panel_mission-event-006-mission_15",
@@ -4835,7 +4839,7 @@
     },
     {
       "id": "achieve-p_idol-shro-000-1",
-      "name": "시노사와 히로 로 True End  : N.I.A 보기"
+      "name": "시노사와 히로로 True End  : N.I.A 보기"
     },
     {
       "id": "achieve-p_idol-shro-001",
@@ -4867,7 +4871,7 @@
     },
     {
       "id": "achieve-p_idol-shro-008",
-      "name": "시노사와 히로의 특훈 단계를 {threshold}으로 설정한다."
+      "name": "시노사와 히로의 특훈 단계를 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-shro-009",
@@ -5599,7 +5603,7 @@
     },
     {
       "id": "main_task_group-02-01#70",
-      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자!"
+      "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
     },
     {
       "id": "main_task_group-02-01#71",
