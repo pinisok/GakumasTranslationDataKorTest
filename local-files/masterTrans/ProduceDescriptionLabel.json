@@ -2312,7 +2312,7 @@
           "text": "증가 "
         }
       ],
-      "name": "全力強化"
+      "name": "전력 강화"
     },
     {
       "id": "Label_ExamFullPowerPoint",
@@ -2444,7 +2444,7 @@
           "text": ""
         }
       ],
-      "name": "全力値増加量増加"
+      "name": "전력치 증가량 증가"
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
@@ -3097,7 +3097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "パラメータ上昇値増加量増加"
+          "text": "파라미터 상승치 증가량 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3140,7 +3140,7 @@
           "text": ""
         }
       ],
-      "name": "パラメータ上昇値増加量増加"
+      "name": "파라미터 상승치 증가량 증가"
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
@@ -3233,7 +3233,7 @@
           "text": ""
         }
       ],
-      "name": "集中増加量増加"
+      "name": "집중 증가량 증가"
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
@@ -3734,7 +3734,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "か"
+          "text": "(이)가 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3754,7 +3754,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "の最小値に応じて、1につき10%（仮）増加"
+          "text": "의 최소값에 따라, 1당 10%(임시) 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3767,7 +3767,7 @@
           "text": ""
         }
       ],
-      "name": "プライド(仮)"
+      "name": "프라이드 (임시)"
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
@@ -3856,7 +3856,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上昇量と消費体力を100%減少\n解除されたとき、"
+          "text": "상승량과 소비체력 100% 감소\n해제되면, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3896,7 +3896,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n"
+          "text": " +1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3916,7 +3916,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更した場合、"
+          "text": "로 변경하면,"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3936,7 +3936,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n"
+          "text": " +10 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3956,7 +3956,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更した場合、"
+          "text": "로 변경하면,"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3976,7 +3976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n\n"
+          "text": " +10 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3986,7 +3986,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3996,7 +3996,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "は"
+          "text": "(은)는 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4016,7 +4016,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3段階目に相当し、"
+          "text": " 3단계에 해당되며, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4026,7 +4026,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4036,7 +4036,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "から"
+          "text": "에서 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4056,7 +4056,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "には変更できない\n"
+          "text": "(으)로 변경할 수 없습니다"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4076,7 +4076,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "から"
+          "text": "에서 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4086,7 +4086,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4096,7 +4096,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更した場合、"
+          "text": "로 변경하면,"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4116,10 +4116,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "解除時の効果は発生しない"
+          "text": "해제시의 효과는 발생하지 않는다"
         }
       ],
-      "name": "のんびり"
+      "name": "여유"
     },
     {
       "id": "Label_ExamOverPreservation_Produce",
@@ -4142,7 +4142,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4152,7 +4152,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更する\n"
+          "text": "로 변경\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4172,7 +4172,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上昇量と消費体力を100%減少\n解除されたとき、"
+          "text": "상승량과 소비체력 100% 감소\n해제되면, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4212,7 +4212,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n"
+          "text": " +1 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4232,7 +4232,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更した場合、"
+          "text": "로 변경하면,"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4252,7 +4252,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n"
+          "text": " +10 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4272,7 +4272,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更した場合、"
+          "text": "로 변경하면,"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4292,7 +4292,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n\n"
+          "text": " +10 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4302,7 +4302,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4312,7 +4312,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "は"
+          "text": "(은)는 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4332,7 +4332,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3段階目に相当し、"
+          "text": " 3단계에 해당되며, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4342,7 +4342,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4352,7 +4352,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "から"
+          "text": "에서 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4372,7 +4372,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "には変更できない\n"
+          "text": "(으)로 변경할 수 없습니다"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4392,7 +4392,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "から"
+          "text": "에서 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4402,7 +4402,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "のんびり"
+          "text": "여유"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4412,7 +4412,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "に変更した場合、"
+          "text": "로 변경하면,"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4432,10 +4432,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "解除時の効果は発生しない"
+          "text": "해제시의 효과는 발생하지 않는다"
         }
       ],
-      "name": "のんびり"
+      "name": "여유"
     },
     {
       "id": "Label_ExamPanic",
@@ -4553,7 +4553,7 @@
           "text": ""
         }
       ],
-      "name": "好調増加量増加"
+      "name": "호조 증가량 증가"
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurn",
@@ -5157,7 +5157,7 @@
           "text": ""
         }
       ],
-      "name": "好印象増加量増加"
+      "name": "호인상 증가량 증가"
     },
     {
       "id": "Label_ExamReviewMultiple",
@@ -5233,7 +5233,7 @@
           "text": ""
         }
       ],
-      "name": "好印象強化"
+      "name": "호인상 강화"
     },
     {
       "id": "Label_ExamReviewReduce",
@@ -5742,7 +5742,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "「"
+          "text": " 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6730,7 +6730,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "「"
+          "text": " 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6786,7 +6786,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "「"
+          "text": " 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6852,7 +6852,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "「"
+          "text": " 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6872,7 +6872,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "」「"
+          "text": "」 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6892,7 +6892,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "」「"
+          "text": "」 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7200,7 +7200,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "「"
+          "text": " 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7220,7 +7220,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "」「"
+          "text": "」 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7240,7 +7240,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "」「"
+          "text": "」 「"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
