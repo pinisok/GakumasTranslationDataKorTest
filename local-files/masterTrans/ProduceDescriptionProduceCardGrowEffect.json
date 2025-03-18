@@ -7,11 +7,11 @@
   "data": [
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
-      "name": "파라미터 증가"
+      "name": "파라미터 값 증가"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
-      "name": "파라미터 감소"
+      "name": "파라미터 값 감소"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",
@@ -51,7 +51,7 @@
     },
     {
       "type": "ProduceCardGrowEffectType_CostAdd",
-      "name": "비용 증가"
+      "name": "비용값 증가"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
@@ -208,6 +208,14 @@
     {
       "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
       "name": "호인상 당 파라미터 배율 증가"
+    },
+    {
+      "type": 53,
+      "name": "절호조 비용 증가"
+    },
+    {
+      "type": 54,
+      "name": "절호조 비용 감소"
     }
   ]
 }

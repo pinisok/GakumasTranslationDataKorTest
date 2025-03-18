@@ -94,6 +94,10 @@
       "description": "프로듀서 Lv 상승에 필요한 경험치"
     },
     {
+      "id": "data.linkage.first_confirm.description",
+      "description": "게임 데이터와 반다이 남코 ID를 연동해 다른 단말기와 다른 플랫폼에서도 동일한 데이터로 게임을 계속할 수 있습니다. \\n 반다이 남코 ID에 로그인하여 데이터 연동을 하시겠습니까?"
+    },
+    {
       "id": "exchange.confirm.consumption_shortage",
       "description": "소지한 「{0}」이 부족합니다."
     },
