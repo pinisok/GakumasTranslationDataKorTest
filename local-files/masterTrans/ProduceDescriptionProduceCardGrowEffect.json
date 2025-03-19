@@ -7,11 +7,11 @@
   "data": [
     {
       "type": "ProduceCardGrowEffectType_LessonAdd",
-      "name": "파라미터 값 증가"
+      "name": "파라미터 증가"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonReduce",
-      "name": "파라미터 값 감소"
+      "name": "파라미터 감소"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonCountAdd",

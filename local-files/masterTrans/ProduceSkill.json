@@ -22315,7 +22315,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 레슨 종료 시 P포인트 획득량 증가 +"
+          "text": "댄스 레슨 종료 시, P포인트 획득량 증가 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -22341,7 +22341,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 레슨 종료 시 P포인트 획득량 증가 +"
+          "text": "댄스 레슨 종료 시, P포인트 획득량 증가 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -22367,7 +22367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 레슨 종료 시 P포인트 획득량 증가 +"
+          "text": "댄스 레슨 종료 시, P포인트 획득량 증가 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23199,7 +23199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23225,7 +23225,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23251,7 +23251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23277,7 +23277,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23303,7 +23303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23329,7 +23329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23355,7 +23355,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "댄스 SP 레슨 종료 시 체력 회복 "
+          "text": "댄스 SP 레슨 종료 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25279,7 +25279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "외출 종료 시 체력 회복"
+          "text": "외출 종료 시, 체력 회복"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25305,7 +25305,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "외출 종료 시 체력 회복"
+          "text": "외출 종료 시, 체력 회복"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25331,7 +25331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "외출 종료 시 체력 회복"
+          "text": "외출 종료 시, 체력 회복"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25721,7 +25721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25747,7 +25747,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25773,7 +25773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25799,7 +25799,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25825,7 +25825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25851,7 +25851,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25877,7 +25877,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "수업・영업 종료시, 댄스 상승 +"
+          "text": "수업・영업 종료 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25903,7 +25903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25929,7 +25929,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25955,7 +25955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25981,7 +25981,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26007,7 +26007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26033,7 +26033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26059,7 +26059,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "레슨·영업 종료 시 비주얼 상승+"
+          "text": "수업・영업 종료 시, 비주얼 상승+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26688,6 +26688,114 @@
       ]
     },
     {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000-visual_addition-03-001",
+      "level": 1,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "온존"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000-visual_addition-03-001",
+      "level": 2,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "온존"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_preservation-000-visual_addition-03-001",
+      "level": 3,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamPreservation",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamPreservation_Produce",
+          "text": "온존"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "효과 스킬 카드 획득 시, 비주얼 상승 +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "4"
+        }
+      ]
+    },
+    {
       "id": "p_support_skill-common-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_review-000-dance_addition-02-001",
       "level": 1,
       "produceDescriptions": [
@@ -26771,7 +26879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "스킬 카드 획득시, 보컬 상승 +"
+          "text": "스킬 카드 획득 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26797,7 +26905,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "스킬 카드 획득시, 보컬 상승 +"
+          "text": "스킬 카드 획득 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41891,7 +41999,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41917,7 +42025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41943,7 +42051,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41969,7 +42077,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41995,7 +42103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42021,7 +42129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42047,7 +42155,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 댄스 상승 +"
+          "text": "활동 지급・선물 선택 시, 댄스 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42073,7 +42181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 체력 회복"
+          "text": "활동 지급・선물 선택 시, 체력 회복"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42099,7 +42207,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 체력 회복"
+          "text": "활동 지급・선물 선택 시, 체력 회복"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42125,7 +42233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 체력 회복"
+          "text": "활동 지급・선물 선택 시, 체력 회복"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42151,7 +42259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42177,7 +42285,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42203,7 +42311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42229,7 +42337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42255,7 +42363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42281,7 +42389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42307,7 +42415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택시, 비주얼 상승 +"
+          "text": "활동 지급・선물 선택 시, 비주얼 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42333,7 +42441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42359,7 +42467,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42385,7 +42493,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42411,7 +42519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42437,7 +42545,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42463,7 +42571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42489,7 +42597,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "활동 지급・선물 선택 시 보컬 상승 +"
+          "text": "활동 지급・선물 선택 시, 보컬 상승 +"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -44163,7 +44271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "상담 선택시, 체력 회복 "
+          "text": "상담 선택 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -44189,7 +44297,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "상담 선택시, 체력 회복 "
+          "text": "상담 선택 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -44215,7 +44323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "상담 선택시, 체력 회복 "
+          "text": "상담 선택 시, 체력 회복 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",

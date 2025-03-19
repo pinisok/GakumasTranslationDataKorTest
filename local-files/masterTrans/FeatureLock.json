@@ -33,7 +33,7 @@
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
       "name": "프로듀스 아이돌 특훈",
       "description": "「프로듀스 아이돌 특훈」 기능 해제",
-      "routeDescription": "아이돌의 p아이돌 육성에서 확인할 수 있습니다"
+      "routeDescription": "아이돌의 P아이돌 육성에서 확인할 수 있습니다"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
@@ -50,7 +50,7 @@
     {
       "tutorialType": "TutorialType_Tower",
       "name": "아이돌의 길",
-      "description": "「아이돌 길」 기능 해제",
+      "description": "「아이돌의 길」 기능 해제",
       "routeDescription": "콘테스트의 아이돌의 길에서 확인할 수 있습니다"
     },
     {

@@ -183,7 +183,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "소비체력 감소 효과 증가"
+      "name": "소비 체력 감소 효과 증가"
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",

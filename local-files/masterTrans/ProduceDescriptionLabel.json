@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（"
+          "text": " ("
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -61,12 +61,12 @@
     {
       "id": "Convert_ConditionThreshold",
       "produceDescriptions": [],
-      "name": "수업 CLEAR의 "
+      "name": "레슨 CLEAR의 "
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
       "produceDescriptions": [],
-      "name": "수업 미 CLEAR"
+      "name": "레슨 미 CLEAR"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
@@ -101,12 +101,12 @@
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "produceDescriptions": [],
-      "name": "【비주얼 레슨-비주얼 턴일 경우 】"
+      "name": "【비주얼 레슨・비주얼 턴인 경우 】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【보컬 레슨, 보컬 턴일 경우 】"
+      "name": "【보컬 레슨・보컬 턴인 경우 】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -311,7 +311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "드로우 장수를 증가"
+          "text": "드로우 매수 증가"
         }
       ],
       "name": "드로우 매수 증가"
@@ -327,7 +327,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "드로우 장수가 감소"
+          "text": "드로우 매수 감소"
         }
       ],
       "name": "드로우 매수 감소"
@@ -2973,7 +2973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 시작시 뽑는 스킬 카드가 "
+          "text": "턴 개시시 뽑는 스킬 카드가 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3966,7 +3966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 증가"
+          "text": "파라미터 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4282,7 +4282,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 증가"
+          "text": "파라미터 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4862,7 +4862,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +8 ·"
+          "text": " +8・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5058,7 +5058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +8 ·"
+          "text": " +8・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5507,7 +5507,7 @@
           "text": ""
         }
       ],
-      "name": "소비 체력 경감 "
+      "name": "소비 체력 감소 "
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
@@ -5579,7 +5579,7 @@
           "text": ""
         }
       ],
-      "name": "소비 체력 감소 "
+      "name": "소비 체력 삭감 "
     },
     {
       "id": "Label_ExamStaminaDamage",
@@ -6030,7 +6030,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 증가"
+          "text": "파라미터 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6063,7 +6063,7 @@
           "text": "상승 효과가 없는 스킬 카드에는 영향을 미치지 않음"
         }
       ],
-      "name": "파라미터 값 증가"
+      "name": "파라미터 증가"
     },
     {
       "id": "Label_LessonBonus",
@@ -6264,7 +6264,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 감소"
+          "text": "파라미터 감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6297,7 +6297,7 @@
           "text": "상승 효과가 없는 스킬 카드에는 영향을 미치지 않음\n상승치는 0이 되지 않는다"
         }
       ],
-      "name": "파라미터 값 감소"
+      "name": "파라미터 감소"
     },
     {
       "id": "Label_LessonSupport",
@@ -6586,7 +6586,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_002",
-          "text": "수업 중 1회"
+          "text": "레슨 중 1회"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6619,7 +6619,7 @@
           "text": "이 종료될 때까지, 제외로 이동한다"
         }
       ],
-      "name": "수업 중 1회"
+      "name": "레슨 중 1회"
     },
     {
       "id": "Label_ProduceCardPositionType_DeckFirst",

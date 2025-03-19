@@ -594,7 +594,7 @@
     {
       "supportCardId": "s_card-2-0044",
       "number": 1,
-      "text": "わぁ！　すごく綺麗な音色っ♪"
+      "text": "와! 엄청 아름다운 음색♪"
     },
     {
       "supportCardId": "s_card-2-0044",
@@ -605,6 +605,21 @@
       "supportCardId": "s_card-2-0044",
       "number": 3,
       "text": "上手く吹くの……\nむ、難しいですわ～～～！"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 1,
+      "text": "有村先輩、それ、\n早く外に放ってください！"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 2,
+      "text": "そんなに怖がらなくても……\nほら、こんなに可愛いのに。"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 3,
+      "text": "ふわあっ！？\n見せなくていいですからっ！"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1345,6 +1360,21 @@
       "supportCardId": "s_card-3-0050",
       "number": 3,
       "text": "おお……佑芽、わたしにもやって。"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 1,
+      "text": "手伝ってくれてありがとう、有村さん。\nこれから一緒に頑張ろうね！"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 2,
+      "text": "ああ。あの桜の花がまた咲く頃には、"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 3,
+      "text": "ボクたちも、きっと――"
     }
   ]
 }
