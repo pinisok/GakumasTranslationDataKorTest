@@ -62,6 +62,14 @@
       "arranger": "나나호시 관현악단"
     },
     {
+      "id": "music-all-amao-009",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
+    },
+    {
       "id": "music-all-fktn-001",
       "title": "하지메",
       "displayTitle": "하지메",
@@ -116,6 +124,14 @@
       "lyrics": "나나호시 관현악단",
       "composer": "이와미 리쿠",
       "arranger": "나나호시 관현악단"
+    },
+    {
+      "id": "music-all-fktn-009",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
     },
     {
       "id": "music-all-hrnm-001",
@@ -244,6 +260,14 @@
       "lyrics": "오사와 메이 (Bandai Namco Studios Inc.)",
       "composer": "오사와 메이 (Bandai Namco Studios Inc.)",
       "arranger": "오사와 메이 (Bandai Namco Studios Inc.)"
+    },
+    {
+      "id": "music-all-hski-009",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
     },
     {
       "id": "music-all-hume-001",
@@ -444,6 +468,14 @@
       "lyrics": "나나호시 관현악단",
       "composer": "이와미 리쿠",
       "arranger": "나나호시 관현악단"
+    },
+    {
+      "id": "music-all-kllj-009",
+      "title": "눈이 녹을 때에",
+      "displayTitle": "눈이 녹을 때에",
+      "lyrics": "오야마 쿄코 (Rebrast)",
+      "composer": "카와하라 레오 (Rebrast)",
+      "arranger": "카와하라 레오 (Rebrast)"
     },
     {
       "id": "music-all-shro-001",
@@ -671,7 +703,7 @@
     },
     {
       "id": "music-char-fktn-002",
-      "title": "Yellow Big Bang!",
+      "title": "Yellow Big Bang！",
       "displayTitle": "",
       "lyrics": "야기누마 카나",
       "composer": "세오 쇼타로 (MONACA)",
@@ -745,8 +777,8 @@
       "id": "music-char-jsna-003",
       "title": "Cosmetic",
       "displayTitle": "",
-      "lyrics": "Stephanie Topalian, MOMONADY",
-      "composer": "MOMONADY, YUKI FUNAKOSHI (Digz, Inc. Group)",
+      "lyrics": "Stephanie Topalian、MOMONADY",
+      "composer": "MOMONADY、YUKI FUNAKOSHI (Digz, Inc. Group)",
       "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
     },
     {
@@ -780,6 +812,14 @@
       "lyrics": "나유탄 성인",
       "composer": "나유탄 성인",
       "arranger": "나유탄 성인"
+    },
+    {
+      "id": "music-char-kllj-002",
+      "title": "극광",
+      "displayTitle": "극광",
+      "lyrics": "시게나가 료스케",
+      "composer": "시게나가 료스케",
+      "arranger": "시게나가 료스케"
     },
     {
       "id": "music-char-kllj-003",

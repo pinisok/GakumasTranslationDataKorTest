@@ -1645,6 +1645,22 @@
       "name": "꼭 전해드리겠습니다!"
     },
     {
+      "id": "s_card-3-0049",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 확률 대"
+        }
+      ],
+      "name": "스스로 설 수 있어?"
+    },
+    {
       "id": "s_card-3-0050",
       "upgradeProduceCardProduceDescriptions": [
         {

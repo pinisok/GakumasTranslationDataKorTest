@@ -2187,11 +2187,11 @@
     },
     {
       "id": "mission-normal-absolutedearnesslevel-1",
-      "name": "어느 한 아이돌의 친애도 Lv를 {threshold}으로 만들자."
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "mission-normal-absolutefancount-1",
-      "name": "총 팬 수를 {threshold}명으로 하자"
+      "name": "총 팬 수 {threshold} 명 모으자"
     },
     {
       "id": "mission-normal-absoluteidolcardcount-1",
@@ -2239,7 +2239,7 @@
     },
     {
       "id": "mission-normal-absolutepvprateunitoverallpower-1",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "mission-normal-absolutesupportcardcount-1",
@@ -2294,6 +2294,14 @@
       "name": "평가 S+이상의 메모리를 {threshold}회 획득하자"
     },
     {
+      "id": "mission-normal-incrementmemorygradecount-ss-1",
+      "name": "評価SS以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-ss-2",
+      "name": "評価SS+以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
       "id": "mission-normal-incrementmissionclear-1",
       "name": "과제를 {threshold}개 클리어하자"
     },
@@ -2315,7 +2323,7 @@
     },
     {
       "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
@@ -2335,7 +2343,7 @@
     },
     {
       "id": "mission-normal-incrementworktimecount-1",
-      "name": "업무를 총 {threshold} 시간 하자"
+      "name": "お仕事を合計{threshold}時間しよう"
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
@@ -2603,7 +2611,7 @@
     },
     {
       "id": "mission-release_mission-1-5",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-1-6",
@@ -2627,7 +2635,7 @@
     },
     {
       "id": "mission-release_mission-2-5",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-2-6",
@@ -2659,7 +2667,7 @@
     },
     {
       "id": "mission-release_mission-3-7",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-3-8",
@@ -2683,7 +2691,7 @@
     },
     {
       "id": "mission-release_mission-4-5",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-4-6",
@@ -2703,7 +2711,7 @@
     },
     {
       "id": "mission-release_mission-5-4",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-5-5",
@@ -2731,7 +2739,7 @@
     },
     {
       "id": "mission-release_mission-6-6",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-6-7",
@@ -2751,7 +2759,7 @@
     },
     {
       "id": "mission-release_mission-7-4",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "mission-release_mission-7-5",
@@ -2879,7 +2887,7 @@
     },
     {
       "id": "mission-weekly-incrementworktimecount-1",
-      "name": "업무를 총 {threshold} 시간 하자"
+      "name": "お仕事を合計{threshold}時間しよう"
     },
     {
       "id": "panel_mission-event-002-mission_1",
@@ -3147,11 +3155,11 @@
     },
     {
       "id": "panel_mission-event-niv-mission_4",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "panel_mission-event-niv-mission_5",
-      "name": "어느 한 아이돌의 친애도 Lv를 {threshold}으로 만들자."
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "panel_mission-event-niv-mission_6",
@@ -3159,15 +3167,15 @@
     },
     {
       "id": "panel_mission-event-niv-mission_7",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "panel_mission-event-niv-mission_8",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "panel_mission-event-niv-mission_9",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
@@ -3566,6 +3574,18 @@
       "name": "【Campus mode!!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-008-01",
+      "name": "【극광】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-02",
+      "name": "【극광】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-03",
+      "name": "【극광】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "【콘트라스트】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
@@ -3943,7 +3963,11 @@
     },
     {
       "id": "achieve-p_common-026",
-      "name": "최종 시험을 스코어 SS 이상으로 {threshold}회 합격"
+      "name": "최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_common-027",
+      "name": "최종 시험을 스코어 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -3995,7 +4019,7 @@
     },
     {
       "id": "achieve-p_idol-amao-011",
-      "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하기"
+      "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-amao-012",
@@ -4028,6 +4052,10 @@
     {
       "id": "achieve-p_idol-amao-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-amao-020",
+      "name": "아리무라 마오로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -4295,7 +4323,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-011",
-      "name": "후지타 코토네의 친애도 Lv을 {threshold}으로 만들기"
+      "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-fktn-012",
@@ -4328,6 +4356,10 @@
     {
       "id": "achieve-p_idol-fktn-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-fktn-020",
+      "name": "후지타 코토네로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -4379,7 +4411,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-011",
-      "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하기"
+      "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-hrnm-012",
@@ -4412,6 +4444,10 @@
     {
       "id": "achieve-p_idol-hrnm-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-020",
+      "name": "히메사키 리나미로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -4463,7 +4499,7 @@
     },
     {
       "id": "achieve-p_idol-hski-011",
-      "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하기"
+      "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-hski-012",
@@ -4496,6 +4532,10 @@
     {
       "id": "achieve-p_idol-hski-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-hski-020",
+      "name": "하나미 사키로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -4547,7 +4587,7 @@
     },
     {
       "id": "achieve-p_idol-hume-011",
-      "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하기"
+      "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-hume-012",
@@ -4580,6 +4620,10 @@
     {
       "id": "achieve-p_idol-hume-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-hume-020",
+      "name": "하나미 우메로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -4666,6 +4710,10 @@
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-jsna-020",
+      "name": "주오 세나로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "쿠라모토 치나로 True End를 보기"
     },
@@ -4715,7 +4763,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-011",
-      "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하기"
+      "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-kcna-012",
@@ -4748,6 +4796,10 @@
     {
       "id": "achieve-p_idol-kcna-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-kcna-020",
+      "name": "쿠라모토 치나로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -4799,7 +4851,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-011",
-      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold}으로 만들기"
+      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-kllj-012",
@@ -4832,6 +4884,10 @@
     {
       "id": "achieve-p_idol-kllj-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-kllj-020",
+      "name": "카츠라기 릴리야로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -4883,7 +4939,7 @@
     },
     {
       "id": "achieve-p_idol-shro-011",
-      "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하기"
+      "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-shro-012",
@@ -4916,6 +4972,10 @@
     {
       "id": "achieve-p_idol-shro-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-shro-020",
+      "name": "시노사와 히로로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -4967,7 +5027,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-011",
-      "name": "시운 스미카의 친애도 Lv을 {threshold}으로 만들기"
+      "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-ssmk-012",
@@ -5000,6 +5060,10 @@
     {
       "id": "achieve-p_idol-ssmk-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-020",
+      "name": "시운 스미카로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -5051,7 +5115,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-011",
-      "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하기"
+      "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-ttmr-012",
@@ -5084,6 +5148,10 @@
     {
       "id": "achieve-p_idol-ttmr-019",
       "name": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-020",
+      "name": "츠키무라 테마리로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "main_task_group-01-01#1",
@@ -5179,7 +5247,7 @@
     },
     {
       "id": "main_task_group-01-01#24",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-01-01#25",
@@ -5191,7 +5259,7 @@
     },
     {
       "id": "main_task_group-01-01#27",
-      "name": "어느 한 아이돌의 친애도 Lv를 {threshold}으로 만들자."
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-01-01#28",
@@ -5211,7 +5279,7 @@
     },
     {
       "id": "main_task_group-01-01#32",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-01-01#33",
@@ -5259,11 +5327,11 @@
     },
     {
       "id": "main_task_group-01-01#44",
-      "name": "어느 한 아이돌의 친애도 Lv를 {threshold}으로 만들자."
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-01-01#45",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-01-01#46",
@@ -5275,7 +5343,7 @@
     },
     {
       "id": "main_task_group-01-01#48",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-01-01#49",
@@ -5303,7 +5371,7 @@
     },
     {
       "id": "main_task_group-01-01#55",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-01-01#56",
@@ -5319,7 +5387,7 @@
     },
     {
       "id": "main_task_group-01-01#59",
-      "name": "어느 한 아이돌의 친애도 Lv를 {threshold}으로 만들자."
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-01-01#60",
@@ -5327,7 +5395,7 @@
     },
     {
       "id": "main_task_group-02-01#1",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-02-01#2",
@@ -5339,11 +5407,11 @@
     },
     {
       "id": "main_task_group-02-01#4",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#5",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#6",
@@ -5359,7 +5427,7 @@
     },
     {
       "id": "main_task_group-02-01#9",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "main_task_group-02-01#10",
@@ -5371,7 +5439,7 @@
     },
     {
       "id": "main_task_group-02-01#12",
-      "name": "업무를 총 {threshold} 시간 하자"
+      "name": "お仕事を合計{threshold}時間しよう"
     },
     {
       "id": "main_task_group-02-01#13",
@@ -5383,7 +5451,7 @@
     },
     {
       "id": "main_task_group-02-01#15",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#16",
@@ -5403,19 +5471,19 @@
     },
     {
       "id": "main_task_group-02-01#20",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#21",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#22",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-02-01#23",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "main_task_group-02-01#24",
@@ -5447,7 +5515,7 @@
     },
     {
       "id": "main_task_group-02-01#31",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#32",
@@ -5463,7 +5531,7 @@
     },
     {
       "id": "main_task_group-02-01#35",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#36",
@@ -5475,7 +5543,7 @@
     },
     {
       "id": "main_task_group-02-01#38",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-02-01#39",
@@ -5519,11 +5587,11 @@
     },
     {
       "id": "main_task_group-02-01#49",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#50",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "main_task_group-02-01#51",
@@ -5531,7 +5599,7 @@
     },
     {
       "id": "main_task_group-02-01#52",
-      "name": "업무를 총 {threshold} 시간 하자"
+      "name": "お仕事を合計{threshold}時間しよう"
     },
     {
       "id": "main_task_group-02-01#53",
@@ -5547,7 +5615,7 @@
     },
     {
       "id": "main_task_group-02-01#56",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-02-01#57",
@@ -5559,15 +5627,15 @@
     },
     {
       "id": "main_task_group-02-01#59",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#60",
-      "name": "어느 한 아이돌의 친애도 Lv를 {threshold}으로 만들자."
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-02-01#61",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#62",
@@ -5575,7 +5643,7 @@
     },
     {
       "id": "main_task_group-02-01#63",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#64",
@@ -5583,7 +5651,7 @@
     },
     {
       "id": "main_task_group-02-01#65",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#66",
@@ -5595,7 +5663,7 @@
     },
     {
       "id": "main_task_group-02-01#68",
-      "name": "총 팬 수를 {threshold}명으로 하자"
+      "name": "총 팬 수 {threshold} 명 모으자"
     },
     {
       "id": "main_task_group-02-01#69",
@@ -5607,11 +5675,11 @@
     },
     {
       "id": "main_task_group-02-01#71",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#72",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-02-01#73",
@@ -5623,11 +5691,11 @@
     },
     {
       "id": "main_task_group-02-01#75",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#76",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#77",
@@ -5643,11 +5711,11 @@
     },
     {
       "id": "main_task_group-02-01#80",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-02-01#81",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#82",
@@ -5663,7 +5731,7 @@
     },
     {
       "id": "main_task_group-02-01#85",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#86",
@@ -5671,7 +5739,7 @@
     },
     {
       "id": "main_task_group-02-01#87",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-02-01#88",
@@ -5687,7 +5755,7 @@
     },
     {
       "id": "main_task_group-02-01#91",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#92",
@@ -5699,15 +5767,15 @@
     },
     {
       "id": "main_task_group-02-01#94",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "main_task_group-02-01#95",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-02-01#96",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6으로 만들자"
     },
     {
       "id": "main_task_group-02-01#97",
@@ -5723,7 +5791,7 @@
     },
     {
       "id": "main_task_group-02-01#100",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#1",
@@ -5751,19 +5819,19 @@
     },
     {
       "id": "main_task_group-03-01#7",
-      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#8",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#9",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "main_task_group-03-01#10",
-      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#11",
@@ -5771,7 +5839,7 @@
     },
     {
       "id": "main_task_group-03-01#12",
-      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#13",
@@ -5783,11 +5851,11 @@
     },
     {
       "id": "main_task_group-03-01#15",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-03-01#16",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#17",
@@ -5799,11 +5867,11 @@
     },
     {
       "id": "main_task_group-03-01#19",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6으로 만들자"
     },
     {
       "id": "main_task_group-03-01#20",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-03-01#21",
@@ -5811,7 +5879,7 @@
     },
     {
       "id": "main_task_group-03-01#22",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#23",
@@ -5823,19 +5891,19 @@
     },
     {
       "id": "main_task_group-03-01#25",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-03-01#26",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-03-01#27",
-      "name": "스킬 카드 {threshold}종류를 획득하자"
+      "name": "スキルカードを{threshold}種類獲得しよう"
     },
     {
       "id": "main_task_group-03-01#28",
-      "name": "총 팬 수를 {threshold}명으로 하자"
+      "name": "총 팬 수 {threshold} 명 모으자"
     },
     {
       "id": "main_task_group-03-01#29",
@@ -5843,19 +5911,19 @@
     },
     {
       "id": "main_task_group-03-01#30",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#31",
-      "name": "콘테스트에서 유닛 종합력을 {threshold} 이상으로 만들자"
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
     },
     {
       "id": "main_task_group-03-01#32",
-      "name": "업무를 총 {threshold} 시간 하자"
+      "name": "お仕事を合計{threshold}時間しよう"
     },
     {
       "id": "main_task_group-03-01#33",
-      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6로 만들자"
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6으로 만들자"
     },
     {
       "id": "main_task_group-03-01#34",
@@ -5867,63 +5935,263 @@
     },
     {
       "id": "main_task_group-03-01#36",
-      "name": "콘테스트에서 {threshold} 이상의 점수를 획득하자"
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
     },
     {
       "id": "main_task_group-03-01#37",
-      "name": "아이돌 길에서 ★를 총 {threshold}개 이상 획득하자"
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#38",
-      "name": "프로듀서 Lv{threshold}에 도달하자!"
+      "name": "プロデューサーLv{threshold}に到達しよう"
     },
     {
       "id": "main_task_group-03-01#39",
-      "name": "하나미 사키의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#40",
-      "name": "츠키무라 테마리의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#41",
-      "name": "후지타 코토네의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#42",
-      "name": "아리무라 마오의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#43",
-      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#44",
-      "name": "쿠라모토 치나의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#45",
-      "name": "시운 스미카의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#46",
-      "name": "시노사와 히로의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#47",
-      "name": "하나미 우메의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#48",
-      "name": "히메사키 리나미의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#49",
-      "name": "주오 세나의 친애도 Lv을 {threshold}으로 올리자"
+      "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "main_task_group-03-01#50",
       "name": "프로듀스에 도전해 평가 S 이상을 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#51",
+      "name": "프로듀스에서 N.I.A에 도전하자"
+    },
+    {
+      "id": "main_task_group-03-01#52",
+      "name": "업적을 {threshold}개 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#53",
+      "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6으로 만들자"
+    },
+    {
+      "id": "main_task_group-03-01#54",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#55",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#56",
+      "name": "콘테스트에 도전하자"
+    },
+    {
+      "id": "main_task_group-03-01#57",
+      "name": "N.I.A에서 스킬 카드를 {threshold} 번 커스터마이징 하자"
+    },
+    {
+      "id": "main_task_group-03-01#58",
+      "name": "N.I.A에서 팬 투표 수를 {threshold} 만큼 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#59",
+      "name": "업적을 {threshold}개 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#60",
+      "name": "N.I.A에서 최종 오디션에 합격하자"
+    },
+    {
+      "id": "main_task_group-03-01#61",
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#62",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#63",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#64",
+      "name": "총 팬 수 {threshold} 명 모으자"
+    },
+    {
+      "id": "main_task_group-03-01#65",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-03-01#66",
+      "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜：센스의 프로듀스 아이돌"
+    },
+    {
+      "id": "main_task_group-03-01#67",
+      "name": "프로듀스 중에 파라미터 중 하나를 1,700 이상으로 육성하자"
+    },
+    {
+      "id": "main_task_group-03-01#68",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#69",
+      "name": "N.I.A에서 스킬 카드를 {threshold} 번 커스터마이징 하자"
+    },
+    {
+      "id": "main_task_group-03-01#70",
+      "name": "업적을 {threshold}개 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#71",
+      "name": "프로듀스 중에 특별 지도를 {threshold}번 선택하자"
+    },
+    {
+      "id": "main_task_group-03-01#72",
+      "name": "아이돌 한 명의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#73",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-03-01#74",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-03-01#75",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#76",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#77",
+      "name": "N.I.A에서 팬 투표 수를 {threshold} 만큼 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#78",
+      "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】 플랜 : 로직 프로듀스 아이돌 "
+    },
+    {
+      "id": "main_task_group-03-01#79",
+      "name": "총 팬 수 {threshold} 명 모으자"
+    },
+    {
+      "id": "main_task_group-03-01#80",
+      "name": "업적을 {threshold}개 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#81",
+      "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜：어노말리의 프로듀스 아이돌"
+    },
+    {
+      "id": "main_task_group-03-01#82",
+      "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#83",
+      "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#84",
+      "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#85",
+      "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#86",
+      "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#87",
+      "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#88",
+      "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#89",
+      "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#90",
+      "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#91",
+      "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#92",
+      "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "main_task_group-03-01#93",
+      "name": "N.I.A에서 스킬 카드를 {threshold} 번 커스터마이징 하자"
+    },
+    {
+      "id": "main_task_group-03-01#94",
+      "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#95",
+      "name": "True End : N.I.A를 {threshold} 명 보자"
+    },
+    {
+      "id": "main_task_group-03-01#96",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#97",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#98",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-03-01#99",
+      "name": "프로듀스에 도전해 평가 S+ 이상을 획득하자"
+    },
+    {
+      "id": "main_task_group-03-01#100",
+      "name": "True End : N.I.A를 {threshold} 명 보자"
     }
   ]
 }

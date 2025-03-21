@@ -501,6 +501,21 @@
       "description": "【Campus mode!!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-008-01",
+      "name": "반짝반짝 프리즘",
+      "description": "【극광】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-02",
+      "name": "극광",
+      "description": "【극광】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-03",
+      "name": "그대로 나에게",
+      "description": "【극광】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "버스에 흔들려",
       "description": "【콘트라스트】시노사와 히로의 프로듀스로 최종 시험에 합격"
@@ -976,6 +991,11 @@
       "description": "최종 시험을 스코어 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_common-027",
+      "name": "재능을 키우는 자",
+      "description": "최종 시험을 스코어 SS+ 이상으로 {threshold}회 합격"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "진정한 나",
       "description": "아리무라 마오로 True End를 보기"
@@ -1079,6 +1099,11 @@
       "id": "achieve-p_idol-amao-019",
       "name": "많은 갈채",
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-amao-020",
+      "name": "받아들이며, 나답게",
+      "description": "아리무라 마오로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -1456,6 +1481,11 @@
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-fktn-020",
+      "name": "추구해 온 별빛",
+      "description": "후지타 코토네로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "진정한 마음",
       "description": "히메사키 리나미로 True End를 보기"
@@ -1559,6 +1589,11 @@
       "id": "achieve-p_idol-hrnm-019",
       "name": "지켜야 할 존재",
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-020",
+      "name": "꿈을 맡고, 꿈을 보여주다",
+      "description": "히메사키 리나미로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -1666,6 +1701,11 @@
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-hski-020",
+      "name": "아이돌로서의 무기",
+      "description": "하나미 사키로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "인생 최고의 파인 플레이",
       "description": "하나미 우메로 True End를 보기"
@@ -1771,6 +1811,11 @@
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-hume-020",
+      "name": "추가 브레이크스루",
+      "description": "하나미 우메로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+    },
+    {
       "id": "achieve-p_idol-jsna-000",
       "name": "진정한 탑 아이돌",
       "description": "주오 세나 True End 보기"
@@ -1858,7 +1903,7 @@
     {
       "id": "achieve-p_idol-jsna-016",
       "name": "함께 정점을 향해",
-      "description": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득 "
+      "description": "주오 세나로 최종 시험에 합격해 평가 S+ 이상을 {threshold}회 획득 "
     },
     {
       "id": "achieve-p_idol-jsna-017",
@@ -1874,6 +1919,11 @@
       "id": "achieve-p_idol-jsna-019",
       "name": "스타 게이저",
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-jsna-020",
+      "name": "손에 넣은 반짝임",
+      "description": "주오 세나로 최종 시험에 합격해 평가 SS 이상을 {threshold}회 획득 "
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -1981,6 +2031,11 @@
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-kcna-020",
+      "name": "떼어낼 수 없는 힘",
+      "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "빛",
       "description": "카츠라기 릴리야로 True End를 보기"
@@ -2086,6 +2141,11 @@
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-kllj-020",
+      "name": "약함은 강함",
+      "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+    },
+    {
       "id": "achieve-p_idol-shro-000",
       "name": "계속, 즐거울거야",
       "description": "시노사와 히로로 True End를 보기"
@@ -2093,7 +2153,7 @@
     {
       "id": "achieve-p_idol-shro-000-1",
       "name": "우리의 꿈",
-      "description": "시노사와 히로 로 True End  : N.I.A 보기"
+      "description": "시노사와 히로로 True End  : N.I.A 보기"
     },
     {
       "id": "achieve-p_idol-shro-001",
@@ -2133,7 +2193,7 @@
     {
       "id": "achieve-p_idol-shro-008",
       "name": "다음 과제는 뭐야?",
-      "description": "시노사와 히로의 특훈 단계를 {threshold}으로 설정한다."
+      "description": "시노사와 히로의 특훈 단계를 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-shro-009",
@@ -2189,6 +2249,11 @@
       "id": "achieve-p_idol-shro-019",
       "name": "별난 사람이 가득해",
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-shro-020",
+      "name": "데스로드, 돌파",
+      "description": "시노사와 히로로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -2296,6 +2361,11 @@
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
     },
     {
+      "id": "achieve-p_idol-ssmk-020",
+      "name": "더 이상 숨기지 않아",
+      "description": "시운 스미카로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "나만을 위한 프로듀서",
       "description": "츠키무라 테마리로 True End를 보기"
@@ -2399,6 +2469,11 @@
       "id": "achieve-p_idol-ttmr-019",
       "name": "특별하고 운명적인",
       "description": "프로듀스에서 팬 투표 수를 {threshold}획득"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-020",
+      "name": "드디어, 같은 높이에서",
+      "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
     }
   ]
 }

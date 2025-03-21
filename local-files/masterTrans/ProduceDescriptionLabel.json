@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " ("
+          "text": "（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -101,12 +101,12 @@
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "produceDescriptions": [],
-      "name": "【비주얼 레슨・비주얼 턴인 경우 】"
+      "name": "【비주얼 레슨-비주얼 턴일 경우 】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【보컬 레슨・보컬 턴인 경우 】"
+      "name": "【보컬 레슨, 보컬 턴일 경우 】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -1018,7 +1018,7 @@
           "text": "강화 상태나 저하 상태의 영향을 받지 않고, 대상의 효과를 증가"
         }
       ],
-      "name": " 배 "
+      "name": "배 "
     },
     {
       "id": "Label_ExamAddGrowEffect",
@@ -1929,7 +1929,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": "、"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3896,7 +3896,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +1 "
+          "text": " +1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3936,7 +3936,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +10 "
+          "text": " +10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3966,7 +3966,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 증가"
+          "text": "파라미터 값 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3976,12 +3976,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +10 "
+          "text": " +10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -4021,7 +4021,7 @@
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -4081,7 +4081,7 @@
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -4137,7 +4137,7 @@
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -4212,7 +4212,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +1 "
+          "text": " +1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4252,7 +4252,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +10 "
+          "text": " +10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4282,7 +4282,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 증가"
+          "text": "파라미터 값 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4292,12 +4292,12 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +10 "
+          "text": " +10"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -4337,7 +4337,7 @@
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -4397,7 +4397,7 @@
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
           "examDescriptionType": "ExamDescriptionType_Unknown",
-          "examEffectType": 167,
+          "examEffectType": "ProduceExamEffectType_ExamOverPreservation",
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
@@ -5507,7 +5507,7 @@
           "text": ""
         }
       ],
-      "name": "소비 체력 감소 "
+      "name": "소비 체력 경감 "
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
@@ -5579,7 +5579,7 @@
           "text": ""
         }
       ],
-      "name": "소비 체력 삭감 "
+      "name": "소비 체력 감소 "
     },
     {
       "id": "Label_ExamStaminaDamage",
@@ -6030,7 +6030,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 증가"
+          "text": "파라미터 값 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6063,7 +6063,7 @@
           "text": "상승 효과가 없는 스킬 카드에는 영향을 미치지 않음"
         }
       ],
-      "name": "파라미터 증가"
+      "name": "파라미터 값 증가"
     },
     {
       "id": "Label_LessonBonus",
@@ -6264,7 +6264,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 감소"
+          "text": "파라미터 값 감소"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6297,7 +6297,7 @@
           "text": "상승 효과가 없는 스킬 카드에는 영향을 미치지 않음\n상승치는 0이 되지 않는다"
         }
       ],
-      "name": "파라미터 감소"
+      "name": "파라미터 값 감소"
     },
     {
       "id": "Label_LessonSupport",

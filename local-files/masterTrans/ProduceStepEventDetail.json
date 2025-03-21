@@ -63516,6 +63516,18 @@
       "produceDescriptions": []
     },
     {
+      "id": "event-detail-p_story-i_card-kllj-3-008-01",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-kllj-3-008-02",
+      "produceDescriptions": []
+    },
+    {
+      "id": "event-detail-p_story-i_card-kllj-3-008-03",
+      "produceDescriptions": []
+    },
+    {
       "id": "event-detail-p_story-i_card-shro-3-001-01",
       "produceDescriptions": []
     },
@@ -64758,7 +64770,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_00-2-007-0",
-          "text": "함께 낮잠 포푸리"
+          "text": "함꼐 낮잠 포푸리"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66308,7 +66320,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-03-sup-2_096",
-          "text": "작은 손님"
+          "text": "어린 손님"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -68628,7 +68640,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "pitem_01-3-058-0",
-          "text": "따끈따끈 만복"
+          "text": "홋코리 만푸쿠"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69944,6 +69956,81 @@
     },
     {
       "id": "event-detail-s_card-3-0048-03",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "이름에 「기본」을 포함하는 무작위 스킬 카드를 다른 스킬 카드로 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardChange",
+          "text": "체인지"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0049-01",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "pitem_00-3-119-0",
+          "text": "자립 신발"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "을(를) 획득"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0049-02",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "댄스 상승 +"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "id": "event-detail-s_card-3-0049-03",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
