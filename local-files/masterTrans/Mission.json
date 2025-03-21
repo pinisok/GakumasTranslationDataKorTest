@@ -2239,7 +2239,7 @@
     },
     {
       "id": "mission-normal-absolutepvprateunitoverallpower-1",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "mission-normal-absolutesupportcardcount-1",
@@ -2291,15 +2291,15 @@
     },
     {
       "id": "mission-normal-incrementmemorygradecount-s-2",
-      "name": "평가 S+이상의 메모리를 {threshold}회 획득하자"
+      "name": "평가 S+ 이상의 메모리를 {threshold}회 획득하자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-ss-1",
-      "name": "評価SS以上のメモリーを{threshold}回獲得しよう"
+      "name": "평가 SS 이상의 메모리를 {threshold}회 획득하자"
     },
     {
       "id": "mission-normal-incrementmemorygradecount-ss-2",
-      "name": "評価SS+以上のメモリーを{threshold}回獲得しよう"
+      "name": "평가 SS+ 이상의 메모리를 {threshold}회 획득하자"
     },
     {
       "id": "mission-normal-incrementmissionclear-1",
@@ -2323,7 +2323,7 @@
     },
     {
       "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "mission-normal-incrementpvpratewincount-1",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": "mission-normal-incrementworktimecount-1",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
@@ -2611,7 +2611,7 @@
     },
     {
       "id": "mission-release_mission-1-5",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-1-6",
@@ -2635,7 +2635,7 @@
     },
     {
       "id": "mission-release_mission-2-5",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-2-6",
@@ -2667,7 +2667,7 @@
     },
     {
       "id": "mission-release_mission-3-7",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-3-8",
@@ -2691,7 +2691,7 @@
     },
     {
       "id": "mission-release_mission-4-5",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-4-6",
@@ -2711,7 +2711,7 @@
     },
     {
       "id": "mission-release_mission-5-4",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-5-5",
@@ -2739,7 +2739,7 @@
     },
     {
       "id": "mission-release_mission-6-6",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-6-7",
@@ -2759,7 +2759,7 @@
     },
     {
       "id": "mission-release_mission-7-4",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "mission-release_mission-7-5",
@@ -2887,7 +2887,7 @@
     },
     {
       "id": "mission-weekly-incrementworktimecount-1",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "panel_mission-event-002-mission_1",
@@ -3155,7 +3155,7 @@
     },
     {
       "id": "panel_mission-event-niv-mission_4",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "panel_mission-event-niv-mission_5",
@@ -3167,15 +3167,15 @@
     },
     {
       "id": "panel_mission-event-niv-mission_7",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "panel_mission-event-niv-mission_8",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "panel_mission-event-niv-mission_9",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
@@ -5247,7 +5247,7 @@
     },
     {
       "id": "main_task_group-01-01#24",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-01-01#25",
@@ -5279,7 +5279,7 @@
     },
     {
       "id": "main_task_group-01-01#32",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-01-01#33",
@@ -5331,7 +5331,7 @@
     },
     {
       "id": "main_task_group-01-01#45",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-01-01#46",
@@ -5343,7 +5343,7 @@
     },
     {
       "id": "main_task_group-01-01#48",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-01-01#49",
@@ -5371,7 +5371,7 @@
     },
     {
       "id": "main_task_group-01-01#55",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-01-01#56",
@@ -5395,7 +5395,7 @@
     },
     {
       "id": "main_task_group-02-01#1",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-02-01#2",
@@ -5407,11 +5407,11 @@
     },
     {
       "id": "main_task_group-02-01#4",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#5",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#6",
@@ -5427,7 +5427,7 @@
     },
     {
       "id": "main_task_group-02-01#9",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-02-01#10",
@@ -5439,7 +5439,7 @@
     },
     {
       "id": "main_task_group-02-01#12",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-02-01#13",
@@ -5451,7 +5451,7 @@
     },
     {
       "id": "main_task_group-02-01#15",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#16",
@@ -5471,19 +5471,19 @@
     },
     {
       "id": "main_task_group-02-01#20",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#21",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#22",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-02-01#23",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-02-01#24",
@@ -5515,7 +5515,7 @@
     },
     {
       "id": "main_task_group-02-01#31",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#32",
@@ -5531,7 +5531,7 @@
     },
     {
       "id": "main_task_group-02-01#35",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#36",
@@ -5543,7 +5543,7 @@
     },
     {
       "id": "main_task_group-02-01#38",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-02-01#39",
@@ -5587,11 +5587,11 @@
     },
     {
       "id": "main_task_group-02-01#49",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#50",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-02-01#51",
@@ -5599,7 +5599,7 @@
     },
     {
       "id": "main_task_group-02-01#52",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-02-01#53",
@@ -5615,7 +5615,7 @@
     },
     {
       "id": "main_task_group-02-01#56",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-02-01#57",
@@ -5627,7 +5627,7 @@
     },
     {
       "id": "main_task_group-02-01#59",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#60",
@@ -5643,7 +5643,7 @@
     },
     {
       "id": "main_task_group-02-01#63",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#64",
@@ -5651,7 +5651,7 @@
     },
     {
       "id": "main_task_group-02-01#65",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#66",
@@ -5679,7 +5679,7 @@
     },
     {
       "id": "main_task_group-02-01#72",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-02-01#73",
@@ -5691,11 +5691,11 @@
     },
     {
       "id": "main_task_group-02-01#75",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#76",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#77",
@@ -5711,7 +5711,7 @@
     },
     {
       "id": "main_task_group-02-01#80",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-02-01#81",
@@ -5731,7 +5731,7 @@
     },
     {
       "id": "main_task_group-02-01#85",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#86",
@@ -5739,7 +5739,7 @@
     },
     {
       "id": "main_task_group-02-01#87",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-02-01#88",
@@ -5767,11 +5767,11 @@
     },
     {
       "id": "main_task_group-02-01#94",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-02-01#95",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-02-01#96",
@@ -5827,7 +5827,7 @@
     },
     {
       "id": "main_task_group-03-01#9",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-03-01#10",
@@ -5851,7 +5851,7 @@
     },
     {
       "id": "main_task_group-03-01#15",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#16",
@@ -5871,7 +5871,7 @@
     },
     {
       "id": "main_task_group-03-01#20",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-03-01#21",
@@ -5891,15 +5891,15 @@
     },
     {
       "id": "main_task_group-03-01#25",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#26",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-03-01#27",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-03-01#28",
@@ -5915,11 +5915,11 @@
     },
     {
       "id": "main_task_group-03-01#31",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-03-01#32",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-03-01#33",
@@ -5935,7 +5935,7 @@
     },
     {
       "id": "main_task_group-03-01#36",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#37",
@@ -5943,7 +5943,7 @@
     },
     {
       "id": "main_task_group-03-01#38",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-03-01#39",
@@ -6007,11 +6007,11 @@
     },
     {
       "id": "main_task_group-03-01#54",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-03-01#55",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#56",
@@ -6039,11 +6039,11 @@
     },
     {
       "id": "main_task_group-03-01#62",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-03-01#63",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#64",
@@ -6051,7 +6051,7 @@
     },
     {
       "id": "main_task_group-03-01#65",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-03-01#66",
@@ -6063,7 +6063,7 @@
     },
     {
       "id": "main_task_group-03-01#68",
-      "name": "スキルカードを{threshold}種類獲得しよう"
+      "name": "스킬 카드를 총 {threshold} 종류 획득하자"
     },
     {
       "id": "main_task_group-03-01#69",
@@ -6083,19 +6083,19 @@
     },
     {
       "id": "main_task_group-03-01#73",
-      "name": "お仕事を合計{threshold}時間しよう"
+      "name": "일을 총 {threshold} 시간 하자"
     },
     {
       "id": "main_task_group-03-01#74",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-03-01#75",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-03-01#76",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#77",
@@ -6175,15 +6175,15 @@
     },
     {
       "id": "main_task_group-03-01#96",
-      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+      "name": "콘테스트의 유닛 종합력을 {threshold} 이상 만들자"
     },
     {
       "id": "main_task_group-03-01#97",
-      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+      "name": "콘테스트에서 점수를 {threshold}점 이상 획득하자"
     },
     {
       "id": "main_task_group-03-01#98",
-      "name": "プロデューサーLv{threshold}に到達しよう"
+      "name": "프로듀서 Lv {threshold}에 도달하자"
     },
     {
       "id": "main_task_group-03-01#99",
