@@ -27,7 +27,7 @@
     },
     {
       "id": "achievement.true_end.nia_condition",
-      "description": "최종 오디션에서 「FINALE」 오디션을 선택하여 1위 획득"
+      "description": "최종 오디션에서 「FINALE」 오디션을 선택하여 1위를 획득한다"
     },
     {
       "id": "angya.top.user_status.exchange",
@@ -39,7 +39,7 @@
     },
     {
       "id": "card.idol_card.preview.attention",
-      "description": "True End 보너스는 현재 상황을 반영합니다"
+      "description": "True End 보너스는 현재 상황이 반영됩니다"
     },
     {
       "id": "card.idol_card.release.confirm.sheet.message",
@@ -51,7 +51,7 @@
     },
     {
       "id": "card.idol_card.skin_new_confirm_warning",
-      "description": "※라이브 악곡이 변경됩니다."
+      "description": "※라이브 악곡이 변경됩니다.\\n※어나더ver.인 프로듀스 아이돌을 프로듀스 할 경우, 프로듀스 아이돌 커뮤니케이션은 발생하지 않습니다"
     },
     {
       "id": "card.sort.produce_dance_growth_rate_permil",
@@ -95,7 +95,7 @@
     },
     {
       "id": "common.network.error.purchase_limit.description",
-      "description": "구매 한도에 도달해 구매 할 수 없습니다. 아래에서 문의하십시오."
+      "description": "구매 한도에 도달해 구매 할 수 없습니다. 아래에서 문의해주세요."
     },
     {
       "id": "common.user_exp.description",
@@ -115,7 +115,7 @@
     },
     {
       "id": "home.gasha.draw_jewel_confirm_sheet.description.multiple_button",
-      "description": "{0}을 <color=#u:Negative>{1:N0}</color>개 소모하여\\n{2}을 뺍니까?"
+      "description": "{0}을 <color=#u:Negative>{1:N0}</color>개 소모하여\\n{2}을 뽑겠습니까?"
     },
     {
       "id": "home.gasha.draw_jewel_confirm_sheet.select_pickup.description",
@@ -123,7 +123,7 @@
     },
     {
       "id": "home.gasha.point_detail_overlay.description",
-      "description": "교환 Pt, 교환 내용은 가샤마다 다릅니다."
+      "description": "교환 Pt, 교환 내용은 가샤마다 다릅니다. 이미 획득한\\nP아이돌은「프로듀스 아이돌 피스」로 교환됩니다."
     },
     {
       "id": "home.gasha.result.duplicate_info",
@@ -139,7 +139,7 @@
     },
     {
       "id": "invite.publication.share.text",
-      "description": "初星学園への入学者募集中！\nコードを入力してジュエルをもらおう！\n学園アイドルマスターを始めるなら今がチャンス！\n▼招待コード\n{0}\n\nhttps://app.adjust.com/1b1lvieu\n\n※チュートリアルクリアで入力可能\n#学園アイドルマスター  #学マス"
+      "description": "하츠보시 학원 입학자 모집중!\n코드를 입력해 주얼을 받자!\n학원 아이돌 마스터를 시작한다면 지금이 찬스!\n▼초대 코드\n{0}\n\nhttps://app.adjust.com/1b1lvieu\n\n※튜토리얼 클리어로 입력 가능\n#학원 아이돌 마스터  #학마스"
     },
     {
       "id": "limit.unti",
@@ -147,7 +147,7 @@
     },
     {
       "id": "meishi.create_confirm_sheet.toast.custom_disable",
-      "description": "2024/9/1 유지 보수 종료 후 해제"
+      "description": "2024/9/1 유지 보수 종료 후 해방"
     },
     {
       "id": "meishi.edit_custom.sub_menu.character.card.description",
@@ -227,7 +227,7 @@
     },
     {
       "id": "produce.card.move_position.hold.description",
-      "description": "전력으로 변경했을 때, 패로 이동하는 스킬 카드\\n2장까지 보존할 수 있고, 2장을 넘으면 버린 패에 보내"
+      "description": "전력으로 변경했을 때, 패로 이동하는 스킬 카드\\n2장까지 보존할 수 있고, 2장을 넘으면 버린 패에 보낸다"
     },
     {
       "id": "produce.change_upgrade.message.result",
@@ -243,7 +243,7 @@
     },
     {
       "id": "produce.confirm_reroll_sheet.description",
-      "description": "획득할 수 있는 스킬 카드의 후보를 재추첨하시겠습니까?\\n<color=#u:Negative>※희귀도도 재추첨 됩니다</color>"
+      "description": "획득할 수 있는 스킬 카드의 후보를 재추첨하시겠습니까?\\n<color=#u:Negative>※프로듀스 중 재추첨 가능 횟수에는 제한이 있습니다</color>\\n<color=#u:Negative>※희귀도도 재추첨 됩니다</color>"
     },
     {
       "id": "produce.drink.cannot_use.noneproduceeffect",
@@ -291,7 +291,7 @@
     },
     {
       "id": "produce.multi_device.confirm.description",
-      "description": "프로듀스 중에 다른 기기에서 로그인하거나 기기를 캐시 지우는 경우, 플레이 중인 프로듀스 데이터는 삭제됩니다."
+      "description": "프로듀스 중에 다른 기기에서 로그인하거나 기기를 캐시 지우는 경우, \\n플레이 중인 프로듀스 데이터는 파기됩니다.\\n이대로 로그인해도 괜찮은가요."
     },
     {
       "id": "produce.nia.audition_name.finalhard",
@@ -315,7 +315,7 @@
     },
     {
       "id": "produce.result.photo.re_create.button.disable.shortage_count",
-      "description": "재생성 가능 횟수 없음"
+      "description": "재생성 가능 횟수가 없습니다"
     },
     {
       "id": "produce.result.photo.re_create.confirm.button",
@@ -323,7 +323,7 @@
     },
     {
       "id": "produce.result.photo.re_create.confirm.description",
-      "description": "재생성 아이템을 소비하고 메모리를 재생성하시겠습니까? 재생성할 수 있는 횟수\\n에는 제한이 있습니다."
+      "description": "재생성 아이템을 소비해, 메모리를 재생성하시겠습니까?\\n※현재 메모리와 재생성 후의 메모리 중 어느쪽을 획득\\n할지 선택할 수 있습니다\\n※1번의 프로듀스에서 재생성을 실행할 수 있는 횟수\\n에는 제한이 있습니다"
     },
     {
       "id": "produce.result.photo.re_create.confirm.remain_count",
@@ -355,7 +355,7 @@
     },
     {
       "id": "produce.schedule.step_customize_description",
-      "description": "P 포인트를 소비하고 강화된 \\n 스킬 카드를 사용자 정의할 수 있습니다."
+      "description": "P 포인트를 소비하고 강화된 \\n 스킬 카드를 커스터마이즈 할 수 있습니다."
     },
     {
       "id": "produce.schedule.step_fan_present_description",
@@ -363,11 +363,11 @@
     },
     {
       "id": "produce.schedule.step_self_dance_description",
-      "description": "체력을 소비하고 \\n댄스가 상승합니다."
+      "description": "체력을 소비하여 \\n댄스가 상승합니다."
     },
     {
       "id": "produce.schedule.step_self_dance_sp_description",
-      "description": "댄스가 상승합니다. \\n체력 소비량도 많지만 보상도 호화입니다."
+      "description": "댄스가 상승합니다. \\n체력 소비량도 많지만 보상도 호화롭습니다."
     },
     {
       "id": "produce.schedule.step_self_visual_description",
@@ -435,11 +435,11 @@
     },
     {
       "id": "story_event.box_gasha.draw.sheet.description",
-      "description": "{0}을 소비하고 \\n이벤트 가샤를 당기시겠습니까?"
+      "description": "{0}을 소비하고 \\n이벤트 가샤를 뽑겠습니까?"
     },
     {
       "id": "story_event.box_gasha.draw.sheet.title",
-      "description": "이벤트 가챠 확인"
+      "description": "이벤트 가샤 확인"
     },
     {
       "id": "story_event.box_gasha.item_name",
@@ -463,15 +463,15 @@
     },
     {
       "id": "story_event.box_gasha.reset_result.sheet.title",
-      "description": "이벤트 가챠 확인"
+      "description": "이벤트 가샤 확인"
     },
     {
       "id": "story_event.box_gasha.reset.sheet.title",
-      "description": "이벤트 가챠 확인"
+      "description": "이벤트 가샤 확인"
     },
     {
       "id": "story_event.box_gasha.story_reward_gasha_count_sheet.condition",
-      "description": "이벤트 가챠를 {0}번 뽑으면 해제"
+      "description": "이벤트 가샤를 {0}번 뽑으면 해제"
     },
     {
       "id": "story_event.event_coin_bonus",
@@ -507,7 +507,7 @@
     },
     {
       "id": "story.lock.unread_previous.description",
-      "description": "직전의 커뮤를 보고 해금"
+      "description": "직전의 커뮤를 보고 해방"
     },
     {
       "id": "story.play_confirm_sheet.unread_previous_chapter.description",
@@ -515,11 +515,11 @@
     },
     {
       "id": "story.story_event.main_story.move_to_story_list",
-      "description": "커뮤니티를\n보자"
+      "description": "커뮤니케이션을\n보자"
     },
     {
       "id": "story.story_event.section.box_gasha_condition_lock_text",
-      "description": "특정 횟수 이벤트 가챠를 뽑고 직전의 커뮤니티를 보면 해방"
+      "description": "특정 횟수 이벤트 가챠를 뽑고 직전의 커뮤니티를 보는 것으로 해방"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
@@ -535,7 +535,7 @@
     },
     {
       "id": "tutorial.idol_receive.attention_1",
-      "description": "초기 상태의 프로듀스 아이돌을 획득합니다\\n1번 획득하면 나중에 변경할 수 없습니다\\n어나더 ver. 를 획득한 경우 오리지널 ver.의 프로듀스 아이돌 조각도 획득할 수 있습니다."
+      "description": "초기 상태의 프로듀스 아이돌을 획득합니다\\n1번 획득하면 나중에 변경할 수 없습니다\\n어나더 ver. 를 획득한 경우 오리지널 ver.의 프로듀스 아이돌 피스도 획득할 수 있습니다."
     },
     {
       "id": "tutorial.idol_receive.attention_3",
@@ -543,7 +543,7 @@
     },
     {
       "id": "tutorial.idol_receive.attention_4",
-      "description": "프로듀스 아이돌 조각은 자동으로 수령됩니다"
+      "description": "프로듀스 아이돌 피스는 자동으로 수령됩니다"
     },
     {
       "id": "tutorial.idol_receive.description_4",
