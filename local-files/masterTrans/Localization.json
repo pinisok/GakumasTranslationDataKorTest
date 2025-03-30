@@ -51,7 +51,7 @@
     },
     {
       "id": "card.idol_card.skin_new_confirm_warning",
-      "description": "※라이브 악곡이 변경됩니다.\\n※어나더ver.인 프로듀스 아이돌을 프로듀스 할 경우, 프로듀스 아이돌 커뮤니케이션은 발생하지 않습니다"
+      "description": "※라이브 악곡이 변경됩니다.\\n※어나더ver.의 프로듀스 아이돌을 프로듀스 할 경우, 프로듀스 아이돌 커뮤니케이션은 발생하지 않습니다"
     },
     {
       "id": "card.sort.produce_dance_growth_rate_permil",
@@ -507,11 +507,11 @@
     },
     {
       "id": "story.lock.unread_previous.description",
-      "description": "직전의 커뮤를 보고 해방"
+      "description": "직전의 커뮤니케이션을 보는 것으로 해방"
     },
     {
       "id": "story.play_confirm_sheet.unread_previous_chapter.description",
-      "description": "읽지 않은 커뮤니티가 있습니다\\n커뮤니티를 모두 읽으면 하츠보시 커뮤니티 최신화를 읽을 수 있습니다."
+      "description": "읽지 않은 커뮤니케이션이 있습니다\\n커뮤니케이션를 모두 읽으면 하츠보시 커뮤니티 최신화를 읽을 수 있습니다."
     },
     {
       "id": "story.story_event.main_story.move_to_story_list",
@@ -519,11 +519,11 @@
     },
     {
       "id": "story.story_event.section.box_gasha_condition_lock_text",
-      "description": "특정 횟수 이벤트 가챠를 뽑고 직전의 커뮤니티를 보는 것으로 해방"
+      "description": "특정 횟수 이벤트 가샤를 뽑고 ,직전의 커뮤니케이션을 보는 것으로 해방"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
-      "description": "이벤트 Pt 획득하고 이전 커뮤니티를 읽어 해방"
+      "description": "이벤트 Pt 획득하고 이전 커뮤니케이션를 읽는 것으로 해방"
     },
     {
       "id": "story.story_event.section.unlockable_condition_lock_text",

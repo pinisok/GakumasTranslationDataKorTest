@@ -84,7 +84,7 @@
     {
       "supportCardId": "s_card-2-0005",
       "number": 2,
-      "text": "스, 스미카쨩……！"
+      "text": "스, 스미카 쨩……！"
     },
     {
       "supportCardId": "s_card-2-0005",
@@ -104,7 +104,7 @@
     {
       "supportCardId": "s_card-2-0006",
       "number": 3,
-      "text": "아, 나는 훈련은 안 하는데, \n그~런~건 괜찮은데~"
+      "text": "아, 나는 훈련은 안 했고, \n그~런~건 됐으려나~"
     },
     {
       "supportCardId": "s_card-2-0007",
@@ -324,7 +324,7 @@
     {
       "supportCardId": "s_card-2-0024",
       "number": 1,
-      "text": "이렇게, 자! 랍니다!"
+      "text": "이렇게해서, 이렇게! 랍니다!"
     },
     {
       "supportCardId": "s_card-2-0024",
@@ -334,7 +334,7 @@
     {
       "supportCardId": "s_card-2-0024",
       "number": 3,
-      "text": "오비뿐만 아니라\n허리끈을 제대로 조이는 것이 요령이에요."
+      "text": "오비뿐만 아니라\n허리끈을 제대로 조이는 것이 요령이예요."
     },
     {
       "supportCardId": "s_card-2-0025",
@@ -344,7 +344,7 @@
     {
       "supportCardId": "s_card-2-0025",
       "number": 2,
-      "text": "축제 가면 썼으니 안들킬거야!"
+      "text": "축제 가면 썼으니 안 들킬거야!"
     },
     {
       "supportCardId": "s_card-2-0025",
@@ -369,7 +369,7 @@
     {
       "supportCardId": "s_card-2-0028",
       "number": 1,
-      "text": "코토네짱의 억새, \n정말 멋지네!"
+      "text": "코토네 쨩의 억새, \n정말 멋지네!"
     },
     {
       "supportCardId": "s_card-2-0028",
@@ -389,7 +389,7 @@
     {
       "supportCardId": "s_card-2-0029",
       "number": 2,
-      "text": "츠키무라 씨가 연기하는 이분은,\n굉장히 비뚤어진 분이랍니다."
+      "text": "츠키무라 양이 연기할 이분은,\n굉장히 비뚤어진 분이랍니다."
     },
     {
       "supportCardId": "s_card-2-0029",
@@ -409,7 +409,7 @@
     {
       "supportCardId": "s_card-2-0030",
       "number": 3,
-      "text": "무엇을 섞으면 그런 색이\n되는걸까, 신기해."
+      "text": "뭘 섞으면 그런 색이\n되는걸까, 신기해."
     },
     {
       "supportCardId": "s_card-2-0031",
@@ -439,7 +439,7 @@
     {
       "supportCardId": "s_card-2-0032",
       "number": 3,
-      "text": "이렇게 하면 연기 냄새가 베지 않고\n향도 좋아진답니다!"
+      "text": "이렇게 하면 연기 냄새가 배지 않고\n향도 좋아진답니다!"
     },
     {
       "supportCardId": "s_card-2-0033",
@@ -524,7 +524,7 @@
     {
       "supportCardId": "s_card-2-0038",
       "number": 2,
-      "text": "네, 네! 1, 2, 3, 4 "
+      "text": "네, 네! 1, 2, 3, 4 ――"
     },
     {
       "supportCardId": "s_card-2-0038",
@@ -539,7 +539,7 @@
     {
       "supportCardId": "s_card-2-0039",
       "number": 2,
-      "text": "감사합니다!\n트레이너씨 덕분이에요!"
+      "text": "감사합니다!\n트레이너님 덕분이에요!"
     },
     {
       "supportCardId": "s_card-2-0039",
@@ -579,7 +579,7 @@
     {
       "supportCardId": "s_card-2-0042",
       "number": 1,
-      "text": "이 부분을 손보면,\n볼이 부드러워보일거라 생각해요."
+      "text": "이 부분을 손보면,\n볼이 부드러워보일거예요."
     },
     {
       "supportCardId": "s_card-2-0042",
@@ -604,12 +604,12 @@
     {
       "supportCardId": "s_card-2-0044",
       "number": 3,
-      "text": "능숙하게 부는거……\n어, 어려운 것이에요~~~!"
+      "text": "잘 부는 거……\n어, 어렵사와요~~~!"
     },
     {
       "supportCardId": "s_card-2-0045",
       "number": 1,
-      "text": "아리무라 선배, 그거,\n빨리 밖으로 버려주세요!"
+      "text": "아리무라 선배, 그거,\n빨리 밖에 버려주세요!"
     },
     {
       "supportCardId": "s_card-2-0045",
@@ -619,7 +619,7 @@
     {
       "supportCardId": "s_card-2-0045",
       "number": 3,
-      "text": "우와아!?\n보여 주지 않아도 괜찮으니까!"
+      "text": "우와앗!?\n보여 주지 않아도 괜찮으니까!"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -654,7 +654,7 @@
     {
       "supportCardId": "s_card-3-0002",
       "number": 1,
-      "text": "절대, 용서하지 않을 테니까!"
+      "text": "저얼대, 용서하지 않을 테니까!"
     },
     {
       "supportCardId": "s_card-3-0002",
@@ -809,7 +809,7 @@
     {
       "supportCardId": "s_card-3-0012",
       "number": 2,
-      "text": "하아……!　아직, 아직……!"
+      "text": "하아……!　아직, 더……!"
     },
     {
       "supportCardId": "s_card-3-0012",
@@ -864,17 +864,17 @@
     {
       "supportCardId": "s_card-3-0016",
       "number": 1,
-      "text": "히로짱 확보~!"
+      "text": "히로 쨩 확보~!"
     },
     {
       "supportCardId": "s_card-3-0016",
       "number": 2,
-      "text": "확보됐다."
+      "text": "확보당했다."
     },
     {
       "supportCardId": "s_card-3-0016",
       "number": 3,
-      "text": "하타야 씨도 함께,\n따라 와 주세요!"
+      "text": "하타야 양도 함께,\n따라 와 주세요!"
     },
     {
       "supportCardId": "s_card-3-0016",
@@ -909,7 +909,7 @@
     {
       "supportCardId": "s_card-3-0018",
       "number": 3,
-      "text": "으으으...... 시끄러워."
+      "text": "으...... 시끄러워."
     },
     {
       "supportCardId": "s_card-3-0019",
@@ -989,7 +989,7 @@
     {
       "supportCardId": "s_card-3-0024",
       "number": 1,
-      "text": "아ー……\n전～혀, 모르겠어~"
+      "text": "아ー……\n저언혀, 모르겠어~"
     },
     {
       "supportCardId": "s_card-3-0024",
@@ -1134,7 +1134,7 @@
     {
       "supportCardId": "s_card-3-0034",
       "number": 3,
-      "text": "그럼 차 한 잔 더 끓여줄게!"
+      "text": "그럼 차, 한 잔 더 끓여줄게!"
     },
     {
       "supportCardId": "s_card-3-0035",
@@ -1144,12 +1144,12 @@
     {
       "supportCardId": "s_card-3-0035",
       "number": 2,
-      "text": "두근두근해요~!"
+      "text": "두근두근대~"
     },
     {
       "supportCardId": "s_card-3-0035",
       "number": 3,
-      "text": "나도 읽어볼까?"
+      "text": "나도 읽어볼까"
     },
     {
       "supportCardId": "s_card-3-0036",
@@ -1159,7 +1159,7 @@
     {
       "supportCardId": "s_card-3-0036",
       "number": 2,
-      "text": "완전 싫어. 잠깐, 멋대로――"
+      "text": "절대로 싫어. 잠깐, 멋대로――"
     },
     {
       "supportCardId": "s_card-3-0036",
@@ -1199,17 +1199,17 @@
     {
       "supportCardId": "s_card-3-0039",
       "number": 1,
-      "text": "어머, 코토네잖아.\n먼저 가도록 할게."
+      "text": "어머, 코토네잖아.\n먼저 갈게."
     },
     {
       "supportCardId": "s_card-3-0039",
       "number": 2,
-      "text": "……빠, 빠르지 않나요~!?"
+      "text": "……너, 너무 빠르지 않아요~!?"
     },
     {
       "supportCardId": "s_card-3-0039",
       "number": 3,
-      "text": "후후. 따라올 수 있을까?"
+      "text": "후후. 따라올 수 있겠어?"
     },
     {
       "supportCardId": "s_card-3-0040",
@@ -1309,7 +1309,7 @@
     {
       "supportCardId": "s_card-3-0046",
       "number": 2,
-      "text": "(내걸로 만들어보겠어)"
+      "text": "(내 걸로 만들어보겠어)"
     },
     {
       "supportCardId": "s_card-3-0046",
@@ -1359,7 +1359,7 @@
     {
       "supportCardId": "s_card-3-0049",
       "number": 3,
-      "text": "기, 기다려！\n나를 혼자 두지 마！"
+      "text": "기, 기다려！\n나를 곁에서 떨어지지마!"
     },
     {
       "supportCardId": "s_card-3-0050",
@@ -1369,7 +1369,7 @@
     {
       "supportCardId": "s_card-3-0050",
       "number": 2,
-      "text": "너무 센 것이에요~~~~!?"
+      "text": "너무 세요~~~~!?"
     },
     {
       "supportCardId": "s_card-3-0050",
@@ -1379,12 +1379,12 @@
     {
       "supportCardId": "s_card-3-0051",
       "number": 1,
-      "text": "도와줘서 고마워, 마오 씨.\n앞으로도 같이 열심히 하자!"
+      "text": "도와줘서 고마워, 아리무라 양.\n앞으로도 같이 열심히 하자!"
     },
     {
       "supportCardId": "s_card-3-0051",
       "number": 2,
-      "text": "아아. 저 벚꽃의 꽃이 다시 필 때 즈음에는,"
+      "text": "그래. 저 벚꽃의 꽃이 다시 필 때 즈음에는,"
     },
     {
       "supportCardId": "s_card-3-0051",
