@@ -34,3 +34,10 @@ jobs:
           title: ${{ github.event.workflow_run.head_commit.message }}
           files: |
             ${{ github.event.repository.name }}-*
+      - name: CleanUp release
+        uses: tinoji/delete-older-release-assets@v1.0.1
+        with:
+          repo: pinisok/GakumasTranslationDataKorTest # defaults to current repo
+          keep_latest: 3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
