@@ -19,7 +19,7 @@
     },
     {
       "id": "box_gasha_event-09-01",
-      "title": "케이크가 맺어주는 친구 크리스마스"
+      "title": "케이크가 맺어준 우정의 크리스마스"
     },
     {
       "id": "box_gasha_event-10-01",
@@ -27,7 +27,11 @@
     },
     {
       "id": "box_gasha_event-11-01",
-      "title": "토리카에바야 하나마츠리"
+      "title": "토리카에바 하나마츠리"
+    },
+    {
+      "id": "box_gasha_event-12-01",
+      "title": "벚꽃 흩날리는 스타트라인"
     },
     {
       "id": "main_story_group-01-01",
@@ -182,8 +186,16 @@
       "title": "하츠보시 온천 ~늦가을 바람에 지다~"
     },
     {
+      "id": "story_event_group-13-01",
+      "title": "3학년 1반의 수학여행"
+    },
+    {
       "id": "story_gvg_group-01-01",
-      "title": "#애니메이트"
+      "title": "#애니메이트 응원단"
+    },
+    {
+      "id": "story-aprilfool-group-2025-01",
+      "title": "4월 1일의 꿈"
     }
   ]
 }
