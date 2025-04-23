@@ -534,6 +534,26 @@
       "name": "SP 레슨을 {threshold}회 클리어하자"
     },
     {
+      "id": "mission-box-gasha-event-007-mission_1",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_2",
+      "name": "최종 시험에 {threshold}번 합격하자"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_3",
+      "name": "이벤트 박스 가챠를 {threshold}번 뽑자"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_4",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_5",
+      "name": "SP 레슨을 {threshold}회 클리어하자"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "{threshold}일 로그인하자"
     },
@@ -2862,6 +2882,30 @@
       "name": "SP 레슨을 {threshold}회 클리어하자"
     },
     {
+      "id": "mission-story-event-013-mission_1",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-story-event-013-mission_2",
+      "name": "최종 시험에 {threshold}번 합격하자"
+    },
+    {
+      "id": "mission-story-event-013-mission_3",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-story-event-013-mission_4",
+      "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+    },
+    {
+      "id": "mission-story-event-013-mission_5",
+      "name": "P드링크를 {threshold}번 사용하자"
+    },
+    {
+      "id": "mission-story-event-013-mission_6",
+      "name": "SP 레슨을 {threshold}회 클리어하자"
+    },
+    {
       "id": "mission-weekly-incrementgashadrawcount-1",
       "name": "코인 가챠를 {threshold}번 뽑자"
     },
@@ -3382,6 +3426,18 @@
       "name": "【Campus mode!!】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hski-3-011-01",
+      "name": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hski-3-011-02",
+      "name": "【벚꽃 포토그래프】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-011-03",
+      "name": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "【아이돌, 시작!】하나미 우메의 프로듀스로 최종 시험에 합격"
     },
@@ -3476,6 +3532,18 @@
     {
       "id": "achieve-i_card-jsna-3-003-03",
       "name": "【해피 밀푀유】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-01",
+      "name": "【Our Chant】주오 세나의 프로듀스로 최종 시험 합격"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-02",
+      "name": "【Our Chant】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-03",
+      "name": "【Our Chant】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
@@ -3586,6 +3654,18 @@
       "name": "【극광】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-010-01",
+      "name": "【벚꽃 포토그래프】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-02",
+      "name": "【벚꽃 포토그래프】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-03",
+      "name": "【벚꽃 포토그래프】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "【콘트라스트】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
@@ -3668,6 +3748,18 @@
     {
       "id": "achieve-i_card-ssmk-3-007-03",
       "name": "【Campus mode!!】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-01",
+      "name": "【벚꽃 포토그래프】시운 스미카의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-02",
+      "name": "【벚꽃 포토그래프】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-03",
+      "name": "【벚꽃 포토그래프】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
@@ -5363,7 +5455,7 @@
     },
     {
       "id": "main_task_group-01-01#53",
-      "name": "최종 시험에서 1위가 되자!"
+      "name": "프로듀스 중에 파라미터 중 하나를 1,700 이상으로 육성하자"
     },
     {
       "id": "main_task_group-01-01#54",

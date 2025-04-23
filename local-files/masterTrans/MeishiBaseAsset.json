@@ -78,6 +78,10 @@
       "name": "하츠보시 온천 ~늦가을 바람에 지다~"
     },
     {
+      "id": "event-story-013",
+      "name": "3학년 1반의 수학여행"
+    },
+    {
       "id": "first-live-01",
       "name": "초성 공연"
     },
@@ -92,6 +96,10 @@
     {
       "id": "fktn-001",
       "name": "마스터 업적 코토네"
+    },
+    {
+      "id": "fktn-birthday-01",
+      "name": "The Cute!!!"
     },
     {
       "id": "hmsz-birthday-01",
@@ -110,8 +118,16 @@
       "name": "마스터 업적 사키"
     },
     {
+      "id": "hski-birthday-01",
+      "name": "Try it now"
+    },
+    {
       "id": "hume-001",
       "name": "마스터 업적 우메"
+    },
+    {
+      "id": "hume-birthday-01",
+      "name": "짱세 최강 엑서사이즈"
     },
     {
       "id": "jsna-001",
