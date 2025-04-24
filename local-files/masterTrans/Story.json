@@ -158,28 +158,48 @@
       "title": "프로듀서 생일"
     },
     {
+      "id": "story-2025_bd-01_fktn-01",
+      "title": "후지타 코토네 생일 2025"
+    },
+    {
       "id": "story-2025_bd-01_hrnm-01",
       "title": "히메사키 리나미 생일 2025"
     },
     {
+      "id": "story-2025_bd-01_hski-01",
+      "title": "하나미 사키 생일 2025"
+    },
+    {
+      "id": "story-2025_bd-01_hume-01",
+      "title": "하나미 우메 생일 2025"
+    },
+    {
+      "id": "story-aprilfool-2025-001",
+      "title": "너의 담당 아이돌"
+    },
+    {
+      "id": "story-aprilfool-2025-002",
+      "title": "너의 선생님이니까!"
+    },
+    {
       "id": "story-box-gasha-event-001-01",
-      "title": "제1화"
+      "title": "제 1화"
     },
     {
       "id": "story-box-gasha-event-001-02",
-      "title": "제2화"
+      "title": "제 2화"
     },
     {
       "id": "story-box-gasha-event-001-03",
-      "title": "제3화"
+      "title": "제 3화"
     },
     {
       "id": "story-box-gasha-event-001-04",
-      "title": "제4화"
+      "title": "제 4화"
     },
     {
       "id": "story-box-gasha-event-001-05",
-      "title": "제5화"
+      "title": "제 5화"
     },
     {
       "id": "story-box-gasha-event-002-01",
@@ -282,6 +302,26 @@
       "title": "토리카에바야 하나마츠리 5화"
     },
     {
+      "id": "story-box-gasha-event-012-01",
+      "title": "벚꽃이 흩날리는 스타트라인 1화"
+    },
+    {
+      "id": "story-box-gasha-event-012-02",
+      "title": "벚꽃이 흩날리는 스타트라인 2화"
+    },
+    {
+      "id": "story-box-gasha-event-012-03",
+      "title": "벚꽃이 흩날리는 스타트라인 3화"
+    },
+    {
+      "id": "story-box-gasha-event-012-04",
+      "title": "벚꽃이 흩날리는 스타트라인 4화"
+    },
+    {
+      "id": "story-box-gasha-event-012-05",
+      "title": "벚꽃이 흩날리는 스타트라인 5화"
+    },
+    {
       "id": "story-circle-battle-event-001-01",
       "title": "#애니메이트 응원단 1화"
     },
@@ -303,83 +343,103 @@
     },
     {
       "id": "story-event-01-01-01",
-      "title": "제1화"
+      "title": "제 1화"
     },
     {
       "id": "story-event-01-01-02",
-      "title": "제2화"
+      "title": "제 2화"
     },
     {
       "id": "story-event-01-01-03",
-      "title": "제3화"
+      "title": "제 3화"
     },
     {
       "id": "story-event-01-01-04",
-      "title": "제4화"
+      "title": "제 4화"
     },
     {
       "id": "story-event-01-01-05",
-      "title": "제5화"
+      "title": "제 5화"
     },
     {
       "id": "story-event-01-02-01",
-      "title": "제1화"
+      "title": "제 1화"
     },
     {
       "id": "story-event-01-02-02",
-      "title": "제2화"
+      "title": "제 2화"
     },
     {
       "id": "story-event-01-02-03",
-      "title": "제3화"
+      "title": "제 3화"
     },
     {
       "id": "story-event-01-02-04",
-      "title": "제4화"
+      "title": "제 4화"
     },
     {
       "id": "story-event-01-02-05",
-      "title": "제5화"
+      "title": "제 5화"
     },
     {
       "id": "story-event-01-05-01",
-      "title": "제1화"
+      "title": "제 1화"
     },
     {
       "id": "story-event-01-05-02",
-      "title": "제2화"
+      "title": "제 2화"
     },
     {
       "id": "story-event-01-05-03",
-      "title": "제3화"
+      "title": "제 3화"
     },
     {
       "id": "story-event-01-05-04",
-      "title": "제4화"
+      "title": "제 4화"
     },
     {
       "id": "story-event-01-05-05",
-      "title": "제5화"
+      "title": "제 5화"
     },
     {
       "id": "story-event-01-06-01",
-      "title": "제1화"
+      "title": "제 1화"
     },
     {
       "id": "story-event-01-06-02",
-      "title": "제2화"
+      "title": "제 2화"
     },
     {
       "id": "story-event-01-06-03",
-      "title": "제3화"
+      "title": "제 3화"
     },
     {
       "id": "story-event-01-06-04",
-      "title": "제4화"
+      "title": "제 4화"
     },
     {
       "id": "story-event-01-06-05",
-      "title": "제5화"
+      "title": "제 5화"
+    },
+    {
+      "id": "story-event-01-13-01",
+      "title": "제 1화"
+    },
+    {
+      "id": "story-event-01-13-02",
+      "title": "제 2화"
+    },
+    {
+      "id": "story-event-01-13-03",
+      "title": "제 3화"
+    },
+    {
+      "id": "story-event-01-13-04",
+      "title": "제 4화"
+    },
+    {
+      "id": "story-event-01-13-05",
+      "title": "제 5화"
     },
     {
       "id": "story-main-01-01-01",

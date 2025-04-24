@@ -855,6 +855,12 @@
     },
     {
       "helpCategoryId": "help-produce",
+      "id": "produce-guide",
+      "order": 47,
+      "name": "획득 가이드"
+    },
+    {
+      "helpCategoryId": "help-produce",
       "id": "produce-hard-lesson",
       "order": 26,
       "name": "막판 스퍼트 레슨"

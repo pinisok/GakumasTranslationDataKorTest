@@ -473,7 +473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1033,6 +1033,51 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play_after-review_up-6-p_card_search-playing-effect_group-visible-exam_review-000-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "호인상"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " 효과의 스킬 카드 사용 후, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "호인상"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "이(가) 6이상인 경우, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play_after-stamina_up_multiple-500-p_card_search-active_skill-playing-0_1",
       "produceDescriptions": [
         {
@@ -1193,7 +1238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【비주얼 레슨-비주얼 턴일 경우 】"
+          "text": "【비주얼 레슨-비주얼 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1818,7 +1863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1853,7 +1898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【비주얼 레슨-비주얼 턴일 경우 】"
+          "text": "【비주얼 레슨-비주얼 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1888,7 +1933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【보컬 레슨, 보컬 턴일 경우 】"
+          "text": "【보컬 레슨, 보컬 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -2078,6 +2123,36 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-idol-unique-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "아이돌 고유 스킬 카드 사용 시, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-min_max-4_99-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "원래 소비 체력이 4 이상의 스킬 카드 사용 시, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-1_058-0_1",
       "produceDescriptions": [
         {
@@ -2149,6 +2224,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "사용 시, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_card_play-p_card_search-r-playing-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드(R) 사용 시, "
         }
       ]
     },
@@ -3208,6 +3298,41 @@
       ]
     },
     {
+      "id": "e_trigger-exam_end_turn-full_power_up",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 종료시, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "전력"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "의 경우, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_end_turn-fullpower_up1",
       "produceDescriptions": [
         {
@@ -3373,7 +3498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【비주얼 레슨-비주얼 턴일 경우 】"
+          "text": "【비주얼 레슨-비주얼 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3973,7 +4098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "남은 2턴 동안의 턴 종료시, "
+          "text": "남은 2턴 이내의 턴 종료시, "
         }
       ]
     },
@@ -4463,6 +4588,56 @@
       ]
     },
     {
+      "id": "e_trigger-exam_play_count_interval-2-lesson_buff_up-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "집중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(이)가 3 이상인 경우, 스킬 카드를 2회 사용할 때마다, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-2-lesson_buff_up-8",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamLessonBuff_Produce",
+          "text": "집중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(이)가 8 이상인 경우, 스킬 카드를 2회 사용할 때마다, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_play_count_interval-2-stamina_less_multiple-500",
       "produceDescriptions": [
         {
@@ -4554,6 +4729,36 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "를 3회 사용할 때마다, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-3-p_card_search-sr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드(SR)를 3회 사용할 때마다, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_play_count_interval-3-p_card_search-ssr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드(SSR)를 3회 사용할 때마다, "
         }
       ]
     },
@@ -4803,7 +5008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【비주얼 레슨-비주얼 턴일 경우 】"
+          "text": "【비주얼 레슨-비주얼 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5647,7 +5852,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【비주얼 레슨-비주얼 턴일 경우 】"
+          "text": "【비주얼 레슨-비주얼 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5678,6 +5883,41 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "이(가) 8이상인 경우, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_start_turn-card_search_count_up-7-p_card_search-trouble-deck_grave",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 개시시, 덱과 버린 패의 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "트러블 카드"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(이)가 7장 이상일 때, "
         }
       ]
     },
@@ -5987,7 +6227,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6032,7 +6272,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6287,7 +6527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6402,7 +6642,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6427,7 +6667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_SpLesson",
-          "text": "【SP 수업만 】"
+          "text": "【SP 수업인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6452,7 +6692,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【비주얼 레슨-비주얼 턴일 경우 】"
+          "text": "【비주얼 레슨-비주얼 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6477,7 +6717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【보컬 레슨, 보컬 턴일 경우 】"
+          "text": "【보컬 레슨, 보컬 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6807,6 +7047,51 @@
       ]
     },
     {
+      "id": "e_trigger-exam_start_turn-parameter_buff_up-3-lesson_dance",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Convert_StepLessonType_DanceLesson",
+          "text": "【댄스 레슨・댄스 턴인 경우】"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 개시시, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "호조"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "이(가) 3턴 이상일 경우, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_start_turn-parameter_buff_up-6",
       "produceDescriptions": [
         {
@@ -6922,7 +7207,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6982,7 +7267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "남은 2턴 동안의 턴 개시시, "
+          "text": "남은 2턴 이내의 턴 개시시, "
         }
       ]
     },
@@ -6997,7 +7282,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "남은 3턴 동안의 턴 개시시, "
+          "text": "남은 3턴 이내의 턴 개시시, "
         }
       ]
     },
@@ -7012,7 +7297,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "남은 4턴 동안의 턴 개시 시, "
+          "text": "남은 4턴 이내의 턴 개시시, "
         }
       ]
     },
@@ -7197,7 +7482,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7312,7 +7597,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7407,7 +7692,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7432,7 +7717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【보컬 레슨, 보컬 턴일 경우 】"
+          "text": "【보컬 레슨, 보컬 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7472,7 +7757,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7513,6 +7798,41 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "턴 개시시, 3턴째 이후인 경우, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_status_change-6-exam_review",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "한 번에 6개 이상, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamReview",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamReview_Produce",
+          "text": "호인상"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "이(가) 증가 후, "
         }
       ]
     },
@@ -7653,6 +7973,41 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "이(가) 증가 후, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_status_change-exam_concentration",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "지침을 "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamConcentration",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamConcentration_Produce",
+          "text": "강세"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(으)로 변경 후, "
         }
       ]
     },
@@ -8278,6 +8633,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "3턴마다, 체력이 50%이상인 경우, "
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-exam_turn_skip",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 스킵시, "
         }
       ]
     },
@@ -8936,6 +9306,31 @@
       ]
     },
     {
+      "id": "e_trigger-none-parameter_buff_up-12",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamParameterBuff",
+          "text": "호조"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "이(가) 12턴 이상일 경우, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-none-parameter_buff_up-4",
       "produceDescriptions": [
         {
@@ -9196,6 +9591,41 @@
       ]
     },
     {
+      "id": "e_trigger-start_play-full_power_up",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "턴 개시시, "
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamFullPower",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ExamFullPower",
+          "text": "전력"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "의 경우, "
+        }
+      ]
+    },
+    {
       "id": "e_trigger-start_play-lesson_dance",
       "produceDescriptions": [
         {
@@ -9206,7 +9636,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【댄스 레슨・댄스 턴인 경우 】"
+          "text": "【댄스 레슨・댄스 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9231,7 +9661,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【보컬 레슨, 보컬 턴일 경우 】"
+          "text": "【보컬 레슨, 보컬 턴인 경우】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9291,7 +9721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "남은 2턴 동안의 턴 개시시, "
+          "text": "남은 2턴 이내의 턴 개시시, "
         }
       ]
     },

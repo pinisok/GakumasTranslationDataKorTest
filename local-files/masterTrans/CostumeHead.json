@@ -83,7 +83,12 @@
     {
       "id": "costume_head_amao-hair-0004",
       "name": "고양이 귀",
-      "description": "프리미엄 미션 패스 2025년도1월호에서 획득"
+      "description": "프리미엄 미션 패스 2025년도 1월호에서 획득"
+    },
+    {
+      "id": "costume_head_amao-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "프리미엄 미션 패스 2025년도 4월호에서 획득"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -156,6 +161,11 @@
       "description": "후지타 코토네의 아이돌 길 스테이지 15 클리어"
     },
     {
+      "id": "costume_head_fktn-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "후지타 코토네의 아이돌 길 스테이지 25 클리어"
+    },
+    {
       "id": "costume_head_fktn-hair-0001",
       "name": "수국 머리 장식",
       "description": "프리미엄 미션 패스 2024년 5월에 획득 가능"
@@ -179,6 +189,11 @@
       "id": "costume_head_fktn-hair-0006",
       "name": "하츠미☆액세서리",
       "description": "프리미엄 미션 패스 2025년 2월에 획득 가능"
+    },
+    {
+      "id": "costume_head_fktn-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
     },
     {
       "id": "costume_head_hmsz-casl-0000",
@@ -248,12 +263,17 @@
     {
       "id": "costume_head_hrnm-cstm-0072",
       "name": "금빛의 빛",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지10를 클리어"
+      "description": "히메사키 리나미의 아이돌의 길 스테이지 10 클리어"
     },
     {
       "id": "costume_head_hrnm-cstm-0073",
       "name": "백금의 빛",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지15를 클리어"
+      "description": "히메사키 리나미의 아이돌의 길 스테이지 15 클리어"
+    },
+    {
+      "id": "costume_head_hrnm-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "히메사키 리나미의 아이돌의 길 스테이지 25 클리어"
     },
     {
       "id": "costume_head_hrnm-hair-0001",
@@ -273,7 +293,12 @@
     {
       "id": "costume_head_hrnm-hair-0004",
       "name": "고양이 귀",
-      "description": "프리미엄 미션 패스 2025년도1월호에서 획득"
+      "description": "프리미엄 미션 패스 2025년도 1월호에서 획득"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "프리미엄 미션 패스 2025년도 4월호에서 획득"
     },
     {
       "id": "costume_head_hrnm-schl-0000",
@@ -318,7 +343,7 @@
     {
       "id": "costume_head_hski-cstm-0063",
       "name": "관국",
-      "description": "【관국화】하나미 사키 입수"
+      "description": "【관국】하나미 사키 입수"
     },
     {
       "id": "costume_head_hski-cstm-0065",
@@ -339,6 +364,16 @@
       "id": "costume_head_hski-cstm-0073",
       "name": "백금의 빛",
       "description": "하나미 사키의 아이돌 길 스테이지 15 클리어"
+    },
+    {
+      "id": "costume_head_hski-cstm-0079",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】하나미 사키를 입수"
+    },
+    {
+      "id": "costume_head_hski-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "하나미 사키의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "costume_head_hski-hair-0001",
@@ -364,6 +399,11 @@
       "id": "costume_head_hski-hair-0006",
       "name": "하츠미☆액세서리",
       "description": "프리미엄 미션 패스 2025년 2월에 획득 가능"
+    },
+    {
+      "id": "costume_head_hski-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
     },
     {
       "id": "costume_head_hski-schl-0000",
@@ -418,12 +458,17 @@
     {
       "id": "costume_head_hume-cstm-0072",
       "name": "금빛의 빛",
-      "description": "하나미 우메의 아이돌의 길 스테이지10를 클리어"
+      "description": "하나미 우메의 아이돌의 길 스테이지 10 클리어"
     },
     {
       "id": "costume_head_hume-cstm-0073",
       "name": "백금의 빛",
-      "description": "하나미 우메의 아이돌의 길 스테이지15를 클리어"
+      "description": "하나미 우메의 아이돌의 길 스테이지 15 클리어"
+    },
+    {
+      "id": "costume_head_hume-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "하나미 우메의 아이돌의 길 스테이지 25 클리어"
     },
     {
       "id": "costume_head_hume-hair-0001",
@@ -481,6 +526,16 @@
       "description": "【해피 밀푀유】주오 세나의 재능 개화 4단계 달성"
     },
     {
+      "id": "costume_head_jsna-cstm-0077",
+      "name": "Our Chant",
+      "description": "【Our Chant】주오 세나를 입수"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0078",
+      "name": "Our Chant",
+      "description": "【Our Chant】주오 세나의 재능 개화 4단계 달성"
+    },
+    {
       "id": "costume_head_jsna-hair-0001",
       "name": "수국 머리 장식",
       "description": "수국 머리 장식(주오 세나)을 구매"
@@ -504,6 +559,11 @@
       "id": "costume_head_jsna-hair-0006",
       "name": "하츠미☆액세서리",
       "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+    },
+    {
+      "id": "costume_head_jsna-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
     },
     {
       "id": "costume_head_jsna-schl-0000",
@@ -653,12 +713,27 @@
     {
       "id": "costume_head_kllj-hair-0004",
       "name": "고양이 귀",
-      "description": "프리미엄 미션 패스 2025년도1월호에서 획득"
+      "description": "프리미엄 미션 패스 2025년도 1월호에서 획득"
+    },
+    {
+      "id": "costume_head_kllj-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "프리미엄 미션 패스 2025년도 4월호에서 획득"
     },
     {
       "id": "costume_head_kllj-schl-0000",
       "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
+    },
+    {
+      "id": "costume_head_nasr-casl-0000",
+      "name": "평소의 헤어스타일",
+      "description": ""
+    },
+    {
+      "id": "costume_head_nasr-hair-0005",
+      "name": "스퀘어 안경",
+      "description": "스퀘어 안경(네오 아사리)를 입수"
     },
     {
       "id": "costume_head_shro-casl-0000",
@@ -673,7 +748,7 @@
     {
       "id": "costume_head_shro-cstm-0031",
       "name": "콘트라스트",
-      "description": "【콘트라스트】시노사와 히로 입수"
+      "description": "【콘트라스트】시노사와 히로를 입수"
     },
     {
       "id": "costume_head_shro-cstm-0047",
@@ -758,12 +833,17 @@
     {
       "id": "costume_head_ssmk-cstm-0063",
       "name": "관국",
-      "description": "【Tame-Lie-One-Step】 '24제 시운 스미카 획득"
+      "description": "【Tame-Lie-One-Step】'24 하나마츠리 시운 스미카 획득"
     },
     {
       "id": "costume_head_ssmk-cstm-0065",
       "name": "가장광소곡",
       "description": "【Tame-Lie-One-Step】'24 할로윈 시운 스미카를 입수"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0079",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】시운 스미카를 입수"
     },
     {
       "id": "costume_head_ssmk-hair-0001",
@@ -783,7 +863,12 @@
     {
       "id": "costume_head_ssmk-hair-0004",
       "name": "고양이 귀",
-      "description": "프리미엄 미션 패스 2025년도1월호에서 획득"
+      "description": "프리미엄 미션 패스 2025년도 1월호에서 획득"
+    },
+    {
+      "id": "costume_head_ssmk-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "프리미엄 미션 패스 2025년도 4월호에서 획득"
     },
     {
       "id": "costume_head_ssmk-schl-0000",
@@ -841,6 +926,11 @@
       "description": "츠키무라 테마리의 아이돌 길 스테이지 15 클리어"
     },
     {
+      "id": "costume_head_ttmr-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "츠키무라 테마리의 아이돌 길 스테이지 25 클리어"
+    },
+    {
       "id": "costume_head_ttmr-hair-0001",
       "name": "수국 머리 장식",
       "description": "프리미엄 미션 패스 2024년 5월에 획득 가능"
@@ -864,6 +954,11 @@
       "id": "costume_head_ttmr-hair-0006",
       "name": "하츠미☆액세서리",
       "description": "프리미엄 미션 패스 2025년 2월에 획득 가능"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
     }
   ]
 }

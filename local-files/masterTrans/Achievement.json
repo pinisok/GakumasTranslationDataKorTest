@@ -261,6 +261,21 @@
       "description": "【Campus mode!!】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hski-3-011-01",
+      "name": "그 날, 이 장소에서",
+      "description": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hski-3-011-02",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-011-03",
+      "name": "만난 계절이 몇 번이나 찾아오더라도",
+      "description": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "타도 언니",
       "description": "【아이돌, 시작!】하나미 우메의 프로듀스로 최종 시험에 합격"
@@ -379,6 +394,21 @@
       "id": "achieve-i_card-jsna-3-003-03",
       "name": "빨리 증거 인멸을",
       "description": "【해피 밀푀유】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-01",
+      "name": "끓어오르는 감정",
+      "description": "【Our Chant】주오 세나의 프로듀스로 최종 시험 합격"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-02",
+      "name": "Our Chant",
+      "description": "【Our Chant】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-03",
+      "name": "노래에 담긴 메시지",
+      "description": "【Our Chant】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
@@ -516,6 +546,21 @@
       "description": "【극광】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-010-01",
+      "name": "방과 후 잡담",
+      "description": "【벚꽃 포토그래프】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-02",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-03",
+      "name": "선배의 꿈을 이루겠습니다!",
+      "description": "【벚꽃 포토그래프】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-shro-3-001-01",
       "name": "버스에 흔들려",
       "description": "【콘트라스트】시노사와 히로의 프로듀스로 최종 시험에 합격"
@@ -619,6 +664,21 @@
       "id": "achieve-i_card-ssmk-3-007-03",
       "name": "여기까지 왔으니",
       "description": "【Campus mode!!】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-01",
+      "name": "히어로와의 만남",
+      "description": "【벚꽃 포토그래프】시운 스미카의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-02",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-03",
+      "name": "당신이 지지해 준다면",
+      "description": "【벚꽃 포토그래프】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
@@ -988,7 +1048,7 @@
     {
       "id": "achieve-p_common-026",
       "name": "마스터 프로듀서",
-      "description": "최종 시험을 스코어 SS 이상으로 {threshold}회 합격"
+      "description": "최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_common-027",
@@ -1058,7 +1118,7 @@
     {
       "id": "achieve-p_idol-amao-011",
       "name": "당신 덕입니다",
-      "description": "아리무라 마오의 친애도 Lv을 {threshold} 달성하기"
+      "description": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-amao-012",
@@ -1103,7 +1163,7 @@
     {
       "id": "achieve-p_idol-amao-020",
       "name": "받아들이며, 나답게",
-      "description": "아리무라 마오로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득"
+      "description": "아리무라 마오로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -1438,7 +1498,7 @@
     {
       "id": "achieve-p_idol-fktn-011",
       "name": "쁘로듀우서~♡",
-      "description": "후지타 코토네의 친애도 Lv을 {threshold}으로 만들기"
+      "description": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-fktn-012",
@@ -1483,7 +1543,7 @@
     {
       "id": "achieve-p_idol-fktn-020",
       "name": "추구해 온 별빛",
-      "description": "후지타 코토네로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "후지타 코토네로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -1548,7 +1608,7 @@
     {
       "id": "achieve-p_idol-hrnm-011",
       "name": "나는 너의……",
-      "description": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하기"
+      "description": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-hrnm-012",
@@ -1593,7 +1653,7 @@
     {
       "id": "achieve-p_idol-hrnm-020",
       "name": "꿈을 맡고, 꿈을 보여주다",
-      "description": "히메사키 리나미로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "히메사키 리나미로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -1658,7 +1718,7 @@
     {
       "id": "achieve-p_idol-hski-011",
       "name": "기대하고 있으니까!",
-      "description": "하나미 사키의 친애도 Lv을 {threshold} 달성하기"
+      "description": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-hski-012",
@@ -1703,7 +1763,7 @@
     {
       "id": "achieve-p_idol-hski-020",
       "name": "아이돌로서의 무기",
-      "description": "하나미 사키로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "하나미 사키로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -1768,7 +1828,7 @@
     {
       "id": "achieve-p_idol-hume-011",
       "name": "프로듀서씨!",
-      "description": "하나미 우메의 친애도 Lv을 {threshold} 달성하기"
+      "description": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-hume-012",
@@ -1813,7 +1873,7 @@
     {
       "id": "achieve-p_idol-hume-020",
       "name": "추가 브레이크스루",
-      "description": "하나미 우메로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "하나미 우메로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -1903,7 +1963,7 @@
     {
       "id": "achieve-p_idol-jsna-016",
       "name": "함께 정점을 향해",
-      "description": "주오 세나로 최종 시험에 합격해 평가 S+ 이상을 {threshold}회 획득 "
+      "description": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득 "
     },
     {
       "id": "achieve-p_idol-jsna-017",
@@ -1923,7 +1983,7 @@
     {
       "id": "achieve-p_idol-jsna-020",
       "name": "손에 넣은 반짝임",
-      "description": "주오 세나로 최종 시험에 합격해 평가 SS 이상을 {threshold}회 획득 "
+      "description": "주오 세나로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -1988,7 +2048,7 @@
     {
       "id": "achieve-p_idol-kcna-011",
       "name": "선생님!!",
-      "description": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하기"
+      "description": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-kcna-012",
@@ -2033,7 +2093,7 @@
     {
       "id": "achieve-p_idol-kcna-020",
       "name": "떼어낼 수 없는 힘",
-      "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "쿠라모토 치나로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -2098,7 +2158,7 @@
     {
       "id": "achieve-p_idol-kllj-011",
       "name": "선배와 함께라면……",
-      "description": "카츠라기 릴리야의 친애도 Lv을 {threshold}으로 만들기"
+      "description": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-kllj-012",
@@ -2143,7 +2203,7 @@
     {
       "id": "achieve-p_idol-kllj-020",
       "name": "약함은 강함",
-      "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "카츠라기 릴리야로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -2208,7 +2268,7 @@
     {
       "id": "achieve-p_idol-shro-011",
       "name": "아직 안버리는거야?",
-      "description": "시노사와 히로의 친애도 Lv을 {threshold} 달성하기"
+      "description": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-shro-012",
@@ -2253,7 +2313,7 @@
     {
       "id": "achieve-p_idol-shro-020",
       "name": "데스로드, 돌파",
-      "description": "시노사와 히로로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "시노사와 히로로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -2318,7 +2378,7 @@
     {
       "id": "achieve-p_idol-ssmk-011",
       "name": "고마워, 핏치",
-      "description": "시운 스미카의 친애도 Lv을 {threshold}으로 만들기"
+      "description": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-ssmk-012",
@@ -2363,7 +2423,7 @@
     {
       "id": "achieve-p_idol-ssmk-020",
       "name": "더 이상 숨기지 않아",
-      "description": "시운 스미카로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "시운 스미카로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -2428,7 +2488,7 @@
     {
       "id": "achieve-p_idol-ttmr-011",
       "name": "그렇게나 내가 좋구나?",
-      "description": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하기"
+      "description": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
     },
     {
       "id": "achieve-p_idol-ttmr-012",
@@ -2473,7 +2533,7 @@
     {
       "id": "achieve-p_idol-ttmr-020",
       "name": "드디어, 같은 높이에서",
-      "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+      "description": "츠키무라 테마리로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     }
   ]
 }

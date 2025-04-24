@@ -7,6 +7,12 @@
   },
   "data": [
     {
+      "id": "gasha_000410-ssr-idol-support-3",
+      "order": 1,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
       "id": "gasha_button-001-01",
       "order": 2,
       "name": "1회 가챠",
@@ -94,6 +100,12 @@
       "id": "gasha_ticket_ssr_button",
       "order": 1,
       "name": "SSR확정 티켓으로 뽑기",
+      "description": "SSR확정 1연차"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_1st-anniv",
+      "order": 1,
+      "name": "1st 애니버서리 기념 SSR 확정 티켓으로 뽑기",
       "description": "SSR확정 1연차"
     },
     {

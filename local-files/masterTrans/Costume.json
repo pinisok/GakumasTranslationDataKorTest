@@ -88,17 +88,27 @@
     {
       "id": "amao-cstm-0072",
       "name": "금빛의 빛",
-      "description": "아리무라 마오의 아이돌의 길 스테이지 10 클리어"
+      "description": "아리무라 마오의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "amao-cstm-0073",
       "name": "백금의 빛",
-      "description": "아리무라 마오의 아이돌의 길 스테이지 15 클리어"
+      "description": "아리무라 마오의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "amao-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【Fluorite】'25 발렌타인 아리무라 마오 입수"
+    },
+    {
+      "id": "amao-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【Fluorite】'25 벚꽃 아리무라 마오 입수"
+    },
+    {
+      "id": "amao-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "아리무라 마오의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "amao-othr-0002",
@@ -216,6 +226,16 @@
       "description": "【세계 제일 귀여운 나】'25 하나마츠리 후지타 코토네 입수"
     },
     {
+      "id": "fktn-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【세계 제일 귀여운 나】'25 벚꽃 후지타 코토네 입수"
+    },
+    {
+      "id": "fktn-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "후지타 코토네의 아이돌 길 스테이지 25 클리어"
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(후지타 코토네) 구매하기"
@@ -318,17 +338,27 @@
     {
       "id": "hrnm-cstm-0072",
       "name": "금빛의 빛",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지10를 클리어"
+      "description": "히메사키 리나미의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "hrnm-cstm-0073",
       "name": "백금의 빛",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지15를 클리어"
+      "description": "히메사키 리나미의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "hrnm-cstm-0076",
       "name": "눈이 녹을 때에",
       "description": "【clumsy trick】'25 하나마츠리 히메사키 리나미 입수"
+    },
+    {
+      "id": "hrnm-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【clumsy trick】'25 벚꽃 히메사키 리나미 입수"
+    },
+    {
+      "id": "hrnm-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "hrnm-othr-0000",
@@ -456,6 +486,21 @@
       "description": "【Fighting My Way】'25 하나마츠리 하나미 사키 입수"
     },
     {
+      "id": "hski-cstm-0079",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】하나미 사키를 입수"
+    },
+    {
+      "id": "hski-cstm-0080",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】하나미사키의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "hski-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "하나미 사키의 아이돌 길 스테이지 25 클리어"
+    },
+    {
       "id": "hski-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(하나미 사키) 구매하기"
@@ -538,12 +583,17 @@
     {
       "id": "hume-cstm-0072",
       "name": "금빛의 빛",
-      "description": "하나미 우메의 아이돌의 길 스테이지10를 클리어"
+      "description": "하나미 우메의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "hume-cstm-0073",
       "name": "백금의 빛",
-      "description": "하나미 우메의 아이돌의 길 스테이지15를 클리어"
+      "description": "하나미 우메의 아이돌 길 스테이지 15 클리어"
+    },
+    {
+      "id": "hume-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "hume-othr-0000",
@@ -618,17 +668,37 @@
     {
       "id": "jsna-cstm-0072",
       "name": "금빛의 빛",
-      "description": "주오 세나의 아이돌 길 스테이지10를 클리어"
+      "description": "주오 세나의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "jsna-cstm-0073",
       "name": "백금의 빛",
-      "description": "주오 세나의 아이돌 길 스테이지15를 클리어"
+      "description": "주오 세나의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "jsna-cstm-0076",
       "name": "눈이 녹을 때에",
       "description": "【작은 야망】'25 하나마츠리 주오 세나를 입수"
+    },
+    {
+      "id": "jsna-cstm-0077",
+      "name": "Our Chant",
+      "description": "【Our Chant】주오 세나를 입수"
+    },
+    {
+      "id": "jsna-cstm-0078",
+      "name": "Our Chant",
+      "description": "【Our Chant】주오 세나의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "jsna-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【작은 야망】'25 벚꽃 주오 세나를 입수"
+    },
+    {
+      "id": "jsna-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "주오 세나의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "jsna-othr-0002",
@@ -733,17 +803,27 @@
     {
       "id": "kcna-cstm-0072",
       "name": "금빛의 빛",
-      "description": "쿠라모토 치나의 아이돌의 길 스테이지10를 클리어"
+      "description": "쿠라모토 치나의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "kcna-cstm-0073",
       "name": "백금의 빛",
-      "description": "쿠라모토 치나의 아이돌의 길 스테이지15를 클리어"
+      "description": "쿠라모토 치나의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "kcna-cstm-0075",
       "name": "해피 밀푀유",
       "description": "【Wonder Scale】'25 발렌타인 쿠라모토 치나 입수"
+    },
+    {
+      "id": "kcna-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【Wonder Scale】'25 벚꽃 쿠라모토 치나 입수"
+    },
+    {
+      "id": "kcna-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "쿠라모토 치나의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "kcna-othr-0002",
@@ -843,7 +923,7 @@
     {
       "id": "kllj-cstm-0072",
       "name": "금빛의 빛",
-      "description": "카츠라기 릴리야의 아이돌 길 10단계 클리어"
+      "description": "카츠라기 릴리야의 아이돌 길 10 스테이지 클리어"
     },
     {
       "id": "kllj-cstm-0073",
@@ -859,6 +939,16 @@
       "id": "kllj-cstm-0076",
       "name": "눈이 녹을 때에",
       "description": "【백선】'25 하나마츠리 카츠라기 릴리야를 입수"
+    },
+    {
+      "id": "kllj-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】카츠라기 릴리야를 입수"
+    },
+    {
+      "id": "kllj-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "카츠라기 릴리야의 아이돌 길 25 스테이지 클리어"
     },
     {
       "id": "kllj-othr-0002",
@@ -884,6 +974,26 @@
       "id": "kllj-trng-0002",
       "name": "하츠보시 학원 체육복",
       "description": "하츠보시 학원 체육복(카츠라기 릴리야)을 구매"
+    },
+    {
+      "id": "nasr-casl-0000",
+      "name": "평소 사복",
+      "description": ""
+    },
+    {
+      "id": "nasr-cstm-0069",
+      "name": "차일드 스모크",
+      "description": "어린이 스모크(네오 아사리)를 구매"
+    },
+    {
+      "id": "nasr-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": ""
+    },
+    {
+      "id": "nasr-cstm-0135",
+      "name": "티셔츠 수영복",
+      "description": "티셔츠 수영복(네오 아사리)을 구매"
     },
     {
       "id": "shro-casl-0000",
@@ -974,6 +1084,16 @@
       "id": "shro-cstm-0076",
       "name": "눈이 녹을 때에",
       "description": "【광경】'25 하나마츠리 시노사와 히로 입수"
+    },
+    {
+      "id": "shro-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【광경】'25 벚꽃 시노사와 히로 입수"
+    },
+    {
+      "id": "shro-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "시노사와 히로의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "shro-othr-0002",
@@ -1079,6 +1199,21 @@
       "id": "ssmk-cstm-0076",
       "name": "눈이 녹을 때에",
       "description": "【Tame-Lie-One-Step】'25 하나마츠리 시운 스미카 입수"
+    },
+    {
+      "id": "ssmk-cstm-0079",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】시운 스미카 입수"
+    },
+    {
+      "id": "ssmk-cstm-0080",
+      "name": "벚꽃 포토그래프",
+      "description": "【벚꽃 포토그래프】시운 스미카의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "ssmk-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "시운 스미카의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "ssmk-othr-0002",
@@ -1194,6 +1329,16 @@
       "id": "ttmr-cstm-0076",
       "name": "눈이 녹을 때에",
       "description": "【눈이 녹을 때에】츠키무라 테마리 입수"
+    },
+    {
+      "id": "ttmr-cstm-0081",
+      "name": "벚꽃 포토그래프",
+      "description": "【Luna say maybe】'25 벚꽃 츠키무라 테마리 입수"
+    },
+    {
+      "id": "ttmr-cstm-0110",
+      "name": "칠흑의 반짝임",
+      "description": "츠키무라 테마리의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "ttmr-othr-0002",
