@@ -55,7 +55,7 @@
     },
     {
       "id": "i_card-fktn-3-001",
-      "name": "Yellow Big Bang！"
+      "name": "Yellow Big Bang!"
     },
     {
       "id": "i_card-fktn-3-002",
@@ -68,6 +68,10 @@
     {
       "id": "i_card-fktn-3-007",
       "name": "Campus mode!!"
+    },
+    {
+      "id": "i_card-fktn-3-011",
+      "name": "비 갠 뒤의 아이리스"
     },
     {
       "id": "i_card-hrnm-1-000",
@@ -140,6 +144,10 @@
     {
       "id": "i_card-hski-3-011",
       "name": "벚꽃 포토그래프"
+    },
+    {
+      "id": "i_card-hski-3-012",
+      "name": "비 갠 뒤의 아이리스"
     },
     {
       "id": "i_card-hume-1-000",
@@ -352,6 +360,10 @@
     {
       "id": "i_card-ttmr-3-009",
       "name": "눈이 녹을 때에"
+    },
+    {
+      "id": "i_card-ttmr-3-011",
+      "name": "비 갠 뒤의 아이리스"
     }
   ]
 }

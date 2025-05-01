@@ -791,7 +791,7 @@
     },
     {
       "id": "music-char-fktn-002",
-      "title": "Yellow Big Bang！",
+      "title": "Yellow Big Bang!",
       "displayTitle": "",
       "lyrics": "야기누마 카나",
       "composer": "세오 쇼타로 (MONACA)",
@@ -1020,6 +1020,14 @@
       "lyrics": "타나카 토마 (Dream Monster)",
       "composer": "타나카 토마 (Dream Monster)",
       "arranger": "타나카 토마 (Dream Monster)"
+    },
+    {
+      "id": "music-unit-reiris-001",
+      "title": "비 갠 뒤의 아이리스",
+      "displayTitle": "비 갠 뒤의 아이리스",
+      "lyrics": "코다마 사오리",
+      "composer": "코우사키 사토루(MONACA)",
+      "arranger": "코우사키 사토루(MONACA)"
     }
   ]
 }

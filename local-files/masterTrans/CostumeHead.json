@@ -108,7 +108,7 @@
     {
       "id": "costume_head_fktn-cstm-0001",
       "name": "세상에서 가장 귀여운 나",
-      "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수!"
+      "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수"
     },
     {
       "id": "costume_head_fktn-cstm-0013",
@@ -117,13 +117,13 @@
     },
     {
       "id": "costume_head_fktn-cstm-0027",
-      "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네 입수!"
+      "name": "Yellow Big Bang!",
+      "description": "【Yellow Big Bang!】후지타 코토네 입수"
     },
     {
       "id": "costume_head_fktn-cstm-0028",
-      "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네의 재능 개화 4단계 달성"
+      "name": "Yellow Big Bang!",
+      "description": "【Yellow Big Bang!】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_fktn-cstm-0045",
@@ -164,6 +164,16 @@
       "id": "costume_head_fktn-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "후지타 코토네의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0112",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네를 입수"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0113",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_fktn-hair-0001",
@@ -263,17 +273,17 @@
     {
       "id": "costume_head_hrnm-cstm-0072",
       "name": "금빛의 빛",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지 10 클리어"
+      "description": "히메사키 리나미의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "costume_head_hrnm-cstm-0073",
       "name": "백금의 빛",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지 15 클리어"
+      "description": "히메사키 리나미의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "costume_head_hrnm-cstm-0110",
       "name": "칠흑의 반짝임",
-      "description": "히메사키 리나미의 아이돌의 길 스테이지 25 클리어"
+      "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "costume_head_hrnm-hair-0001",
@@ -343,7 +353,7 @@
     {
       "id": "costume_head_hski-cstm-0063",
       "name": "관국",
-      "description": "【관국】하나미 사키 입수"
+      "description": "【관국화】하나미 사키 입수"
     },
     {
       "id": "costume_head_hski-cstm-0065",
@@ -374,6 +384,16 @@
       "id": "costume_head_hski-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "하나미 사키의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "costume_head_hski-cstm-0112",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키를 입수"
+    },
+    {
+      "id": "costume_head_hski-cstm-0113",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_hski-hair-0001",
@@ -458,17 +478,17 @@
     {
       "id": "costume_head_hume-cstm-0072",
       "name": "금빛의 빛",
-      "description": "하나미 우메의 아이돌의 길 스테이지 10 클리어"
+      "description": "하나미 우메의 아이돌 길 스테이지 10 클리어"
     },
     {
       "id": "costume_head_hume-cstm-0073",
       "name": "백금의 빛",
-      "description": "하나미 우메의 아이돌의 길 스테이지 15 클리어"
+      "description": "하나미 우메의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "costume_head_hume-cstm-0110",
       "name": "칠흑의 반짝임",
-      "description": "하나미 우메의 아이돌의 길 스테이지 25 클리어"
+      "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
     },
     {
       "id": "costume_head_hume-hair-0001",
@@ -748,7 +768,7 @@
     {
       "id": "costume_head_shro-cstm-0031",
       "name": "콘트라스트",
-      "description": "【콘트라스트】시노사와 히로를 입수"
+      "description": "【콘트라스트】시노사와 히로 입수"
     },
     {
       "id": "costume_head_shro-cstm-0047",
@@ -833,7 +853,7 @@
     {
       "id": "costume_head_ssmk-cstm-0063",
       "name": "관국",
-      "description": "【Tame-Lie-One-Step】'24 하나마츠리 시운 스미카 획득"
+      "description": "【Tame-Lie-One-Step】 '24제 시운 스미카 획득"
     },
     {
       "id": "costume_head_ssmk-cstm-0065",
@@ -843,7 +863,7 @@
     {
       "id": "costume_head_ssmk-cstm-0079",
       "name": "벚꽃 포토그래프",
-      "description": "【벚꽃 포토그래프】시운 스미카를 입수"
+      "description": "【벚꽃 포토그래프】시운 스미카 입수"
     },
     {
       "id": "costume_head_ssmk-hair-0001",
@@ -929,6 +949,16 @@
       "id": "costume_head_ttmr-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "츠키무라 테마리의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0112",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리를 입수"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0113",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_ttmr-hair-0001",

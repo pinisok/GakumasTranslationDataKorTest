@@ -24,12 +24,12 @@
     {
       "supportCardId": "s_card-2-0001",
       "number": 1,
-      "text": "…………"
+      "text": "............"
     },
     {
       "supportCardId": "s_card-2-0001",
       "number": 2,
-      "text": "…………"
+      "text": "............"
     },
     {
       "supportCardId": "s_card-2-0002",
@@ -620,6 +620,66 @@
       "supportCardId": "s_card-2-0045",
       "number": 3,
       "text": "우와앗!?\n보여 주지 않아도 괜찮으니까!"
+    },
+    {
+      "supportCardId": "s_card-2-0047",
+      "number": 1,
+      "text": "リーリヤ！\nまだ跳べるでしょう！？"
+    },
+    {
+      "supportCardId": "s_card-2-0047",
+      "number": 2,
+      "text": "は、はい……！　頑張ります！"
+    },
+    {
+      "supportCardId": "s_card-2-0047",
+      "number": 3,
+      "text": "その意気よ！\nでも、負けてはあげないわ！"
+    },
+    {
+      "supportCardId": "s_card-2-0048",
+      "number": 1,
+      "text": "ねえねえ、これ可愛くない？"
+    },
+    {
+      "supportCardId": "s_card-2-0048",
+      "number": 2,
+      "text": "やば、めっちゃ可愛いじゃん！"
+    },
+    {
+      "supportCardId": "s_card-2-0048",
+      "number": 3,
+      "text": "だよね～、やっぱ清夏とは趣味合うわ。"
+    },
+    {
+      "supportCardId": "s_card-2-0049",
+      "number": 1,
+      "text": "ぐぬぬ……また私が2位か。"
+    },
+    {
+      "supportCardId": "s_card-2-0049",
+      "number": 2,
+      "text": "まだまだ燕には負けられないわ。"
+    },
+    {
+      "supportCardId": "s_card-2-0049",
+      "number": 3,
+      "text": "今に見ていろ！\n必ず追い越してやるからな！"
+    },
+    {
+      "supportCardId": "s_card-2-0050",
+      "number": 1,
+      "text": "こーらっ。\nにんじんもちゃんと食え～？"
+    },
+    {
+      "supportCardId": "s_card-2-0050",
+      "number": 2,
+      "text": "……ちっ。バレないと思ったのに。"
+    },
+    {
+      "supportCardId": "s_card-2-0050",
+      "number": 3,
+      "text": "ったく。ウチのちびどもと\n同じ顔してるからわかるっつーの。"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1390,6 +1450,81 @@
       "supportCardId": "s_card-3-0051",
       "number": 3,
       "text": "우리들도, 분명――"
+    },
+    {
+      "supportCardId": "s_card-3-0053",
+      "number": 1,
+      "text": "つ、次は絶対に勝つ！"
+    },
+    {
+      "supportCardId": "s_card-3-0053",
+      "number": 2,
+      "text": "フフ、受けて立つわ。"
+    },
+    {
+      "supportCardId": "s_card-3-0053",
+      "number": 3,
+      "text": "ふたりとも、そろそろ休もう？"
+    },
+    {
+      "supportCardId": "s_card-3-0054",
+      "number": 1,
+      "text": "本気でいくよ……咲季ちゃん。"
+    },
+    {
+      "supportCardId": "s_card-3-0054",
+      "number": 2,
+      "text": "かかってきなさいリーリヤ。"
+    },
+    {
+      "supportCardId": "s_card-3-0054",
+      "number": 3,
+      "text": "상대에게 부족함이 없어!"
+    },
+    {
+      "supportCardId": "s_card-3-0055",
+      "number": 1,
+      "text": "せっかくだし、\nここで写真撮らない？"
+    },
+    {
+      "supportCardId": "s_card-3-0055",
+      "number": 2,
+      "text": "お、いいじゃん！\n入学記念だね！"
+    },
+    {
+      "supportCardId": "s_card-3-0055",
+      "number": 3,
+      "text": "笑って笑って――はい、チーズ♪"
+    },
+    {
+      "supportCardId": "s_card-3-0056",
+      "number": 1,
+      "text": "燕、その書類、手伝うわ。"
+    },
+    {
+      "supportCardId": "s_card-3-0056",
+      "number": 2,
+      "text": "ふん、貴様の助力などいらん。\n仕事の準備でもしておけ。"
+    },
+    {
+      "supportCardId": "s_card-3-0056",
+      "number": 3,
+      "text": "……分かったわ。\nいつもありがとう、燕。"
+    },
+    {
+      "supportCardId": "s_card-3-0057",
+      "number": 1,
+      "text": "友達って、\nお互いに利用し合うものでしょ。"
+    },
+    {
+      "supportCardId": "s_card-3-0057",
+      "number": 2,
+      "text": "そうかなァ～？"
+    },
+    {
+      "supportCardId": "s_card-3-0057",
+      "number": 3,
+      "text": "別にいいんじゃない？　\nそういうのも、友達で。"
     }
   ]
 }

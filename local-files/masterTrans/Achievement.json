@@ -68,17 +68,17 @@
     {
       "id": "achieve-i_card-fktn-3-001-01",
       "name": "아드레날린 전개",
-      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
-      "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "name": "Yellow Big Bang!",
+      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
       "name": "완전 팔팔해!",
-      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -124,6 +124,21 @@
       "id": "achieve-i_card-fktn-3-007-03",
       "name": "진짜 진짜 지인짜 진심",
       "description": "【Campus mode!!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-01",
+      "name": "새로운 빛",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-02",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-03",
+      "name": "우주 제일 행복한 아이돌",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
@@ -202,7 +217,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "POW！",
+      "name": "POW!",
       "description": "【Boom Boom Pow】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -274,6 +289,21 @@
       "id": "achieve-i_card-hski-3-011-03",
       "name": "만난 계절이 몇 번이나 찾아오더라도",
       "description": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-01",
+      "name": "나다운 색깔",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-02",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-03",
+      "name": "계속 증명해 나갑시다",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -397,7 +427,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-006-01",
-      "name": "끓어오르는 감정",
+      "name": "끓어오르는 느낌",
       "description": "【Our Chant】주오 세나의 프로듀스로 최종 시험 합격"
     },
     {
@@ -739,6 +769,21 @@
       "id": "achieve-i_card-ttmr-3-009-03",
       "name": "순서대로 되돌아 보자",
       "description": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-01",
+      "name": "희망이 닿을 때까지",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-02",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계{threshold}로 설정"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-03",
+      "name": "처음 날리는 키스",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-m_amao-001",

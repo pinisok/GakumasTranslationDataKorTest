@@ -48,7 +48,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "효과의"
+          "text": "효과의 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -678,7 +678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "손패"
+          "text": "손 패"
         }
       ]
     },
@@ -779,6 +779,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "제외에 있는 아이돌 고유 스킬 카드 1장"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-lost-min_max-4_99",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "제외에 있는 소비 체력이 4 이상인 스킬 카드"
         }
       ]
     },
@@ -1298,6 +1313,21 @@
       ]
     },
     {
+      "id": "p_card_search-playing-idol-unique",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "아이돌 고유 스킬 카드"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-playing-is_self",
       "produceDescriptions": [
         {
@@ -1309,6 +1339,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "자신"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-playing-min_max-4_99",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "원래 소비 체력이 4 이상인 스킬 카드"
         }
       ]
     },
@@ -1373,6 +1418,21 @@
       ]
     },
     {
+      "id": "p_card_search-r-playing",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드(R)"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-random-random_pool-p_random_pool-all-upgrade_1-1",
       "produceDescriptions": [
         {
@@ -1418,6 +1478,81 @@
       ]
     },
     {
+      "id": "p_card_search-sr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "제외된 스킬 카드(SR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-sr-ssr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "제외된 스킬 카드(SR,SSR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-sr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드(SR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-ssr-lost",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "제외된 스킬 카드(SSR)"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-ssr-target",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드(SSR)"
+        }
+      ]
+    },
+    {
       "id": "p_card_search-target",
       "produceDescriptions": [
         {
@@ -1450,6 +1585,31 @@
     {
       "id": "p_card_search-trouble-deck_all",
       "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Trouble",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_TroubleSkillCard",
+          "text": "트러블 카드"
+        }
+      ]
+    },
+    {
+      "id": "p_card_search-trouble-deck_grave",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "덱과 버림 패의 "
+        },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
           "examDescriptionType": "ExamDescriptionType_Unknown",

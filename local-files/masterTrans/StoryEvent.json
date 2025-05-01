@@ -30,36 +30,44 @@
       "title": "토리카에바 하나마츠리"
     },
     {
+      "id": "box-gasha-event-007",
+      "title": "벚꽃 흩날리는 스타트라인"
+    },
+    {
       "id": "main-story-event-001",
       "title": "하츠보시 커뮤 이벤트 2장 아이돌들의 공동생활vol.1"
     },
     {
       "id": "main-story-event-002",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "main-story-event-003",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "main-story-event-004",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "main-story-event-005",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "main-story-event-006",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "main-story-event-007",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "main-story-event-008",
-      "title": "하츠보시 커뮤 이벤트"
+      "title": "첫 스타 커뮤 이벤트"
+    },
+    {
+      "id": "main-story-event-009",
+      "title": "첫 스타 커뮤 이벤트"
     },
     {
       "id": "story-event-001",
@@ -76,6 +84,10 @@
     {
       "id": "story-event-004",
       "title": "학생회의 아이돌들"
+    },
+    {
+      "id": "story-event-013",
+      "title": "3학년 1반의 수학여행"
     }
   ]
 }

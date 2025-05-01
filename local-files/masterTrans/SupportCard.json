@@ -925,6 +925,22 @@
       "name": "굴욕의 2위"
     },
     {
+      "id": "s_card-2-0050",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 확률 중"
+        }
+      ],
+      "name": "두 분, 안내합니다~♪"
+    },
+    {
       "id": "s_card-3-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -935,7 +951,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "너에게도 만들어 줄게!"
@@ -951,7 +967,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "뭐 하는 걸까,"
@@ -967,7 +983,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "이 녀석들 귀찮아ー"
@@ -983,7 +999,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "언니에게 맡기렴!"
@@ -999,7 +1015,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "으그그그극............!"
@@ -1015,7 +1031,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "다음 벚꽃이 피는 계절에는."
@@ -1031,7 +1047,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "수고했어, 치나 쨩."
@@ -1047,7 +1063,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "마치 왕자님 같은"
@@ -1063,7 +1079,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "맛있는 거 먹는 얼굴, 찍을게~!"
@@ -1079,7 +1095,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "우리들, 하면 할 수 있다"
@@ -1095,7 +1111,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "귀여움과 귀여움으로 귀여워!"
@@ -1111,7 +1127,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "내 눈은 틀림없어"
@@ -1127,7 +1143,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "또, 그렇게나 무리하고"
@@ -1143,7 +1159,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "어머, 우연이네"
@@ -1159,7 +1175,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "진짜냐."
@@ -1175,7 +1191,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "일이라고 생각하고 임하렴"
@@ -1191,7 +1207,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "한 명도 빠짐없이"
@@ -1207,7 +1223,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "자, 함께 들자♪"
@@ -1223,7 +1239,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "제2회 교실 파티!"
@@ -1271,7 +1287,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "5월의 장마"
@@ -1287,7 +1303,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "맑아졌네"
@@ -1303,7 +1319,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "아직 그치지 않길!"
@@ -1319,7 +1335,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "「아」가 아니고 「에」!"
@@ -1335,7 +1351,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "새로운 도전의 성공이랍니다!"
@@ -1351,7 +1367,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "정말! 차가워!"
@@ -1367,7 +1383,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "여름을 즐기자!"
@@ -1383,7 +1399,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "일시 휴전이예요"
@@ -1399,7 +1415,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "여름을 만끽할 거야!"
@@ -1415,7 +1431,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "저쪽도 가고 싶어요!"
@@ -1431,7 +1447,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "불꽃놀이, 하지 않을래요……？"
@@ -1447,7 +1463,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "프로듀스는 힘드네"
@@ -1463,7 +1479,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "둘이라면 순식간에"
@@ -1479,7 +1495,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "느긋하게 보내세요"
@@ -1495,7 +1511,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "잘 어울리지 않나요?"
@@ -1511,7 +1527,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "완전히 가을빛이 됐네요!"
@@ -1527,7 +1543,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "회장, 준비 만전이에요"
@@ -1543,7 +1559,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "반드시 따라잡고 말겠어!"
@@ -1559,7 +1575,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "슬슬 다 구워졌으려나?"
@@ -1575,7 +1591,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "반짝반짝 예쁘다~!"
@@ -1591,7 +1607,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "따뜻하네"
@@ -1607,7 +1623,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "기다려엇!"
@@ -1623,7 +1639,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "다시 한번, 처음부터!"
@@ -1639,7 +1655,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "자, 모두 함께♪"
@@ -1655,7 +1671,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "이것이 우리의, 3년"
@@ -1671,7 +1687,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "발렌타인♡회의 중!"
@@ -1687,7 +1703,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "꼭 전해드리겠사와요!"
@@ -1703,7 +1719,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "스스로 설 수 있겠어요?"
@@ -1719,7 +1735,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "너희들이 정말 좋아"
@@ -1735,7 +1751,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "새로운 생활의 시작이네"
@@ -1751,7 +1767,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "자, 한 판 더!"
@@ -1767,7 +1783,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "상대에게 부족함이 없어!"
@@ -1783,7 +1799,7 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "여기서부터 시작되는 거네!"
@@ -1799,10 +1815,26 @@
           "produceCardCategory": "ProduceCardCategory_Unknown",
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
-          "text": "/ 확률대"
+          "text": "/ 확률 대"
         }
       ],
       "name": "여전히 서툴구나"
+    },
+    {
+      "id": "s_card-3-0057",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 확률 대"
+        }
+      ],
+      "name": "서로 이용하는 것이 친구!"
     }
   ]
 }

@@ -253,49 +253,55 @@
     },
     {
       "id": "item-medal-main-story-event-001",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스로 입수"
     },
     {
       "id": "item-medal-main-story-event-002",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-003",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "하츠보시 커뮤 이벤트에서 모으면 아이템 교환 가능",
       "acquisitionRouteDescription": "프로듀스로 입수"
     },
     {
       "id": "item-medal-main-story-event-004",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-005",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-006",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-007",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
     {
       "id": "item-medal-main-story-event-008",
-      "name": "하츠보시 책갈피",
+      "name": "하츠보시의 책갈피",
+      "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+      "acquisitionRouteDescription": "프로듀스 등"
+    },
+    {
+      "id": "item-medal-main-story-event-009",
+      "name": "하츠보시의 책갈피",
       "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
       "acquisitionRouteDescription": "프로듀스 등"
     },
@@ -362,524 +368,542 @@
     {
       "id": "item-piece-idol_amao-1-000",
       "name": "[학원생활] 아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_amao-1-001",
-      "name": "[첫사랑]아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[첫사랑] 아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_amao-2-000",
-      "name": "[시작은 멋있게]아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[시작은 멋있게] 아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_amao-3-000",
       "name": "[Fluorite] 아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_amao-3-001",
-      "name": "[너와 세미블루]아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[너와 세미블루] 아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_amao-3-002",
-      "name": "[Feel Jewel Dream]아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Feel Jewel Dream] 아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_amao-3-007",
-      "name": "[Campus mode!!]아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_amao-3-009",
-      "name": "[눈이 녹을 때에]아리무라 마오의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[눈이 녹을 때에] 아리무라 마오의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-1-000",
       "name": "[학원생활] 후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-1-001",
-      "name": "[첫 목소리]후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[첫 목소리] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-2-000",
-      "name": "[귀여움♡시작했답니다]후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[귀여움♡시작했답니다] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-3-000",
       "name": "[세계 제일 귀여운 나] 후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-3-001",
-      "name": "[Yellow Big Bang！]후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Yellow Big Bang！] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-3-002",
-      "name": "[관국]후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[관국] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-3-006",
-      "name": "[White Night! White Wish!]후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[White Night! White Wish!] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_fktn-3-007",
-      "name": "[Campus mode!!]후지타 코토네의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
+    },
+    {
+      "id": "item-piece-idol_fktn-3-011",
+      "name": "[비 갠 뒤의 아이리스] 후지타 코토네의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-1-000",
       "name": "[학원생활] 히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-1-001",
-      "name": "[초심]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[초심] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-2-000",
-      "name": "[『나다움』의 시작]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[『나다움』의 시작] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-3-000",
       "name": "[clumsy trick] 히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-3-001",
-      "name": "[너와 세미블루]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[너와 세미블루] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-3-002",
-      "name": "[L.U.V]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[L.U.V] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-3-004",
-      "name": "[어서오세요 하츠보시 온천]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[어서오세요 하츠보시 온천] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-3-007",
-      "name": "[Campus mode!!]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hrnm-3-008",
-      "name": "[해피 밀푀유]히메사키 리나미의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[해피 밀푀유] 히메사키 리나미의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-1-000",
-      "name": "[학원생활]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[학원생활] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-1-001",
-      "name": "[첫 목소리]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[첫 목소리] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-2-000",
-      "name": "[내가 제일！]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[내가 제일！] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-3-000",
       "name": "[Fighting My Way] 하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-3-001",
-      "name": "[Boom Boom Pow]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Boom Boom Pow] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-3-002",
-      "name": "[관국]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[관국] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_hski-3-006",
-      "name": "[고금동서 식은 죽 먹기]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[고금동서 식은 죽 먹기] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-3-008",
-      "name": "[Campus mode!!]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hski-3-011",
-      "name": "[벚꽃 포토그래프]하나미 사키의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[벚꽃 포토그래프] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
+    },
+    {
+      "id": "item-piece-idol_hski-3-012",
+      "name": "[비 갠 뒤의 아이리스] 하나미 사키의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hume-1-000",
-      "name": "[학교생활]하나미 우메의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[학교생활] 하나미 우메의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hume-2-000",
       "name": "[아이돌, 시작!] 하나미 우메의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hume-3-000",
-      "name": "[The Rolling Riceball]하나미 우메의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[The Rolling Riceball] 하나미 우메의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hume-3-005",
-      "name": "[White Night! White Wish!]하나미 우메의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[White Night! White Wish!] 하나미 우메의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_hume-3-006",
-      "name": "[Campus mode!!]하나미 우메의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 하나미 우메의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_jsna-1-000",
-      "name": "[학원생활]주오 세나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[학원생활] 주오 세나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_jsna-2-000",
-      "name": "[샛별]주오 세나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[샛별] 주오 세나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_jsna-3-000",
-      "name": "[작은 야망]주오 세나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[작은 야망] 주오 세나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_jsna-3-002",
-      "name": "[Campus mode!!]주오 세나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 주오 세나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_jsna-3-003",
-      "name": "[해피 밀푀유]주오 세나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[해피 밀푀유] 주오 세나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_jsna-3-006",
-      "name": "[Our Chant]주오 세나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Our Chant] 주오 세나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-1-000",
       "name": "[학원생활] 쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-1-001",
-      "name": "[초심]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[초심] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-2-000",
-      "name": "[가슴을 펴고 한 걸음씩]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[가슴을 펴고 한 걸음씩] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-3-000",
       "name": "[Wonder Scale] 쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-3-001",
-      "name": "[매일, 발견적 스텝!]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[매일, 발견적 스텝!] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-3-002",
-      "name": "[가장광소곡]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[가장광소곡] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-3-005",
-      "name": "[어서오세요 하츠보시 온천]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[어서오세요 하츠보시 온천] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-3-007",
-      "name": "[Campus mode!!]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kcna-3-009",
-      "name": "[눈이 녹을 때에]쿠라모토 치나의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[눈이 녹을 때에] 쿠라모토 치나의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-1-000",
       "name": "[학원생활] 카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-1-001",
-      "name": "[초심]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[초심] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-2-000",
-      "name": "[한 걸음 더 나아가면]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[한 걸음 더 나아가면] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-3-000",
       "name": "[백선] 카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-3-001",
-      "name": "[관국]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[관국] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-3-005",
-      "name": "[White Night! White Wish!]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[White Night! White Wish!] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-3-006",
-      "name": "[Campus mode!!]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-3-008",
-      "name": "[극광]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[극광] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_kllj-3-010",
-      "name": "[벚꽃 포토그래프]카츠라기 릴리야의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[벚꽃 포토그래프] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_shro-1-000",
       "name": "[학원생활] 시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-1-001",
-      "name": "[첫사랑]시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[첫사랑] 시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-2-000",
-      "name": "[가장 어울리지 않는 것]시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[가장 어울리지 않는 것] 시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-3-000",
       "name": "[광경] 시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-3-001",
-      "name": "[콘트라스트]시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[콘트라스트] 시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-3-002",
-      "name": "[가장광소곡]시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[가장광소곡] 시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-3-007",
-      "name": "[Campus mode!!]시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-3-008",
-      "name": "[해피 밀푀유]시노사와 히로의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[해피 밀푀유] 시노사와 히로의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-1-000",
       "name": "[학원생활] 시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-1-001",
-      "name": "[첫사랑]시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[첫사랑] 시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-2-000",
-      "name": "[꿈으로의 리스타트]시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[꿈으로의 리스타트] 시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-3-000",
       "name": "[Tame-Lie-One-Step] 시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-3-001",
-      "name": "[너와 세미블루]시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[너와 세미블루] 시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-3-002",
-      "name": "[숨겨진 나]시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[숨겨진 나] 시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-3-007",
-      "name": "[Campus mode!!]시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ssmk-3-010",
-      "name": "[벚꽃 포토그래프]시운 스미카의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[벚꽃 포토그래프] 시운 스미카의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-1-000",
       "name": "[학원생활] 츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-1-001",
-      "name": "[첫 목소리]츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[첫 목소리] 츠키무라 테마리의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-2-000",
       "name": "[고독한 늑대] 츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-3-000",
       "name": "[Luna say maybe] 츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-3-001",
-      "name": "[아이비]츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[아이비] 츠키무라 테마리의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-3-002",
-      "name": "[가장광소곡]츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[가장광소곡] 츠키무라 테마리의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-3-007",
-      "name": "[Campus mode!!]츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[Campus mode!!] 츠키무라 테마리의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_ttmr-3-009",
-      "name": "[눈이 녹을 때에]츠키무라 테마리의 피스",
-      "description": "프로듀스 아이돌의 재능개화나 해방에 사용하는 아이템",
+      "name": "[눈이 녹을 때에] 츠키무라 테마리의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
+    },
+    {
+      "id": "item-piece-idol_ttmr-3-011",
+      "name": "[비 갠 뒤의 아이리스] 츠키무라 테마리의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-produce_continue-1",

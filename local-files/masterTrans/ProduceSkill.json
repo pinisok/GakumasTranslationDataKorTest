@@ -25,7 +25,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -61,7 +61,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -97,7 +97,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -133,7 +133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -169,7 +169,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -205,7 +205,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -241,7 +241,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "시험시 점수 보너스"
+          "text": "시험・오디션시 스코어 보너스를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -10711,7 +10711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10797,7 +10797,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10883,7 +10883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10969,7 +10969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11055,7 +11055,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11141,7 +11141,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11227,7 +11227,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11313,7 +11313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11399,7 +11399,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11485,7 +11485,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11571,7 +11571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11657,7 +11657,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11743,7 +11743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11829,7 +11829,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11915,7 +11915,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12001,7 +12001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12087,7 +12087,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12173,7 +12173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12259,7 +12259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12345,7 +12345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12431,7 +12431,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12517,7 +12517,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12603,7 +12603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12689,7 +12689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12775,7 +12775,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12861,7 +12861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12947,7 +12947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13033,7 +13033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13119,7 +13119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13205,7 +13205,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13291,7 +13291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13377,7 +13377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13463,7 +13463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13549,7 +13549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13635,7 +13635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13721,7 +13721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13807,7 +13807,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13893,7 +13893,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13979,7 +13979,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14065,7 +14065,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14151,7 +14151,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14237,7 +14237,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14323,7 +14323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14409,7 +14409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14495,7 +14495,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14581,7 +14581,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14667,7 +14667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14753,7 +14753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14839,7 +14839,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14925,7 +14925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15011,7 +15011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15097,7 +15097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15183,7 +15183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15269,7 +15269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceSkillPlanType2",
-          "text": "【논리 전용】"
+          "text": "【로직 전용】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19688,6 +19688,174 @@
       ]
     },
     {
+      "id": "p_support_skill-common-p_trigger-change_produce_card-dance_addition-03-001",
+      "level": 1,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드 변경시 댄스 상스+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "11"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(프로듀스 중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3회"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-change_produce_card-dance_addition-03-001",
+      "level": 2,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드 변경시 댄스 상스+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "16"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(프로듀스 중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3회"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "id": "p_support_skill-common-p_trigger-change_produce_card-dance_addition-03-001",
+      "level": 3,
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드 변경시 댄스 상스+"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_DiffText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "21"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "(프로듀스 중"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "3회"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": ")"
+        }
+      ]
+    },
+    {
       "id": "p_support_skill-common-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all-dance_addition-03-001",
       "level": 1,
       "produceDescriptions": [
@@ -20707,7 +20875,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20727,7 +20895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -20773,7 +20941,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20793,7 +20961,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -20839,7 +21007,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20859,7 +21027,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21003,7 +21171,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21023,7 +21191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21059,7 +21227,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21079,7 +21247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21115,7 +21283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21135,7 +21303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21171,7 +21339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21191,7 +21359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21227,7 +21395,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21247,7 +21415,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21283,7 +21451,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21303,7 +21471,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21339,7 +21507,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21359,7 +21527,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21395,7 +21563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21415,7 +21583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21451,7 +21619,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21471,7 +21639,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21507,7 +21675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21527,7 +21695,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21563,7 +21731,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21583,7 +21751,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21619,7 +21787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21639,7 +21807,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21675,7 +21843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21695,7 +21863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21731,7 +21899,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21751,7 +21919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21787,7 +21955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21807,7 +21975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21843,7 +22011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21863,7 +22031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21899,7 +22067,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21919,7 +22087,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -21955,7 +22123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21975,7 +22143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -22011,7 +22179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22031,7 +22199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -22067,7 +22235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22087,7 +22255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -22123,7 +22291,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22143,7 +22311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -22179,7 +22347,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22199,7 +22367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -22235,7 +22403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22255,7 +22423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
@@ -22291,7 +22459,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（프로듀스 중"
+          "text": "(프로듀스 중"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22311,7 +22479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "）"
+          "text": ")"
         }
       ]
     },
