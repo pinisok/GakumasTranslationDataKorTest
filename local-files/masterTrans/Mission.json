@@ -807,11 +807,11 @@
     },
     {
       "id": "mission-highscore-event-001-mission_15",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-001-mission_15_1",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자（8/1 4:59:59까지）"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자（8/1 4:59:59까지）"
     },
     {
       "id": "mission-highscore-event-001-mission_16",
@@ -1139,7 +1139,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_14",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_15",
@@ -1163,7 +1163,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_24",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_25",
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_34",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_35",
@@ -1211,7 +1211,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_44",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_45",
@@ -1235,7 +1235,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_54",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_55",
@@ -1263,7 +1263,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_15",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_16",
@@ -1287,7 +1287,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_25",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_26",
@@ -1311,7 +1311,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_35",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_36",
@@ -1335,7 +1335,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_45",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_46",
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "mission-main-story-event-001-mission_55",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_56",
@@ -1735,7 +1735,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_13",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_14",
@@ -1759,7 +1759,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_23",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_24",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_33",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_34",
@@ -1807,7 +1807,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_43",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_44",
@@ -1831,7 +1831,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_53",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_54",
@@ -1859,7 +1859,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_14",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_15",
@@ -1883,7 +1883,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_24",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_25",
@@ -1907,7 +1907,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_34",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_35",
@@ -1931,7 +1931,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_44",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_45",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "mission-main-story-event-006-mission_54",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_55",
@@ -2095,7 +2095,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_13",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_14",
@@ -2119,7 +2119,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_23",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_24",
@@ -2143,7 +2143,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_33",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_34",
@@ -2167,7 +2167,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_43",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_44",
@@ -2191,7 +2191,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_53",
-      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold}획득하자"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_54",
@@ -2203,6 +2203,126 @@
     },
     {
       "id": "mission-main-story-event-008-mission_56",
+      "name": "5일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_11",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_12",
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_13",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_14",
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_15",
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_16",
+      "name": "1일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_21",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_22",
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_23",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_24",
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_25",
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_26",
+      "name": "2일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_31",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_32",
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_33",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_34",
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_35",
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_36",
+      "name": "3일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_41",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_42",
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_43",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_44",
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_45",
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_46",
+      "name": "4일차의 미션을 모두 클리어"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_51",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_52",
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_53",
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_54",
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_55",
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+    },
+    {
+      "id": "mission-main-story-event-009-mission_56",
       "name": "5일차의 미션을 모두 클리어"
     },
     {
@@ -3318,6 +3438,18 @@
       "name": "【Campus mode!!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-fktn-3-011-01",
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-02",
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-03",
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-hrnm-3-001-01",
       "name": "【너와 세미블루】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
@@ -3436,6 +3568,18 @@
     {
       "id": "achieve-i_card-hski-3-011-03",
       "name": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-01",
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-02",
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-03",
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -3808,6 +3952,18 @@
     {
       "id": "achieve-i_card-ttmr-3-009-03",
       "name": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-01",
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-02",
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-03",
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-m_amao-001",

@@ -157,13 +157,13 @@
     },
     {
       "id": "fktn-cstm-0027",
-      "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네 입수!"
+      "name": "Yellow Big Bang!",
+      "description": "【Yellow Big Bang!】후지타 코토네 입수!"
     },
     {
       "id": "fktn-cstm-0028",
-      "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네의 재능 개화 4단계 달성"
+      "name": "Yellow Big Bang!",
+      "description": "【Yellow Big Bang!】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
       "id": "fktn-cstm-0045",
@@ -234,6 +234,16 @@
       "id": "fktn-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "후지타 코토네의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "fktn-cstm-0112",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네 입수"
+    },
+    {
+      "id": "fktn-cstm-0113",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
       "id": "fktn-othr-0002",
@@ -499,6 +509,16 @@
       "id": "hski-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "하나미 사키의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "hski-cstm-0112",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키 입수"
+    },
+    {
+      "id": "hski-cstm-0113",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】하나미 사키의 재능 개화 4단계 달성"
     },
     {
       "id": "hski-othr-0002",
@@ -1339,6 +1359,16 @@
       "id": "ttmr-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "츠키무라 테마리의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "ttmr-cstm-0112",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리 입수"
+    },
+    {
+      "id": "ttmr-cstm-0113",
+      "name": "비 갠 뒤의 아이리스",
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
     },
     {
       "id": "ttmr-othr-0002",

@@ -66,6 +66,10 @@
       "name": "토리카에바 하나마츠리"
     },
     {
+      "id": "mission-group-box-gasha-event-007",
+      "name": "벚꽃 흩날리는 스타트라인"
+    },
+    {
       "id": "mission-group-circle-battle-event-001",
       "name": "#애니메이트 응원단"
     },
@@ -334,6 +338,26 @@
       "name": "하츠보시 커뮤 이벤트 미션"
     },
     {
+      "id": "mission-group-main-story-event-009_1",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-009_2",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-009_3",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-009_4",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-009_5",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
       "id": "mission-group-panel-mission-01",
       "name": "제1회 패널미션 시트 1"
     },
@@ -356,6 +380,10 @@
     {
       "id": "mission-group-story-event-004",
       "name": "스토리 이벤트 미션 004"
+    },
+    {
+      "id": "mission-group-story-event-013",
+      "name": "스토리 이벤트 미션 013"
     },
     {
       "id": "panel_mission-event-002-group_1",
