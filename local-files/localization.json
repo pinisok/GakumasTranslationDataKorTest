@@ -2501,7 +2501,7 @@
     "octo.error.load.retry.wait": "애셋 가져오기 실패",
     "octo.error.load.title": "에셋 가져오기 실패",
     "octo.error.network.cancel": "애셋 가져오기을 취소했습니다",
-    "octo.error.network.retry.com": "에셋 획득 실패\n통신 환경이 좋은 곳에서 재 시도하십시오.",
+    "octo.error.network.retry.com": "에셋 획득 실패\n통신 환경이 좋은 곳에서 재시도하십시오.",
     "octo.error.network.retry.wait": "애셋 가져오기에 실패했습니다.",
     "octo.error.network.title": "애셋 가져오기에 실패했습니다",
     "octo.error.other.retry": "애셋 가져오기 실패",
