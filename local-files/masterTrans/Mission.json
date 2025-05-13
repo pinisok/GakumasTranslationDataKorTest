@@ -807,7 +807,7 @@
     },
     {
       "id": "mission-highscore-event-001-mission_15",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-001-mission_15_1",
@@ -871,7 +871,7 @@
     },
     {
       "id": "mission-highscore-event-002-mission_16",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-002-mission_16_1",
@@ -899,7 +899,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_14",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_15",
@@ -907,7 +907,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_21",
@@ -923,7 +923,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_24",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_25",
@@ -931,7 +931,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_31",
@@ -947,7 +947,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_34",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_35",
@@ -955,7 +955,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_41",
@@ -971,7 +971,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_44",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_45",
@@ -979,7 +979,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-003-mission_51",
@@ -995,7 +995,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_54",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscore-event-003-mission_55",
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_11",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_21",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_31",
@@ -1075,7 +1075,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_41",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscore-event-004-mission_51",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscorerush-event-001-mission_11",
@@ -1135,19 +1135,19 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_13",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_14",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_15",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscorerush-event-001-mission_21",
@@ -1159,19 +1159,19 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_23",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_24",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_25",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscorerush-event-001-mission_31",
@@ -1183,19 +1183,19 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_33",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_34",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_35",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscorerush-event-001-mission_41",
@@ -1207,19 +1207,19 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_43",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_44",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_45",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-highscorerush-event-001-mission_51",
@@ -1231,19 +1231,19 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_53",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_54",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_55",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-highscorerush-event-001-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_11",
@@ -1251,23 +1251,23 @@
     },
     {
       "id": "mission-main-story-event-001-mission_12",
-      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_13",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_14",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_15",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_21",
@@ -1275,23 +1275,23 @@
     },
     {
       "id": "mission-main-story-event-001-mission_22",
-      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_23",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_24",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_25",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_31",
@@ -1299,23 +1299,23 @@
     },
     {
       "id": "mission-main-story-event-001-mission_32",
-      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-001-mission_33",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_34",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_35",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_41",
@@ -1327,19 +1327,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_43",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_44",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_45",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-001-mission_51",
@@ -1351,19 +1351,19 @@
     },
     {
       "id": "mission-main-story-event-001-mission_53",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_54",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_55",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-001-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_11",
@@ -1387,7 +1387,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_21",
@@ -1411,7 +1411,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_31",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_41",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-002-mission_51",
@@ -1483,7 +1483,7 @@
     },
     {
       "id": "mission-main-story-event-002-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_11",
@@ -1507,7 +1507,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_21",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_31",
@@ -1555,7 +1555,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_41",
@@ -1579,7 +1579,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-003-mission_51",
@@ -1603,7 +1603,7 @@
     },
     {
       "id": "mission-main-story-event-003-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_11",
@@ -1611,15 +1611,15 @@
     },
     {
       "id": "mission-main-story-event-004-mission_12",
-      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_13",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_14",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_15",
@@ -1627,7 +1627,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_21",
@@ -1635,15 +1635,15 @@
     },
     {
       "id": "mission-main-story-event-004-mission_22",
-      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-004-mission_23",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_24",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_25",
@@ -1651,7 +1651,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_31",
@@ -1663,11 +1663,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_33",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_34",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_35",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_41",
@@ -1687,11 +1687,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_43",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_44",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_45",
@@ -1699,7 +1699,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-004-mission_51",
@@ -1711,11 +1711,11 @@
     },
     {
       "id": "mission-main-story-event-004-mission_53",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_54",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-004-mission_55",
@@ -1723,7 +1723,7 @@
     },
     {
       "id": "mission-main-story-event-004-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_11",
@@ -1731,11 +1731,11 @@
     },
     {
       "id": "mission-main-story-event-005-mission_12",
-      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-005-mission_13",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_14",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_21",
@@ -1759,7 +1759,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_23",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_24",
@@ -1771,7 +1771,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_31",
@@ -1783,7 +1783,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_33",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_34",
@@ -1795,7 +1795,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_41",
@@ -1807,7 +1807,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_43",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_44",
@@ -1819,7 +1819,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-005-mission_51",
@@ -1831,7 +1831,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_53",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-005-mission_54",
@@ -1843,7 +1843,7 @@
     },
     {
       "id": "mission-main-story-event-005-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_11",
@@ -1851,23 +1851,23 @@
     },
     {
       "id": "mission-main-story-event-006-mission_12",
-      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_13",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_14",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_15",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_21",
@@ -1875,23 +1875,23 @@
     },
     {
       "id": "mission-main-story-event-006-mission_22",
-      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_23",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_24",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_25",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_31",
@@ -1899,23 +1899,23 @@
     },
     {
       "id": "mission-main-story-event-006-mission_32",
-      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_33",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_34",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_35",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_41",
@@ -1923,23 +1923,23 @@
     },
     {
       "id": "mission-main-story-event-006-mission_42",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_43",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_44",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_45",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-006-mission_51",
@@ -1947,23 +1947,23 @@
     },
     {
       "id": "mission-main-story-event-006-mission_52",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-006-mission_53",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_54",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_55",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-006-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-007-mission_11",
@@ -1971,11 +1971,11 @@
     },
     {
       "id": "mission-main-story-event-007-mission_12",
-      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-007-mission_13",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-007-mission_14",
@@ -1987,7 +1987,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-007-mission_21",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_23",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-007-mission_24",
@@ -2011,7 +2011,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-007-mission_31",
@@ -2023,7 +2023,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_33",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-007-mission_34",
@@ -2035,7 +2035,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-007-mission_41",
@@ -2047,7 +2047,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_43",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-007-mission_44",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-007-mission_51",
@@ -2071,7 +2071,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_53",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-007-mission_54",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "mission-main-story-event-007-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-008-mission_11",
@@ -2091,15 +2091,15 @@
     },
     {
       "id": "mission-main-story-event-008-mission_12",
-      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-008-mission_13",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_14",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_15",
@@ -2107,7 +2107,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-008-mission_21",
@@ -2115,15 +2115,15 @@
     },
     {
       "id": "mission-main-story-event-008-mission_22",
-      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-008-mission_23",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_24",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_25",
@@ -2131,7 +2131,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-008-mission_31",
@@ -2143,11 +2143,11 @@
     },
     {
       "id": "mission-main-story-event-008-mission_33",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_34",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_35",
@@ -2155,7 +2155,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-008-mission_41",
@@ -2167,11 +2167,11 @@
     },
     {
       "id": "mission-main-story-event-008-mission_43",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_44",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_45",
@@ -2179,7 +2179,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-008-mission_51",
@@ -2191,11 +2191,11 @@
     },
     {
       "id": "mission-main-story-event-008-mission_53",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_54",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-008-mission_55",
@@ -2203,7 +2203,7 @@
     },
     {
       "id": "mission-main-story-event-008-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-009-mission_11",
@@ -2211,23 +2211,23 @@
     },
     {
       "id": "mission-main-story-event-009-mission_12",
-      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-009-mission_13",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_14",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_15",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-009-mission_21",
@@ -2235,23 +2235,23 @@
     },
     {
       "id": "mission-main-story-event-009-mission_22",
-      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-009-mission_23",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_24",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_25",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-009-mission_31",
@@ -2259,23 +2259,23 @@
     },
     {
       "id": "mission-main-story-event-009-mission_32",
-      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-009-mission_33",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_34",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_35",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-009-mission_41",
@@ -2283,23 +2283,23 @@
     },
     {
       "id": "mission-main-story-event-009-mission_42",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-009-mission_43",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_44",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_45",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-009-mission_51",
@@ -2307,23 +2307,23 @@
     },
     {
       "id": "mission-main-story-event-009-mission_52",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-009-mission_53",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_54",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_55",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-009-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-010-mission_11",
@@ -2331,23 +2331,23 @@
     },
     {
       "id": "mission-main-story-event-010-mission_12",
-      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+      "name": "하나미 사키의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-010-mission_13",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_14",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_15",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_16",
-      "name": "1日目のミッションを全てクリア"
+      "name": "1일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-010-mission_21",
@@ -2355,23 +2355,23 @@
     },
     {
       "id": "mission-main-story-event-010-mission_22",
-      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+      "name": "츠키무라 테마리의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-010-mission_23",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_24",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_25",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_26",
-      "name": "2日目のミッションを全てクリア"
+      "name": "2일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-010-mission_31",
@@ -2379,23 +2379,23 @@
     },
     {
       "id": "mission-main-story-event-010-mission_32",
-      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-010-mission_33",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_34",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_35",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_36",
-      "name": "3日目のミッションを全てクリア"
+      "name": "3일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-010-mission_41",
@@ -2403,23 +2403,23 @@
     },
     {
       "id": "mission-main-story-event-010-mission_42",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-010-mission_43",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_44",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_45",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_46",
-      "name": "4日目のミッションを全てクリア"
+      "name": "4일차 미션을 모두 클리어"
     },
     {
       "id": "mission-main-story-event-010-mission_51",
@@ -2427,23 +2427,23 @@
     },
     {
       "id": "mission-main-story-event-010-mission_52",
-      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+      "name": "하나미 사키 또는 츠키무라 테마리 또는 후지타 코토네의 팬을 {threshold}명 확보하자"
     },
     {
       "id": "mission-main-story-event-010-mission_53",
-      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_54",
-      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+      "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_55",
-      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+      "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
     },
     {
       "id": "mission-main-story-event-010-mission_56",
-      "name": "5日目のミッションを全てクリア"
+      "name": "5일차 미션을 모두 클리어"
     },
     {
       "id": "mission-normal-absolutedearnesslevel-1",
