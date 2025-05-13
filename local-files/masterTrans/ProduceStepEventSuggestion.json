@@ -27048,7 +27048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 만큼 회복\n무작위 P음료(SR 이상) 획득\n스킬 카드를 선택해 다른 강세・온존 관계 스킬 카드로 "
+          "text": " 만큼 회복\n무작위 P음료(SR 이상) 획득\n스킬 카드를 선택해 다른 강기・온존 관계 스킬 카드로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -27418,7 +27418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 만큼 회복\n무작위 P음료(SR 이상) 획득\n스킬 카드를 선택해 다른 강세・온존 관계 스킬 카드로 "
+          "text": " 만큼 회복\n무작위 P음료(SR 이상) 획득\n스킬 카드를 선택해 다른 강기・온존 관계 스킬 카드로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -27708,7 +27708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 만큼 회복\n무작위 P음료 2개 획득\n스킬 카드를 선택해 다른 강세・온존 관계 스킬 카드로 "
+          "text": " 만큼 회복\n무작위 P음료 2개 획득\n스킬 카드를 선택해 다른 강기・온존 관계 스킬 카드로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -28078,7 +28078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " 만큼 회복\n무작위 P음료 2개 획득\n스킬 카드를 선택해 다른 강세・온존 관계 스킬 카드로 "
+          "text": " 만큼 회복\n무작위 P음료 2개 획득\n스킬 카드를 선택해 다른 강기・온존 관계 스킬 카드로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -29268,7 +29268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -29408,7 +29408,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -29548,7 +29548,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -30528,7 +30528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -30668,7 +30668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -30808,7 +30808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -32308,7 +32308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -32528,7 +32528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -32748,7 +32748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -34288,7 +34288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -34508,7 +34508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -34728,7 +34728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -35748,7 +35748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -35888,7 +35888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -36028,7 +36028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -37008,7 +37008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -37148,7 +37148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -37288,7 +37288,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -38788,7 +38788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -39008,7 +39008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -39228,7 +39228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -40768,7 +40768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -40988,7 +40988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -41208,7 +41208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -42228,7 +42228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -42368,7 +42368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -42508,7 +42508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 강화 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 강화 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -43488,7 +43488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -43628,7 +43628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -43768,7 +43768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\nP음료를 선택해 획득\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\nP음료를 선택해 획득\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -45268,7 +45268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -45488,7 +45488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -45708,7 +45708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -47248,7 +47248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -47468,7 +47468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },
@@ -47688,7 +47688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n강세・온존 관계의 스킬 카드를 선택해 획득"
+          "text": "\n강기・온존 관계의 스킬 카드를 선택해 획득"
         }
       ]
     },

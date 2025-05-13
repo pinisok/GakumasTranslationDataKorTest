@@ -234,8 +234,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 33,
       "title": "하츠보시 도전33",
-      "description": "훈련의【응용1】플랜：센스를 클리어하자",
-      "homeDescription": "훈련의【응용1】플랜：센스를 클리어하자"
+      "description": "훈련에서 【응용1】플랜：센스를 클리어하자",
+      "homeDescription": "훈련에서 【응용1】플랜：센스를 클리어하자"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -255,8 +255,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 36,
       "title": "하츠보시 도전36",
-      "description": "훈련의【응용 2】플랜：로직을 클리어하자",
-      "homeDescription": "훈련의【응용 2】플랜：로직을 클리어하자"
+      "description": "훈련에서 【응용 2】플랜：로직을 클리어하자",
+      "homeDescription": "훈련에서 【응용 2】플랜：로직을 클리어하자"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -1067,15 +1067,15 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 92,
       "title": "P과제92",
-      "description": "츠키무라 테마리에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자",
-      "homeDescription": "츠키무라 테마리에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
+      "description": "츠키무라 테마리로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자",
+      "homeDescription": "츠키무라 테마리로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 93,
       "title": "P과제93",
-      "description": "후지타 코토네에서 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자",
-      "homeDescription": "후지타 코토네에서 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
+      "description": "후지타 코토네로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자",
+      "homeDescription": "후지타 코토네로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1102,8 +1102,8 @@
       "mainTaskGroupId": "main_task_group-02-01",
       "number": 97,
       "title": "P과제97",
-      "description": "하나미 사키에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자",
-      "homeDescription": "하나미 사키에서 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
+      "description": "하나미 사키로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자",
+      "homeDescription": "하나미 사키로 최종 시험에 합격하여 A 등급 이상을 {threshold}회 획득하자"
     },
     {
       "mainTaskGroupId": "main_task_group-02-01",
@@ -1130,15 +1130,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 1,
       "title": "P과제2-1",
-      "description": "훈련의 【기초 7】전력을 클리어",
-      "homeDescription": "훈련의 【기초 7】전력을 클리어"
+      "description": "훈련에서 【기초 7】전력을 클리어",
+      "homeDescription": "훈련에서 【기초 7】전력을 클리어"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 2,
       "title": "P과제2-2",
-      "description": "훈련의 【기초 8】강세를 클리어",
-      "homeDescription": "훈련의 【기초 8】강세를 클리어"
+      "description": "훈련에서 【기초 8】강기를 클리어",
+      "homeDescription": "훈련에서 【기초 8】강기를 클리어"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1158,8 +1158,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 5,
       "title": "P과제2-5",
-      "description": "훈련의 【응용 5】플랜：어노말리를 클리어하자",
-      "homeDescription": "훈련의 【응용 5】플랜：어노말리를 클리어하자"
+      "description": "훈련에서 【응용 5】플랜：어노말리를 클리어하자",
+      "homeDescription": "훈련에서 【응용 5】플랜：어노말리를 클리어하자"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1529,8 +1529,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 58,
       "title": "P과제58",
-      "description": "N.I.A에서 팬 투표 수를 {threshold} 획득하자",
-      "homeDescription": "N.I.A에서 팬 투표 수를 {threshold} 획득하자"
+      "description": "N.I.A에서 팬 투표 수 {threshold}을 획득하자",
+      "homeDescription": "N.I.A에서 팬 투표 수 {threshold}을 획득하자"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1585,15 +1585,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 66,
       "title": "P과제66",
-      "description": "N.I.A의 프로듀스에서 평가 S 이상 달성하자\n【조건】플랜：센스의 프로듀스 아이돌",
-      "homeDescription": "N.I.A의 프로듀스에서 평가 S 이상 달성하자\n【조건】플랜：센스의 프로듀스 아이돌"
+      "description": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
+      "homeDescription": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 67,
       "title": "P과제67",
-      "description": "프로듀스 중에 파라미터 중 하나를 1,700 이상으로 육성하자",
-      "homeDescription": "프로듀스 중에 파라미터 중 하나를 1,700 이상으로 육성하자"
+      "description": "최종 시험에서 1위가 되자!",
+      "homeDescription": "최종 시험에서 1위가 되자!"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1662,15 +1662,15 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 77,
       "title": "P과제77",
-      "description": "N.I.A에서 팬 투표 수를 {threshold} 획득하자",
-      "homeDescription": "N.I.A에서 팬 투표 수를 {threshold} 획득하자"
+      "description": "N.I.A에서 팬 투표 수 {threshold}을 획득하자",
+      "homeDescription": "N.I.A에서 팬 투표 수 {threshold}을 획득하자"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 78,
       "title": "P과제78",
-      "description": "N.I.A의 프로듀스에서 평가 S 이상 달성하자\n【조건】 플랜 : 로직 프로듀스 아이돌 ",
-      "homeDescription": "N.I.A의 프로듀스에서 평가 S 이상 달성하자\n【조건】 플랜 : 로직 프로듀스 아이돌 "
+      "description": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+      "homeDescription": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1690,8 +1690,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 81,
       "title": "P과제81",
-      "description": "N.I.A의 프로듀스에서 평가 S 이상 달성하자\n【조건】플랜：어노말리의 프로듀스 아이돌",
-      "homeDescription": "N.I.A의 프로듀스에서 평가 S 이상 달성하자\n【조건】플랜：어노말리의 프로듀스 아이돌"
+      "description": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：アノマリーのプロデュースアイドル",
+      "homeDescription": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",

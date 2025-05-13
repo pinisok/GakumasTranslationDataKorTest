@@ -1725,7 +1725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1778,7 +1778,7 @@
           "text": "증가 "
         }
       ],
-      "name": "강세 강화"
+      "name": "강기 강화"
     },
     {
       "id": "Label_ExamConcentration_Exam",
@@ -1854,7 +1854,7 @@
           "text": "1"
         }
       ],
-      "name": "강세"
+      "name": "강기"
     },
     {
       "id": "Label_ExamConcentration_Produce",
@@ -1877,7 +1877,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1897,7 +1897,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1970,7 +1970,7 @@
           "text": "1"
         }
       ],
-      "name": "강세"
+      "name": "강기"
     },
     {
       "id": "Label_ExamDebuffRecover",
@@ -3748,7 +3748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "증가（"
+          "text": "증가 ("
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3768,7 +3768,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "에 의한 상승도 포함）"
+          "text": "에 의한 상승도 포함)"
         }
       ],
       "name": "파라미터 상승량 증가"
@@ -3890,7 +3890,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "감소（"
+          "text": "감소 ("
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3910,7 +3910,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "에 의한 상승도 포함）"
+          "text": "에 의한 상승도 포함)"
         }
       ],
       "name": "파라미터 상승량 감소"
@@ -3986,7 +3986,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4302,7 +4302,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5852,7 +5852,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7202,7 +7202,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7550,7 +7550,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강세"
+          "text": "강기"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

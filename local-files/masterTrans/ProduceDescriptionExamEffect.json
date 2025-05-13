@@ -99,7 +99,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "강세"
+      "name": "강기"
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
@@ -274,59 +274,59 @@
       "name": "성장"
     },
     {
-      "type": 167,
+      "type": "ProduceExamEffectType_ExamOverPreservation",
       "name": "여유"
     },
     {
-      "type": 170,
+      "type": "ProduceExamEffectType_ExamEnthusiasticAdditive",
       "name": "열의 추가"
     },
     {
-      "type": 171,
+      "type": "ProduceExamEffectType_ExamEnthusiasticMultiple",
       "name": "열의 증가"
     },
     {
-      "type": 172,
+      "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
       "name": "전력 강화"
     },
     {
-      "type": 173,
+      "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
       "name": "강기 강화"
     },
     {
-      "type": 174,
+      "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
       "name": "집중 증가량 증가"
     },
     {
-      "type": 175,
+      "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
       "name": "호조 증가량 증가"
     },
     {
-      "type": 176,
+      "type": "ProduceExamEffectType_ExamAggressiveAdditive",
       "name": "의욕 증가량 증가"
     },
     {
-      "type": 177,
+      "type": "ProduceExamEffectType_ExamReviewAdditive",
       "name": "호인상 증가량 증가"
     },
     {
-      "type": 178,
+      "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
       "name": "전력치 증가량 증가"
     },
     {
-      "type": 179,
-      "name": "파라미터 상승값 증가량 증가"
+      "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
+      "name": "파라미터 상승치 증가량 증가"
     },
     {
-      "type": 180,
+      "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
       "name": "호조 감소"
     },
     {
-      "type": 181,
+      "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
       "name": "프라이드 (임시)"
     },
     {
-      "type": 182,
+      "type": "ProduceExamEffectType_ExamReviewMultiple",
       "name": "호인상 강화"
     }
   ]

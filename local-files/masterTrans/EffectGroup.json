@@ -42,8 +42,12 @@
       "name": "수업의 소비 체력 증가"
     },
     {
+      "id": "effect_group-visible-exam_add_grow_effect-000",
+      "name": "성장"
+    },
+    {
       "id": "effect_group-visible-exam_aggressive_reduce-000",
-      "name": "의욕감소"
+      "name": "의욕 감소"
     },
     {
       "id": "effect_group-visible-exam_anti_debuff-000",
@@ -59,7 +63,7 @@
     },
     {
       "id": "effect_group-visible-exam_card_draw-000",
-      "name": "스킬 카드 뽑기"
+      "name": "스킬 카드를 드로우"
     },
     {
       "id": "effect_group-visible-exam_card_play_aggressive-000",
@@ -75,7 +79,7 @@
     },
     {
       "id": "effect_group-visible-exam_concentration-000",
-      "name": "강세"
+      "name": "강기"
     },
     {
       "id": "effect_group-visible-exam_effect_timer-000",
@@ -110,6 +114,14 @@
       "name": "집중"
     },
     {
+      "id": "effect_group-visible-exam_lesson_depend_block-000",
+      "name": ""
+    },
+    {
+      "id": "effect_group-visible-exam_lesson_depend_exam_review-000",
+      "name": ""
+    },
+    {
       "id": "effect_group-visible-exam_lesson_value_multiple_down-000",
       "name": "파라미터 상승량 감소"
     },
@@ -119,7 +131,11 @@
     },
     {
       "id": "effect_group-visible-exam_lesson-000",
-      "name": "패러미터"
+      "name": "파라미터"
+    },
+    {
+      "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
+      "name": "호조 감소"
     },
     {
       "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",
