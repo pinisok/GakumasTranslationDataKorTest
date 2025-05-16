@@ -82,6 +82,10 @@
       "name": "3학년 1반의 수학여행"
     },
     {
+      "id": "event-story-014",
+      "name": "반 대항 하츠보시 대운동회"
+    },
+    {
       "id": "first-live-01",
       "name": "초성 공연"
     },
@@ -100,6 +104,10 @@
     {
       "id": "fktn-birthday-01",
       "name": "The Cute!!!"
+    },
+    {
+      "id": "hmsz-001",
+      "name": "마스터 업적 미스즈"
     },
     {
       "id": "hmsz-birthday-01",
@@ -472,10 +480,6 @@
     {
       "id": "story-bg-school-teachersroom-00-noon",
       "name": "커뮤 배경"
-    },
-    {
-      "id": "story-event-003",
-      "name": "1학년 2반의 아이돌들"
     },
     {
       "id": "ttmr-001",

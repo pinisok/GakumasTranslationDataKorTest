@@ -176,6 +176,84 @@
       "content": "「돈 잘 버는 아이돌」을 목표로 하는 분위기 메이커.\n중등부 출신 내부 진학조. 댄스에 재능이 많다.\n학원평가, 자기평가 모두 낮지만, 제 컨디션은 아닌 듯하다.\n많은 아르바이트를 겸직하고 있는 탓에 항상 피곤한 것 같다."
     },
     {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "1학년"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "160"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "42"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "B"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "73/54/74"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "물병자리"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "하루사키 논"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "2월6일"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "오른손"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "교토부"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "요리, 꽃꽃이, 생체 시계가 정확"
+    },
+    {
+      "characterId": "hmsz",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "낮잠, 산책"
+    },
+    {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
@@ -422,6 +500,12 @@
       "content": "언니와의 승부"
     },
     {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "보결 입학한 신입생\n활기 넘치고, 신체 능력이 뛰어난 전직 운동 선수"
+    },
+    {
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
@@ -498,6 +582,12 @@
       "type": "CharacterDetailType_Hobby",
       "order": 13,
       "content": "레슨, 재능 있는 아이돌 찾기"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "하츠보시 학원의 학생회장이자, 지난 해의 『샛별』.\n『학원 최고의 아이돌』이라 불리며, 많은 학생들에게 존경받고 있다."
     },
     {
       "characterId": "kcna",

@@ -46,6 +46,10 @@
       "name": "SSR 코토네로 B 평가"
     },
     {
+      "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
+      "name": "SSR 미스즈로 B 평가"
+    },
+    {
       "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
       "name": "SSR 리나미로 B 평가"
     },
@@ -146,6 +150,10 @@
       "name": "「아이돌 길」으로 별을 획득"
     },
     {
+      "id": "hidden_mission-view-ending-a-hmsz",
+      "name": "미스즈로 A-End 달성"
+    },
+    {
       "id": "hidden_mission-view-ending-a-produce_group-002-amao",
       "name": "마오로 A-End 달성"
     },
@@ -188,6 +196,14 @@
     {
       "id": "hidden_mission-view-ending-a-produce_group-002-ttmr",
       "name": "테마리로 A-End 달성"
+    },
+    {
+      "id": "hidden_mission-view-ending-b-hmsz",
+      "name": "미스즈로 B End 달성"
+    },
+    {
+      "id": "hidden_mission-view-ending-c-hmsz",
+      "name": "미스즈로 C End 달성"
     },
     {
       "id": "hidden_mission-view-ending-normal-a-amao",
@@ -330,6 +346,10 @@
       "name": "코토네로 True End를 보기"
     },
     {
+      "id": "hidden_mission-view-ending-true-hmsz",
+      "name": "미스즈로 True End를 보기"
+    },
+    {
       "id": "hidden_mission-view-ending-true-hrnm",
       "name": "리나미로 True End를 보기"
     },
@@ -412,6 +432,14 @@
     {
       "id": "hidden_mission-view-ending-true-ttmr",
       "name": "테마리로 True End를 보기"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00420-free-10-004",
+      "name": "최대 100연차 무료! 1st 애니버서리 10연 무료 가챠를 {threshold}번 뽑자"
+    },
+    {
+      "id": "hidden_mission-view-gasha-00420-ssr-idol-support-1",
+      "name": "24 시즌 한정 SSR 확정 10연 가챠를 {threshold}번 뽑자"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -2694,6 +2722,10 @@
       "name": "코토네로 C평가를 달성"
     },
     {
+      "id": "mission-normal-produce-clear-hmsz-c",
+      "name": "미스즈로 C평가를 달성"
+    },
+    {
       "id": "mission-normal-produce-clear-hrnm-c",
       "name": "리나미로 C평가를 달성"
     },
@@ -2732,6 +2764,10 @@
     {
       "id": "mission-normal-profileupdate-1",
       "name": "프로필을 설정하기"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_hmsz-0001",
+      "name": "미스즈 피스팩 등장 조건"
     },
     {
       "id": "mission-normal-view-shop_pack_hume-0001",
@@ -3119,6 +3155,30 @@
     },
     {
       "id": "mission-story-event-004-mission_6",
+      "name": "SP 레슨을 {threshold}회 클리어하자"
+    },
+    {
+      "id": "mission-story-event-006-mission_1",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-story-event-006-mission_2",
+      "name": "최종 시험에 {threshold}번 합격하자"
+    },
+    {
+      "id": "mission-story-event-006-mission_3",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-story-event-006-mission_4",
+      "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+    },
+    {
+      "id": "mission-story-event-006-mission_5",
+      "name": "P드링크를 {threshold}번 사용하자"
+    },
+    {
+      "id": "mission-story-event-006-mission_6",
       "name": "SP 레슨을 {threshold}회 클리어하자"
     },
     {
@@ -3570,6 +3630,30 @@
       "name": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hmsz-2-000-01",
+      "name": "【천천히, 한 걸음씩】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-02",
+      "name": "【천천히, 한 걸음씩】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-03",
+      "name": "【천천히, 한 걸음씩】하타야 미스즈의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-01",
+      "name": "【달 거북이】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-02",
+      "name": "【달 거북이】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-03",
+      "name": "【달 거북이】하타야 미스즈의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
       "id": "achieve-i_card-hrnm-3-001-01",
       "name": "【너와 세미블루】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
@@ -3587,7 +3671,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-02",
-      "name": "【L.U.V】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "name": "【L.U.V】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-03",
@@ -3599,7 +3683,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-02",
-      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-03",
@@ -3611,7 +3695,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-007-02",
-      "name": "【Campus mode!!】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "name": "【Campus mode!!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-03",
@@ -3623,7 +3707,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-02",
-      "name": "【해피 밀푀유】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "name": "【해피 밀푀유】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-03",
@@ -3635,7 +3719,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-02",
-      "name": "【Boom Boom Pow】 하나미 사키의 특훈 단계를 {threshold}으로 설정한다."
+      "name": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
@@ -3815,7 +3899,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
@@ -3827,7 +3911,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-02",
-      "name": "【가장광소곡】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "【가장광소곡】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
@@ -3839,7 +3923,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-02",
-      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
@@ -3851,7 +3935,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-007-02",
-      "name": "【Campus mode!!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "【Campus mode!!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-007-03",
@@ -3863,7 +3947,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-009-02",
-      "name": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-009-03",
@@ -4075,11 +4159,11 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-01",
-      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-02",
-      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-03",
@@ -4092,6 +4176,10 @@
     {
       "id": "achieve-m_fktn-001",
       "name": "후지타 코토네의 업적의 ★을 {threshold}개 획득"
+    },
+    {
+      "id": "achieve-m_hmsz-001",
+      "name": "하타야 미스즈의 업적의 ★을 {threshold}개 획득"
     },
     {
       "id": "achieve-m_hrnm-001",
@@ -4159,15 +4247,15 @@
     },
     {
       "id": "achieve-o_010",
-      "name": "총 팬 수를 {threshold}명으로 설정"
+      "name": "총 팬 수를 {threshold}명 달성"
     },
     {
       "id": "achieve-o_011",
-      "name": "총 팬 수를 {threshold}명으로 설정"
+      "name": "총 팬 수를 {threshold}명 달성"
     },
     {
       "id": "achieve-o_012",
-      "name": "총 팬 수를 {threshold}명으로 설정"
+      "name": "총 팬 수를 {threshold}명 달성"
     },
     {
       "id": "achieve-o_013",
@@ -4426,6 +4514,10 @@
       "name": "아리무라 마오로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_idol-amao-022",
+      "name": "아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-p_idol-card-amao-002-1",
       "name": "【시작은 멋지게】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
@@ -4679,7 +4771,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-008",
-      "name": "후지타 코토네의 특훈 단계를 {threshold}으로 설정한다."
+      "name": "후지타 코토네의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-fktn-009",
@@ -4730,6 +4822,86 @@
       "name": "후지타 코토네로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_idol-hmsz-000",
+      "name": "하타야 미스즈로 True End를 보기"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-1",
+      "name": "하타야 미스즈로 True End  : N.I.A 보기"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-001",
+      "name": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 사용"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-002",
+      "name": "하타야 미스즈의 레슨을 {threshold}회 클리어"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-003",
+      "name": "하타야 미스즈의 SP레슨을 {threshold}회 클리어"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-004",
+      "name": "하타야 미스즈로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-005",
+      "name": "하타야 미스즈로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-006",
+      "name": "하타야 미스즈로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-007",
+      "name": "하타야 미스즈의 프로듀스를 {threshold}회 완료"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-008",
+      "name": "하타야 미스즈의 특훈 단계 {threshold} 달성한다"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-009",
+      "name": "하타야 미스즈의 프로듀스로 최종 시험에 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-010",
+      "name": "하타야 미스즈 팬 {threshold}명 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-011",
+      "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-012",
+      "name": "하타야 미스즈의 프로듀싱 평가를 총 {threshold} 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-013",
+      "name": "하타야 미스즈의 프로듀싱 상담으로 {threshold}회 교환"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-014",
+      "name": "하타야 미스즈의 보컬을 1000 이상으로 육성하여 프로듀스를 완료"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-015",
+      "name": "「아이돌의 길」에서 클리어 조건의 ★을 {threshold}개 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-016",
+      "name": "하타야 미스즈로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-017",
+      "name": "하타야 미스즈로 난이도 「마스터」에서 최종 시험 1위를 획득"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-020",
+      "name": "하타야 미스즈로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "히메사키 리나미로 True End를 보기"
     },
@@ -4767,7 +4939,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-008",
-      "name": "히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "name": "히메사키 리나미의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-hrnm-009",
@@ -4816,6 +4988,10 @@
     {
       "id": "achieve-p_idol-hrnm-020",
       "name": "히메사키 리나미로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-022",
+      "name": "히메사키 리나미의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -5295,7 +5471,7 @@
     },
     {
       "id": "achieve-p_idol-shro-008",
-      "name": "시노사와 히로의 특훈 단계를 {threshold} 달성"
+      "name": "시노사와 히로의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-shro-009",
@@ -5344,6 +5520,10 @@
     {
       "id": "achieve-p_idol-shro-020",
       "name": "시노사와 히로로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-shro-022",
+      "name": "시노사와 히로의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
