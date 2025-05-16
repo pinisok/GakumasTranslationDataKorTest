@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "shop_costume_amao-cstm-0069_revival-1",
-      "name": "어린이 스모크(아리무라 마오)"
+      "name": "차일드 스모크(아리무라 마오)"
     },
     {
       "id": "shop_costume_amao-trng-0002",
@@ -15,27 +15,27 @@
     },
     {
       "id": "shop_costume_costume_head_fktn-hair-0001",
-      "name": "紫陽花の髪飾り（藤田ことね）"
+      "name": "수국 꽃 머리 장식 (후지타 코토네)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
-      "name": "紫陽花の髪飾り（秦谷美鈴）"
+      "name": "수국 꽃 머리 장식 (하타야 미스즈)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0003",
-      "name": "ラウンドメガネ（秦谷美鈴）"
+      "name": "라운드 안경(하타야 미스즈)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0004",
-      "name": "ネコミミ（秦谷美鈴）"
+      "name": "네코미미 (하타야 미스즈)"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0006",
-      "name": "はつみ☆アクセサリー（秦谷美鈴）"
+      "name": "하츠미☆액세서리(하타야 미스즈)"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0001",
-      "name": "紫陽花の髪飾り（花海咲季）"
+      "name": "수국 꽃 머리 장식 (하나미 사키)"
     },
     {
       "id": "shop_costume_costume_head_hume-hair-0001",
@@ -51,11 +51,11 @@
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
-      "name": "紫陽花の髪飾り（月村手毬）"
+      "name": "수국 꽃 머리 장식 (츠키무라 테마리)"
     },
     {
       "id": "shop_costume_fktn-cstm-0069_revival-1",
-      "name": "チャイルドスモック（藤田ことね）"
+      "name": "차일드 스모크 (후지타 코토네)"
     },
     {
       "id": "shop_costume_fktn-trng-0002",
@@ -63,19 +63,19 @@
     },
     {
       "id": "shop_costume_hmsz-cstm-0069",
-      "name": "チャイルドスモック（秦谷美鈴）"
+      "name": "차일드 스모크 (하타야 미스즈)"
     },
     {
       "id": "shop_costume_hmsz-othr-0002",
-      "name": "温泉用水着（秦谷美鈴）"
+      "name": "온천용 수영복 (하타야 미스즈)"
     },
     {
       "id": "shop_costume_hmsz-trng-0002",
-      "name": "初星学園体操服（秦谷美鈴）"
+      "name": "하츠보시 학원 체육복 (하타야 미스즈)"
     },
     {
       "id": "shop_costume_hrnm-cstm-0069_revival-1",
-      "name": "チャイルドスモック（姫崎莉波）"
+      "name": "차일드 스모크 (히메사키 리나미)"
     },
     {
       "id": "shop_costume_hrnm-trng-0002",
@@ -83,7 +83,7 @@
     },
     {
       "id": "shop_costume_hski-cstm-0069_revival-1",
-      "name": "チャイルドスモック（花海咲季）"
+      "name": "차일드 스모크 (하나미 사키)"
     },
     {
       "id": "shop_costume_hski-trng-0002",
@@ -91,11 +91,11 @@
     },
     {
       "id": "shop_costume_hume-cstm-0069",
-      "name": "チャイルドスモック（花海佑芽）"
+      "name": "차일드 스모크 (하나미 우메)"
     },
     {
       "id": "shop_costume_hume-cstm-0069_revival-1",
-      "name": "チャイルドスモック（花海佑芽）"
+      "name": "차일드 스모크 (하나미 우메)"
     },
     {
       "id": "shop_costume_hume-trng-0002",
@@ -103,23 +103,23 @@
     },
     {
       "id": "shop_costume_jsna-cstm-0069",
-      "name": "チャイルドスモック（十王星南）"
+      "name": "차일드 스모크 (하나미 우메)"
     },
     {
       "id": "shop_costume_jsna-cstm-0069_revival-1",
-      "name": "チャイルドスモック（十王星南）"
+      "name": "차일드 스모크 (하나미 우메)"
     },
     {
       "id": "shop_costume_jsna-othr-0002",
-      "name": "온천용 수영복(주오 세나)"
+      "name": "온천용 수영복 (주오 세나)"
     },
     {
       "id": "shop_costume_jsna-trng-0002",
-      "name": "하츠보시 학원 체육복(주오 세나)"
+      "name": "하츠보시 학원 체육복 (주오 세나)"
     },
     {
       "id": "shop_costume_kcna-cstm-0069_revival-1",
-      "name": "チャイルドスモック（倉本千奈）"
+      "name": "차일드 스모크 (쿠라모토 치나)"
     },
     {
       "id": "shop_costume_kcna-trng-0002",
@@ -127,7 +127,7 @@
     },
     {
       "id": "shop_costume_kllj-cstm-0069_revival-1",
-      "name": "チャイルドスモック（葛城リーリヤ）"
+      "name": "차일드 스모크 (카츠라기 릴리야)"
     },
     {
       "id": "shop_costume_kllj-trng-0002",
@@ -135,19 +135,19 @@
     },
     {
       "id": "shop_costume_nasr-cstm-0069",
-      "name": "어린이 스모크(네오 아사리)"
+      "name": "차일드 스모크 (네오 아사리)"
     },
     {
       "id": "shop_costume_nasr-cstm-0135",
-      "name": "티셔츠 수영복(네오 아사리)"
+      "name": "티셔츠 수영복 (네오 아사리)"
     },
     {
       "id": "shop_costume_nasr-hair-0005",
-      "name": "스퀘어 안경(네오 아사리)"
+      "name": "스퀘어 안경 (네오 아사리)"
     },
     {
       "id": "shop_costume_shro-cstm-0069_revival-1",
-      "name": "チャイルドスモック（篠澤広）"
+      "name": "차일드 스모크 (네오 아사리)"
     },
     {
       "id": "shop_costume_shro-trng-0002",
@@ -155,7 +155,7 @@
     },
     {
       "id": "shop_costume_ssmk-cstm-0069_revival-1",
-      "name": "チャイルドスモック（紫雲清夏）"
+      "name": "차일드 스모크 (시운 스미카)"
     },
     {
       "id": "shop_costume_ssmk-trng-0002",
@@ -163,7 +163,7 @@
     },
     {
       "id": "shop_costume_ttmr-cstm-0069_revival-1",
-      "name": "チャイルドスモック（月村手毬）"
+      "name": "차일드 스모크 (츠키무라 테마리)"
     },
     {
       "id": "shop_costume_ttmr-trng-0002",
@@ -199,15 +199,15 @@
     },
     {
       "id": "shop_jewel_item-0008",
-      "name": "[한번만 할인!] 쥬얼 12,300개 (6/28까지)"
+      "name": "【1회 한정 특가!】쥬얼 12,300개 (6/28까지)"
     },
     {
       "id": "shop_jewel_item-0009",
-      "name": "[한번만 할인!] 쥬얼 450개 (6/28까지)"
+      "name": "【1회 한정 특가!】쥬얼 450개 (6/28까지)"
     },
     {
       "id": "shop_jewel_item-0010",
-      "name": "[한번만 할인!] 쥬얼 6,000개 (6/28까지)"
+      "name": "【1회 한정 특가!】쥬얼 6,000개 (6/28까지)"
     },
     {
       "id": "shop_jewel_item-0011",
@@ -215,27 +215,27 @@
     },
     {
       "id": "shop_jewel_item-0014",
-      "name": "【2回きりお得！】ジュエル12,300個"
+      "name": "【2회 한정 특가!】쥬얼12,300개"
     },
     {
       "id": "shop_jewel_item-0015",
-      "name": "【2回きりお得！】ジュエル6,000個"
+      "name": "【2회 한정 특가!】쥬얼6,000개"
     },
     {
       "id": "shop_jewel_item-0016",
-      "name": "【2回きりお得！】ジュエル6,000個"
+      "name": "【2회 한정 특가!】쥬얼6,000개"
     },
     {
       "id": "shop_jewel_item-0017",
-      "name": "【2回きりお得！】ジュエル12,300個"
+      "name": "【2회 한정 특가!】쥬얼12,300개"
     },
     {
       "id": "shop_jewel_item-0018",
-      "name": "【2回きりお得！】ジュエル12,300個"
+      "name": "【2회 한정 특가!】쥬얼12,300개"
     },
     {
       "id": "shop_jewel_item-0019",
-      "name": "【2回きりお得！】ジュエル6,000個"
+      "name": "【2회 한정 특가!】쥬얼6,000개"
     },
     {
       "id": "shop_jewel_item-0020",
@@ -247,11 +247,11 @@
     },
     {
       "id": "shop_pack_hmsz-0001",
-      "name": "【72時間限定】プロデュースアイドルピースパック（美鈴）"
+      "name": "【72시간 한정】프로듀스 아이돌 피스팩 (미스즈)"
     },
     {
       "id": "shop_pack_hume-0001",
-      "name": "【72시간 한정】프로듀스 아이돌 피스팩（우메）"
+      "name": "【72시간 한정】프로듀스 아이돌 피스팩 (우메)"
     },
     {
       "id": "shop_pack_item-0001",
@@ -315,7 +315,7 @@
     },
     {
       "id": "shop_pack_item-aniversary-selection-ticket",
-      "name": "1st アニバーサリー前夜祭パック"
+      "name": "1st 애니버서리 전야제 팩"
     },
     {
       "id": "shop_pack_item-childsmock-01",

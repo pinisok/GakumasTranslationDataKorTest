@@ -111,6 +111,11 @@
       "description": "아리무라 마오의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "amao-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【Fluorite】'25 애니메이트 아리무라 마오 입수"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(아리무라 마오) 구매하기"
@@ -123,7 +128,7 @@
     {
       "id": "amao-trng-0001",
       "name": "레슨웨어",
-      "description": "아리무라 마오의 마스터 업적을 Rank3로 만들기"
+      "description": "아리무라 마오의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "amao-trng-0002",
@@ -246,6 +251,11 @@
       "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
+      "id": "fktn-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【세계 제일 귀여운 나】'25 애니메이트 후지타 코토네 입수"
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(후지타 코토네) 구매하기"
@@ -258,7 +268,7 @@
     {
       "id": "fktn-trng-0001",
       "name": "레슨웨어",
-      "description": "후지타 코토네의 마스터 업적을 Rank3로 만들기"
+      "description": "후지타 코토네의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "fktn-trng-0002",
@@ -266,9 +276,49 @@
       "description": "하츠보시 학원 체육복(후지타 코토네)을 구매"
     },
     {
+      "id": "hmsz-cstm-0000",
+      "name": "하지메",
+      "description": "처음부터 소지"
+    },
+    {
+      "id": "hmsz-cstm-0011",
+      "name": "달 거북이",
+      "description": "【달 거북이】하타야 미스즈 입수"
+    },
+    {
+      "id": "hmsz-cstm-0023",
+      "name": "달 거북이",
+      "description": "【달 거북이】하타야 미스즈의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "hmsz-cstm-0069",
+      "name": "차일드 스모크",
+      "description": "차일드 스모크 (하타야 미스즈)를 구입"
+    },
+    {
+      "id": "hmsz-othr-0002",
+      "name": "온천용 수영복",
+      "description": "온천용 수영복 (하타야 미스즈)를 구입"
+    },
+    {
       "id": "hmsz-schl-0000",
       "name": "하츠세키 학원 교복",
       "description": "처음부터 소지"
+    },
+    {
+      "id": "hmsz-trng-0000",
+      "name": "레슨웨어",
+      "description": "처음부터 소지"
+    },
+    {
+      "id": "hmsz-trng-0001",
+      "name": "레슨웨어",
+      "description": "하타야 미스즈의 마스터 업적을 Rank3 으로 만들기"
+    },
+    {
+      "id": "hmsz-trng-0002",
+      "name": "하츠보시 학원 체육복",
+      "description": "하츠보시 학원 체육복 (하타야 미스즈)를 구입"
     },
     {
       "id": "hrnm-cstm-0000",
@@ -371,6 +421,11 @@
       "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "hrnm-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【clumsy trick】'25 애니메이트 히메사키 리나미 입수"
+    },
+    {
       "id": "hrnm-othr-0000",
       "name": "온천 목욕 타올",
       "description": "입수 불가"
@@ -398,7 +453,7 @@
     {
       "id": "hrnm-trng-0001",
       "name": "레슨웨어",
-      "description": "히메사키 리나미의 마스터 업적을 Rank3로 만들기"
+      "description": "히메사키 리나미의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "hrnm-trng-0002",
@@ -616,6 +671,11 @@
       "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "hume-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【The Rolling Riceball】'25 애니메이트 하나미 ​​우메를 입수"
+    },
+    {
       "id": "hume-othr-0000",
       "name": "온천 목욕 타올",
       "description": "입수 불가"
@@ -638,7 +698,7 @@
     {
       "id": "hume-trng-0001",
       "name": "레슨웨어",
-      "description": "하나미 우메의 마스터 업적을 Rank3로 만들기"
+      "description": "하나미 우메의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "hume-trng-0002",
@@ -719,6 +779,11 @@
       "id": "jsna-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "주오 세나의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "jsna-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【작은 야망】'25 애니메이트 주오 세나를 입수"
     },
     {
       "id": "jsna-othr-0002",
@@ -846,6 +911,11 @@
       "description": "쿠라모토 치나의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "kcna-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【Wonder Scale】'25 애니메이트 쿠라모토 치나 입수"
+    },
+    {
       "id": "kcna-othr-0002",
       "name": "어서 오세요 하츠보시 온천",
       "description": "【웰컴 투 하츠보시 온천】쿠라모토 치나 입수"
@@ -863,7 +933,7 @@
     {
       "id": "kcna-trng-0001",
       "name": "레슨웨어",
-      "description": "쿠라모토 치나의 마스터 업적을 Rank3로 만들기"
+      "description": "쿠라모토 치나의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "kcna-trng-0002",
@@ -971,6 +1041,11 @@
       "description": "카츠라기 릴리야의 아이돌 길 25 스테이지 클리어"
     },
     {
+      "id": "kllj-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【백선】'25 애니메이트 카츠라기 릴리야를 입수"
+    },
+    {
       "id": "kllj-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(카츠라기 릴리야) 구매하기"
@@ -988,7 +1063,7 @@
     {
       "id": "kllj-trng-0001",
       "name": "레슨웨어",
-      "description": "카츠라기 릴리야의 마스터 업적을 Rank3로 만들기"
+      "description": "카츠라기 릴리야의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "kllj-trng-0002",
@@ -1116,6 +1191,11 @@
       "description": "시노사와 히로의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "shro-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【광경】'25 애니메이트 시노사와 히로 입수"
+    },
+    {
       "id": "shro-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(시노사와 히로) 구매하기"
@@ -1128,7 +1208,7 @@
     {
       "id": "shro-trng-0001",
       "name": "레슨웨어",
-      "description": "시노사와 히로의 마스터 업적을 Rank3로 만들기"
+      "description": "시노사와 히로의 마스터 업적을 Rank3 으로 만들기"
     },
     {
       "id": "shro-trng-0002",
@@ -1236,9 +1316,14 @@
       "description": "시운 스미카의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "ssmk-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【Tame-Lie-One-Step】'25 애니메이트 시운 스미카 입수"
+    },
+    {
       "id": "ssmk-othr-0002",
       "name": "온천용 수영복",
-      "description": "온천용 수영복(시운 스미카) 구입하기"
+      "description": "온천용 수영복 (시운 스미카) 구입하기"
     },
     {
       "id": "ssmk-schl-0000",
@@ -1258,7 +1343,7 @@
     {
       "id": "ssmk-trng-0002",
       "name": "하츠보시 학원 체육복",
-      "description": "하츠보시 학원 체육복(시운 스미카)을 구매"
+      "description": "하츠보시 학원 체육복 (시운 스미카)을 구매"
     },
     {
       "id": "ttmr-casl-0000",
@@ -1369,6 +1454,11 @@
       "id": "ttmr-cstm-0113",
       "name": "비 갠 뒤의 아이리스",
       "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "ttmr-cstm-0119",
+      "name": "고금동서 식은 죽 먹기",
+      "description": "【Luna say maybe】'25 애니메이트 츠키무라 테마리 입수"
     },
     {
       "id": "ttmr-othr-0002",

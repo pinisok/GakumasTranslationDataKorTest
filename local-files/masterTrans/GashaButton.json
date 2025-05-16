@@ -37,6 +37,12 @@
       "description": "10회 가챠"
     },
     {
+      "id": "gasha_button-001-10-ssr-anniversary",
+      "order": 2,
+      "name": "SSR 확정 10연 가챠, 2회 한정",
+      "description": "SSR 확정 10연 가챠, 2회 한정"
+    },
+    {
       "id": "gasha_button-001-ticket",
       "order": 2,
       "name": "티켓으로 뽑기",
@@ -61,6 +67,12 @@
       "description": "10회 가챠"
     },
     {
+      "id": "gasha_button-free-10-04",
+      "order": 3,
+      "name": "10연 무료, 최대 100연 무료 가챠",
+      "description": "10회 가챠"
+    },
+    {
       "id": "gasha_button-pickup-001-01",
       "order": 2,
       "name": "1회 가챠",
@@ -75,6 +87,12 @@
     {
       "id": "gasha_button-pickup-001-10",
       "order": 3,
+      "name": "10회 가챠",
+      "description": "10회 가챠"
+    },
+    {
+      "id": "gasha_button-pickup-001-10-animate",
+      "order": 1,
       "name": "10회 가챠",
       "description": "10회 가챠"
     },

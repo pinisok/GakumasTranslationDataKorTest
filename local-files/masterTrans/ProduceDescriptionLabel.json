@@ -91,22 +91,22 @@
     {
       "id": "Convert_StepLessonType_DanceLesson",
       "produceDescriptions": [],
-      "name": "【댄스 레슨・댄스 턴인 경우 】"
+      "name": "【댄스 레슨·댄스 턴일 때】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
       "produceDescriptions": [],
-      "name": "【SP 수업만 】"
+      "name": "【SP 수업일 때】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
       "produceDescriptions": [],
-      "name": "【비주얼 레슨-비주얼 턴일 경우 】"
+      "name": "【비주얼 레슨·비주얼 턴일 때】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [],
-      "name": "【보컬 레슨, 보컬 턴일 경우 】"
+      "name": "【보컬 레슨·보컬 턴일 때】"
     },
     {
       "id": "Description_ProduceCardIsInitial",
@@ -1867,7 +1867,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지침"
+          "text": "지침을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2009,7 +2009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ", "
+          "text": ","
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4212,7 +4212,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지침"
+          "text": "지침을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4998,7 +4998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지침"
+          "text": "지침을 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

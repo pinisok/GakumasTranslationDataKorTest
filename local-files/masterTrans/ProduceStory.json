@@ -132,6 +132,61 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story_002_hmsz_after-audition-a-normal-02",
+      "title": "아직 여기서부터",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-a-normal-03",
+      "title": "아직도 지금부터",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-b-normal-02",
+      "title": "더 더 앞으로!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-b-normal-03",
+      "title": "더 앞으로",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-final-failure-01",
+      "title": "다시 함께",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-final-normal-01",
+      "title": "더 높은 곳으로!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_after-audition-mid-failure-01",
+      "title": "다음 번에는 반드시",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_before-audition-a-normal-01",
+      "title": "기합은 충분해?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_before-audition-b-normal-01",
+      "title": "준비는 만반이야?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_ending-normal-02",
+      "title": "Normal End",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story_002_hmsz_opening-normal-02",
+      "title": "목표는 『N.I.A』 제패!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story_002_hrnm_after-audition-a-normal-02",
       "title": "아직 여기서부터",
       "produceEventHintProduceConditionDescriptions": [
@@ -1158,6 +1213,238 @@
       "title": "꿈에 더 가까워지기 위해",
       "produceEventHintProduceConditionDescriptions": [
         "후지타 코토네의 True End를 본다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-failure-01",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "최종 시험에서 불합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-01",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "최종시험을 1위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-02",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "최종시험을 2위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-03",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "최종시험을 3위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-final-normal-04",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-failure-01",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-01",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "중간시험을 1위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-02",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "중간시험을 2위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-03",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "중간시험을 3위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-audition-mid-normal-04",
+      "title": "시험 결과는...",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-1-normal-01",
+      "title": "신경쓰이는 모습",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 7 이상으로 만든다",
+        "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-1-normal-02",
+      "title": "신경쓰이는 모습",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-1-normal-03",
+      "title": "신경쓰이는 모습",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-2-normal-01",
+      "title": "신경쓰이는 모습",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 7 이상으로 만든다",
+        "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-2-normal-02",
+      "title": "신경쓰이는 모습",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-after-step-2-normal-03",
+      "title": "신경쓰이는 모습",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-before-audition-final-normal-01",
+      "title": "가자! 최종시험에",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-before-audition-mid-normal-01",
+      "title": "막상! 중간고사에!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-01",
+      "title": "【A End】함께, 꾸벅꾸벅",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "최종시험을 1위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-02",
+      "title": "【B End】설령 타락할지라도",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다",
+        "최종시험을 2위로 합격"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-03",
+      "title": "【C End】바라는 대로의 나날",
+      "produceEventHintProduceConditionDescriptions": [
+        "최종 시험 통과"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-04",
+      "title": "【D End】앞으로도 오래도록",
+      "produceEventHintProduceConditionDescriptions": [
+        "최종시험에서 4위 또는 5위가 된다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-normal-05",
+      "title": "【E End】차 한잔 하세요",
+      "produceEventHintProduceConditionDescriptions": [
+        "최종시험에서 6위가 된다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-ending-true-01",
+      "title": "True End",
+      "produceEventHintProduceConditionDescriptions": [
+        " 최종 시험을 1위로 합격",
+        " 미정의 패턴 (Type: LatestAuditionRank, ResourceID1: , ResourceID2: , MinMaxType: MIN_MAX, Min: 1, Max: 1)",
+        " 업적 「높은 곳에서」를 획득하다",
+        " 업적 「역시 프로듀서네요」를 획득하다",
+        " 업적 「오늘은 흐린 하늘」을 획득하다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-fb-01",
+      "title": "느긋하게",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-fb-02",
+      "title": "착실하게",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-fb-03",
+      "title": "높은 곳으로",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-01",
+      "title": "프로듀싱 시작!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-02",
+      "title": "하타야 미스즈, 시동!",
+      "produceEventHintProduceConditionDescriptions": [
+        "프로듀스를 개시한다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-03",
+      "title": "하타야 미스즈, 시동!",
+      "produceEventHintProduceConditionDescriptions": [
+        "프로듀스를 개시한다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-04",
+      "title": "하타야 미스즈, 시동!",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-normal-05",
+      "title": "하타야 미스즈, 시동!",
+      "produceEventHintProduceConditionDescriptions": [
+        "친애도를 4 이상으로 만든다"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-true-01",
+      "title": "꿈에 더 가까워지기 위해",
+      "produceEventHintProduceConditionDescriptions": [
+        "하타야 미스즈의 True End를 보기"
+      ]
+    },
+    {
+      "id": "p_story-001-hmsz-opening-true-02",
+      "title": "꿈에 더 가까워지기 위해",
+      "produceEventHintProduceConditionDescriptions": [
+        "하타야 미스즈의 True End를 보기"
       ]
     },
     {
@@ -3567,6 +3854,171 @@
     {
       "id": "p_story-event-001_fktn_school_011",
       "title": "코토네의 레슨",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_001",
+      "title": "미스즈의 공부 시간은?",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_002",
+      "title": "자택 방문을 저지하라",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_003",
+      "title": "낮잠 장소",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_004",
+      "title": "전시를 보러 가자",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_005",
+      "title": "하루의 끝에",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_006",
+      "title": "메이드의 기술",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_007",
+      "title": "아이돌 의상",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_008",
+      "title": "좋아하는 계절",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_009",
+      "title": "카스텔라",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_010",
+      "title": "비의 노래",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_011",
+      "title": "프로듀서와의 일상",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_012",
+      "title": "좋아하는 동물",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_013",
+      "title": "프린트 씰",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_014",
+      "title": "친구",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_015",
+      "title": "휴일의 미스즈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_016",
+      "title": "돌봐주기",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_017-01",
+      "title": "복권 티켓",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_017-02",
+      "title": "복권 티켓",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_018-01",
+      "title": "어느새 노래방",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_018-02",
+      "title": "어느새 노래방",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_019",
+      "title": "고양이",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_activity_020",
+      "title": "P의 단정한 모습",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_001",
+      "title": "미스즈와 공부",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_002",
+      "title": "컨디션 난조",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_003",
+      "title": "딱 맞는 일",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_004",
+      "title": "미스즈와의 교류 방식",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_005",
+      "title": "한 글자의 별자리",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_006",
+      "title": "브로마이드",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_007",
+      "title": "흐림의 정의",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_008",
+      "title": "막부의 시작",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_009",
+      "title": "음계",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_010",
+      "title": "다다미의 가장자리",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-001_hmsz_school_011",
+      "title": "레슨은 무엇에?",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -9180,6 +9632,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hmsz-3-000-01",
+      "title": "달 거북이 1화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-000-02",
+      "title": "달 거북이 2화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hmsz-3-000-03",
+      "title": "달 거북이 3화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hrnm-3-000-01",
       "title": "clumsy trick 1화",
       "produceEventHintProduceConditionDescriptions": []
@@ -10480,6 +10947,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0051-01",
+      "title": "다도의 마음가짐",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0051-02",
+      "title": "침착함의 이유",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0000-01",
       "title": "『친구』런치",
       "produceEventHintProduceConditionDescriptions": []
@@ -11320,6 +11797,36 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-3-0058-01",
+      "title": "오랜만의 라면",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0058-02",
+      "title": "계기가 된 라면",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0058-03",
+      "title": "화해의 라면",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0067-01",
+      "title": "진심으로 노력할 때",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0067-02",
+      "title": "체육제 같은 나날",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0067-03",
+      "title": "이번에는 아이돌로 승부!",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "story-dearness-amao-001",
       "title": "1화",
       "produceEventHintProduceConditionDescriptions": []
@@ -11432,6 +11939,56 @@
     {
       "id": "story-dearness-fktn-999",
       "title": "1화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-001",
+      "title": "1화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-002",
+      "title": "2화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-003",
+      "title": "3화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-004",
+      "title": "4화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-005",
+      "title": "5화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-006",
+      "title": "6화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-007",
+      "title": "7화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-008",
+      "title": "8화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-009",
+      "title": "9화",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "story-dearness-hmsz-010",
+      "title": "10화",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

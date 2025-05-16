@@ -59,32 +59,32 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-09",
-      "title": "홈 (친애도 Lv1〜3) ①"
+      "title": "홈 (친애도 Lv1~3) ①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-10",
-      "title": "홈 (친애도 Lv1〜3) ②"
+      "title": "홈 (친애도 Lv1~3) ②"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-11",
-      "title": "홈 (친애도 Lv1〜2) "
+      "title": "홈 (친애도 Lv1~2) "
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-12",
-      "title": "홈 (친애도 Lv4〜6) "
+      "title": "홈 (친애도 Lv4~6) "
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-13",
-      "title": "홈 (친애도 Lv6〜7) ①"
+      "title": "홈 (친애도 Lv6~7) ①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜7) ②"
+      "title": "홈 (친애도 Lv6~7) ②"
     },
     {
       "characterId": "amao",
@@ -319,12 +319,12 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "amao",
@@ -574,27 +574,27 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-10",
-      "title": "홈 (친애도 Lv1〜2) "
+      "title": "홈 (친애도 Lv1~2) "
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-11",
-      "title": "메인 로비 (친애도 Lv3〜4)"
+      "title": "메인 로비 (친애도 Lv3~4)"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-12",
-      "title": "홈 (친애도 Lv4〜5) "
+      "title": "메인 로비 (친애도 Lv4~5)"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-13",
-      "title": "홈 (친애도 Lv5〜8) "
+      "title": "홈 (친애도 Lv5~8) "
     },
     {
       "characterId": "fktn",
@@ -834,12 +834,12 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "fktn",
@@ -1042,6 +1042,371 @@
       "title": "업무 개시②"
     },
     {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_cmmn_clothe-01",
+      "title": "의상"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_birthday-01",
+      "title": "홈 (2024생일）"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-01",
+      "title": "메인 로비①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-02",
+      "title": "메인 로비②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-03",
+      "title": "메인 로비③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-04",
+      "title": "메인 로비④"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-05",
+      "title": "메인 로비⑤"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-06",
+      "title": "메인 로비⑥"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-07",
+      "title": "메인 로비⑦"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-08",
+      "title": "메인 로비⑧"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-09",
+      "title": "메인 로비 (친애도 Lv1~3)"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-10",
+      "title": "홈 (친애도 Lv2~3) "
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-11",
+      "title": "메인 로비 (친애도 Lv3~4)"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-12",
+      "title": "메인 로비 (친애도 Lv4~5)"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-13",
+      "title": "홈 (친애도 Lv5~6) "
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-14",
+      "title": "홈 (친애도 Lv6~8) "
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-15",
+      "title": "홈 (친애도 Lv8~) "
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-16",
+      "title": "홈 (친애도 Lv10~) ①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-17",
+      "title": "홈 (친애도 Lv10~) ②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-18",
+      "title": "메인 로비⑨"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-19",
+      "title": "메인 로비⑩"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-20",
+      "title": "메인 로비⑪"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-21",
+      "title": "메인 로비⑫"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-22",
+      "title": "메인 로비⑬"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-23",
+      "title": "메인 로비⑭"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-24",
+      "title": "메인 로비⑮"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_cmmn-25",
+      "title": "메인 로비⑯"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_touch-01",
+      "title": "메인 로비⑰"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_touch-02",
+      "title": "메인 로비⑱"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-01",
+      "title": "메인 로비 (아침)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-02",
+      "title": "메인 로비 (아침)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-03",
+      "title": "메인 로비 (낮)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-04",
+      "title": "메인 로비 (낮)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-05",
+      "title": "메인 로비 (저녁)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-06",
+      "title": "메인 로비 (저녁)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-07",
+      "title": "메인 로비 (밤)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-08",
+      "title": "메인 로비 (밤)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-14",
+      "title": "메인 로비 (봄)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-15",
+      "title": "메인 로비 (봄)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-16",
+      "title": "메인 로비 (봄)③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_idol_potential-01",
+      "title": "재능 개화①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_idol_potential-02",
+      "title": "재능 개화②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-01",
+      "title": "프로듀싱 결과(True End) ①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-02",
+      "title": "프로듀싱 결과(True End) ②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-03",
+      "title": "프로듀싱 결과(True End) ③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-04",
+      "title": "프로듀스 결과 (A End)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-05",
+      "title": "프로듀스 결과 (A End)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-06",
+      "title": "프로듀스 결과 (A End)③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-07",
+      "title": "프로듀스 결과 (B~C End)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_result-08",
+      "title": "프로듀스 결과 (B~C End)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-01",
+      "title": "활동 거점①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-02",
+      "title": "활동 거점②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-03",
+      "title": "활동 거점③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-04",
+      "title": "활동 거점④"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-05",
+      "title": "활동 거점⑤"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-06",
+      "title": "활동 거점⑥"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-07",
+      "title": "옥상①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-08",
+      "title": "옥상②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-09",
+      "title": "옥상③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-10",
+      "title": "안뜰①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-11",
+      "title": "안뜰②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-12",
+      "title": "안뜰③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-13",
+      "title": "아이돌과 교실①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-14",
+      "title": "아이돌과 교실②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-15",
+      "title": "아이돌과 교실③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-16",
+      "title": "활동 거점⑦"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-17",
+      "title": "활동 거점⑧"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-18",
+      "title": "아이돌과 교실④"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_produce_schedule-19",
+      "title": "아이돌과 교실⑤"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_work_result-01",
+      "title": "업무 성공"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_work_result-02",
+      "title": "업무 대성공"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_work_start-01",
+      "title": "업무 개시①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_work_start-02",
+      "title": "업무 개시②"
+    },
+    {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_cmmn_clothe-01",
       "title": "의상"
@@ -1094,32 +1459,32 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-09",
-      "title": "홈 (친애도 Lv1〜4) ①"
+      "title": "홈 (친애도 Lv1~4) ①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-10",
-      "title": "홈 (친애도 Lv1〜4) ②"
+      "title": "홈 (친애도 Lv1~4) ②"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-11",
-      "title": "메인 로비 (친애도 Lv2〜4)"
+      "title": "메인 로비 (친애도 Lv2~4)"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-12",
-      "title": "홈 (친애도 Lv5〜6) "
+      "title": "홈 (친애도 Lv5~6) "
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-13",
-      "title": "홈 (친애도 Lv6〜7) ①"
+      "title": "홈 (친애도 Lv6~7) ①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜7) ②"
+      "title": "홈 (친애도 Lv6~7) ②"
     },
     {
       "characterId": "hrnm",
@@ -1354,12 +1719,12 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "hrnm",
@@ -1609,32 +1974,32 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-09",
-      "title": "홈 (친애도 Lv1〜5) "
+      "title": "홈 (친애도 Lv1~5) "
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-10",
-      "title": "홈 (친애도 Lv2〜5) ①"
+      "title": "홈 (친애도 Lv2~5) ①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-11",
-      "title": "홈 (친애도 Lv2〜5) ②"
+      "title": "홈 (친애도 Lv2~5) ②"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-12",
-      "title": "홈 (친애도 Lv6〜8) ①"
+      "title": "홈 (친애도 Lv6~8) ①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-13",
-      "title": "홈 (친애도 Lv6〜8) ②"
+      "title": "홈 (친애도 Lv6~8) ②"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-14",
-      "title": "홈 (친애도 Lv7〜8) "
+      "title": "홈 (친애도 Lv7~8) "
     },
     {
       "characterId": "hski",
@@ -1869,12 +2234,12 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "hski",
@@ -2129,17 +2494,17 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_cmmn-12",
-      "title": "홈 (친애도 Lv4〜7) "
+      "title": "홈 (친애도 Lv4~7) "
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜7) "
+      "title": "홈 (친애도 Lv6~7) "
     },
     {
       "characterId": "hume",
@@ -2374,12 +2739,12 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "hume",
@@ -2629,32 +2994,32 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-10",
-      "title": "홈 (친애도 Lv3〜5) ①"
+      "title": "홈 (친애도 Lv3~5) ①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-11",
-      "title": "홈 (친애도 Lv3〜5) ②"
+      "title": "홈 (친애도 Lv3~5) ②"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-12",
-      "title": "홈 (친애도 Lv4〜6) "
+      "title": "홈 (친애도 Lv4~6) "
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-13",
-      "title": "홈 (친애도 Lv6〜7) "
+      "title": "홈 (친애도 Lv6~7) "
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜8) "
+      "title": "홈 (친애도 Lv6~8) "
     },
     {
       "characterId": "jsna",
@@ -2889,12 +3254,12 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "jsna",
@@ -3144,22 +3509,22 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-10",
-      "title": "홈 (친애도 Lv4〜5) ①"
+      "title": "홈 (친애도 Lv4~5) ①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-11",
-      "title": "홈 (친애도 Lv4〜5) ②"
+      "title": "홈 (친애도 Lv4~5) ②"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-12",
-      "title": "홈 (친애도 Lv5〜8) "
+      "title": "홈 (친애도 Lv5~8) "
     },
     {
       "characterId": "kcna",
@@ -3169,7 +3534,7 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜8) "
+      "title": "홈 (친애도 Lv6~8) "
     },
     {
       "characterId": "kcna",
@@ -3404,12 +3769,12 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "kcna",
@@ -3659,22 +4024,22 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-10",
-      "title": "메인 로비 (친애도 Lv2〜4)"
+      "title": "메인 로비 (친애도 Lv2~4)"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-11",
-      "title": "메인 로비 (친애도 Lv3〜4)"
+      "title": "메인 로비 (친애도 Lv3~4)"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-12",
-      "title": "메인 로비 (친애도 Lv5〜7)"
+      "title": "메인 로비 (친애도 Lv5~7)"
     },
     {
       "characterId": "kllj",
@@ -3684,7 +4049,7 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜7) "
+      "title": "홈 (친애도 Lv6~7) "
     },
     {
       "characterId": "kllj",
@@ -3919,12 +4284,12 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "kllj",
@@ -4174,32 +4539,32 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-09",
-      "title": "홈 (친애도 Lv1〜2) "
+      "title": "홈 (친애도 Lv1~2) "
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-10",
-      "title": "메인 로비 (친애도 Lv2〜4)"
+      "title": "메인 로비 (친애도 Lv2~4)"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-11",
-      "title": "메인 로비 (친애도 Lv3〜4)"
+      "title": "메인 로비 (친애도 Lv3~4)"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-12",
-      "title": "메인 로비 (친애도 Lv5〜7)"
+      "title": "메인 로비 (친애도 Lv5~7)"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-13",
-      "title": "홈 (친애도 Lv6〜8) ①"
+      "title": "홈 (친애도 Lv6~8) ①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-14",
-      "title": "홈 (친애도 Lv6〜8) ②"
+      "title": "홈 (친애도 Lv6~8) ②"
     },
     {
       "characterId": "shro",
@@ -4434,12 +4799,12 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "shro",
@@ -4689,12 +5054,12 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-10",
-      "title": "메인 로비 (친애도 Lv3〜4)"
+      "title": "메인 로비 (친애도 Lv3~4)"
     },
     {
       "characterId": "ssmk",
@@ -4704,17 +5069,17 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-12",
-      "title": "메인 로비 (친애도 Lv5〜7)"
+      "title": "메인 로비 (친애도 Lv5~7)"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-13",
-      "title": "홈 (친애도 Lv7〜8) ①"
+      "title": "홈 (친애도 Lv7~8) ①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-14",
-      "title": "홈 (친애도 Lv7〜8) ②"
+      "title": "홈 (친애도 Lv7~8) ②"
     },
     {
       "characterId": "ssmk",
@@ -4949,12 +5314,12 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "ssmk",
@@ -5204,32 +5569,32 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-09",
-      "title": "메인 로비 (친애도 Lv1〜3)"
+      "title": "메인 로비 (친애도 Lv1~3)"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-10",
-      "title": "홈 (친애도 Lv3〜4) ①"
+      "title": "홈 (친애도 Lv3~4) ①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-11",
-      "title": "홈 (친애도 Lv3〜4) ②"
+      "title": "홈 (친애도 Lv3~4) ②"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-12",
-      "title": "홈 (친애도 Lv4〜7) "
+      "title": "홈 (친애도 Lv4~7) "
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-13",
-      "title": "홈 (친애도 Lv5〜9) "
+      "title": "홈 (친애도 Lv5~9) "
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-14",
-      "title": "메인 로비 (친애도 Lv5〜7)"
+      "title": "메인 로비 (친애도 Lv5~7)"
     },
     {
       "characterId": "ttmr",
@@ -5244,7 +5609,7 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-17",
-      "title": "홈 (친애도 Lv10〜）③"
+      "title": "홈 (친애도 Lv10~）③"
     },
     {
       "characterId": "ttmr",
@@ -5464,12 +5829,12 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_produce_result-07",
-      "title": "프로듀스 결과 (B〜C End)①"
+      "title": "프로듀스 결과 (B~C End)①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_produce_result-08",
-      "title": "프로듀스 결과 (B〜C End)②"
+      "title": "프로듀스 결과 (B~C End)②"
     },
     {
       "characterId": "ttmr",

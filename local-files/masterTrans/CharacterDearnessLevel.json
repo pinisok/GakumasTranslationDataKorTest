@@ -39,7 +39,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「멋짐만 있는 게 아니야」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
+      "produceConditionDescription": "업적 「멋짐만 있는 게 아니야」를 획득"
     },
     {
       "characterId": "amao",
@@ -207,6 +207,56 @@
       "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
     },
     {
+      "characterId": "hmsz",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "프로듀스 2주차"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "중간 시험을 1위로 통과한다"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "프로듀스 중 비주얼을 450 이상으로 만든다"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "업적 「오늘은 흐린 하늘」을 획득"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "프로듀스 중 보컬을 1000 이상으로 만든다"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+    },
+    {
       "characterId": "hrnm",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -239,7 +289,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적「흘러넘치는 마음」을 획득한 상태에서 프로듀스의 중간시험을 통과한다"
+      "produceConditionDescription": "업적「흘러넘치는 마음」을 획득"
     },
     {
       "characterId": "hrnm",
@@ -339,7 +389,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「합격은 당연하다」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
+      "produceConditionDescription": "업적 「합격은 당연하다」를 획득"
     },
     {
       "characterId": "hski",
@@ -439,7 +489,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「언니를 향한 도전」을 획득한다"
+      "produceConditionDescription": "업적 「언니를 향한 도전」을 획득"
     },
     {
       "characterId": "hume",
@@ -539,7 +589,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「쌓아 온 것들」을 획득한 상태에서 프로듀스의 중간시험을 통과한다"
+      "produceConditionDescription": "업적 「쌓아 온 것들」을 획득"
     },
     {
       "characterId": "jsna",
@@ -639,7 +689,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「원기일점 돌파」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
+      "produceConditionDescription": "업적 「원기일점 돌파」를 획득"
     },
     {
       "characterId": "kcna",
@@ -739,7 +789,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「미소 연습」을 획득한 상태에서 프로듀스 중간 시험을 통과한다"
+      "produceConditionDescription": "업적 「미소 연습」을 획득"
     },
     {
       "characterId": "kllj",
@@ -939,7 +989,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「진심을 내면」을 획득한 상태에서 프로듀스 중간시험을 통과한다"
+      "produceConditionDescription": "업적 「진심을 내면」을 획득"
     },
     {
       "characterId": "ssmk",
@@ -1039,7 +1089,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 7,
-      "produceConditionDescription": "업적 「타협은 없다」를 획득한 상태에서 프로듀스 중간시험을 통과한다"
+      "produceConditionDescription": "업적 「타협은 없다」를 획득"
     },
     {
       "characterId": "ttmr",

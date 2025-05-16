@@ -679,12 +679,12 @@
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_concentration-0001-e_effect-exam_concentration-0002",
       "customizeCount": 1,
-      "description": "강기+"
+      "description": "강기 +"
     },
     {
       "id": "p_card_custom-070-g_effect-effect_change-e_effect-exam_preservation-0001-e_effect-exam_preservation-0002",
       "customizeCount": 1,
-      "description": "온존+"
+      "description": "온존 +"
     },
     {
       "id": "p_card_custom-070-g_effect-full_power_point_add-2",
@@ -769,7 +769,7 @@
     {
       "id": "p_card_custom-100-g_effect-effect_add-e_effect-exam_playable_value_add-01",
       "customizeCount": 1,
-      "description": "스킬 카드 사용 횟수+"
+      "description": "스킬 카드 사용 수 +"
     },
     {
       "id": "p_card_custom-100-g_effect-lesson_count_add-1",
@@ -790,6 +790,46 @@
       "id": "p_card_custom-100-g_effect-p_card-02-act-3_050-enc_1",
       "customizeCount": 1,
       "description": "지속 효과+"
+    },
+    {
+      "id": "p_card_custom-p_card-01-ido-3_016-1-1",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-p_card-01-ido-3_016-1-2",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-p_card-01-ido-3_016-1-3",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-p_card-01-ido-3_016-2",
+      "customizeCount": 1,
+      "description": "스킬 카드 사용 수 +"
+    },
+    {
+      "id": "p_card_custom-p_card-01-ido-3_017-1",
+      "customizeCount": 1,
+      "description": ""
+    },
+    {
+      "id": "p_card_custom-p_card-01-ido-3_017-2",
+      "customizeCount": 1,
+      "description": "스킬 카드 사용 수 +"
+    },
+    {
+      "id": "p_card_custom-p_card-02-ido-3_018-1",
+      "customizeCount": 1,
+      "description": "원기 추가"
+    },
+    {
+      "id": "p_card_custom-p_card-02-ido-3_018-2",
+      "customizeCount": 1,
+      "description": "레슨 중 1회\\n제한 제거"
     }
   ]
 }

@@ -358,6 +358,26 @@
       "name": "하츠보시 커뮤 이벤트 미션"
     },
     {
+      "id": "mission-group-main-story-event-010_1",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-010_2",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-010_3",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-010_4",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
+      "id": "mission-group-main-story-event-010_5",
+      "name": "하츠보시 커뮤 이벤트 미션"
+    },
+    {
       "id": "mission-group-panel-mission-01",
       "name": "제1회 패널미션 시트 1"
     },
@@ -380,6 +400,10 @@
     {
       "id": "mission-group-story-event-004",
       "name": "스토리 이벤트 미션 004"
+    },
+    {
+      "id": "mission-group-story-event-006",
+      "name": "스토리 이벤트 미션 006"
     },
     {
       "id": "mission-group-story-event-013",

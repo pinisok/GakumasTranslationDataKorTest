@@ -302,6 +302,10 @@
       "name": "후지타 코토네"
     },
     {
+      "id": "idol-hmsz-01",
+      "name": "하타야 미스즈"
+    },
+    {
       "id": "idol-hrnm-01",
       "name": "히메사키 리나미"
     },
@@ -346,11 +350,23 @@
       "name": ""
     },
     {
+      "id": "music-logo-fktn-003",
+      "name": ""
+    },
+    {
       "id": "music-logo-hmsz-003",
       "name": ""
     },
     {
       "id": "music-logo-hrnm-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-hski-003",
+      "name": ""
+    },
+    {
+      "id": "music-logo-hume-003",
       "name": ""
     },
     {
@@ -822,6 +838,38 @@
       "name": "후지타 코토네"
     },
     {
+      "id": "sd-hmsz-01",
+      "name": "하타야 미스즈"
+    },
+    {
+      "id": "sd-hmsz-02",
+      "name": "하타야 미스즈①"
+    },
+    {
+      "id": "sd-hmsz-03",
+      "name": "하타야 미스즈②"
+    },
+    {
+      "id": "sd-hmsz-04",
+      "name": "하타야 미스즈③"
+    },
+    {
+      "id": "sd-hmsz-05",
+      "name": "하타야 미스즈④"
+    },
+    {
+      "id": "sd-hmsz-06",
+      "name": "하타야 미스즈⑤"
+    },
+    {
+      "id": "sd-hmsz-07",
+      "name": "하타야 미스즈⑥"
+    },
+    {
+      "id": "sd-hmsz-08",
+      "name": "하타야 미스즈⑦"
+    },
+    {
       "id": "sd-hrnm-01",
       "name": "히메사키 리나미"
     },
@@ -872,6 +920,10 @@
     {
       "id": "sign-fktn-03",
       "name": "아이돌들의 명함 파츠"
+    },
+    {
+      "id": "sign-hmsz-02",
+      "name": "하타야 미스즈"
     },
     {
       "id": "sign-hrnm-02",
@@ -963,6 +1015,14 @@
     },
     {
       "id": "stamp-fktn-03",
+      "name": ""
+    },
+    {
+      "id": "stamp-hmsz-01",
+      "name": ""
+    },
+    {
+      "id": "stamp-hmsz-02",
       "name": ""
     },
     {

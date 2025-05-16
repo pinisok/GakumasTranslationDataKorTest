@@ -108,7 +108,7 @@
     {
       "id": "costume_head_fktn-cstm-0001",
       "name": "세상에서 가장 귀여운 나",
-      "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수"
+      "description": "【세상에서 가장 귀여운 나】후지타 코토네를 입수!"
     },
     {
       "id": "costume_head_fktn-cstm-0013",
@@ -118,7 +118,7 @@
     {
       "id": "costume_head_fktn-cstm-0027",
       "name": "Yellow Big Bang!",
-      "description": "【Yellow Big Bang!】후지타 코토네 입수"
+      "description": "【Yellow Big Bang!】후지타 코토네 입수!"
     },
     {
       "id": "costume_head_fktn-cstm-0028",
@@ -168,7 +168,7 @@
     {
       "id": "costume_head_fktn-cstm-0112",
       "name": "비 갠 뒤의 아이리스",
-      "description": "【비 갠 뒤의 아이리스】후지타 코토네를 입수"
+      "description": "【비 갠 뒤의 아이리스】후지타 코토네 입수"
     },
     {
       "id": "costume_head_fktn-cstm-0113",
@@ -206,7 +206,37 @@
       "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
     },
     {
-      "id": "costume_head_hmsz-casl-0000",
+      "id": "costume_head_hmsz-cstm-0011",
+      "name": "달 거북이",
+      "description": "【달 거북이】하타야 미스즈 입수"
+    },
+    {
+      "id": "costume_head_hmsz-cstm-0023",
+      "name": "달 거북이",
+      "description": "【달 거북이】하타야 미스즈의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0001",
+      "name": "수국 머리 장식",
+      "description": "수국 머리 장식 (하타야 미스즈)를 구입"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0003",
+      "name": "둥근 안경",
+      "description": "라운드 안경 (하타야 미스즈)를 구입"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0004",
+      "name": "고양이 귀",
+      "description": "네코미미 (하타야 미스즈)를 구입"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0006",
+      "name": "하츠미☆액세서리",
+      "description": "하츠미☆액세서리 (하타야 미스즈)를 구입"
+    },
+    {
+      "id": "costume_head_hmsz-schl-0000",
       "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
     },
@@ -388,7 +418,7 @@
     {
       "id": "costume_head_hski-cstm-0112",
       "name": "비 갠 뒤의 아이리스",
-      "description": "【비 갠 뒤의 아이리스】하나미 사키를 입수"
+      "description": "【비 갠 뒤의 아이리스】하나미 사키 입수"
     },
     {
       "id": "costume_head_hski-cstm-0113",
@@ -953,7 +983,7 @@
     {
       "id": "costume_head_ttmr-cstm-0112",
       "name": "비 갠 뒤의 아이리스",
-      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리를 입수"
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리 입수"
     },
     {
       "id": "costume_head_ttmr-cstm-0113",
