@@ -5139,7 +5139,7 @@
     "shop.exchage.tab.other,": "기타",
     "exchange.detail_item_list.piece_name,": "{0} 피스",
     "exchange.detail_item_list.user_idol_status,": "프로듀스 아이돌의 소지 상황",
-    "exchange.detail_item_list.max_idol_piece,": "최대까지 재능 개화했습니다",
+    "exchange.detail_item_list.max_idol_piece": "최대까지 재능 개화했습니다",
     "exchange.detail_item_list.user_support_card_status,": "서포트 카드 소지 상황",
     "exchange.detail_item_list.quantity,": "소지수",
     "mission.idol.empty,": "미션 없음",
