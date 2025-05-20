@@ -9411,7 +9411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "次のオーディション開始時、"
+          "text": "다음 오디션 시작시, "
         }
       ]
     },
@@ -10001,7 +10001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "非"
+          "text": "비 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10371,7 +10371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "ターン開始時、山札か捨札にあるスキルカードが12枚以上の場合、"
+          "text": "턴 시작시, 덱이나 버림 패에 있는 스킬 카드가 12장 이상인 경우,"
         }
       ]
     },
@@ -10386,7 +10386,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "ターン開始時、山札か捨札にあるスキルカードが18枚以上の場合、"
+          "text": "턴 시작시, 덱이나 버림 패에 있는 스킬 카드가 18장 이상인 경우,"
         }
       ]
     },

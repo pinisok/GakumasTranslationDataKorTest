@@ -785,13 +785,13 @@
       "helpCategoryId": "help-produce",
       "id": "produce-003-add",
       "order": 37,
-      "name": "난이도：마스터"
+      "name": "난이도：마스터(정기공연 『하지메』)"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-005-add",
       "order": 47,
-      "name": "難易度：マスター(NEXT IDOL AUDITION)"
+      "name": "난이도：마스터(NEXT IDOL AUDITION)"
     },
     {
       "helpCategoryId": "help-produce",
@@ -875,7 +875,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-guide",
       "order": 49,
-      "name": "獲得ガイド"
+      "name": "획득 가이드"
     },
     {
       "helpCategoryId": "help-produce",
@@ -965,7 +965,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-produce-2-master-ranking",
       "order": 48,
-      "name": "N.I.Aマスターランキング"
+      "name": "N.I.A 마스터 랭킹"
     },
     {
       "helpCategoryId": "help-produce",

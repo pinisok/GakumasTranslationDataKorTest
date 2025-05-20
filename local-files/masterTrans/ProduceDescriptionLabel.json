@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "（"
+          "text": "( "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -195,7 +195,7 @@
     {
       "id": "Label_Audition",
       "produceDescriptions": [],
-      "name": "試験・オーディション"
+      "name": "시험·오디션"
     },
     {
       "id": "Label_AuditionNpcEnhance",
@@ -218,7 +218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Audition",
-          "text": "試験・オーディション"
+          "text": "시험·오디션"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -228,7 +228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "でライバルのスコアが増加"
+          "text": "라이벌 점수 증가"
         }
       ],
       "name": "라이벌 점수 증가"
@@ -416,10 +416,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "強化済みのスキルカードを獲得できる営業"
+          "text": "강화된 스킬 카드를 획득할 수 있는 영업"
         }
       ],
-      "name": "商業施設"
+      "name": "쇼핑몰"
     },
     {
       "id": "Label_BusinessProduceDrink",
@@ -432,10 +432,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pドリンクを獲得できる営業"
+          "text": "P음료를 획득할 수 있는 영업"
         }
       ],
-      "name": "企業イベント会場"
+      "name": "기업 이벤트 회장"
     },
     {
       "id": "Label_BusinessProducePoint",
@@ -448,10 +448,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "Pポイントを獲得できる営業"
+          "text": "P포인트를 획득할 수 있는 영업"
         }
       ],
-      "name": "自治体イベント会場"
+      "name": "지자체 이벤트 회장"
     },
     {
       "id": "Label_BusinessStamina",
@@ -464,10 +464,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "体力を回復する営業"
+          "text": "체력을 회복하는 영업"
         }
       ],
-      "name": "リゾート施設"
+      "name": "리조트 시설"
     },
     {
       "id": "Label_CardDrawAdd",
@@ -2098,7 +2098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "、"
+          "text": ", "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4065,7 +4065,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n"
+          "text": " +1\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4105,7 +4105,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n"
+          "text": " +10\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4145,7 +4145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n\n"
+          "text": " +10\n\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4381,7 +4381,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n"
+          "text": " +1\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4421,7 +4421,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n"
+          "text": " +10\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4461,7 +4461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n\n"
+          "text": " +10\n\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

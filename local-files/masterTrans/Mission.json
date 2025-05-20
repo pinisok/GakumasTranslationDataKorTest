@@ -4427,7 +4427,7 @@
     },
     {
       "id": "achieve-p_common-028",
-      "name": "最終試験をスコアSSS以上で{threshold}回合格"
+      "name": "최종 시험을 스코어 SSS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -4519,7 +4519,7 @@
     },
     {
       "id": "achieve-p_idol-amao-021",
-      "name": "有村 麻央で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "아리무라 마오로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-amao-022",
@@ -4831,7 +4831,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-021",
-      "name": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "후지타 코토네로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hmsz-000",
@@ -5003,7 +5003,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-021",
-      "name": "姫崎 莉波で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "히메사키 리나미로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hrnm-022",
@@ -5099,7 +5099,7 @@
     },
     {
       "id": "achieve-p_idol-hski-021",
-      "name": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "하나미 사키로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -5191,7 +5191,7 @@
     },
     {
       "id": "achieve-p_idol-hume-021",
-      "name": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "하나미 우메로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -5283,7 +5283,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-021",
-      "name": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "주오 세나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -5375,7 +5375,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-021",
-      "name": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "쿠라모토 치나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -5467,7 +5467,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-021",
-      "name": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "카츠라기 릴리야로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -5559,7 +5559,7 @@
     },
     {
       "id": "achieve-p_idol-shro-021",
-      "name": "篠澤 広で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "시노사와 히로로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-022",
@@ -5655,7 +5655,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-021",
-      "name": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "시운 스미카로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -5747,7 +5747,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-021",
-      "name": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "츠키무라 테마리로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "main_task_group-01-01#1",
@@ -6699,7 +6699,7 @@
     },
     {
       "id": "main_task_group-03-01#78",
-      "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】 플랜 : 로직 프로듀스 아이돌 "
+      "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜 : 로직 프로듀스 아이돌 "
     },
     {
       "id": "main_task_group-03-01#79",

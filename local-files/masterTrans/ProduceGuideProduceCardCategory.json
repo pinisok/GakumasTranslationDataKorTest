@@ -7,271 +7,271 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "やる気を増加するスキルカード"
+      "label": "의욕을 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_20_exam_block",
-      "label": "元気を増加するスキルカード"
+      "label": "원기를 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_20_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "やる気を増加するスキルカード"
+      "label": "의욕을 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_35_exam_block",
-      "label": "元気を増加するスキルカード"
+      "label": "원기를 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_group_35_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive",
-      "label": "やる気を増加するスキルカード"
+      "label": "의욕을 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_exam_block",
-      "label": "元気を増加するスキルカード"
+      "label": "원기를 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_Review",
-      "label": "好印象を増加するスキルカード"
+      "label": "호인상을 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive",
-      "label": "やる気を増加するスキルカード"
+      "label": "의욕을 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_exam_block",
-      "label": "元気を増加するスキルカード"
+      "label": "원기를 증가시키는 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_Review",
-      "label": "好印象を増加するスキルカード"
+      "label": "호인상을 증가시키는 스킬 카드"
     },
     {
       "id": "Concentration_group_20_anomaly_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "Concentration_group_20_anomaly_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "Concentration_group_20_Concentration",
-      "label": "強気に変更するスキルカード"
+      "label": "강기로 바꾸는 스킬 카드"
     },
     {
       "id": "Concentration_group_20_Preservation\n",
-      "label": "温存に変更するスキルカード"
+      "label": "온존으로 바꾸는 스킬 카드"
     },
     {
       "id": "Concentration_group_35_anomaly_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "Concentration_group_35_anomaly_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "Concentration_group_35_Concentration",
-      "label": "強気に変更するスキルカード"
+      "label": "강기로 바꾸는 스킬 카드"
     },
     {
       "id": "Concentration_group_35_Preservation\n",
-      "label": "温存に変更するスキルカード"
+      "label": "온존으로 바꾸는 스킬 카드"
     },
     {
       "id": "FullPower_group_20_anomaly_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "FullPower_group_20_anomaly_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "FullPower_group_20_FullPower",
-      "label": "全力値を増加するスキルカード"
+      "label": "전력치를 증가시키는 스킬 카드"
     },
     {
       "id": "FullPower_group_20_Preservation",
-      "label": "温存に変更するスキルカード"
+      "label": "온존으로 바꾸는 스킬 카드"
     },
     {
       "id": "FullPower_group_35_anomaly_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "FullPower_group_35_anomaly_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "FullPower_group_35_FullPower",
-      "label": "全力値を増加するスキルカード"
+      "label": "전력치를 증가시키는 스킬 카드"
     },
     {
       "id": "FullPower_group_35_Preservation",
-      "label": "温存に変更するスキルカード"
+      "label": "온존으로 바꾸는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_20_LessonBuff",
-      "label": "集中を増加するスキルカード"
+      "label": "집중을 증가시키는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_20_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "LessonBuff_group_20_ParameterBuff",
-      "label": "好調を増加するスキルカード"
+      "label": "호조를 증가시키는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_20_sense_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_35_LessonBuff",
-      "label": "集中を増加するスキルカード"
+      "label": "집중을 증가시키는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_35_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "LessonBuff_group_35_parameter_buff_multiple",
-      "label": "絶好調を増加するスキルカード"
+      "label": "절호조를 증가시키는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_35_ParameterBuff",
-      "label": "好調を増加するスキルカード"
+      "label": "호조를 증가시키는 스킬 카드"
     },
     {
       "id": "LessonBuff_group_35_sense_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_20_LessonBuff",
-      "label": "集中を増加するスキルカード"
+      "label": "집중을 증가시키는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_20_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_20_parameter_buff_multiple",
-      "label": "絶好調を増加するスキルカード"
+      "label": "절호조를 증가시키는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_20_ParameterBuff",
-      "label": "好調を増加するスキルカード"
+      "label": "호조를 증가시키는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_20_sense_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_35_LessonBuff",
-      "label": "集中を増加するスキルカード"
+      "label": "집중을 증가시키는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_35_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_35_parameter_buff_multiple",
-      "label": "絶好調を増加するスキルカード"
+      "label": "절호조를 증가시키는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_35_ParameterBuff",
-      "label": "好調を増加するスキルカード"
+      "label": "호조를 증가시키는 스킬 카드"
     },
     {
       "id": "ParameterBuff_group_35_sense_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "やる気を増加するスキルカード"
+      "label": "의욕을 증가시키는 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_Review",
-      "label": "好印象を増加するスキルカード"
+      "label": "호인상을 증가시키는 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_Review_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "やる気を増加するスキルカード"
+      "label": "의욕을 증가시키는 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_Review",
-      "label": "好印象を増加するスキルカード"
+      "label": "호인상을 증가시키는 스킬 카드"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_Review_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "Review_group_20_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "Review_group_20_Review",
-      "label": "好印象を増加するスキルカード"
+      "label": "호인상을 증가시키는 스킬 카드"
     },
     {
       "id": "Review_group_20_Review_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     },
     {
       "id": "Review_group_35_logic_other",
-      "label": "その他のスキルカード"
+      "label": "기타 스킬 카드"
     },
     {
       "id": "Review_group_35_Review",
-      "label": "好印象を増加するスキルカード"
+      "label": "호인상을 증가시키는 스킬 카드"
     },
     {
       "id": "Review_group_35_Review_score",
-      "label": "スコアを上昇させるスキルカード"
+      "label": "스코어를 올리는 스킬 카드"
     }
   ]
 }

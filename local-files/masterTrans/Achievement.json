@@ -68,17 +68,17 @@
     {
       "id": "achieve-i_card-fktn-3-001-01",
       "name": "아드레날린 전개",
-      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
-      "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "name": "Yellow Big Bang!",
+      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
       "name": "완전 팔팔해!",
-      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -247,7 +247,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "POW！",
+      "name": "POW!",
       "description": "【Boom Boom Pow】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -1137,8 +1137,8 @@
     },
     {
       "id": "achieve-p_common-028",
-      "name": "星を見守る者",
-      "description": "最終試験をスコアSSS以上で{threshold}回合格"
+      "name": "별을 지켜보는 자",
+      "description": "최종 시험을 스코어 SSS 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -1252,8 +1252,8 @@
     },
     {
       "id": "achieve-p_idol-amao-021",
-      "name": "好きにならせてください",
-      "description": "有村 麻央で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "좋아하게 해주세요",
+      "description": "아리무라 마오로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-amao-022",
@@ -1642,8 +1642,8 @@
     },
     {
       "id": "achieve-p_idol-fktn-021",
-      "name": "スターを超えてみせますっ！",
-      "description": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "스타를 뛰어넘어 보이겠어!",
+      "description": "후지타 코토네로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hmsz-000",
@@ -1857,8 +1857,8 @@
     },
     {
       "id": "achieve-p_idol-hrnm-021",
-      "name": "一番そばで、見せてあげる",
-      "description": "姫崎 莉波で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "가장 가까운 곳에서, 보여줄게",
+      "description": "히메사키 리나미로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hrnm-022",
@@ -1977,8 +1977,8 @@
     },
     {
       "id": "achieve-p_idol-hski-021",
-      "name": "逃がさないんだからねっ！",
-      "description": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "놓지지 않을 거야!",
+      "description": "하나미 사키로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -2092,8 +2092,8 @@
     },
     {
       "id": "achieve-p_idol-hume-021",
-      "name": "ちゃんとアイドルになりたいです",
-      "description": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "진정한 아이돌이 되고 싶어요",
+      "description": "하나미 우메로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -2207,8 +2207,8 @@
     },
     {
       "id": "achieve-p_idol-jsna-021",
-      "name": "共に進みましょう",
-      "description": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "함께 나아가자",
+      "description": "주오 세나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -2322,8 +2322,8 @@
     },
     {
       "id": "achieve-p_idol-kcna-021",
-      "name": "きっと立派に闘えますわ！",
-      "description": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "분명 훌륭하게 싸울 수 있을 거에요!",
+      "description": "쿠라모토 치나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -2437,8 +2437,8 @@
     },
     {
       "id": "achieve-p_idol-kllj-021",
-      "name": "最後に笑う、その日まで",
-      "description": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "마지막으로 웃는, 그날까지",
+      "description": "카츠라기 릴리야로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -2552,8 +2552,8 @@
     },
     {
       "id": "achieve-p_idol-shro-021",
-      "name": "趣味のまま、夢を",
-      "description": "篠澤 広で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "취미 그대로, 꿈을",
+      "description": "시노사와 히로로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-shro-022",
@@ -2672,8 +2672,8 @@
     },
     {
       "id": "achieve-p_idol-ssmk-021",
-      "name": "軽やかに、羽ばたいて",
-      "description": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "가볍게, 날갯짓하며",
+      "description": "시운 스미카로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -2787,8 +2787,8 @@
     },
     {
       "id": "achieve-p_idol-ttmr-021",
-      "name": "証明してみせます",
-      "description": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
+      "name": "증명해 보일게요",
+      "description": "츠키무라 테마리로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
     }
   ]
 }
