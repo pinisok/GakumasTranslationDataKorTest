@@ -29,7 +29,7 @@
     {
       "id": "Swap_Convert_ConditionThreshold",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "수업 CLEAR의 "
+      "text": "레슨 CLEAR의 "
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
@@ -39,7 +39,7 @@
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "수업 미 CLEAR"
+      "text": "레슨 미 CLEAR"
     },
     {
       "id": "Swap_Convert_ConditionThreshold_NotClear",
@@ -89,7 +89,7 @@
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【댄스 레슨・댄스 턴인 경우 】"
+      "text": "【댄스 레슨·댄스 턴일 때】"
     },
     {
       "id": "Swap_Convert_StepLessonType_DanceLesson",
@@ -99,17 +99,17 @@
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【SP 수업만 】"
+      "text": "【SP 수업일 때】"
     },
     {
       "id": "Swap_Convert_StepLessonType_SpLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "【SP 수업만 】"
+      "text": "【SP 수업일 때】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【비주얼 레슨・비주얼 턴인 경우 】"
+      "text": "【비주얼 레슨·비주얼 턴일 때】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VisualLesson",
@@ -119,12 +119,22 @@
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "【보컬 레슨・보컬 턴인 경우 】"
+      "text": "【보컬 레슨·보컬 턴일 때】"
     },
     {
       "id": "Swap_Convert_StepLessonType_VocalLesson",
       "swapType": "ProduceDescriptionSwapType_Audition",
       "text": "보컬 턴이라면, "
+    },
+    {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Lesson",
+      "text": "試験・オーディション"
+    },
+    {
+      "id": "Swap_Label_Audition",
+      "swapType": "ProduceDescriptionSwapType_Audition",
+      "text": "試験・オーディション"
     },
     {
       "id": "Swap_Label_ExamCardUpgrade",
@@ -249,7 +259,7 @@
     {
       "id": "Swap_Label_LessonReduce",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "파라미터 감소"
+      "text": "파라미터 값 감소"
     },
     {
       "id": "Swap_Label_LessonReduce",
@@ -259,7 +269,7 @@
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "수업 중 1회"
+      "text": "레슨 중 1회"
     },
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",

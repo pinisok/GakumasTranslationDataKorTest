@@ -11,15 +11,19 @@
     },
     {
       "id": "produce-002",
-      "name": "프로"
+      "name": "プロ"
     },
     {
       "id": "produce-003",
-      "name": "마스터"
+      "name": "マスター"
     },
     {
       "id": "produce-004",
-      "name": "N.I.A"
+      "name": "プロ"
+    },
+    {
+      "id": "produce-005",
+      "name": "マスター"
     }
   ]
 }

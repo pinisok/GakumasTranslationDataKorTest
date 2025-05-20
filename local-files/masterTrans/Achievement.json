@@ -68,17 +68,17 @@
     {
       "id": "achieve-i_card-fktn-3-001-01",
       "name": "아드레날린 전개",
-      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
-      "name": "Yellow Big Bang!",
-      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "name": "Yellow Big Bang！",
+      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
       "name": "완전 팔팔해!",
-      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -157,7 +157,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-01",
-      "name": "옥상에서의 전망",
+      "name": "옥상에서 본 풍경",
       "description": "【달 거북이】하타야 미스즈의 프로듀스로 최종 시험에 합격"
     },
     {
@@ -193,7 +193,7 @@
     {
       "id": "achieve-i_card-hrnm-3-002-02",
       "name": "L.U.V",
-      "description": "【L.U.V】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "description": "【L.U.V】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-03",
@@ -208,7 +208,7 @@
     {
       "id": "achieve-i_card-hrnm-3-004-02",
       "name": "어서 오세요 하츠보시 온천",
-      "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-03",
@@ -223,7 +223,7 @@
     {
       "id": "achieve-i_card-hrnm-3-007-02",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "description": "【Campus mode!!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-03",
@@ -238,7 +238,7 @@
     {
       "id": "achieve-i_card-hrnm-3-008-02",
       "name": "해피 밀푀유",
-      "description": "【해피 밀푀유】히메사키 리나미의 특훈 단계를{threshold}로 설정"
+      "description": "【해피 밀푀유】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-03",
@@ -247,13 +247,13 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "POW!",
+      "name": "POW！",
       "description": "【Boom Boom Pow】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hski-3-001-02",
       "name": "Boom Boom Pow",
-      "description": "【Boom Boom Pow】 하나미 사키의 특훈 단계를 {threshold}으로 설정한다."
+      "description": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
@@ -478,7 +478,7 @@
     {
       "id": "achieve-i_card-kcna-3-001-02",
       "name": "매일매일, 발견적 단계!",
-      "description": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "description": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
@@ -493,7 +493,7 @@
     {
       "id": "achieve-i_card-kcna-3-002-02",
       "name": "가장광소곡",
-      "description": "【가장광소곡】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "description": "【가장광소곡】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-002-03",
@@ -508,7 +508,7 @@
     {
       "id": "achieve-i_card-kcna-3-005-02",
       "name": "어서 오세요 하츠보시 온천",
-      "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
@@ -523,7 +523,7 @@
     {
       "id": "achieve-i_card-kcna-3-007-02",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "description": "【Campus mode!!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-007-03",
@@ -538,7 +538,7 @@
     {
       "id": "achieve-i_card-kcna-3-009-02",
       "name": "눈이 녹을 때에",
-      "description": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계를{threshold}로 설정"
+      "description": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-009-03",
@@ -803,12 +803,12 @@
     {
       "id": "achieve-i_card-ttmr-3-011-01",
       "name": "희망이 닿을 때까지",
-      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-02",
       "name": "비 갠 뒤의 아이리스",
-      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+      "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-03",
@@ -913,17 +913,17 @@
     {
       "id": "achieve-o_010",
       "name": "기반 쌓기",
-      "description": "총 팬 수를 {threshold}명으로 설정"
+      "description": "총 팬 수를 {threshold}명 달성"
     },
     {
       "id": "achieve-o_011",
       "name": "수완가",
-      "description": "총 팬 수를 {threshold}명으로 설정"
+      "description": "총 팬 수를 {threshold}명 달성"
     },
     {
       "id": "achieve-o_012",
       "name": "히트 메이커",
-      "description": "총 팬 수를 {threshold}명으로 설정"
+      "description": "총 팬 수를 {threshold}명 달성"
     },
     {
       "id": "achieve-o_013",
@@ -1136,6 +1136,11 @@
       "description": "최종 시험을 스코어 SS+ 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_common-028",
+      "name": "星を見守る者",
+      "description": "最終試験をスコアSSS以上で{threshold}回合格"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "진정한 나",
       "description": "아리무라 마오로 True End를 보기"
@@ -1183,7 +1188,7 @@
     {
       "id": "achieve-p_idol-amao-008",
       "name": "이상과 현실",
-      "description": "아리무라 마오의 특훈 단계를 {threshold}로 설정"
+      "description": "아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-amao-009",
@@ -1193,7 +1198,7 @@
     {
       "id": "achieve-p_idol-amao-010",
       "name": "리틀 프린스",
-      "description": "아리무라 마오의 팬 {threshold}명 획득"
+      "description": "아리무라 마오 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-amao-011",
@@ -1223,7 +1228,7 @@
     {
       "id": "achieve-p_idol-amao-016",
       "name": "되어보겠습니다!",
-      "description": "아리무라 마오로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "아리무라 마오로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-amao-017",
@@ -1246,9 +1251,14 @@
       "description": "아리무라 마오로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_idol-amao-021",
+      "name": "好きにならせてください",
+      "description": "有村 麻央で最終試験に合格して評価SS+以上を{threshold}回獲得"
+    },
+    {
       "id": "achieve-p_idol-amao-022",
       "name": "이상과 현실",
-      "description": "아리무라 마오의 특훈 단계를 {threshold}로 설정"
+      "description": "아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -1553,12 +1563,12 @@
     {
       "id": "achieve-p_idol-fktn-005",
       "name": "가만히 있을 순 없어",
-      "description": "후지타 코토네로 최종 시험에서 평가 A 이상으로 {threshold}회 합격"
+      "description": "후지타 코토네로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-006",
       "name": "타오르는건 지금부터",
-      "description": "후지타 코토네로 최종 시험에서 평가 S 이상으로 {threshold}회 합격"
+      "description": "후지타 코토네로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-007",
@@ -1568,7 +1578,7 @@
     {
       "id": "achieve-p_idol-fktn-008",
       "name": "숨겨둔 재능",
-      "description": "후지타 코토네의 특훈 단계를 {threshold}으로 설정한다."
+      "description": "후지타 코토네의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-fktn-009",
@@ -1578,7 +1588,7 @@
     {
       "id": "achieve-p_idol-fktn-010",
       "name": "하치보시 학원의 얼굴 마담",
-      "description": "후지타 코토네의 팬 {threshold}명 획득"
+      "description": "후지타 코토네 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-fktn-011",
@@ -1608,7 +1618,7 @@
     {
       "id": "achieve-p_idol-fktn-016",
       "name": "함께 큰 돈을 벌자 ~ ♡",
-      "description": "후지타 코토네로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "후지타 코토네로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-fktn-017",
@@ -1631,6 +1641,11 @@
       "description": "후지타 코토네로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_idol-fktn-021",
+      "name": "スターを超えてみせますっ！",
+      "description": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "인생 최고의 날",
       "description": "하타야 미스즈로 True End를 보기"
@@ -1643,52 +1658,52 @@
     {
       "id": "achieve-p_idol-hmsz-001",
       "name": "이 방법 저 방법으로",
-      "description": "하타야 미스즈의 프로듀스로 스킬 카드를 {threshold}회 사용"
+      "description": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 사용"
     },
     {
       "id": "achieve-p_idol-hmsz-002",
       "name": "오늘은 흐린 하늘",
-      "description": "하타야 미스즈로 레슨을 {threshold}회 클리어"
+      "description": "하타야 미스즈의 레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hmsz-003",
       "name": "잠자는 사자",
-      "description": "하타야 미스즈로 SP 레슨을 {threshold}회 클리어"
+      "description": "하타야 미스즈의 SP레슨을 {threshold}회 클리어"
     },
     {
       "id": "achieve-p_idol-hmsz-004",
       "name": "어깨 힘을 빼고",
-      "description": "하타야 미스즈로 최종 시험에서 평가 B 이상으로 {threshold}회 합격"
+      "description": "하타야 미스즈로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hmsz-005",
       "name": "나의 진심",
-      "description": "하타야 미스즈로 최종 시험에서 평가 A 이상으로 {threshold}회 합격"
+      "description": "하타야 미스즈로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hmsz-006",
       "name": "끝까지 함께",
-      "description": "하타야 미스즈로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+      "description": "하타야 미스즈로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hmsz-007",
       "name": "한 번 더, 다시 시작",
-      "description": "하타야 미스즈의 프로듀스로 최종 시험 {threshold}회 합격"
+      "description": "하타야 미스즈의 프로듀스를 {threshold}회 완료"
     },
     {
       "id": "achieve-p_idol-hmsz-008",
       "name": "자는 아이는 잘 큰다",
-      "description": "하타야 미스즈의 특훈 단계를 {threshold}로 설정"
+      "description": "하타야 미스즈의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-hmsz-009",
       "name": "화창한 길을",
-      "description": "하타야 미스즈의 프로듀스로 체력 총 {threshold} 소모"
+      "description": "하타야 미스즈의 프로듀스로 최종 시험에 {threshold}회 합격"
     },
     {
       "id": "achieve-p_idol-hmsz-010",
       "name": "다 같이 낮잠",
-      "description": "하타야 미스즈의 팬 {threshold}명 획득"
+      "description": "하타야 미스즈 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-hmsz-011",
@@ -1698,17 +1713,17 @@
     {
       "id": "achieve-p_idol-hmsz-012",
       "name": "언제나 마이페이스",
-      "description": "하타야 미스즈의 프로듀싱 평가 총 {threshold} 획득"
+      "description": "하타야 미스즈의 프로듀싱 평가를 총 {threshold} 획득"
     },
     {
       "id": "achieve-p_idol-hmsz-013",
       "name": "돌보는게 좋아",
-      "description": "하타야 미스즈의 프로듀스로 스킬 카드를 {threshold}회 강화"
+      "description": "하타야 미스즈의 프로듀싱 상담으로 {threshold}회 교환"
     },
     {
       "id": "achieve-p_idol-hmsz-014",
       "name": "높은 곳에서",
-      "description": "하타야 미스즈의 보컬을 1000 이상으로 육성하여 프로듀스를 완료하자"
+      "description": "하타야 미스즈의 보컬을 1000 이상으로 육성하여 프로듀스를 완료"
     },
     {
       "id": "achieve-p_idol-hmsz-015",
@@ -1718,7 +1733,7 @@
     {
       "id": "achieve-p_idol-hmsz-016",
       "name": "여기서 기다리고 있어",
-      "description": "하타야 미스즈로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "하타야 미스즈로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hmsz-017",
@@ -1758,17 +1773,17 @@
     {
       "id": "achieve-p_idol-hrnm-004",
       "name": "그 시절로 돌아가고 싶어",
-      "description": "히메사키 리나미로 최종 시험에서 평가 B 이상으로 {threshold}회 합격"
+      "description": "히메사키 리나미로 최종 시험에 합격하고 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-005",
       "name": "네가 좋아하는 나",
-      "description": "히메사키 리나미로 최종 시험에서 평가 A 이상으로 {threshold}회 합격"
+      "description": "히메사키 리나미로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-006",
       "name": "누나 스위치",
-      "description": "히메사키 리나미로 최종 시험에서 평가 S 이상으로 {threshold}회 합격"
+      "description": "히메사키 리나미로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-007",
@@ -1778,7 +1793,7 @@
     {
       "id": "achieve-p_idol-hrnm-008",
       "name": "네 마음에 보답하고 싶어",
-      "description": "히메사키 리나미의 특훈 단계를 {threshold}로 설정"
+      "description": "히메사키 리나미의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-hrnm-009",
@@ -1788,7 +1803,7 @@
     {
       "id": "achieve-p_idol-hrnm-010",
       "name": "누나의 포용력",
-      "description": "히메사키 리나미의 팬 {threshold}명 획득"
+      "description": "히메사키 리나미 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-011",
@@ -1818,7 +1833,7 @@
     {
       "id": "achieve-p_idol-hrnm-016",
       "name": "소중한, 말할 수 없는, 소원",
-      "description": "히메사키 리나미로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "히메사키 리나미로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hrnm-017",
@@ -1841,9 +1856,14 @@
       "description": "히메사키 리나미로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_idol-hrnm-021",
+      "name": "一番そばで、見せてあげる",
+      "description": "姫崎 莉波で最終試験に合格して評価SS+以上を{threshold}回獲得"
+    },
+    {
       "id": "achieve-p_idol-hrnm-022",
       "name": "네 마음에 보답하고 싶어",
-      "description": "히메사키 리나미의 특훈 단계를 {threshold}로 설정"
+      "description": "히메사키 리나미의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -1903,7 +1923,7 @@
     {
       "id": "achieve-p_idol-hski-010",
       "name": "작은 언니",
-      "description": "하나미 사키의 팬 {threshold}명 획득"
+      "description": "하나미 사키 팬 {threshold}명 획득"
     },
     {
       "id": "achieve-p_idol-hski-011",
@@ -1933,7 +1953,7 @@
     {
       "id": "achieve-p_idol-hski-016",
       "name": "한 번도 지지 않을거야",
-      "description": "하나미 사키로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "하나미 사키로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hski-017",
@@ -1954,6 +1974,11 @@
       "id": "achieve-p_idol-hski-020",
       "name": "아이돌로서의 무기",
       "description": "하나미 사키로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-hski-021",
+      "name": "逃がさないんだからねっ！",
+      "description": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
     },
     {
       "id": "achieve-p_idol-hume-000",
@@ -2043,7 +2068,7 @@
     {
       "id": "achieve-p_idol-hume-016",
       "name": "목표는 상승불패!",
-      "description": "하나미 우메로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "하나미 우메로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-hume-017",
@@ -2064,6 +2089,11 @@
       "id": "achieve-p_idol-hume-020",
       "name": "추가 브레이크스루",
       "description": "하나미 우메로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-hume-021",
+      "name": "ちゃんとアイドルになりたいです",
+      "description": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -2103,7 +2133,7 @@
     {
       "id": "achieve-p_idol-jsna-006",
       "name": "꿈은 여기 있어",
-      "description": "주오 세나로 최종 시험에서 평가 S 이상으로 {threshold}회 합격 "
+      "description": "주오 세나로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득 "
     },
     {
       "id": "achieve-p_idol-jsna-007",
@@ -2174,6 +2204,11 @@
       "id": "achieve-p_idol-jsna-020",
       "name": "손에 넣은 반짝임",
       "description": "주오 세나로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-jsna-021",
+      "name": "共に進みましょう",
+      "description": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -2263,7 +2298,7 @@
     {
       "id": "achieve-p_idol-kcna-016",
       "name": "꿈의 무대로 나아갑니다!",
-      "description": "쿠라모토 치나로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-kcna-017",
@@ -2284,6 +2319,11 @@
       "id": "achieve-p_idol-kcna-020",
       "name": "떼어낼 수 없는 힘",
       "description": "쿠라모토 치나로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-kcna-021",
+      "name": "きっと立派に闘えますわ！",
+      "description": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -2313,12 +2353,12 @@
     {
       "id": "achieve-p_idol-kllj-004",
       "name": "모두의 앞에서 노래하고 싶어",
-      "description": "카츠라기 릴리야로 최종 시험에서 평가 B 이상으로 {threshold}회 합격"
+      "description": "카츠라기 릴리야로 최종 시험에 합격하고 평가 B 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-005",
       "name": "아이돌이 됩니다",
-      "description": "카츠라기 릴리야로 최종 시험에서 평가 A 이상으로 {threshold}회 합격"
+      "description": "카츠라기 릴리야로 최종 시험에 합격하고 평가 A 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-006",
@@ -2373,7 +2413,7 @@
     {
       "id": "achieve-p_idol-kllj-016",
       "name": "더 높이!",
-      "description": "카츠라기 릴리야로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-kllj-017",
@@ -2394,6 +2434,11 @@
       "id": "achieve-p_idol-kllj-020",
       "name": "약함은 강함",
       "description": "카츠라기 릴리야로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-kllj-021",
+      "name": "最後に笑う、その日まで",
+      "description": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -2443,7 +2488,7 @@
     {
       "id": "achieve-p_idol-shro-008",
       "name": "다음 과제는 뭐야?",
-      "description": "시노사와 히로의 특훈 단계를 {threshold}로 설정"
+      "description": "시노사와 히로의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-shro-009",
@@ -2483,7 +2528,7 @@
     {
       "id": "achieve-p_idol-shro-016",
       "name": "안 되는 나날은 끝나지 않는다",
-      "description": "시노사와 히로로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "시노사와 히로로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-shro-017",
@@ -2506,9 +2551,14 @@
       "description": "시노사와 히로로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
     },
     {
+      "id": "achieve-p_idol-shro-021",
+      "name": "趣味のまま、夢を",
+      "description": "篠澤 広で最終試験に合格して評価SS+以上を{threshold}回獲得"
+    },
+    {
       "id": "achieve-p_idol-shro-022",
       "name": "다음 과제는 뭐야?",
-      "description": "시노사와 히로의 특훈 단계를 {threshold}로 설정"
+      "description": "시노사와 히로의 특훈 단계 {threshold} 달성한다"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -2598,7 +2648,7 @@
     {
       "id": "achieve-p_idol-ssmk-016",
       "name": "둘이서 강해지ㅡ자!",
-      "description": "시운 스미카로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "시운 스미카로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-ssmk-017",
@@ -2619,6 +2669,11 @@
       "id": "achieve-p_idol-ssmk-020",
       "name": "더 이상 숨기지 않아",
       "description": "시운 스미카로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-021",
+      "name": "軽やかに、羽ばたいて",
+      "description": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -2708,7 +2763,7 @@
     {
       "id": "achieve-p_idol-ttmr-016",
       "name": "어떤 천재보다도",
-      "description": "츠키무라 테마리로 최종 시험에서 평가 S+ 이상으로 {threshold}회 합격"
+      "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
     },
     {
       "id": "achieve-p_idol-ttmr-017",
@@ -2729,6 +2784,11 @@
       "id": "achieve-p_idol-ttmr-020",
       "name": "드디어, 같은 높이에서",
       "description": "츠키무라 테마리로 최종 시험에서 평가 SS 이상으로 {threshold}회 합격"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-021",
+      "name": "証明してみせます",
+      "description": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
     }
   ]
 }

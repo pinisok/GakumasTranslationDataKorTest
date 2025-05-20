@@ -24,12 +24,12 @@
     {
       "supportCardId": "s_card-2-0001",
       "number": 1,
-      "text": "............"
+      "text": "…………"
     },
     {
       "supportCardId": "s_card-2-0001",
       "number": 2,
-      "text": "............"
+      "text": "…………"
     },
     {
       "supportCardId": "s_card-2-0002",
@@ -680,6 +680,21 @@
       "supportCardId": "s_card-2-0050",
       "number": 3,
       "text": "ったく。ウチのちびどもと\n同じ顔してるからわかるっつーの。"
+    },
+    {
+      "supportCardId": "s_card-2-0051",
+      "number": 1,
+      "text": "秦谷さんは本当に所作が綺麗ですわ！"
+    },
+    {
+      "supportCardId": "s_card-2-0051",
+      "number": 2,
+      "text": "ふふ。お褒めの言葉、\nありがとうございます。"
+    },
+    {
+      "supportCardId": "s_card-2-0051",
+      "number": 3,
+      "text": "わたくしもいつか、\n秦谷さんのように――！"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1525,6 +1540,36 @@
       "supportCardId": "s_card-3-0057",
       "number": 3,
       "text": "別にいいんじゃない？　\nそういうのも、友達で。"
+    },
+    {
+      "supportCardId": "s_card-3-0058",
+      "number": 1,
+      "text": "喧嘩中でしょ……\n話しかけないでくれる？"
+    },
+    {
+      "supportCardId": "s_card-3-0058",
+      "number": 2,
+      "text": "そうでした。\nなら、これはひとりごとです。"
+    },
+    {
+      "supportCardId": "s_card-3-0058",
+      "number": 3,
+      "text": "3人で一緒に食べたことを、\nふと思い出して食べたくなったんです。"
+    },
+    {
+      "supportCardId": "s_card-3-0067",
+      "number": 1,
+      "text": "素敵な思い出ができたね、美鈴。"
+    },
+    {
+      "supportCardId": "s_card-3-0067",
+      "number": 2,
+      "text": "はい……ふふ……\n篠澤さんに、韜晦は通じませんね。"
+    },
+    {
+      "supportCardId": "s_card-3-0067",
+      "number": 3,
+      "text": "（ふふ、手毬に自慢しよう）"
     }
   ]
 }

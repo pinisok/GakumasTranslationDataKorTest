@@ -12,7 +12,7 @@
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_01",
       "description": "목표치에 도달하지 못했네요. 호조는 파라메터의\n상승치를 높이는 효과가 있습니다. 시험 연수로\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "시험연수",
+      "seminarExamGroupName": "試験研修",
       "seminarExamName": "【시험연수１】호조"
     },
     {
@@ -20,7 +20,7 @@
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_01",
       "description": "목표치에 도달하지 못했네요. 호조는 파라메터의\n상승치를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "기초연수",
+      "seminarExamGroupName": "基礎研修",
       "seminarExamName": "【기초１】호조"
     },
     {
@@ -28,7 +28,7 @@
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_02",
       "description": "목표치에 도달하지 못했네요. 집중은 수치만큼\n파라메터 상승치를 높이는 효과가 있습니다. 시험 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "시험연수",
+      "seminarExamGroupName": "試験研修",
       "seminarExamName": "【시험연수２】집중"
     },
     {
@@ -36,7 +36,7 @@
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_02",
       "description": "목표치에 도달하지 못했네요. 집중은 수치만큼\n파라메터 상승치를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "기초연수",
+      "seminarExamGroupName": "基礎研修",
       "seminarExamName": "【기초２】집중"
     },
     {
@@ -44,7 +44,7 @@
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_03",
       "description": "목표치에 도달하지 못했네요. 호인상은 턴 종료시\n파라메터를 높이는 효과가 있습니다. 시험 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "시험연수",
+      "seminarExamGroupName": "試験研修",
       "seminarExamName": "【시험연수３】호인상"
     },
     {
@@ -52,7 +52,7 @@
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_03",
       "description": "목표치에 도달하지 못했네요. 호인상은 턴 종료시\n파라메터를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "기초연수",
+      "seminarExamGroupName": "基礎研修",
       "seminarExamName": "【기초３】호인상"
     },
     {
@@ -60,7 +60,7 @@
       "isLessonInt": 0,
       "seminarExamId": "seminar_gruop-03_04",
       "description": "목표치에 도달하지 못했네요. 의욕은 수치만큼\n원기의 증가치를 높이는 효과가 있습니다. 시험 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "시험연수",
+      "seminarExamGroupName": "試験研修",
       "seminarExamName": "【시험연수４】의욕"
     },
     {
@@ -68,8 +68,40 @@
       "isLessonInt": 1,
       "seminarExamId": "seminar_gruop-01_04",
       "description": "목표치에 도달하지 못했네요. 의욕은 수치만큼\n원기의 증가치를 높이는 효과가 있습니다. 연수에서\n능숙하게 사용하는 요령을 익혀봅시다!",
-      "seminarExamGroupName": "기초연수",
+      "seminarExamGroupName": "基礎研修",
       "seminarExamName": "【기초４】의욕"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamConcentration",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_05",
+      "description": "目標値に少し届きませんでしたね。強気は、パラメ\nータ上昇量と消費体力を増加させる効果があります。\n試験研修で上手に使うコツを学んでみましょう！",
+      "seminarExamGroupName": "試験研修",
+      "seminarExamName": "【試験研修６】強気"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamConcentration",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_07",
+      "description": "目標値に少し届きませんでしたね。強気は、パラメ\nータ上昇量と消費体力を増加させる効果があります。\n研修で上手に使うコツを学んでみましょう！",
+      "seminarExamGroupName": "基礎研修",
+      "seminarExamName": "【基礎８】強気"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamFullPower",
+      "isLessonInt": 0,
+      "seminarExamId": "seminar_gruop-03_06",
+      "description": "目標値に少し届きませんでしたね。全力は、パラメ\nータの上昇量をあげるほか、スキルカード使用数を\n1回追加する効果があります。試験研修で上手に使\nうコツを学んでみましょう！",
+      "seminarExamGroupName": "試験研修",
+      "seminarExamName": "【試験研修５】全力"
+    },
+    {
+      "examEffectType": "ProduceExamEffectType_ExamFullPower",
+      "isLessonInt": 1,
+      "seminarExamId": "seminar_gruop-01_08",
+      "description": "目標値に少し届きませんでしたね。全力は、パラメ\nータの上昇量をあげるほか、スキルカード使用数を\n1回追加する効果があります。研修で上手に使うコ\nツを学んでみましょう！",
+      "seminarExamGroupName": "基礎研修",
+      "seminarExamName": "【基礎７】全力"
     }
   ]
 }

@@ -34,10 +34,6 @@
       "description": "교환소"
     },
     {
-      "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "트레이닝 Pt가 부족합니다."
-    },
-    {
       "id": "card.idol_card.high_score",
       "description": "강화 월간 대상"
     },

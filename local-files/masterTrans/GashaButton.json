@@ -118,19 +118,25 @@
       "id": "gasha_ticket_ssr_button",
       "order": 1,
       "name": "SSR확정 티켓으로 뽑기",
-      "description": "SSR확정 1연차"
+      "description": "SSR確定1連"
     },
     {
       "id": "gasha_ticket_ssr_button_1st-anniv",
       "order": 1,
       "name": "1st 애니버서리 기념 SSR 확정 티켓으로 뽑기",
-      "description": "SSR확정 1연차"
+      "description": "SSR確定1連"
     },
     {
       "id": "gasha_ticket_ssr_button_idol",
       "order": 1,
       "name": "SSR확정 티켓으로 뽑기",
       "description": "SSR아이돌 확정 1연차"
+    },
+    {
+      "id": "gasha_ticket_ssr_button_idol_2",
+      "order": 1,
+      "name": "The 1st Period公演記念 SSR Pアイドル確定チケットで引く",
+      "description": "SSR確定1連"
     },
     {
       "id": "gasha_ticket_ssr_button_support",

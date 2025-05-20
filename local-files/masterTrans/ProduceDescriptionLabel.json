@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "("
+          "text": "（"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -193,6 +193,11 @@
       "name": "의욕 감소"
     },
     {
+      "id": "Label_Audition",
+      "produceDescriptions": [],
+      "name": "試験・オーディション"
+    },
+    {
       "id": "Label_AuditionNpcEnhance",
       "produceDescriptions": [
         {
@@ -204,6 +209,26 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "이후 시험에서 라이벌 점수가 증가"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_Audition",
+          "text": "試験・オーディション"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "でライバルのスコアが増加"
         }
       ],
       "name": "라이벌 점수 증가"
@@ -379,6 +404,70 @@
         }
       ],
       "name": "원기 감소"
+    },
+    {
+      "id": "Label_BusinessProduceCard",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "強化済みのスキルカードを獲得できる営業"
+        }
+      ],
+      "name": "商業施設"
+    },
+    {
+      "id": "Label_BusinessProduceDrink",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Pドリンクを獲得できる営業"
+        }
+      ],
+      "name": "企業イベント会場"
+    },
+    {
+      "id": "Label_BusinessProducePoint",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "Pポイントを獲得できる営業"
+        }
+      ],
+      "name": "自治体イベント会場"
+    },
+    {
+      "id": "Label_BusinessStamina",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "体力を回復する営業"
+        }
+      ],
+      "name": "リゾート施設"
     },
     {
       "id": "Label_CardDrawAdd",
@@ -2009,7 +2098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": ","
+          "text": "、"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -4046,7 +4135,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 증가"
+          "text": "파라미터 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4362,7 +4451,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 증가"
+          "text": "파라미터 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6059,7 +6148,7 @@
           "text": "에는 영향을 미치지 않음"
         }
       ],
-      "name": "전력 증가"
+      "name": "전력치 증가"
     },
     {
       "id": "Label_FullPowerPointReduce",
@@ -6190,7 +6279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "파라미터 값 증가"
+          "text": "파라미터 증가"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6263,7 +6352,7 @@
           "text": "에는 영향을 미치지 않음"
         }
       ],
-      "name": "파라미터 값 증가"
+      "name": "파라미터 증가"
     },
     {
       "id": "Label_LessonBonus",

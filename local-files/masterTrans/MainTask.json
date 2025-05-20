@@ -290,8 +290,8 @@
       "mainTaskGroupId": "main_task_group-01-01",
       "number": 41,
       "title": "하츠보시 도전41",
-      "description": "프로듀스로 난이도 프로에 도전하자!",
-      "homeDescription": "프로듀스로 난이도 프로에 도전하자!"
+      "description": "プロデュースで定期公演『初』：プロに{threshold}回挑戦しよう",
+      "homeDescription": "プロデュースで定期公演『初』：プロに{threshold}回挑戦しよう"
     },
     {
       "mainTaskGroupId": "main_task_group-01-01",
@@ -1221,8 +1221,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 14,
       "title": "P과제2-14",
-      "description": "프로듀스로 난이도 마스터에 도전하자",
-      "homeDescription": "프로듀스로 난이도 마스터에 도전하자"
+      "description": "プロデュースで定期公演『初』：マスターに{threshold}回挑戦しよう",
+      "homeDescription": "プロデュースで定期公演『初』：マスターに{threshold}回挑戦しよう"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1326,8 +1326,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 29,
       "title": "P과제2-29",
-      "description": "난이도 마스터로 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌",
-      "homeDescription": "난이도 마스터로 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌"
+      "description": "定期公演『初』：マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル",
+      "homeDescription": "定期公演『初』：マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1585,8 +1585,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 66,
       "title": "P과제66",
-      "description": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
-      "homeDescription": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+      "description": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：センスのプロデュースアイドル",
+      "homeDescription": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：センスのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1669,8 +1669,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 78,
       "title": "P과제78",
-      "description": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
-      "homeDescription": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+      "description": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+      "homeDescription": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
@@ -1690,8 +1690,8 @@
       "mainTaskGroupId": "main_task_group-03-01",
       "number": 81,
       "title": "P과제81",
-      "description": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：アノマリーのプロデュースアイドル",
-      "homeDescription": "N.I.Aのプロデュースで最終オーディションに合格して評価S以上を獲得しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+      "description": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：アノマリーのプロデュースアイドル",
+      "homeDescription": "N.I.Aで最終オーディションに合格して評価S以上達成しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
     },
     {
       "mainTaskGroupId": "main_task_group-03-01",
