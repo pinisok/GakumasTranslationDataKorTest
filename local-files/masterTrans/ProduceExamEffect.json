@@ -14378,7 +14378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 "
+          "text": "무작위로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -20803,7 +20803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "무작위 "
+          "text": "무작위로 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -20823,7 +20823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "강화된 고유 스킬 카드(SSR)를, 코스트를 소비하지 않고 사용"
+          "text": "강화 된 고유 스킬 카드(SSR)를 비용을 소비하지 않고 사용"
         }
       ]
     },
