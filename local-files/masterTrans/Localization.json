@@ -391,7 +391,7 @@
     },
     {
       "id": "produce.schedule.step_self_visual_sp_description",
-      "description": "비주얼이 상승합니다. \\n체력 소비량도 많지만 보상도 호화입니다."
+      "description": "비주얼이 상승합니다. \\n체력 소비량도 많지만 보상도 호화롭습니다."
     },
     {
       "id": "produce.schedule.step_self_vocal_description",
@@ -399,7 +399,7 @@
     },
     {
       "id": "produce.schedule.step_self_vocal_sp_description",
-      "description": "보컬이 상승합니다. \\n체력 소비량도 많지만 보상도 호화입니다."
+      "description": "보컬이 상승합니다. \\n체력 소비량도 많지만 보상도 호화롭습니다."
     },
     {
       "id": "produce.shop.end_warning.description",

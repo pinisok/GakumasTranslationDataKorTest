@@ -19,7 +19,7 @@
       "type": "PushType_ApFull",
       "number": 2,
       "title": "아리무라 마오",
-      "message": "푹 쉬셨나요? 저도\n쉬어서, 힘이 넘쳐요"
+      "message": "푹 쉬셨나요? 저도\n쉬어서, 기운이 넘쳐요"
     },
     {
       "characterId": "amao",
@@ -75,7 +75,7 @@
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
       "title": "아리무라 마오",
-      "message": "저다운 미니 라이브를 할 수 있었다고\n생각해요. 프로듀서, 보수를\n받아주세요"
+      "message": "저다운 미니 라이브를 해냈다고\n생각해요. 프로듀서, 보수를\n받아주세요"
     },
     {
       "characterId": "amao",
@@ -103,14 +103,14 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "후지타 코토네",
-      "message": "프로듀서!\n이제 힘이 넘치니까,\n레슨하고 싶어ー요!"
+      "message": "프로듀서!\n이제 기운이 넘쳐서,\n레슨하고 싶어ー요!"
     },
     {
       "characterId": "fktn",
       "type": "PushType_ApFull",
       "number": 2,
       "title": "후지타 코토네",
-      "message": "프로듀스할 힘, 슬슬\n나지 않았나요오?\n레슨, 해버리죠~♪"
+      "message": "프로듀스할 기운, 슬슬\n나지 않았나요오?\n레슨, 해버리죠~♪"
     },
     {
       "characterId": "fktn",
@@ -159,14 +159,14 @@
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
       "title": "후지타 코토네",
-      "message": "귀여운 코토네 쨩을 충분히\n보일 수 있었던 라이브였네요~♪\n게다가 보수도 받을 수 있어서 행복해에~♡"
+      "message": "귀여운 코토네 쨩을 충분히\n보인 라이브였네요~♪\n게다가 보수도 받을 수 있어서 행복해에~♡"
     },
     {
       "characterId": "fktn",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
       "title": "후지타 코토네",
-      "message": "미니라이브, 성공~♡\n프로듀서 칭찬해주세요~!"
+      "message": "미니라이브, 성공~♡\n프로듀서 칭찬해주세~요!"
     },
     {
       "characterId": "fktn",
@@ -180,7 +180,7 @@
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
       "title": "후지타 코토네",
-      "message": "방송 반응도 나쁘지 않았고,\n좋은 일이네에~♪\n얼마나 보수를 받았으려나요~"
+      "message": "방송 반응도 나쁘지 않았고,\n좋은 일이네에~♪\n보수는 얼마나 받았으려나요~"
     },
     {
       "characterId": "fktn",
@@ -194,105 +194,105 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "よく眠れました。今なら……\nレッスンをしてもいい気分です"
+      "message": "푹 잤어요. 지금이라면……\n레슨을 해도 괜찮아요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 2,
       "title": "하타야 미스즈",
-      "message": "ゆっくり休めましたか？　\nわたしもたくさん眠ったので、\n少しだけレッスンをしようかと"
+      "message": "푹 쉬셨나요?\n저도 많이 잤으니,\n살짝 레슨을 할까 해요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "マニーがたまったようですよ。\n受け取りに行きませんか？"
+      "message": "머니가 쌓였나봐요.\n받으러 가지 않으실래요?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_MoneyFull",
       "number": 2,
       "title": "하타야 미스즈",
-      "message": "お昼寝中でしょうか。\nマニーがたまっていますよ"
+      "message": "낮잠을 자고 계신 걸까요.\n머니가 쌓여 있어요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_DailyMission",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "今日のミッションが残っているよう\nです。全部終わらせて、\n気持ちよく眠りましょう？"
+      "message": "오늘의 미션이 남아 있나\n봐요. 전부 끝내고,\n기분 좋게 잠들죠?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_Login",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "ずいぶんと長いお昼寝ですね。\n目が覚めたら、\n会いに来てください。\nずっと、待っていますから"
+      "message": "낮잠을 꽤나 오래 주무시네요.\n일어나시면,\n만나러 와주세요.\n쭉, 기다리고 있을게요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_PvpRateRemainingPlayCount",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "まだ、コンテストに挑戦できる\nみたいですね。それでは、\nゆるりと参りましょう"
+      "message": "아직, 콘테스트에 도전할 수 있나\n봐요. 그럼,\n느긋히 가도록 하죠"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "ミニライブ、終わりました。\n今日はぐっすり眠れそうです"
+      "message": "미니 라이브, 끝났어요.\n오늘은 푹 잘 수 있을 것 같아요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
       "title": "하타야 미스즈",
-      "message": "ミニライブ、今終わりましたよ。\nあとで、感想を聞かせてくださいね"
+      "message": "미니 라이브, 방금 끝났어요.\n나중에, 감상을 들려주세요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
       "title": "하타야 미스즈",
-      "message": "いいミニライブでした。\nプロデューサーからみて、\nいかがでしたか？"
+      "message": "좋은 미니 라이브였어요.\n프로듀서가 보시기에,\n어떠셨나요?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
       "title": "하타야 미스즈",
-      "message": "配信、みていてくれましたか？\nのんびりお話するのも、\n悪くありませんね"
+      "message": "방송, 지켜봐주셨나요?\n느긋히 이야기하는 것도,\n나쁘지 않네요"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 2,
       "title": "하타야 미스즈",
-      "message": "配信終了です。\nサボらずにちゃんとお仕事、\nしていたでしょう？"
+      "message": "방송 끝났어요.\n일 땡땡이 안 치고 제대로,\n했죠?"
     },
     {
       "characterId": "hmsz",
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
       "title": "하타야 미스즈",
-      "message": "配信、終わりましたよ。\nそれでは、おやすみなさい"
+      "message": "방송, 끝났어요.\n그럼, 안녕히 주무세요"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_ApFull",
       "number": 1,
       "title": "히메사키 리나미",
-      "message": "힘이 났나보네.\n그럼, 프로듀스 잘\n부탁해요. 프로듀서군"
+      "message": "기운이 났나보네.\n그럼, 프로듀스 잘\n부탁해요. 프로듀서군"
     },
     {
       "characterId": "hrnm",
       "type": "PushType_ApFull",
       "number": 2,
       "title": "히메사키 리나미",
-      "message": "푹 쉬었어? 힘 났으면,\n레슨, 함께 해줄래?"
+      "message": "푹 쉬었어? 기운이 났으면,\n레슨, 함께 해줄래?"
     },
     {
       "characterId": "hrnm",
@@ -376,7 +376,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "하나미 사키",
-      "message": "슬슬 힘이 났으려나?\n나는 물론 준비 다 됐어!\n빨리 만나러 오라고!"
+      "message": "슬슬 기운이 났으려나?\n나는 물론 준비 다 됐어!\n빨리 만나러 오라고!"
     },
     {
       "characterId": "hski",
@@ -467,14 +467,14 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "하나미 우메",
-      "message": "하나미 우메, 힘이 넘쳐요!\n프로듀서 님,\n프로듀스를 부탁드려요!"
+      "message": "하나미 우메, 기운이 넘쳐요!\n프로듀서 님,\n프로듀스를 부탁드려요!"
     },
     {
       "characterId": "hume",
       "type": "PushType_ApFull",
       "number": 2,
       "title": "하나미 우메",
-      "message": "힘 나셨나요? 저는\n언니 특제 SSD를 마셔서 완전히\n힘이 넘쳐요. 레슨하죠!"
+      "message": "기운이 나셨나요? 저는\n언니 특제 SSD를 마셔서 완전히\n기운이 넘쳐요. 레슨하죠!"
     },
     {
       "characterId": "hume",
@@ -649,7 +649,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "쿠라모토 치나",
-      "message": "선생님, 힘이 나셨나요?\n저는 힘이 넘치와요!"
+      "message": "선생님, 기운이 나셨나요?\n저는 기운이 넘친답니다!"
     },
     {
       "characterId": "kcna",
@@ -740,14 +740,14 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "카츠라기 릴리야",
-      "message": "……선배, 레슨을 부탁\n드려도 될까요? 쉬어서 힘이\n났으니까요……!"
+      "message": "……선배, 레슨을 부탁\n드려도 될까요? 쉬어서 기운이\n났으니까요……!"
     },
     {
       "characterId": "kllj",
       "type": "PushType_ApFull",
       "number": 2,
       "title": "카츠라기 릴리야",
-      "message": "선배, 힘이 나셨나요?\n레슨, 부탁드려요……!"
+      "message": "선배, 기운이 나셨나요?\n레슨, 부탁드려요……!"
     },
     {
       "characterId": "kllj",
@@ -831,7 +831,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "시노사와 히로",
-      "message": "나도 프로듀서도,\n힘이 났어. 레슨, 하자"
+      "message": "나도 프로듀서도,\n기운이 났어. 레슨, 하자"
     },
     {
       "characterId": "shro",
@@ -929,7 +929,7 @@
       "type": "PushType_ApFull",
       "number": 2,
       "title": "시운 스미카",
-      "message": "핏치, 힘이 넘쳐?\n좋ー네, 좋ー아!"
+      "message": "핏치, 기운이 넘쳐?\n좋ー네, 좋ー아!"
     },
     {
       "characterId": "ssmk",
@@ -978,7 +978,7 @@
       "type": "PushType_WorkMiniLiveFinish",
       "number": 2,
       "title": "시운 스미카",
-      "message": "핏치, 미니 라이브 끝났어~\n하아, 지쳤어어~\n있지, 포상 주지 않을래?"
+      "message": "핏치, 미니 라이브 끝났어~\n하아, 지쳤어어~\n있잖아, 포상 주지 않을래?"
     },
     {
       "characterId": "ssmk",
@@ -1076,7 +1076,7 @@
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
       "title": "츠키무라 테마리",
-      "message": "미니 라이브가 끝났어요.\n제 노래로, 최고의 라이브로 만들 수 있었어요"
+      "message": "미니 라이브 끝났어요.\n제 노래로, 최고의 라이브를 해냈어"
     },
     {
       "characterId": "ttmr",
@@ -1097,7 +1097,7 @@
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
       "title": "츠키무라 테마리",
-      "message": "프로듀서, 보고 있었나요?\n이번 방송도, 잘 해냈어요.\n보수도 기대해도 좋겠네요"
+      "message": "프로듀서, 보고 있었나요?\n이번 방송도, 잘 해냈어.\n보수도 기대해도 좋겠네"
     }
   ]
 }
