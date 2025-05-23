@@ -18882,7 +18882,7 @@
           "text": "\n（프로듀스 중 2회）"
         }
       ],
-      "name": "N.I.A 스마트폰"
+      "name": "N.I.A 스마트폰 링"
     },
     {
       "id": "pitem_00-3-098-0",
@@ -36642,7 +36642,7 @@
           "text": "(프로듀스 중 2회)"
         }
       ],
-      "name": "N.I.AT 셔츠 (보라색)"
+      "name": "N.I.A T셔츠 (보라색)"
     },
     {
       "id": "pitem_01-3-151-challenge",
@@ -55748,7 +55748,7 @@
           "text": "(프로듀스 중 2회)"
         }
       ],
-      "name": "N.I.AT 셔츠 (흰색)"
+      "name": "N.I.A T셔츠 (흰색)"
     },
     {
       "id": "pitem_02-3-149-challenge",
@@ -68822,7 +68822,7 @@
           "text": "(프로듀스 중 2회)"
         }
       ],
-      "name": "N.I.AT 셔츠 (검정색)"
+      "name": "N.I.A T셔츠 (검정색)"
     },
     {
       "id": "pitem_03-3-153-challenge",
@@ -70445,7 +70445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 개시시, 산찰과 폐쇄"
+          "text": "턴 개시시, 덱과 버림 패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -73551,7 +73551,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 개시시, 산찰과 폐쇄"
+          "text": "턴 개시시, 덱과 버림 패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -75709,7 +75709,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 개시시, 산찰과 폐쇄"
+          "text": "턴 개시시, 덱과 버림 패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -77777,7 +77777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 개시시, 산찰과 폐쇄"
+          "text": "턴 개시시, 덱과 버림 패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -80753,7 +80753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 개시시, 산찰과 폐쇄"
+          "text": "턴 개시시, 덱과 버림 패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -83709,7 +83709,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "턴 개시시, 산찰과 폐쇄"
+          "text": "턴 개시시, 덱과 버림 패의"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
