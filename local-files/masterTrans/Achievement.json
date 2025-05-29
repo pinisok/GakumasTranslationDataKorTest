@@ -68,17 +68,17 @@
     {
       "id": "achieve-i_card-fktn-3-001-01",
       "name": "아드레날린 전개",
-      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
       "name": "Yellow Big Bang!",
-      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
       "name": "완전 팔팔해!",
-      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -244,6 +244,21 @@
       "id": "achieve-i_card-hrnm-3-008-03",
       "name": "네게 줄게!",
       "description": "【해피 밀푀유】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-01",
+      "name": "어떤 세계라도",
+      "description": "【Howling over the World】히메사키 리나미의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-02",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-03",
+      "name": "그거, 싱크로니시티?",
+      "description": "【Howling over the World】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
@@ -544,6 +559,21 @@
       "id": "achieve-i_card-kcna-3-009-03",
       "name": "사랑받은 책임",
       "description": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-01",
+      "name": "다음번에는 반드시",
+      "description": "【Howling over the World】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-02",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-03",
+      "name": "세계를 반드시 구해내겠어요!",
+      "description": "【Howling over the World】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
@@ -1502,7 +1532,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
-      "name": "론리・울프",
+      "name": "론리·울프",
       "description": "【고독한 늑대】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
     },
     {

@@ -236,6 +236,11 @@
       "description": "하츠미☆액세서리 (하타야 미스즈)를 구입"
     },
     {
+      "id": "costume_head_hmsz-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+    },
+    {
       "id": "costume_head_hmsz-schl-0000",
       "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
@@ -546,6 +551,11 @@
       "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
     },
     {
+      "id": "costume_head_hume-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+    },
+    {
       "id": "costume_head_hume-schl-0000",
       "name": "평소의 헤어스타일",
       "description": "처음부터 소지"
@@ -671,6 +681,16 @@
       "description": "【가장광소곡】쿠라모토 치나를 입수"
     },
     {
+      "id": "costume_head_kcna-cstm-0116",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】쿠라모토 치나를 입수"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0117",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】쿠라모토 치나의 재능 개화 4단계 달성"
+    },
+    {
       "id": "costume_head_kcna-hair-0001",
       "name": "수국 머리 장식",
       "description": "프리미엄 미션 패스 2024년 7월에 획득 가능"
@@ -694,6 +714,11 @@
       "id": "costume_head_kcna-hair-0006",
       "name": "하츠미☆액세서리",
       "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+    },
+    {
+      "id": "costume_head_kcna-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -849,6 +874,11 @@
       "id": "costume_head_shro-hair-0006",
       "name": "하츠미☆액세서리",
       "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+    },
+    {
+      "id": "costume_head_shro-hair-0007",
+      "name": "티어드롭 글래스",
+      "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
     },
     {
       "id": "costume_head_ssmk-cstm-0009",

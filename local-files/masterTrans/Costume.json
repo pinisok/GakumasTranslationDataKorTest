@@ -111,6 +111,11 @@
       "description": "아리무라 마오의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "amao-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Fluorite】'25Howling over the World 아리무라 마오를 입수"
+    },
+    {
       "id": "amao-cstm-0119",
       "name": "고금동서 식은 죽 먹기",
       "description": "【Fluorite】'25 애니메이트 아리무라 마오 입수"
@@ -251,6 +256,11 @@
       "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
+      "id": "fktn-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【세계 제일 귀여운 나】'25 Howling over the World 후지타 코토네 입수"
+    },
+    {
       "id": "fktn-cstm-0119",
       "name": "고금동서 식은 죽 먹기",
       "description": "【세계 제일 귀여운 나】'25 애니메이트 후지타 코토네 입수"
@@ -383,7 +393,7 @@
     {
       "id": "hrnm-cstm-0065",
       "name": "가장광소곡",
-      "description": "【clumsy trick】'24 할로윈 히메자키 리나미를 입수"
+      "description": "【clumsy trick】'24 할로윈 히메사키 리나미를 입수"
     },
     {
       "id": "hrnm-cstm-0067",
@@ -419,6 +429,11 @@
       "id": "hrnm-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "hrnm-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】 히메사키 리나미 입수"
     },
     {
       "id": "hrnm-cstm-0119",
@@ -458,7 +473,7 @@
     {
       "id": "hrnm-trng-0002",
       "name": "하츠보시 학원 체육복",
-      "description": "하츠보시 학원 체육복(히메자키 리나미)을 구매"
+      "description": "하츠보시 학원 체육복(히메사키 리나미)을 구매"
     },
     {
       "id": "hski-cstm-0000",
@@ -576,6 +591,11 @@
       "description": "【비 갠 뒤의 아이리스】하나미 사키의 재능 개화 4단계 달성"
     },
     {
+      "id": "hski-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Fighting My Way】'25 Howling over the World 하나미 사키 입수"
+    },
+    {
       "id": "hski-othr-0002",
       "name": "온천용 수영복",
       "description": "온천용 수영복(하나미 사키) 구매하기"
@@ -669,6 +689,11 @@
       "id": "hume-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "hume-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【The Rolling Riceball】'25 Howling over the World 하나미 ​​우메를 입수"
     },
     {
       "id": "hume-cstm-0119",
@@ -779,6 +804,11 @@
       "id": "jsna-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "주오 세나의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "jsna-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【작은 야망】'25 Howling over the World 주오 세나를 입수"
     },
     {
       "id": "jsna-cstm-0119",
@@ -909,6 +939,16 @@
       "id": "kcna-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "쿠라모토 치나의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "kcna-cstm-0116",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】쿠라모토 치나를 입수"
+    },
+    {
+      "id": "kcna-cstm-0117",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】쿠라모토 치나의 재능 개화 4단계 달성"
     },
     {
       "id": "kcna-cstm-0119",
@@ -1191,6 +1231,11 @@
       "description": "시노사와 히로의 아이돌 길 스테이지 25 클리어"
     },
     {
+      "id": "shro-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【광경】'25 Howling over the World 시노사와 히로 입수"
+    },
+    {
       "id": "shro-cstm-0119",
       "name": "고금동서 식은 죽 먹기",
       "description": "【광경】'25 애니메이트 시노사와 히로 입수"
@@ -1314,6 +1359,11 @@
       "id": "ssmk-cstm-0110",
       "name": "칠흑의 반짝임",
       "description": "시운 스미카의 아이돌 길 스테이지 25 클리어"
+    },
+    {
+      "id": "ssmk-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Tame-Lie-One-Step】'25 Howling over the World 시운 스미카 입수"
     },
     {
       "id": "ssmk-cstm-0119",
@@ -1454,6 +1504,11 @@
       "id": "ttmr-cstm-0113",
       "name": "비 갠 뒤의 아이리스",
       "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "ttmr-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【Luna say maybe】'25 Howling over the World 츠키무라 테마리 입수"
     },
     {
       "id": "ttmr-cstm-0119",

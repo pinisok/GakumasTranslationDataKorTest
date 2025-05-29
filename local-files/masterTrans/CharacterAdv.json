@@ -66,6 +66,11 @@
       "regexp": "릴리야"
     },
     {
+      "characterId": "myu0",
+      "name": "마시로 유우",
+      "regexp": "유우"
+    },
+    {
       "characterId": "nasr",
       "name": "네오 아사리",
       "regexp": "아사리 선생"
