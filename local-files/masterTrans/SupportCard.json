@@ -973,6 +973,22 @@
       "name": "앙ㆍ두ㆍ트루아!"
     },
     {
+      "id": "s_card-2-0053",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 확률 중"
+        }
+      ],
+      "name": "ばたんきゅー"
+    },
+    {
       "id": "s_card-3-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -1949,6 +1965,22 @@
       "name": "잘했어, 쿠라모토."
     },
     {
+      "id": "s_card-3-0063",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 확률대"
+        }
+      ],
+      "name": "推し活なひととき、だね！"
+    },
+    {
       "id": "s_card-3-0067",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -1962,7 +1994,7 @@
           "text": "/ 확률대"
         }
       ],
-      "name": "나와 미스즈, 엄청 친해요"
+      "name": "나하고 미스즈, 엄청 친해"
     }
   ]
 }
