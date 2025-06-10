@@ -148,13 +148,13 @@
       "id": "gasha_ticket_ssr_button_support",
       "order": 1,
       "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSRサポート確定1連"
+      "description": "SSR 서포트 확정 1연차"
     },
     {
       "id": "gasha_ticket_ssr_button_support-2",
       "order": 1,
       "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSRサポート確定1連"
+      "description": "SSR 서포트 확정 1연차"
     }
   ]
 }
