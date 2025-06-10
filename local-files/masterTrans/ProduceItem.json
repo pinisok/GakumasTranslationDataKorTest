@@ -46457,7 +46457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "効果のスキルカード獲得時、ビジュアルが200以上の場合、スキルカードを選択して"
+          "text": " 효과의 스킬 카드 획득 시, 비주얼이 200 이상인 경우, 스킬 카드를 선택하고 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -46480,7 +46480,7 @@
           "text": "\n（프로듀스 중 1회）"
         }
       ],
-      "name": "へとへとできゅー"
+      "name": "녹초가 되어 큐-"
     },
     {
       "id": "pitem_02-2-103-challenge",
@@ -56317,7 +56317,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活動支給・差し入れ選択時、ビジュアルが700以上の場合、ランダムなスキルカードを"
+          "text": "활동지급·선물 선택시, 비주얼이 700 이상인 경우, 랜덤  스킬 카드를 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -56360,7 +56360,7 @@
           "text": "\n（프로듀스 중 2회）"
         }
       ],
-      "name": "おとものミミズク"
+      "name": "동반자 수리부엉이"
     },
     {
       "id": "pitem_02-3-148-challenge",
@@ -56605,7 +56605,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2ターンごとのターン終了時、除外にあるスキルカードが8枚以下の場合、"
+          "text": "2턴마다 턴 종료시, 제외된 스킬 카드가 8장 이하인 경우, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56615,7 +56615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "好印象強化"
+          "text": "호인상 강화"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56728,7 +56728,7 @@
           "text": ""
         }
       ],
-      "name": "シルヴェスタ出撃！"
+      "name": "실베스타 출격!"
     },
     {
       "id": "pitem_02-3-156-1",
@@ -56741,7 +56741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2ターンごとのターン終了時、除外にあるスキルカードが8枚以下の場合、"
+          "text": "2턴마다 턴 종료시, 제외된 스킬 카드가 8장 이하인 경우, "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56751,7 +56751,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamReviewMultiple",
-          "text": "好印象強化"
+          "text": "호인상 강화"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -56814,7 +56814,7 @@
           "text": ""
         }
       ],
-      "name": "シルヴェスタ出撃！+"
+      "name": "실베스타 출격!+"
     },
     {
       "id": "pitem_02-3-178-0",

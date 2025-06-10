@@ -174,6 +174,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-support-fix-nia-1",
+      "name": "N.I.A 챌린지 SSR 서포트 카드 확정 가챠 티켓",
+      "description": "N.I.A 챌린지 SSR 서포트 카드 확정 가챠에 사용하는 티켓",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-Idolcardpiece-exchange-1",
       "name": "플라워",
       "description": "교환소에서 사용하는 아이템",
@@ -814,6 +820,12 @@
       "name": "[벚꽃 포토그래프] 카츠라기 릴리야의 피스",
       "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
       "acquisitionRouteDescription": "이벤트 가챠 등"
+    },
+    {
+      "id": "item-piece-idol_kllj-3-012",
+      "name": "[Howling over the World] 카츠라기 릴리야의 피스",
+      "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+      "acquisitionRouteDescription": "가챠 등"
     },
     {
       "id": "item-piece-idol_shro-1-000",

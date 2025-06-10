@@ -117,12 +117,12 @@
     },
     {
       "id": "costume_head_fktn-cstm-0027",
-      "name": "Yellow Big Bang!",
+      "name": "Yellow Big Bang！",
       "description": "【Yellow Big Bang!】후지타 코토네 입수!"
     },
     {
       "id": "costume_head_fktn-cstm-0028",
-      "name": "Yellow Big Bang!",
+      "name": "Yellow Big Bang！",
       "description": "【Yellow Big Bang!】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
@@ -303,7 +303,7 @@
     {
       "id": "costume_head_hrnm-cstm-0065",
       "name": "가장광소곡",
-      "description": "【clumsy trick】'24 할로윈 히메자키 리나미를 입수"
+      "description": "【clumsy trick】'24 할로윈 히메사키 리나미를 입수"
     },
     {
       "id": "costume_head_hrnm-cstm-0072",
@@ -769,6 +769,16 @@
       "id": "costume_head_kllj-cstm-0065",
       "name": "가장광소곡",
       "description": "【백선】'24 할로윈 카츠라기 릴리야를 입수"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0116",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】카츠라기 릴리야를 입수"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0117",
+      "name": "Howling over the World",
+      "description": "【Howling over the World】카츠라기 릴리야의 재능 개화 4단계 달성"
     },
     {
       "id": "costume_head_kllj-hair-0001",

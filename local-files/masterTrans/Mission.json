@@ -794,6 +794,174 @@
       "name": "7일차의 모든 미션을 클리어"
     },
     {
+      "id": "mission-daily_mission_NIA_clear-mission_11",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_12",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_13",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_14",
+      "name": "P과제 35를 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_15",
+      "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_16",
+      "name": "1일차의 모든 미션을 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_21",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_22",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_23",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_24",
+      "name": "최종시험에 합격하여 평가 A 이상을 1회 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_25",
+      "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_26",
+      "name": "2일차의 모든 미션을 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_31",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_32",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_33",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_34",
+      "name": "최종시험에 합격하여 평가 A+ 이상을 1회 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_35",
+      "name": "N.I.A의 최종 오디션을 1번 합격하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_36",
+      "name": "3일차의 모든 미션을 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_41",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_42",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_43",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_44",
+      "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_45",
+      "name": "N.I.A의 최종 오디션을 3번 합격하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_46",
+      "name": "4일차의 모든 미션을 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_51",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_52",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_53",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_54",
+      "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_55",
+      "name": "N.I.A의 최종 오디션을 합격하여 평가 S 이상을 1번 달성하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_56",
+      "name": "5일차의 모든 미션을 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_61",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_62",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_63",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_64",
+      "name": "True End : N.I.A를 {threshold} 명 보자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_65",
+      "name": "N.I.A의 최종 오디션을 합격하여 평가 S 이상을 3번 달성하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_66",
+      "name": "6일차의 모든 미션을 클리어하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_71",
+      "name": "{threshold}일 로그인하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_72",
+      "name": "AP를 {threshold} 소모하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_73",
+      "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_74",
+      "name": "True End : N.I.A를 {threshold} 명 보자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_75",
+      "name": "N.I.A의 최종 오디션을 합격하여 평가 S+ 이상을 1번 달성하자"
+    },
+    {
+      "id": "mission-daily_mission_NIA_clear-mission_76",
+      "name": "7일차의 모든 미션을 클리어하자"
+    },
+    {
       "id": "mission-daily-incrementgashadrawcount-1",
       "name": "코인 가챠를 {threshold}번 뽑자"
     },
@@ -3542,6 +3710,30 @@
       "name": "프로듀서 Lv {threshold}에 도달하자."
     },
     {
+      "id": "achieve-i_card-amao-2-000-04",
+      "name": "【시작은 멋지게】 아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-2-000-05",
+      "name": "【시작은 멋지게】 아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-2-000-06",
+      "name": "【시작은 멋지게】 아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-000-04",
+      "name": "【Fluorite】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-000-05",
+      "name": "【Fluorite】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-000-06",
+      "name": "【Fluorite】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-amao-3-001-01",
       "name": "【너와 세미블루】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
@@ -3554,16 +3746,40 @@
       "name": "【너와 세미블루】 아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-amao-3-001-04",
+      "name": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-05",
+      "name": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-06",
+      "name": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-amao-3-002-01",
       "name": "【Feel Jewel Dream】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-amao-3-002-02",
-      "name": "【Feel Jewel Dream】 아리무라 마오의 특훈 단계 {threshold} 달성"
+      "name": "【Feel Jewel Dream】아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-002-03",
       "name": "【Feel Jewel Dream】 아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-04",
+      "name": "【Feel Jewel Dream】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-05",
+      "name": "【Feel Jewel Dream】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-06",
+      "name": "【Feel Jewel Dream】아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-007-01",
@@ -3578,6 +3794,18 @@
       "name": "【Campus mode!!】아리무라 마오의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-amao-3-007-04",
+      "name": "【Campus mode!!】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-05",
+      "name": "【Campus mode!!】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-06",
+      "name": "【Campus mode!!】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-amao-3-009-01",
       "name": "【눈이 녹을 때에】아리무라 마오의 프로듀스로 최종 시험에 합격"
     },
@@ -3590,16 +3818,64 @@
       "name": "【눈이 녹을 때에】아리무라 마오의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-amao-3-009-04",
+      "name": "【눈이 녹을 때에】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-05",
+      "name": "【눈이 녹을 때에】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-06",
+      "name": "【눈이 녹을 때에】아리무라 마오의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-2-000-04",
+      "name": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-2-000-05",
+      "name": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-2-000-06",
+      "name": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-000-04",
+      "name": "【세계 제일 귀여운 나】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-000-05",
+      "name": "【세계 제일 귀여운 나】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-000-06",
+      "name": "【세계 제일 귀여운 나】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-fktn-3-001-01",
-      "name": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "name": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
-      "name": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "name": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
-      "name": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+      "name": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-04",
+      "name": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-05",
+      "name": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-06",
+      "name": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -3614,6 +3890,18 @@
       "name": "【관국】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-fktn-3-002-04",
+      "name": "【관국】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-05",
+      "name": "【관국】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-06",
+      "name": "【관국】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-fktn-3-006-01",
       "name": "【White Night! White Wish!】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
@@ -3624,6 +3912,18 @@
     {
       "id": "achieve-i_card-fktn-3-006-03",
       "name": "【White Night! White Wish!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-04",
+      "name": "【White Night! White Wish!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-05",
+      "name": "【White Night! White Wish!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-06",
+      "name": "【White Night! White Wish!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-007-01",
@@ -3638,16 +3938,40 @@
       "name": "【Campus mode!!】후지타 코토네의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-fktn-3-007-04",
+      "name": "【Campus mode!!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-05",
+      "name": "【Campus mode!!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-06",
+      "name": "【Campus mode!!】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-fktn-3-011-01",
       "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-011-02",
-      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-011-03",
       "name": "【비 갠 뒤의 아이리스】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-04",
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-05",
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-011-06",
+      "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -3662,6 +3986,18 @@
       "name": "【천천히, 한 걸음씩】하타야 미스즈의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hmsz-2-000-04",
+      "name": "【천천히, 한 걸음씩】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-05",
+      "name": "【천천히, 한 걸음씩】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hmsz-2-000-06",
+      "name": "【천천히, 한 걸음씩】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hmsz-3-000-01",
       "name": "【달 거북이】하타야 미스즈의 프로듀스로 최종 시험에 합격"
     },
@@ -3674,16 +4010,64 @@
       "name": "【달 거북이】하타야 미스즈의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hmsz-3-000-04",
+      "name": "【달 거북이】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-05",
+      "name": "【달 거북이】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-000-06",
+      "name": "【달 거북이】하타야 미스즈의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-2-000-04",
+      "name": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-2-000-05",
+      "name": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-2-000-06",
+      "name": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-000-04",
+      "name": "【clumsy trick】 히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-000-05",
+      "name": "【clumsy trick】 히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-000-06",
+      "name": "【clumsy trick】 히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hrnm-3-001-01",
       "name": "【너와 세미블루】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
-      "name": "【너와 세미블루】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "name": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
       "name": "【너와 세미블루】 히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-04",
+      "name": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-05",
+      "name": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-06",
+      "name": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
@@ -3698,6 +4082,18 @@
       "name": "【L.U.V】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hrnm-3-002-04",
+      "name": "【L.U.V】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-05",
+      "name": "【L.U.V】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-06",
+      "name": "【L.U.V】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hrnm-3-004-01",
       "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
@@ -3708,6 +4104,18 @@
     {
       "id": "achieve-i_card-hrnm-3-004-03",
       "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-04",
+      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-05",
+      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-06",
+      "name": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
@@ -3722,6 +4130,18 @@
       "name": "【Campus mode!!】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hrnm-3-007-04",
+      "name": "【Campus mode!!】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-05",
+      "name": "【Campus mode!!】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-06",
+      "name": "【Campus mode!!】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hrnm-3-008-01",
       "name": "【해피 밀푀유】히메사키 리나미의 프로듀스로 최종 시험에 합격"
     },
@@ -3732,6 +4152,18 @@
     {
       "id": "achieve-i_card-hrnm-3-008-03",
       "name": "【해피 밀푀유】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-04",
+      "name": "【해피 밀푀유】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-05",
+      "name": "【해피 밀푀유】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-06",
+      "name": "【해피 밀푀유】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-01",
@@ -3746,6 +4178,42 @@
       "name": "【Howling over the World】히메사키 리나미의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hrnm-3-012-04",
+      "name": "【Howling over the World】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-05",
+      "name": "【Howling over the World】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-012-06",
+      "name": "【Howling over the World】히메사키 리나미의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-2-000-04",
+      "name": "【내가 최고!】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-2-000-05",
+      "name": "【내가 최고!】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-2-000-06",
+      "name": "【내가 최고!】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-000-04",
+      "name": "【Fighting My Way】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-000-05",
+      "name": "【Fighting My Way】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-000-06",
+      "name": "【Fighting My Way】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hski-3-001-01",
       "name": "【Boom Boom Pow】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
@@ -3758,16 +4226,40 @@
       "name": "【Boom Boom Pow】 하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hski-3-001-04",
+      "name": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-05",
+      "name": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-06",
+      "name": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hski-3-002-01",
       "name": "【관국】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hski-3-002-02",
-      "name": "【관국】하나미 사키의 사계절 특훈 단계 {threshold} 달성"
+      "name": "【관국】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-002-03",
       "name": "【관국】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-04",
+      "name": "【관국】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-05",
+      "name": "【관국】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-06",
+      "name": "【관국】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
@@ -3782,6 +4274,18 @@
       "name": "【고금동서 식은 죽 먹기】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hski-3-006-04",
+      "name": "【고금동서 식은 죽 먹기】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-05",
+      "name": "【고금동서 식은 죽 먹기】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-06",
+      "name": "【고금동서 식은 죽 먹기】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hski-3-008-01",
       "name": "【Campus mode!!】하나미 사키의 프로듀스로 최종 시험에 합격"
     },
@@ -3792,6 +4296,18 @@
     {
       "id": "achieve-i_card-hski-3-008-03",
       "name": "【Campus mode!!】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-04",
+      "name": "【Campus mode!!】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-05",
+      "name": "【Campus mode!!】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-06",
+      "name": "【Campus mode!!】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-011-01",
@@ -3806,16 +4322,40 @@
       "name": "【벚꽃 포토그래프】하나미 사키의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hski-3-011-04",
+      "name": "【벚꽃 포토그래프】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-011-05",
+      "name": "【벚꽃 포토그래프】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-011-06",
+      "name": "【벚꽃 포토그래프】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hski-3-012-01",
       "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-012-02",
-      "name": "【비 갠 뒤의 아이리스】하나미 사키의 프로듀스로 최종 시험에 합격"
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-012-03",
       "name": "【비 갠 뒤의 아이리스】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-04",
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-05",
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hski-3-012-06",
+      "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -3830,16 +4370,40 @@
       "name": "【아이돌, 시작!】 하나미 우메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hume-2-000-04",
+      "name": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-05",
+      "name": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-06",
+      "name": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hume-3-000-01",
       "name": "【The Rolling Riceball】하나미 우메의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-hume-3-000-02",
-      "name": "【The Rolling Riceball】하나미 우메의 특훈 단계 {threshold} 달성"
+      "name": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-000-03",
       "name": "【The Rolling Riceball】 하나미 우메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-04",
+      "name": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-05",
+      "name": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-06",
+      "name": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-005-01",
@@ -3854,6 +4418,18 @@
       "name": "【White Night! White Wish!】하나미 우메의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-hume-3-005-04",
+      "name": "【White Night! White Wish!】하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-05",
+      "name": "【White Night! White Wish!】하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-06",
+      "name": "【White Night! White Wish!】하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-hume-3-006-01",
       "name": "【Campus mode!!】하나미 우메의 프로듀스로 최종 시험에 합격"
     },
@@ -3864,6 +4440,18 @@
     {
       "id": "achieve-i_card-hume-3-006-03",
       "name": "【Campus mode!!】하나미 우메의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-04",
+      "name": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-05",
+      "name": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-06",
+      "name": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
@@ -3878,6 +4466,18 @@
       "name": "【샛별】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-jsna-2-000-04",
+      "name": "【샛별】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-05",
+      "name": "【샛별】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-06",
+      "name": "【샛별】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-jsna-3-000-01",
       "name": "【작은 야망】주오 세나의 프로듀스로 최종 시험 합격"
     },
@@ -3888,6 +4488,18 @@
     {
       "id": "achieve-i_card-jsna-3-000-03",
       "name": "【작은 야망】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-04",
+      "name": "【작은 야망】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-05",
+      "name": "【작은 야망】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-06",
+      "name": "【작은 야망】주오 세나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-jsna-3-002-01",
@@ -3902,6 +4514,18 @@
       "name": "【Campus mode!!】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-jsna-3-002-04",
+      "name": "【Campus mode!!】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-05",
+      "name": "【Campus mode!!】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-06",
+      "name": "【Campus mode!!】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-jsna-3-003-01",
       "name": "【해피 밀푀유】주오 세나의 프로듀스로 최종 시험 합격"
     },
@@ -3912,6 +4536,18 @@
     {
       "id": "achieve-i_card-jsna-3-003-03",
       "name": "【해피 밀푀유】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-04",
+      "name": "【해피 밀푀유】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-05",
+      "name": "【해피 밀푀유】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-06",
+      "name": "【해피 밀푀유】주오 세나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-jsna-3-006-01",
@@ -3926,16 +4562,64 @@
       "name": "【Our Chant】주오 세나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-jsna-3-006-04",
+      "name": "【Our Chant】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-05",
+      "name": "【Our Chant】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-006-06",
+      "name": "【Our Chant】주오 세나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-2-000-04",
+      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-2-000-05",
+      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-2-000-06",
+      "name": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-000-04",
+      "name": "【Wonder Scale】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-000-05",
+      "name": "【Wonder Scale】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-000-06",
+      "name": "【Wonder Scale】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-kcna-3-001-01",
       "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
-      "name": "【매일매일, 발견적 스텝!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-001-03",
       "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-04",
+      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-05",
+      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-06",
+      "name": "【매일매일, 발견적 단계!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
@@ -3950,6 +4634,18 @@
       "name": "【가장광소곡】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kcna-3-002-04",
+      "name": "【가장광소곡】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-05",
+      "name": "【가장광소곡】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-06",
+      "name": "【가장광소곡】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-kcna-3-005-01",
       "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
@@ -3960,6 +4656,18 @@
     {
       "id": "achieve-i_card-kcna-3-005-03",
       "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-04",
+      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-05",
+      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-06",
+      "name": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-007-01",
@@ -3974,6 +4682,18 @@
       "name": "【Campus mode!!】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kcna-3-007-04",
+      "name": "【Campus mode!!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-05",
+      "name": "【Campus mode!!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-06",
+      "name": "【Campus mode!!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-kcna-3-009-01",
       "name": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
     },
@@ -3984,6 +4704,18 @@
     {
       "id": "achieve-i_card-kcna-3-009-03",
       "name": "【눈이 녹을 때에】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-04",
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-05",
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-06",
+      "name": "【눈이 녹을 때에】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-012-01",
@@ -3998,6 +4730,42 @@
       "name": "【Howling over the World】쿠라모토 치나의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kcna-3-012-04",
+      "name": "【Howling over the World】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-05",
+      "name": "【Howling over the World】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-012-06",
+      "name": "【Howling over the World】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-2-000-04",
+      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-2-000-05",
+      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-2-000-06",
+      "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-000-04",
+      "name": "【백선】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-000-05",
+      "name": "【백선】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-000-06",
+      "name": "【백선】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-kllj-3-001-01",
       "name": "【관국】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
     },
@@ -4008,6 +4776,18 @@
     {
       "id": "achieve-i_card-kllj-3-001-03",
       "name": "【관국】카츠라기 릴리야의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-04",
+      "name": "【관국】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-05",
+      "name": "【관국】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-06",
+      "name": "【관국】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kllj-3-005-01",
@@ -4022,6 +4802,18 @@
       "name": "【White Night! White Wish!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-005-04",
+      "name": "【White Night! White Wish!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-05",
+      "name": "【White Night! White Wish!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-06",
+      "name": "【White Night! White Wish!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-kllj-3-006-01",
       "name": "【Campus mode!!】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
     },
@@ -4032,6 +4824,18 @@
     {
       "id": "achieve-i_card-kllj-3-006-03",
       "name": "【Campus mode!!】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-04",
+      "name": "【Campus mode!!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-05",
+      "name": "【Campus mode!!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-06",
+      "name": "【Campus mode!!】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kllj-3-008-01",
@@ -4046,6 +4850,18 @@
       "name": "【극광】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-kllj-3-008-04",
+      "name": "【극광】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-05",
+      "name": "【극광】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-06",
+      "name": "【극광】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-kllj-3-010-01",
       "name": "【벚꽃 포토그래프】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
     },
@@ -4056,6 +4872,66 @@
     {
       "id": "achieve-i_card-kllj-3-010-03",
       "name": "【벚꽃 포토그래프】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-04",
+      "name": "【벚꽃 포토그래프】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-05",
+      "name": "【벚꽃 포토그래프】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-06",
+      "name": "【벚꽃 포토그래프】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-012-01",
+      "name": "【Howling over the World】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-012-02",
+      "name": "【Howling over the World】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-012-03",
+      "name": "【Howling over the World】카츠라기 릴리야의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-012-04",
+      "name": "【Howling over the World】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-012-05",
+      "name": "【Howling over the World】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-012-06",
+      "name": "【Howling over the World】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-2-000-04",
+      "name": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-2-000-05",
+      "name": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-2-000-06",
+      "name": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-000-04",
+      "name": "【광경】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-000-05",
+      "name": "【광경】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-000-06",
+      "name": "【광경】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
@@ -4070,6 +4946,18 @@
       "name": "【콘트라스트】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-shro-3-001-04",
+      "name": "【콘트라스트】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-05",
+      "name": "【콘트라스트】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-06",
+      "name": "【콘트라스트】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-shro-3-002-01",
       "name": "【가장광소곡】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
@@ -4080,6 +4968,18 @@
     {
       "id": "achieve-i_card-shro-3-002-03",
       "name": "【가장광소곡】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-04",
+      "name": "【가장광소곡】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-05",
+      "name": "【가장광소곡】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-06",
+      "name": "【가장광소곡】시노사와 히로의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
@@ -4094,6 +4994,18 @@
       "name": "【Campus mode!!】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-shro-3-007-04",
+      "name": "【Campus mode!!】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-05",
+      "name": "【Campus mode!!】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-06",
+      "name": "【Campus mode!!】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-shro-3-008-01",
       "name": "【해피 밀푀유】시노사와 히로의 프로듀스로 최종 시험에 합격"
     },
@@ -4106,16 +5018,64 @@
       "name": "【해피 밀푀유】시노사와 히로의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-shro-3-008-04",
+      "name": "【해피 밀푀유】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-05",
+      "name": "【해피 밀푀유】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-06",
+      "name": "【해피 밀푀유】시노사와 히로의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-2-000-04",
+      "name": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-2-000-05",
+      "name": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-2-000-06",
+      "name": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-000-04",
+      "name": "【Tame-Lie-One-Step】 시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-000-05",
+      "name": "【Tame-Lie-One-Step】 시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-000-06",
+      "name": "【Tame-Lie-One-Step】 시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-ssmk-3-001-01",
       "name": "【너와 세미블루】시운 스미카의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
-      "name": "【너와 세미블루】시운 스미카의 특훈 단계 {threshold} 달성"
+      "name": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
       "name": "【너와 세미블루】 시운 스미카의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-04",
+      "name": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-05",
+      "name": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-06",
+      "name": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
@@ -4130,6 +5090,18 @@
       "name": "【숨겨진 나】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-ssmk-3-002-04",
+      "name": "【숨겨진 나】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-05",
+      "name": "【숨겨진 나】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-06",
+      "name": "【숨겨진 나】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-ssmk-3-007-01",
       "name": "【Campus mode!!】시운 스미카의 프로듀스로 최종 시험에 합격"
     },
@@ -4140,6 +5112,18 @@
     {
       "id": "achieve-i_card-ssmk-3-007-03",
       "name": "【Campus mode!!】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-04",
+      "name": "【Campus mode!!】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-05",
+      "name": "【Campus mode!!】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-06",
+      "name": "【Campus mode!!】시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-01",
@@ -4154,6 +5138,42 @@
       "name": "【벚꽃 포토그래프】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-ssmk-3-010-04",
+      "name": "【벚꽃 포토그래프】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-05",
+      "name": "【벚꽃 포토그래프】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-06",
+      "name": "【벚꽃 포토그래프】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-2-000-04",
+      "name": "【고독한 늑대】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-2-000-05",
+      "name": "【고독한 늑대】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-2-000-06",
+      "name": "【고독한 늑대】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-000-04",
+      "name": "【Luna say maybe】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-000-05",
+      "name": "【Luna say maybe】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-000-06",
+      "name": "【Luna say maybe】 츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-ttmr-3-001-01",
       "name": "【아이비】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
     },
@@ -4166,16 +5186,40 @@
       "name": "【아이비】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
+      "id": "achieve-i_card-ttmr-3-001-04",
+      "name": "【아이비】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-05",
+      "name": "【아이비】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-06",
+      "name": "【아이비】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
       "id": "achieve-i_card-ttmr-3-002-01",
       "name": "【가장광소곡】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-02",
-      "name": "【가장광소곡】츠키무라 테마리의 특훈 단계{threshold}로 설정"
+      "name": "【가장광소곡】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-03",
       "name": "【가장광소곡】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-04",
+      "name": "【가장광소곡】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-05",
+      "name": "【가장광소곡】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-06",
+      "name": "【가장광소곡】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-01",
@@ -4183,11 +5227,23 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-007-02",
-      "name": "【Campus mode!!】츠키무라 테마리의 특훈 단계{threshold}로 설정"
+      "name": "【Campus mode!!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-03",
       "name": "【Campus mode!!】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-04",
+      "name": "【Campus mode!!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-05",
+      "name": "【Campus mode!!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-06",
+      "name": "【Campus mode!!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-01",
@@ -4195,11 +5251,23 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-009-02",
-      "name": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계{threshold}로 설정"
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-03",
       "name": "【눈이 녹을 때에】츠키무라 테마리의 프로듀스로 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-04",
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-05",
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-06",
+      "name": "【눈이 녹을 때에】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-01",
@@ -4212,6 +5280,18 @@
     {
       "id": "achieve-i_card-ttmr-3-011-03",
       "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-04",
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-05",
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-011-06",
+      "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-m_amao-001",
