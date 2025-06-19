@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "( "
+          "text": "("
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -304,7 +304,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -390,7 +390,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1051,7 +1051,7 @@
           "text": "코스트에 영향을 미치지 않음"
         }
       ],
-      "name": "비용 감소"
+      "name": "파라미터 증가"
     },
     {
       "id": "Label_CostReviewAdd",
@@ -4045,7 +4045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +5・"
+          "text": " +5·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4361,7 +4361,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +5・"
+          "text": " +5·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4971,7 +4971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +5・"
+          "text": " +5·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5051,7 +5051,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +5・"
+          "text": " +5·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5167,7 +5167,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +5・"
+          "text": " +5·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5247,7 +5247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " +5・"
+          "text": " +5·"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5970,7 +5970,7 @@
           "text": "exam_template 사용"
         }
       ],
-      "name": "지속효과"
+      "name": "지속 효과"
     },
     {
       "id": "Label_ExamUplifting_Exam",
@@ -6135,7 +6135,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6221,7 +6221,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6339,7 +6339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6473,7 +6473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6559,7 +6559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6693,7 +6693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "지속효과"
+          "text": "지속 효과"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6781,6 +6781,42 @@
         }
       ],
       "name": "중복 불가"
+    },
+    {
+      "id": "Label_OnHitEffect",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "스킬 카드와 P드링크 사용 시 발동하는 효과 ("
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_ExamStatusEnchant",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "지속 효과"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": " 제외)"
+        }
+      ],
+      "name": "전력치"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
@@ -7043,7 +7079,7 @@
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
       "produceDescriptions": [],
-      "name": "덱의 무작위 위치"
+      "name": "생성"
     },
     {
       "id": "Label_ProduceCardPositionType_Grave",

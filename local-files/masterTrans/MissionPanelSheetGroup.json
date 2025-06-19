@@ -6,6 +6,10 @@
   },
   "data": [
     {
+      "id": "dearness_panel-mission_ssmk_01",
+      "name": "친애도 부스트 캠페인"
+    },
+    {
       "id": "panel_mission-event-002",
       "name": "패널 미션"
     },

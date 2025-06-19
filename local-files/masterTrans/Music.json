@@ -742,6 +742,14 @@
       "arranger": "하루카와 히토시(sixth floor)"
     },
     {
+      "id": "music-all-kllj-011",
+      "title": "Howling over the World",
+      "displayTitle": "Howling over the World",
+      "lyrics": "카리스야사보우",
+      "composer": "카리스야사보우",
+      "arranger": "카리스야사보우"
+    },
+    {
       "id": "music-all-nasr-010",
       "title": "벚꽃 포토그래프",
       "displayTitle": "벚꽃 포토그래프",
@@ -1351,7 +1359,7 @@
     },
     {
       "id": "music-char-fktn-002",
-      "title": "Yellow Big Bang!",
+      "title": "Yellow Big Bang！",
       "displayTitle": "",
       "lyrics": "야기누마 카나",
       "composer": "세오 쇼타로 (MONACA)",
@@ -1359,8 +1367,8 @@
     },
     {
       "id": "music-char-fktn-002-inst",
-      "title": "Yellow Big Bang! [Instrumental]",
-      "displayTitle": "Yellow Big Bang! [Instrumental]",
+      "title": "Yellow Big Bang！ [Instrumental]",
+      "displayTitle": "Yellow Big Bang！ [Instrumental]",
       "lyrics": "야기누마 카나",
       "composer": "세오 쇼타로 (MONACA)",
       "arranger": "세오 쇼타로 (MONACA)"
@@ -1737,33 +1745,33 @@
       "id": "music-char-ssmk-001",
       "title": "Tame-Lie-One-Step",
       "displayTitle": "",
-      "lyrics": "히가시 유타",
-      "composer": "히가시 유타",
-      "arranger": "히가시 유타"
+      "lyrics": "아즈마 유타",
+      "composer": "아즈마 유타",
+      "arranger": "아즈마 유타"
     },
     {
       "id": "music-char-ssmk-001-inst",
       "title": "Tame-Lie-One-Step [Instrumental]",
       "displayTitle": "Tame-Lie-One-Step [Instrumental]",
-      "lyrics": "히가시 유타",
-      "composer": "히가시 유타",
-      "arranger": "히가시 유타"
+      "lyrics": "아즈마 유타",
+      "composer": "아즈마 유타",
+      "arranger": "아즈마 유타"
     },
     {
       "id": "music-char-ssmk-002",
       "title": "숨겨진 나",
       "displayTitle": "숨겨진 나",
-      "lyrics": "히가시 유타",
-      "composer": "히가시 유타",
-      "arranger": "히가시 유타"
+      "lyrics": "아즈마 유타",
+      "composer": "아즈마 유타",
+      "arranger": "아즈마 유타"
     },
     {
       "id": "music-char-ssmk-002-inst",
       "title": "숨겨진 나 [Instrumental]",
       "displayTitle": "숨겨진 나 [Instrumental]",
-      "lyrics": "히가시 유타",
-      "composer": "히가시 유타",
-      "arranger": "히가시 유타"
+      "lyrics": "아즈마 유타",
+      "composer": "아즈마 유타",
+      "arranger": "아즈마 유타"
     },
     {
       "id": "music-char-ssmk-003",
@@ -1780,6 +1788,22 @@
       "lyrics": "타나카 류지 (Rebrast)",
       "composer": "타나카 류지 (Rebrast), 카키사코 히카루 (Rebrast), 하야카와 히로타카 (Rebrast)",
       "arranger": "카키사코 히카루 (Rebrast), 하야카와 히로타카 (Rebrast)"
+    },
+    {
+      "id": "music-char-ssmk-004",
+      "title": "Love & Joy",
+      "displayTitle": "Love & Joy",
+      "lyrics": "아즈마 유타",
+      "composer": "하라 카즈히로",
+      "arranger": "하라 카즈히로"
+    },
+    {
+      "id": "music-char-ssmk-004-inst",
+      "title": "Love & Joy [Instrumental]",
+      "displayTitle": "Love & Joy",
+      "lyrics": "아즈마 유타",
+      "composer": "하라 카즈히로",
+      "arranger": "하라 카즈히로"
     },
     {
       "id": "music-char-ttmr-001",
@@ -1828,6 +1852,22 @@
       "lyrics": "타나카 토루마 (Dream Monster)",
       "composer": "타나카 토루마 (Dream Monster)",
       "arranger": "타나카 토루마 (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-005",
+      "title": "Unhappy Light",
+      "displayTitle": "Unhappy Light",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
+    },
+    {
+      "id": "music-char-ttmr-005-inst",
+      "title": "Unhappy Light[Instrumental]",
+      "displayTitle": "Unhappy Light[Instrumental]",
+      "lyrics": "Aira (Dream Monster)",
+      "composer": "Aira (Dream Monster)",
+      "arranger": "Aira (Dream Monster)"
     },
     {
       "id": "music-unit-reiris-001",

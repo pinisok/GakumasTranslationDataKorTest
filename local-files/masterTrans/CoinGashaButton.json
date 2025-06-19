@@ -41,37 +41,47 @@
       "description": "뽑기"
     },
     {
+      "id": "box-gasha-event-015_box_01_button",
+      "name": "뽑기",
+      "description": "뽑기"
+    },
+    {
       "id": "coin_gasha_button-1-001",
-      "name": "1회뽑기",
-      "description": "1회뽑기"
+      "name": "1회 뽑기",
+      "description": "1회 뽑기"
     },
     {
       "id": "coin_gasha_button-1-002",
-      "name": "1회뽑기",
-      "description": "1회뽑기"
+      "name": "1회 뽑기",
+      "description": "1회 뽑기"
     },
     {
       "id": "coin_gasha_button-1-003",
-      "name": "1회뽑기",
-      "description": "1회뽑기"
+      "name": "1회 뽑기",
+      "description": "1회 뽑기"
     },
     {
       "id": "coin_gasha_button-1-004",
-      "name": "1회뽑기",
-      "description": "1회뽑기"
+      "name": "1회 뽑기",
+      "description": "1회 뽑기"
     },
     {
       "id": "coin_gasha_button-anniversary-001",
-      "name": "1회뽑기",
-      "description": "1회뽑기"
+      "name": "1회 뽑기",
+      "description": "1회 뽑기"
     },
     {
       "id": "coin_gasha_button-newyear-001",
-      "name": "1회뽑기",
-      "description": "1회뽑기"
+      "name": "1회 뽑기",
+      "description": "1회 뽑기"
     },
     {
       "id": "highscorerush-event-001_box_01_button",
+      "name": "뽑기",
+      "description": "뽑기"
+    },
+    {
+      "id": "highscorerush-event-002_box_01_button",
       "name": "뽑기",
       "description": "뽑기"
     }

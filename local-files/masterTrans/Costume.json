@@ -167,12 +167,12 @@
     },
     {
       "id": "fktn-cstm-0027",
-      "name": "Yellow Big Bang！",
+      "name": "Yellow Big Bang!",
       "description": "【Yellow Big Bang!】후지타 코토네 입수!"
     },
     {
       "id": "fktn-cstm-0028",
-      "name": "Yellow Big Bang！",
+      "name": "Yellow Big Bang!",
       "description": "【Yellow Big Bang!】후지타 코토네의 재능 개화 4단계 달성"
     },
     {
@@ -304,6 +304,16 @@
       "id": "hmsz-cstm-0069",
       "name": "차일드 스모크",
       "description": "차일드 스모크 (하타야 미스즈)를 구입"
+    },
+    {
+      "id": "hmsz-cstm-0072",
+      "name": "금빛의 빛",
+      "description": "하타야 미스즈의 아이돌 길 스테이지 10 클리어"
+    },
+    {
+      "id": "hmsz-cstm-0073",
+      "name": "백금의 빛",
+      "description": "하타야 미스즈의 아이돌 길 스테이지 15 클리어"
     },
     {
       "id": "hmsz-othr-0002",
@@ -1364,6 +1374,16 @@
       "id": "ssmk-cstm-0080",
       "name": "벚꽃 포토그래프",
       "description": "【벚꽃 포토그래프】시운 스미카의 재능 개화 4단계 달성"
+    },
+    {
+      "id": "ssmk-cstm-0096",
+      "name": "Love & Joy",
+      "description": "【Love & Joy】시운 스미카 입수"
+    },
+    {
+      "id": "ssmk-cstm-0097",
+      "name": "Love & Joy",
+      "description": "【Love & Joy】시운 스미카의 재능 개화 4단계 달성"
     },
     {
       "id": "ssmk-cstm-0110",

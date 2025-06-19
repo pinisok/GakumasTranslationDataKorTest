@@ -43,7 +43,7 @@
     {
       "id": "achieve-i_card-amao-3-001-02",
       "name": "너와 세미블루",
-      "description": "【너와 세미블루】아리무라 마오의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-001-03",
@@ -53,17 +53,17 @@
     {
       "id": "achieve-i_card-amao-3-001-04",
       "name": "너와 세미블루+",
-      "description": "【너와 세미블루】아리무라 마오의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-001-05",
       "name": "너와 세미블루++",
-      "description": "【너와 세미블루】아리무라 마오의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-001-06",
       "name": "너와 세미블루+++",
-      "description": "【너와 세미블루】아리무라 마오의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 아리무라 마오의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
@@ -188,32 +188,32 @@
     {
       "id": "achieve-i_card-fktn-3-001-01",
       "name": "아드레날린 전개",
-      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 최종 시험에 합격"
+      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 최종 시험에 합격"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
       "name": "Yellow Big Bang！",
-      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-03",
       "name": "완전 팔팔해!",
-      "description": "【Yellow Big Bang！】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+      "description": "【Yellow Big Bang!】후지타 코토네의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
     },
     {
       "id": "achieve-i_card-fktn-3-001-04",
       "name": "Yellow Big Bang！ +",
-      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-05",
       "name": "Yellow Big Bang！ ++",
-      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-001-06",
       "name": "Yellow Big Bang！ +++",
-      "description": "【Yellow Big Bang！】후지타 코토네의 특훈 단계 {threshold} 달성"
+      "description": "【Yellow Big Bang!】후지타 코토네의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
@@ -433,7 +433,7 @@
     {
       "id": "achieve-i_card-hrnm-3-001-02",
       "name": "너와 세미블루",
-      "description": "【너와 세미블루】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-03",
@@ -443,17 +443,17 @@
     {
       "id": "achieve-i_card-hrnm-3-001-04",
       "name": "너와 세미블루+",
-      "description": "【너와 세미블루】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-05",
       "name": "너와 세미블루++",
-      "description": "【너와 세미블루】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-06",
       "name": "너와 세미블루+++",
-      "description": "【너와 세미블루】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
@@ -493,7 +493,7 @@
     {
       "id": "achieve-i_card-hrnm-3-004-02",
       "name": "어서 오세요 하츠보시 온천",
-      "description": "【어서 오세요 하츠보시 온천】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-03",
@@ -503,17 +503,17 @@
     {
       "id": "achieve-i_card-hrnm-3-004-04",
       "name": "어서 오세요 하츠보시 온천+",
-      "description": "【어서 오세요 하츠보시 온천】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-05",
       "name": "어서 오세요 하츠보시 온천++",
-      "description": "【어서 오세요 하츠보시 온천】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-06",
       "name": "어서 오세요 하츠보시 온천+++",
-      "description": "【어서 오세요 하츠보시 온천】히메사키 리나미의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】히메사키 리나미의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
@@ -643,7 +643,7 @@
     {
       "id": "achieve-i_card-hski-3-001-02",
       "name": "Boom Boom Pow",
-      "description": "【Boom Boom Pow】하나미 사키의 특훈 단계 {threshold} 달성"
+      "description": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-001-03",
@@ -653,17 +653,17 @@
     {
       "id": "achieve-i_card-hski-3-001-04",
       "name": "Boom Boom Pow +",
-      "description": "【Boom Boom Pow】하나미 사키의 특훈 단계 {threshold} 달성"
+      "description": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-001-05",
       "name": "Boom Boom Pow ++",
-      "description": "【Boom Boom Pow】하나미 사키의 특훈 단계 {threshold} 달성"
+      "description": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-001-06",
       "name": "Boom Boom Pow +++",
-      "description": "【Boom Boom Pow】하나미 사키의 특훈 단계 {threshold} 달성"
+      "description": "【Boom Boom Pow】 하나미 사키의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hski-3-002-01",
@@ -823,7 +823,7 @@
     {
       "id": "achieve-i_card-hume-2-000-02",
       "name": "아이돌, 시작!",
-      "description": "【아이돌, 시작!】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-2-000-03",
@@ -833,17 +833,17 @@
     {
       "id": "achieve-i_card-hume-2-000-04",
       "name": "아이돌, 시작!+",
-      "description": "【아이돌, 시작!】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-2-000-05",
       "name": "아이돌, 시작!++",
-      "description": "【아이돌, 시작!】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-2-000-06",
       "name": "아이돌, 시작!+++",
-      "description": "【아이돌, 시작!】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【아이돌, 시작!】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
@@ -853,7 +853,7 @@
     {
       "id": "achieve-i_card-hume-3-000-02",
       "name": "The Rolling Riceball",
-      "description": "【The Rolling Riceball】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-000-03",
@@ -863,17 +863,17 @@
     {
       "id": "achieve-i_card-hume-3-000-04",
       "name": "The Rolling Riceball +",
-      "description": "【The Rolling Riceball】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-000-05",
       "name": "The Rolling Riceball ++",
-      "description": "【The Rolling Riceball】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-000-06",
       "name": "The Rolling Riceball +++",
-      "description": "【The Rolling Riceball】하나미 우메의 특훈 단계 {threshold} 달성"
+      "description": "【The Rolling Riceball】 하나미 우메의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-hume-3-005-01",
@@ -1183,7 +1183,7 @@
     {
       "id": "achieve-i_card-kcna-3-005-02",
       "name": "어서 오세요 하츠보시 온천",
-      "description": "【어서 오세요 하츠보시 온천】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-005-03",
@@ -1193,17 +1193,17 @@
     {
       "id": "achieve-i_card-kcna-3-005-04",
       "name": "어서 오세요 하츠보시 온천+",
-      "description": "【어서 오세요 하츠보시 온천】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-005-05",
       "name": "어서 오세요 하츠보시 온천++",
-      "description": "【어서 오세요 하츠보시 온천】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-005-06",
       "name": "어서 오세요 하츠보시 온천+++",
-      "description": "【어서 오세요 하츠보시 온천】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+      "description": "【어서 오세요 하츠보시온천!】쿠라모토 치나의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-kcna-3-007-01",
@@ -1693,7 +1693,7 @@
     {
       "id": "achieve-i_card-ssmk-3-001-02",
       "name": "너와 세미블루",
-      "description": "【너와 세미블루】시운 스미카의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-03",
@@ -1703,17 +1703,17 @@
     {
       "id": "achieve-i_card-ssmk-3-001-04",
       "name": "너와 세미블루+",
-      "description": "【너와 세미블루】시운 스미카의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-05",
       "name": "너와 세미블루++",
-      "description": "【너와 세미블루】시운 스미카의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-06",
       "name": "너와 세미블루+++",
-      "description": "【너와 세미블루】시운 스미카의 특훈 단계 {threshold} 달성"
+      "description": "【너와 세미블루】 시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
@@ -1804,6 +1804,36 @@
       "id": "achieve-i_card-ssmk-3-010-06",
       "name": "벚꽃 포토그래프+++",
       "description": "【벚꽃 포토그래프】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-012-01",
+      "name": "더 이상 망설이지 않아",
+      "description": "【Love & Joy】시운 스미카의 프로듀스로 최종 시험에 합격"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-012-02",
+      "name": "Love & Joy",
+      "description": "【Love & Joy】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-012-03",
+      "name": "부탁, 했었지?",
+      "description": "【Love & Joy】시운 스미카의 프로듀스에서 평가 A+이상을 {threshold}회 획득"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-012-04",
+      "name": "Love & Joy +",
+      "description": "【Love & Joy】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-012-05",
+      "name": "Love & Joy ++",
+      "description": "【Love & Joy】시운 스미카의 특훈 단계 {threshold} 달성"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-012-06",
+      "name": "Love & Joy +++",
+      "description": "【Love & Joy】시운 스미카의 특훈 단계 {threshold} 달성"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",

@@ -19,17 +19,17 @@
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "amao",
       "assetId": "sud_vo_system_amao_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "amao",
@@ -522,6 +522,111 @@
       "title": "업무 개시②"
     },
     {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_021-01",
+      "title": "친애도 TOP (친애도 Lv21) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_021-02",
+      "title": "친애도 TOP (친애도 Lv21) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_021-03",
+      "title": "친애도 TOP (친애도 Lv21) ③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_022-01",
+      "title": "친애도 TOP (친애도 Lv22) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_022-02",
+      "title": "친애도 TOP (친애도 Lv22) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_022-03",
+      "title": "친애도 TOP (친애도 Lv22) ③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_023-01",
+      "title": "친애도 TOP (친애도 Lv23) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_023-02",
+      "title": "친애도 TOP (친애도 Lv23) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_023-03",
+      "title": "친애도 TOP (친애도 Lv23) ③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_024-01",
+      "title": "친애도 TOP (친애도 Lv24) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_024-02",
+      "title": "친애도 TOP (친애도 Lv24) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_024-03",
+      "title": "친애도 TOP (친애도 Lv24) ③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_025-01",
+      "title": "친애도 TOP (친애도 Lv25) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_025-02",
+      "title": "친애도 TOP (친애도 Lv25) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_025-03",
+      "title": "친애도 TOP (친애도 Lv25) ③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_026-01",
+      "title": "친애도 TOP (친애도 Lv26) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_026-02",
+      "title": "친애도 TOP (친애도 Lv26) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_026-03",
+      "title": "친애도 TOP (친애도 Lv26) ③"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_027-01",
+      "title": "친애도 TOP (친애도 Lv27) ①"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_027-02",
+      "title": "친애도 TOP (친애도 Lv27) ②"
+    },
+    {
+      "characterId": "ssmk",
+      "assetId": "sud_vo_system_dear_ssmk_027-03",
+      "title": "친애도 TOP (친애도 Lv27) ③"
+    },
+    {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_cmmn_clothe-01",
       "title": "의상"
@@ -534,17 +639,17 @@
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "fktn",
       "assetId": "sud_vo_system_fktn_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "fktn",
@@ -1054,17 +1159,17 @@
     {
       "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "hmsz",
@@ -1240,6 +1345,21 @@
       "characterId": "hmsz",
       "assetId": "sud_vo_system_hmsz_home_transition-16",
       "title": "메인 로비 (봄)③"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-17",
+      "title": "메인 로비 (여름)①"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-18",
+      "title": "메인 로비 (여름)②"
+    },
+    {
+      "characterId": "hmsz",
+      "assetId": "sud_vo_system_hmsz_home_transition-19",
+      "title": "메인 로비 (여름)③"
     },
     {
       "characterId": "hmsz",
@@ -1419,17 +1539,17 @@
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "hrnm",
       "assetId": "sud_vo_system_hrnm_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "hrnm",
@@ -1934,17 +2054,17 @@
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "hski",
       "assetId": "sud_vo_system_hski_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "hski",
@@ -2454,17 +2574,17 @@
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "hume",
       "assetId": "sud_vo_system_hume_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "hume",
@@ -2954,17 +3074,17 @@
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "jsna",
       "assetId": "sud_vo_system_jsna_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "jsna",
@@ -3469,17 +3589,17 @@
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "kcna",
       "assetId": "sud_vo_system_kcna_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "kcna",
@@ -3984,17 +4104,17 @@
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "kllj",
       "assetId": "sud_vo_system_kllj_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "kllj",
@@ -4499,17 +4619,17 @@
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "shro",
       "assetId": "sud_vo_system_shro_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "shro",
@@ -5014,17 +5134,17 @@
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "ssmk",
       "assetId": "sud_vo_system_ssmk_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "ssmk",
@@ -5529,17 +5649,17 @@
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-01",
-      "title": "메인 로비①"
+      "title": "홈①"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-02",
-      "title": "메인 로비②"
+      "title": "홈②"
     },
     {
       "characterId": "ttmr",
       "assetId": "sud_vo_system_ttmr_home_cmmn-03",
-      "title": "메인 로비③"
+      "title": "홈③"
     },
     {
       "characterId": "ttmr",

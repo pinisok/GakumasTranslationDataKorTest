@@ -40,6 +40,10 @@
     {
       "eventType": "EventType_GvgRaid",
       "name": "지방행각"
+    },
+    {
+      "eventType": "EventType_DearnessBoost",
+      "name": "친애도 부스트 캠페인"
     }
   ]
 }

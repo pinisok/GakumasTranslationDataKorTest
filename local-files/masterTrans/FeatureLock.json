@@ -39,7 +39,7 @@
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
       "name": "서포트 카드 강화",
       "description": "「서포트 카드 강화」 기능 해제",
-      "routeDescription": "アイドルのサポートカードから確認できます\n"
+      "routeDescription": "서포트 카드에서 확인할 수 있습니다\n"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
@@ -58,6 +58,12 @@
       "name": "서클",
       "description": "「서클」 기능 해제",
       "routeDescription": "메뉴의 서클에서 확인할 수 있습니다"
+    },
+    {
+      "tutorialType": "TutorialType_DearnessTop",
+      "name": "친애도 TOP",
+      "description": "「친애도 TOP」기능 해방",
+      "routeDescription": "홈의 친애도에서 확인할 수 있습니다"
     }
   ]
 }
