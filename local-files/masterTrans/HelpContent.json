@@ -407,7 +407,7 @@
       "helpCategoryId": "help-idol",
       "id": "idol-dearness-pt",
       "order": 54,
-      "name": "親愛度Pt"
+      "name": "친애도 Pt"
     },
     {
       "helpCategoryId": "help-idol",
@@ -443,25 +443,25 @@
       "helpCategoryId": "help-idol",
       "id": "idol-plan1",
       "order": 20,
-      "name": "플랜：센스"
+      "name": "플랜 : 센스"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-plan2",
       "order": 30,
-      "name": "플랜：로직"
+      "name": "플랜 : 로직"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-plan3",
       "order": 40,
-      "name": "플랜：어노말리"
+      "name": "플랜 : 어노말리"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-true-end-bonus",
       "order": 58,
-      "name": "True Endボーナス"
+      "name": "True End 보너스"
     },
     {
       "helpCategoryId": "help-idol",
