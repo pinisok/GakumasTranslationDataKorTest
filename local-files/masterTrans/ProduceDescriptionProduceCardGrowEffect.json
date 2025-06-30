@@ -1,221 +1,221 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "type"
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProduceCardGrowEffectType_LessonAdd",
+            "name": "파라미터 값 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonReduce",
+            "name": "파라미터 값 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonCountAdd",
+            "name": "파라미터 상승 횟수 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonCountReduce",
+            "name": "파라미터 상승 횟수 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_BlockAdd",
+            "name": "원기 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_BlockReduce",
+            "name": "원기 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+            "name": "전력 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+            "name": "전력 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostBuffReduce",
+            "name": "강화 상태 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostBuffAdd",
+            "name": "강화 상태 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostReduce",
+            "name": "비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostAdd",
+            "name": "비용값 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+            "name": "체력 소비 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+            "name": "체력 소비 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+            "name": "호조 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+            "name": "호조 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+            "name": "집중 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+            "name": "집중 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ReviewAdd",
+            "name": "호인상 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ReviewReduce",
+            "name": "호인상 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_AggressiveAdd",
+            "name": "의욕 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_AggressiveReduce",
+            "name": "의욕 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CardDrawAdd",
+            "name": "드로우 매수 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CardDrawReduce",
+            "name": "드로우 매수 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+            "name": "절호조 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+            "name": "절호조 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+            "name": "소비체력 감소 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+            "name": "소비체력 감소 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+            "name": "소비체력 증가 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+            "name": "소비체력 증가 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_EffectAdd",
+            "name": "효과 추가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_EffectDelete",
+            "name": "효과 삭제"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_EffectChange",
+            "name": "효과 대체"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+            "name": "성장 효과 대체"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+            "name": "사용 가능 조건 대체"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+            "name": "효과 발동 조건 대체"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+            "name": "사용 후 이동처 변경"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_InitialAdd",
+            "name": "개시 시 패 효과 부여"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
+            "name": "집중 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
+            "name": "집중 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostReviewReduce",
+            "name": "호인상 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostReviewAdd",
+            "name": "호인상 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
+            "name": "의욕 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
+            "name": "의욕 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
+            "name": "호조 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
+            "name": "호조 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
+            "name": "전력 비용 감소"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
+            "name": "전력 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+            "name": "원기 당 파라미터 배율 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
+            "name": "의욕 당 파라미터 배율 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+            "name": "호인상 당 파라미터 배율 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
+            "name": "절호조 비용 증가"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
+            "name": "절호조 비용 감소"
+        }
     ]
-  },
-  "data": [
-    {
-      "type": "ProduceCardGrowEffectType_LessonAdd",
-      "name": "파라미터 값 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonReduce",
-      "name": "파라미터 값 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonCountAdd",
-      "name": "파라미터 상승 횟수 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonCountReduce",
-      "name": "파라미터 상승 횟수 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_BlockAdd",
-      "name": "원기 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_BlockReduce",
-      "name": "원기 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
-      "name": "전력 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
-      "name": "전력 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostBuffReduce",
-      "name": "강화 상태 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostBuffAdd",
-      "name": "강화 상태 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostReduce",
-      "name": "비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostAdd",
-      "name": "비용값 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
-      "name": "체력 소비 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
-      "name": "체력 소비 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-      "name": "호조 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
-      "name": "호조 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
-      "name": "집중 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
-      "name": "집중 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ReviewAdd",
-      "name": "호인상 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ReviewReduce",
-      "name": "호인상 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_AggressiveAdd",
-      "name": "의욕 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_AggressiveReduce",
-      "name": "의욕 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CardDrawAdd",
-      "name": "드로우 매수 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CardDrawReduce",
-      "name": "드로우 매수 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
-      "name": "절호조 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
-      "name": "절호조 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-      "name": "소비체력 감소 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
-      "name": "소비체력 감소 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
-      "name": "소비체력 증가 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
-      "name": "소비체력 증가 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_EffectAdd",
-      "name": "효과 추가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_EffectDelete",
-      "name": "효과 삭제"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_EffectChange",
-      "name": "효과 대체"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
-      "name": "성장 효과 대체"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
-      "name": "사용 가능 조건 대체"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
-      "name": "효과 발동 조건 대체"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": "사용 후 이동처 변경"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_InitialAdd",
-      "name": "개시 시 패 효과 부여"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
-      "name": "집중 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
-      "name": "집중 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostReviewReduce",
-      "name": "호인상 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostReviewAdd",
-      "name": "호인상 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
-      "name": "의욕 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
-      "name": "의욕 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
-      "name": "호조 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
-      "name": "호조 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
-      "name": "전력 비용 감소"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
-      "name": "전력 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
-      "name": "원기 당 파라미터 배율 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
-      "name": "의욕 당 파라미터 배율 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
-      "name": "호인상 당 파라미터 배율 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
-      "name": "절호조 비용 증가"
-    },
-    {
-      "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
-      "name": "절호조 비용 감소"
-    }
-  ]
 }

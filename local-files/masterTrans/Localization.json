@@ -1,49 +1,49 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "dearness.dearness_level_detail_sheet.title",
+            "description": "親愛度Lv詳細"
+        },
+        {
+            "id": "high_score_event.top.adv.title_label",
+            "description": "アイドル強化月間\\n〜星々のきらめき〜"
+        },
+        {
+            "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
+            "description": "대상 P아이돌 획득으로 "
+        },
+        {
+            "id": "idol_dearness.step3_condition",
+            "description": "親愛度ブーストキャンペーン終了後に解放"
+        },
+        {
+            "id": "idol_dearness.top.mission_unlock_description",
+            "description": "{0}に解放"
+        },
+        {
+            "id": "produce.high_score_rush.gold.description",
+            "description": "「十王邦夫のアイドル強化月間〜星々のきらめき〜」で獲得できるアイテム。イベントガシャで使用できます。"
+        },
+        {
+            "id": "produce.lesson.no_effect.stance_over_preservation",
+            "description": "지침이 온존이기 때문에, 지침을 온존으로 변경하는 효과가 발동하지 않습니다."
+        },
+        {
+            "id": "profile.report.share.text",
+            "description": "#学マス #初星学園通知表"
+        },
+        {
+            "id": "pvp.rate.support_bonus.sheet.bullet_point2",
+            "description": "・所持しているサポートカードのボーナスの合計が\\n　コンテスト/アイドルへの道のスコアに対して\\n　かかるサポートボーナスになります"
+        },
+        {
+            "id": "pvp.rate.support_bonus.sheet.description",
+            "description": "コンテスト/アイドルへの道のスコアに対してかかる\\nボーナスです。"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "dearness.dearness_level_detail_sheet.title",
-      "description": "친애도 Lv 상세"
-    },
-    {
-      "id": "high_score_event.top.adv.title_label",
-      "description": "아이돌 강화의 달\\n~별들의 반짝임~"
-    },
-    {
-      "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
-      "description": "대상 P아이돌 획득으로 "
-    },
-    {
-      "id": "idol_dearness.step3_condition",
-      "description": "친애도 부스트 캠페인 종료 후 해제"
-    },
-    {
-      "id": "idol_dearness.top.mission_unlock_description",
-      "description": "{0}으로 해제"
-    },
-    {
-      "id": "produce.high_score_rush.gold.description",
-      "description": "「주오 쿠니오의 아이돌 강화의 달・개」에서 획득 할 수 있는 아이템. 이벤트 가챠에서 사용할 수 있습니다."
-    },
-    {
-      "id": "produce.lesson.no_effect.stance_over_preservation",
-      "description": "지침이 여유이기 때문에, 지침을 온존으로 변경하는 효과는 발동하지 않습니다."
-    },
-    {
-      "id": "profile.report.share.text",
-      "description": "#学マス #初星学園通知表 "
-    },
-    {
-      "id": "pvp.rate.support_bonus.sheet.bullet_point2",
-      "description": "・보유하고 있는 서포트 카드의 보너스 합계가\\n 콘테스트/아이돌 길 스코어에서\\n 적용되는 서포트 보너스가 됩니다."
-    },
-    {
-      "id": "pvp.rate.support_bonus.sheet.description",
-      "description": "콘테스트/아이돌 길 스코어에 적용되는\\n보너스입니다."
-    }
-  ]
 }

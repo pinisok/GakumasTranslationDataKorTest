@@ -1,160 +1,160 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id",
-      "order"
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "id": "gasha_000410-ssr-idol-support-3",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-001-01",
+            "order": 2,
+            "name": "1회 가챠",
+            "description": "1회 가챠"
+        },
+        {
+            "id": "gasha_button-001-01-discount",
+            "order": 1,
+            "name": "1일 1회 가챠",
+            "description": "1일 1회 가챠"
+        },
+        {
+            "id": "gasha_button-001-10",
+            "order": 3,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-001-10-ssr",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-001-10-ssr-anniversary",
+            "order": 2,
+            "name": "SSR 확정 10연 가챠, 2회 한정",
+            "description": "SSR 확정 10연 가챠, 2회 한정"
+        },
+        {
+            "id": "gasha_button-001-ticket",
+            "order": 2,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-010-item_01",
+            "order": 3,
+            "name": "10회 아이템 가챠",
+            "description": "10회 아이템 가챠"
+        },
+        {
+            "id": "gasha_button-010-ticket",
+            "order": 3,
+            "name": "10회 티켓 가챠",
+            "description": "10회 티켓 가챠"
+        },
+        {
+            "id": "gasha_button-free-10-01",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-free-10-04",
+            "order": 3,
+            "name": "10연 무료, 최대 100연 무료 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-001-01",
+            "order": 2,
+            "name": "1회 가챠",
+            "description": "1회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-001-01-discount",
+            "order": 1,
+            "name": "1일 1회 가챠",
+            "description": "1일 1회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-001-10",
+            "order": 3,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-001-10-animate",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
+            "order": 1,
+            "name": "10回ガシャ",
+            "description": "10回ガシャ"
+        },
+        {
+            "id": "gasha_button-select-pickup-01",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-select-pickup-01-discount",
+            "order": 3,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_ticket_ssr_10_button-001",
+            "order": 1,
+            "name": "SSR 확정 티켓으로 뽑기",
+            "description": "SSR 확정 10연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button",
+            "order": 1,
+            "name": "SSR 확정 티켓으로 뽑기",
+            "description": "SSR 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_1st-anniv",
+            "order": 1,
+            "name": "1st 애니버서리 기념 SSR 확정 티켓으로 뽑기",
+            "description": "SSR 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_idol",
+            "order": 1,
+            "name": "SSR 확정 티켓으로 뽑기",
+            "description": "SSR 아이돌 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_idol_2",
+            "order": 1,
+            "name": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓으로 뽑기",
+            "description": "SSR 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_support",
+            "order": 1,
+            "name": "SSR 확정 티켓으로 뽑기",
+            "description": "SSR 서포트 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_support-2",
+            "order": 1,
+            "name": "SSR確定チケットで引く",
+            "description": "SSRサポート確定1連"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "gasha_000410-ssr-idol-support-3",
-      "order": 1,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-001-01",
-      "order": 2,
-      "name": "1회 가챠",
-      "description": "1회 가챠"
-    },
-    {
-      "id": "gasha_button-001-01-discount",
-      "order": 1,
-      "name": "1일 1회 가챠",
-      "description": "1일 1회 가챠"
-    },
-    {
-      "id": "gasha_button-001-10",
-      "order": 3,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-001-10-ssr",
-      "order": 1,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-001-10-ssr-anniversary",
-      "order": 2,
-      "name": "SSR 확정 10연 가챠, 2회 한정",
-      "description": "SSR 확정 10연 가챠, 2회 한정"
-    },
-    {
-      "id": "gasha_button-001-ticket",
-      "order": 2,
-      "name": "티켓으로 뽑기",
-      "description": "티켓으로 뽑기"
-    },
-    {
-      "id": "gasha_button-010-item_01",
-      "order": 3,
-      "name": "10회 아이템 가챠",
-      "description": "10회 아이템 가챠"
-    },
-    {
-      "id": "gasha_button-010-ticket",
-      "order": 3,
-      "name": "10회 티켓 가챠",
-      "description": "10회 티켓 가챠"
-    },
-    {
-      "id": "gasha_button-free-10-01",
-      "order": 1,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-free-10-04",
-      "order": 3,
-      "name": "10연 무료, 최대 100연 무료 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-pickup-001-01",
-      "order": 2,
-      "name": "1회 가챠",
-      "description": "1회 가챠"
-    },
-    {
-      "id": "gasha_button-pickup-001-01-discount",
-      "order": 1,
-      "name": "1일 1회 가챠",
-      "description": "1일 1회 가챠"
-    },
-    {
-      "id": "gasha_button-pickup-001-10",
-      "order": 3,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-pickup-001-10-animate",
-      "order": 1,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
-      "order": 1,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-select-pickup-01",
-      "order": 1,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_button-select-pickup-01-discount",
-      "order": 3,
-      "name": "10회 가챠",
-      "description": "10회 가챠"
-    },
-    {
-      "id": "gasha_ticket_ssr_10_button-001",
-      "order": 1,
-      "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSR 확정 10연차"
-    },
-    {
-      "id": "gasha_ticket_ssr_button",
-      "order": 1,
-      "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSR 확정 1연차"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_1st-anniv",
-      "order": 1,
-      "name": "1st 애니버서리 기념 SSR 확정 티켓으로 뽑기",
-      "description": "SSR 확정 1연차"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_idol",
-      "order": 1,
-      "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSR 아이돌 확정 1연차"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_idol_2",
-      "order": 1,
-      "name": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓으로 뽑기",
-      "description": "SSR 확정 1연차"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_support",
-      "order": 1,
-      "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSR 서포트 확정 1연차"
-    },
-    {
-      "id": "gasha_ticket_ssr_button_support-2",
-      "order": 1,
-      "name": "SSR 확정 티켓으로 뽑기",
-      "description": "SSR 서포트 확정 1연차"
-    }
-  ]
 }

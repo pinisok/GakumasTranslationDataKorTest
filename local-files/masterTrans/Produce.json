@@ -1,29 +1,29 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "produce-001",
+            "name": "레귤러"
+        },
+        {
+            "id": "produce-002",
+            "name": "프로"
+        },
+        {
+            "id": "produce-003",
+            "name": "마스터"
+        },
+        {
+            "id": "produce-004",
+            "name": "프로"
+        },
+        {
+            "id": "produce-005",
+            "name": "마스터"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "produce-001",
-      "name": "레귤러"
-    },
-    {
-      "id": "produce-002",
-      "name": "프로"
-    },
-    {
-      "id": "produce-003",
-      "name": "마스터"
-    },
-    {
-      "id": "produce-004",
-      "name": "프로"
-    },
-    {
-      "id": "produce-005",
-      "name": "마스터"
-    }
-  ]
 }

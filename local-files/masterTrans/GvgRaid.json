@@ -1,15 +1,15 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id",
-      "order"
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "id": "circle-battle-event-001",
+            "order": 1,
+            "name": "#アニメイトを盛り上げ隊"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "circle-battle-event-001",
-      "order": 1,
-      "name": "#アニメイトを盛り上げ隊"
-    }
-  ]
 }

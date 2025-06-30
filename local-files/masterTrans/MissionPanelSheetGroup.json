@@ -1,37 +1,37 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "dearness_panel-mission_ssmk_01",
+            "name": "親愛度ブーストキャンペーン"
+        },
+        {
+            "id": "panel_mission-event-002",
+            "name": "패널 미션"
+        },
+        {
+            "id": "panel_mission-event-003",
+            "name": "150만 DL 기념 패널 미션"
+        },
+        {
+            "id": "panel_mission-event-004",
+            "name": "패널 미션"
+        },
+        {
+            "id": "panel_mission-event-006",
+            "name": "패널 미션"
+        },
+        {
+            "id": "panel_mission-event-niv",
+            "name": "주오 쿠니오의 챌린지 미션 ~A+로 가는 길~"
+        },
+        {
+            "id": "panel-mission-01",
+            "name": "패널 미션"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "dearness_panel-mission_ssmk_01",
-      "name": "친애도 부스트 캠페인"
-    },
-    {
-      "id": "panel_mission-event-002",
-      "name": "패널 미션"
-    },
-    {
-      "id": "panel_mission-event-003",
-      "name": "150만 DL 기념 패널 미션"
-    },
-    {
-      "id": "panel_mission-event-004",
-      "name": "패널 미션"
-    },
-    {
-      "id": "panel_mission-event-006",
-      "name": "패널 미션"
-    },
-    {
-      "id": "panel_mission-event-niv",
-      "name": "주오 쿠니오의 챌린지 미션 ~A+로 가는 길~"
-    },
-    {
-      "id": "panel-mission-01",
-      "name": "패널 미션"
-    }
-  ]
 }

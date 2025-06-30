@@ -1,13 +1,13 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "story-main-01",
+            "title": "1부"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "story-main-01",
-      "title": "1부"
-    }
-  ]
 }
