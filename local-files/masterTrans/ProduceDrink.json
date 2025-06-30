@@ -775,7 +775,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\t"
+                    "text": "        "
                 }
             ],
             "name": "센브리 소다"
