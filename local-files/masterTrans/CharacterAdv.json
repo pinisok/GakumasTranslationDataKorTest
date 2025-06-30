@@ -28,7 +28,7 @@
         {
             "characterId": "hmsz",
             "name": "하타야 미스즈",
-            "regexp": "美鈴$"
+            "regexp": "미스즈$"
         },
         {
             "characterId": "hrnm",
@@ -67,8 +67,8 @@
         },
         {
             "characterId": "myu0",
-            "name": "真城 優",
-            "regexp": "優"
+            "name": "마시로 유우",
+            "regexp": "유우"
         },
         {
             "characterId": "nasr",

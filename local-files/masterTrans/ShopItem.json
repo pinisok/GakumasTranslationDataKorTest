@@ -15,7 +15,7 @@
         },
         {
             "id": "shop_costume_costume_head_amao-hair-0001",
-            "name": "紫陽花の髪飾り（有村麻央）"
+            "name": "수국 꽃 머리 장식 (아리무라 마오)"
         },
         {
             "id": "shop_costume_costume_head_fktn-hair-0001",
@@ -39,7 +39,7 @@
         },
         {
             "id": "shop_costume_costume_head_hrnm-hair-0001",
-            "name": "紫陽花の髪飾り（姫崎莉波）"
+            "name": "수국 꽃 머리 장식 (히메사키 리나미)"
         },
         {
             "id": "shop_costume_costume_head_hski-hair-0001",
@@ -59,19 +59,19 @@
         },
         {
             "id": "shop_costume_costume_head_kcna-hair-0001",
-            "name": "紫陽花の髪飾り（倉本千奈）"
+            "name": "수국 꽃 머리 장식 (쿠라모토 치나)"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
-            "name": "紫陽花の髪飾り（葛城リーリヤ）"
+            "name": "수국 꽃 머리 장식 (카츠라기 릴리야)"
         },
         {
             "id": "shop_costume_costume_head_shro-hair-0001",
-            "name": "紫陽花の髪飾り（篠澤広）"
+            "name": "수국 꽃 머리 장식 (시노사와 히로)"
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
-            "name": "紫陽花の髪飾り（紫雲清夏）"
+            "name": "수국 꽃 머리 장식 (시운 스미카)"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -235,43 +235,43 @@
         },
         {
             "id": "shop_jewel_item-0011",
-            "name": "【투어 기념 1회 한정 특가!】쥬얼6,000개"
+            "name": "【투어 기념 1회 한정 특가!】쥬얼 6,000개"
         },
         {
             "id": "shop_jewel_item-0014",
-            "name": "【2회 한정 특가!】쥬얼12,300개"
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
         },
         {
             "id": "shop_jewel_item-0015",
-            "name": "【2회 한정 특가!】쥬얼6,000개"
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
         },
         {
             "id": "shop_jewel_item-0016",
-            "name": "【2회 한정 특가!】쥬얼6,000개"
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
         },
         {
             "id": "shop_jewel_item-0017",
-            "name": "【2회 한정 특가!】쥬얼12,300개"
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
         },
         {
             "id": "shop_jewel_item-0018",
-            "name": "【2회 한정 특가!】쥬얼12,300개"
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
         },
         {
             "id": "shop_jewel_item-0019",
-            "name": "【2회 한정 특가!】쥬얼6,000개"
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
         },
         {
             "id": "shop_jewel_item-0020",
-            "name": "【1회 한정 특가!】쥬얼12,300개"
+            "name": "【1회 한정 특가!】쥬얼 12,300개"
         },
         {
             "id": "shop_jewel_item-0021",
-            "name": "【1회 한정 특가!】쥬얼6,000개"
+            "name": "【1회 한정 특가!】쥬얼 6,000개"
         },
         {
             "id": "shop_jewel_item-0023",
-            "name": "【1回きりお得！】ジュエル6,000個"
+            "name": "【1회 한정 특가!】쥬얼 6,000개"
         },
         {
             "id": "shop_pack_hmsz-0001",
@@ -343,7 +343,7 @@
         },
         {
             "id": "shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
-            "name": "The 1st Period Harmony Star記念パック"
+            "name": "The 1st Period Harmony Star 기념 팩"
         },
         {
             "id": "shop_pack_item-1stPeriodSpotlightStar-selection-ticket",
@@ -491,11 +491,11 @@
         },
         {
             "id": "shop_pass_item-0014",
-            "name": "プレミアムミッションパス 2025年6月"
+            "name": "프리미엄 미션 패스 2025년 6월"
         },
         {
             "id": "shop_pass_item-0015",
-            "name": "プレミアムミッションパス 2025年7月"
+            "name": "프리미엄 미션 패스 2025년 7월"
         }
     ]
 }

@@ -1,40 +1,40 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "exchangeId",
-      "number"
+    "rules": {
+        "primaryKeys": [
+            "exchangeId",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "exchangeId": "exchange-piece-1",
+            "number": 1,
+            "name": "모두"
+        },
+        {
+            "exchangeId": "exchange-piece-1",
+            "number": 2,
+            "name": "피스"
+        },
+        {
+            "exchangeId": "exchange-piece-1",
+            "number": 3,
+            "name": "기타"
+        },
+        {
+            "exchangeId": "exchange-support-piece-1",
+            "number": 1,
+            "name": "모두"
+        },
+        {
+            "exchangeId": "exchange-support-piece-1",
+            "number": 2,
+            "name": "서포트 카드"
+        },
+        {
+            "exchangeId": "exchange-support-piece-1",
+            "number": 3,
+            "name": "기타"
+        }
     ]
-  },
-  "data": [
-    {
-      "exchangeId": "exchange-piece-1",
-      "number": 1,
-      "name": "모두"
-    },
-    {
-      "exchangeId": "exchange-piece-1",
-      "number": 2,
-      "name": "피스"
-    },
-    {
-      "exchangeId": "exchange-piece-1",
-      "number": 3,
-      "name": "기타"
-    },
-    {
-      "exchangeId": "exchange-support-piece-1",
-      "number": 1,
-      "name": "모두"
-    },
-    {
-      "exchangeId": "exchange-support-piece-1",
-      "number": 2,
-      "name": "서포트 카드"
-    },
-    {
-      "exchangeId": "exchange-support-piece-1",
-      "number": 3,
-      "name": "기타"
-    }
-  ]
 }

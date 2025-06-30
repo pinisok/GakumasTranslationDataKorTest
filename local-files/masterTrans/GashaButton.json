@@ -99,8 +99,8 @@
         {
             "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
             "order": 1,
-            "name": "10回ガシャ",
-            "description": "10回ガシャ"
+            "name": "10회 가챠",
+            "description": "10회 가챠"
         },
         {
             "id": "gasha_button-select-pickup-01",
@@ -153,8 +153,8 @@
         {
             "id": "gasha_ticket_ssr_button_support-2",
             "order": 1,
-            "name": "SSR確定チケットで引く",
-            "description": "SSRサポート確定1連"
+            "name": "SSR 확정 티켓으로 뽑기",
+            "description": "SSR 서포트 확정 1연차"
         }
     ]
 }

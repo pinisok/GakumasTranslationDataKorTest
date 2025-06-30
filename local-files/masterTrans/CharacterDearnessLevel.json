@@ -259,52 +259,52 @@
         {
             "characterId": "hmsz",
             "dearnessLevel": 11,
-            "produceConditionDescription": "N.I.Aでプロデュースを開始する"
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 12,
-            "produceConditionDescription": "N.I.Aでプロデュースを進める"
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 13,
-            "produceConditionDescription": "N.I.Aで1次オーディション突破"
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 14,
-            "produceConditionDescription": "N.I.Aプロデュースを1回クリアした後、N.I.Aで2次オーディション突破"
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 15,
-            "produceConditionDescription": "最終オーディションで「QUARTET」を選択する"
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 16,
-            "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 17,
-            "produceConditionDescription": "最終オーディションで「QUARTET」を選択し合格する"
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 18,
-            "produceConditionDescription": "最終オーディションで「FINALE」を選択する"
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 19,
-            "produceConditionDescription": "最終オーディションで「FINALE」を選択し合格する"
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
         },
         {
             "characterId": "hmsz",
             "dearnessLevel": 20,
-            "produceConditionDescription": "最終オーディション「FINALE」に合格した上でプロデュースを完了する"
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
         },
         {
             "characterId": "hrnm",
@@ -1109,37 +1109,37 @@
         {
             "characterId": "ssmk",
             "dearnessLevel": 21,
-            "produceConditionDescription": "紫雲清夏の親愛度TOPに移動する"
+            "produceConditionDescription": "시운 스미카의 친애도 TOP으로 이동"
         },
         {
             "characterId": "ssmk",
             "dearnessLevel": 22,
-            "produceConditionDescription": "親愛度Ptを累計100獲得して最終試験/最終オーディションクリア"
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
             "characterId": "ssmk",
             "dearnessLevel": 23,
-            "produceConditionDescription": "親愛度Ptを累計200獲得して最終試験/最終オーディションクリア"
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
             "characterId": "ssmk",
             "dearnessLevel": 24,
-            "produceConditionDescription": "親愛度Ptを累計300獲得して最終試験/最終オーディションクリア"
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
             "characterId": "ssmk",
             "dearnessLevel": 25,
-            "produceConditionDescription": "親愛度Ptを累計400獲得して最終試験/最終オーディションクリア"
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
             "characterId": "ssmk",
             "dearnessLevel": 26,
-            "produceConditionDescription": "親愛度Ptを累計500獲得して最終試験/最終オーディションクリア"
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
             "characterId": "ssmk",
             "dearnessLevel": 27,
-            "produceConditionDescription": "親愛度Ptを累計600獲得して最終試験/最終オーディションクリア"
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
             "characterId": "ttmr",

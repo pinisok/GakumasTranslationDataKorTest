@@ -9,7 +9,7 @@
         {
             "id": "help-achievement",
             "order": 17,
-            "name": "アチーブメント",
+            "name": "업적",
             "texts": [
                 "アチーブメントは様々な条件を満たすと獲得できます。プロデューサーLv上昇のための経験値など様々な報酬を獲得できるので積極的にアチーブメントを集めましょう。",
                 "アチーブメントを獲得した時に入手できる星が一定数に達するとマスターアチーブメントを獲得できます。マスターアチーブメントは入手した星の数に応じてランクアップし、報酬を獲得できます。",
@@ -19,19 +19,19 @@
         {
             "id": "help-box-gasha-event",
             "order": 24,
-            "name": "ライブツアーイベント",
+            "name": "시즌 이벤트",
             "texts": []
         },
         {
             "id": "help-circle-battle-event",
             "order": 26,
-            "name": "地方行脚イベント",
+            "name": "지방행각 이벤트",
             "texts": []
         },
         {
             "id": "help-contest",
             "order": 12,
-            "name": "コンテスト",
+            "name": "콘테스트",
             "texts": [
                 "全国のプロデューサーと対戦することができます。\nコンテストでは、プロデュースで獲得した\nメモリーに紐づくパラメータ、スキルカード、\nPアイテムをつかって対戦ができます。",
                 "ステージごとにパフォーマンス対決を行い、\n獲得したスコアで勝敗を競います。\nステージの勝利数が多いプロデューサーが\n勝利となります。",
@@ -42,43 +42,43 @@
         {
             "id": "help-dearness-doost-campaign",
             "order": 11,
-            "name": "親愛度ブーストキャンペーン",
+            "name": "친애도 부스트 캠페인",
             "texts": []
         },
         {
             "id": "help-dearness-map",
             "order": 10,
-            "name": "親愛度マップ",
+            "name": "친애도 맵",
             "texts": []
         },
         {
             "id": "help-dearness-top",
             "order": 9,
-            "name": "親愛度TOP",
+            "name": "친애도 TOP",
             "texts": []
         },
         {
             "id": "help-event_mission",
             "order": 25,
-            "name": "イベントミッション",
+            "name": "이벤트 미션",
             "texts": []
         },
         {
             "id": "help-event-mission",
             "order": 22,
-            "name": "特別ミッション",
+            "name": "특별 미션",
             "texts": []
         },
         {
             "id": "help-gasha",
             "order": 14,
-            "name": "ガシャ",
+            "name": "가챠",
             "texts": []
         },
         {
             "id": "help-guild",
             "order": 16,
-            "name": "サークル",
+            "name": "서클",
             "texts": [
                 "サークルでは全国のプロデューサーとサークルを組んで交流することができます。",
                 "サークルではサークルメンバーに対して特訓アイテムを募集することができ、寄付されたアイテムを受け取ることができます。またアイテムを寄付するとフレンドコインを獲得できます。"
@@ -87,13 +87,13 @@
         {
             "id": "help-highscore",
             "order": 24,
-            "name": "十王邦夫のアイドル強化月間",
+            "name": "주오 쿠니오의 아이돌 강화의 달",
             "texts": []
         },
         {
             "id": "help-highscorerush",
             "order": 23,
-            "name": "十王邦夫のアイドル強化月間",
+            "name": "주오 쿠니오의 아이돌 강화의 달",
             "texts": []
         },
         {
@@ -117,13 +117,13 @@
         {
             "id": "help-livetour-event",
             "order": 27,
-            "name": "ライブツアーイベント",
+            "name": "시즌 이벤트",
             "texts": []
         },
         {
             "id": "help-main-story-event",
             "order": 23,
-            "name": "初星コミュイベント",
+            "name": "하츠보시 커뮤 이벤트",
             "texts": []
         },
         {
@@ -135,25 +135,25 @@
         {
             "id": "help-menu",
             "order": 19,
-            "name": "メニュー",
+            "name": "메뉴",
             "texts": []
         },
         {
             "id": "help-mission",
             "order": 15,
-            "name": "ミッション",
+            "name": "미션",
             "texts": []
         },
         {
             "id": "help-panel-mission",
             "order": 21,
-            "name": "パネルミッションイベント",
+            "name": "패널 미션 이벤트",
             "texts": []
         },
         {
             "id": "help-photography-prepare-top",
             "order": 23,
-            "name": "アイドル撮影",
+            "name": "아이돌 촬영",
             "texts": []
         },
         {
@@ -169,25 +169,25 @@
         {
             "id": "help-shop",
             "order": 18,
-            "name": "ショップ",
+            "name": "상점",
             "texts": []
         },
         {
             "id": "help-story",
             "order": 8,
-            "name": "コミュ",
+            "name": "커뮤",
             "texts": []
         },
         {
             "id": "help-story-event",
             "order": 20,
-            "name": "ストーリーイベント",
+            "name": "스토리 이벤트",
             "texts": []
         },
         {
             "id": "help-story-event-guild-mission",
             "order": 25,
-            "name": "連携ミッション",
+            "name": "연계 미션",
             "texts": []
         },
         {
@@ -199,7 +199,7 @@
         {
             "id": "help-tower",
             "order": 13,
-            "name": "アイドルへの道",
+            "name": "아이돌의 길",
             "texts": []
         }
     ]

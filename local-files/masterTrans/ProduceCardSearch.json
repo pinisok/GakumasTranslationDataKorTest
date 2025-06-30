@@ -153,7 +153,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "アクティブスキルカード"
+                    "text": "액티브 스킬 카드"
                 }
             ]
         },
@@ -1213,7 +1213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonBuff_Produce",
-                    "text": "集中"
+                    "text": "집중"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1223,7 +1223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード"
+                    "text": " 효과 스킬 카드"
                 }
             ]
         },
@@ -1453,7 +1453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-2_052",
-                    "text": "ひなたぼっこ"
+                    "text": "볕 쬐기"
                 }
             ]
         },
@@ -1513,7 +1513,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamCardCreateId",
-                    "text": "生成"
+                    "text": "생성"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1523,7 +1523,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "した強化済み固有スキルカード（SSR）"
+                    "text": "강화된 고유 스킬 카드(SSR)"
                 }
             ]
         },
@@ -1683,7 +1683,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_001",
-                    "text": "ファンサ"
+                    "text": "팬 사인"
                 }
             ]
         },
@@ -1698,7 +1698,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_002",
-                    "text": "軽い足取り"
+                    "text": "가벼운 발걸음"
                 }
             ]
         },
@@ -1713,7 +1713,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_022",
-                    "text": "準備運動"
+                    "text": "준비운동"
                 }
             ]
         },
@@ -1728,7 +1728,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-1_023",
-                    "text": "勢い任せ"
+                    "text": "기세에 맡겨"
                 }
             ]
         },
@@ -1743,7 +1743,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-men-3_006",
-                    "text": "国民的アイドル"
+                    "text": "국민적 아이돌"
                 }
             ]
         },
@@ -1758,7 +1758,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_030",
-                    "text": "リスタート"
+                    "text": "리스타트"
                 }
             ]
         },
@@ -1773,7 +1773,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_032",
-                    "text": "思い出し笑い"
+                    "text": "추억의 웃음"
                 }
             ]
         },
@@ -1788,7 +1788,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-3_002",
-                    "text": "私がスター"
+                    "text": "내가 스타"
                 }
             ]
         },
@@ -1803,7 +1803,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-1_038",
-                    "text": "ジャストアピール"
+                    "text": "저스트 어필"
                 }
             ]
         },
@@ -1818,7 +1818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBlock",
-                    "text": "元気"
+                    "text": "원기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1828,7 +1828,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード"
+                    "text": " 효과 스킬 카드"
                 }
             ]
         },
@@ -1843,7 +1843,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1853,7 +1853,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード"
+                    "text": " 효과 스킬 카드"
                 }
             ]
         },
@@ -1868,7 +1868,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1878,7 +1878,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード"
+                    "text": " 효과 스킬 카드"
                 }
             ]
         },
@@ -1893,7 +1893,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReview_Produce",
-                    "text": "好印象"
+                    "text": "호인상"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1903,7 +1903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード"
+                    "text": " 효과 스킬 카드"
                 }
             ]
         },
@@ -1918,7 +1918,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaRecoverFix",
-                    "text": "体力回復"
+                    "text": "체력 회복"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1928,7 +1928,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード"
+                    "text": " 효과 스킬 카드"
                 }
             ]
         },
@@ -1943,7 +1943,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-men-1_049",
-                    "text": "嬉しい誤算"
+                    "text": "기쁜 오산"
                 }
             ]
         },

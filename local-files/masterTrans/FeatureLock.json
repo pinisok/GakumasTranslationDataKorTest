@@ -61,9 +61,9 @@
         },
         {
             "tutorialType": "TutorialType_DearnessTop",
-            "name": "親愛度TOP",
-            "description": "「親愛度TOP」機能解放",
-            "routeDescription": "ホームの親愛度から確認できます"
+            "name": "친애도 TOP",
+            "description": "「친애도 TOP」기능 해방",
+            "routeDescription": "홈의 친애도에서 확인할 수 있습니다"
         }
     ]
 }

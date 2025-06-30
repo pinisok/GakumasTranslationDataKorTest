@@ -49,9 +49,9 @@
         },
         {
             "id": "item-coin-box-gasha-event-015",
-            "name": "広島ツアーメダル",
-            "description": "イベントガシャで使用するアイテム",
-            "acquisitionRouteDescription": "プロデュースなど"
+            "name": "히로시마 투어 메달",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
         },
         {
             "id": "item-coin-highscorerush-event-001",
@@ -61,9 +61,9 @@
         },
         {
             "id": "item-coin-highscorerush-event-002",
-            "name": "ほしのきらめき",
-            "description": "イベントガシャで使用するアイテム",
-            "acquisitionRouteDescription": "イベントモードのプロデュースなど"
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
         },
         {
             "id": "item-common-idol_card-piece-r",
@@ -109,9 +109,9 @@
         },
         {
             "id": "item-dearness-unlock-ssmk",
-            "name": "清夏との記録の鍵",
-            "description": "紫雲清夏のSTEP3の親愛度コミュを解放するアイテム",
-            "acquisitionRouteDescription": "交換所など"
+            "name": "스미카와의 기록의 열쇠",
+            "description": "시운 스미카의 STEP3의 친애도 커뮤니케이션을 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
         },
         {
             "id": "item-friend_coin",
@@ -187,8 +187,8 @@
         },
         {
             "id": "item-gashaticket-ssr-support-fix-nia-1",
-            "name": "N.I.AチャレンジSSR サポートカード確定ガシャチケット",
-            "description": "N.I.AチャレンジSSR サポートカード確定チケットガシャで使用するチケット",
+            "name": "N.I.A 챌린지 SSR 서포트 카드 확정 가챠 티켓",
+            "description": "N.I.A 챌린지 SSR 서포트 카드 확정 가챠에 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -535,9 +535,9 @@
         },
         {
             "id": "item-piece-idol_hmsz-3-005",
-            "name": "[Campus mode!!]秦谷美鈴のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[Campus mode!!] 하타야 미스즈의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_hrnm-1-000",
@@ -595,9 +595,9 @@
         },
         {
             "id": "item-piece-idol_hrnm-3-012",
-            "name": "[Howling over the World]姫崎莉波のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "イベントガシャなど"
+            "name": "[Howling over the World] 히메사키 리나미의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 가챠 등"
         },
         {
             "id": "item-piece-idol_hski-1-000",
@@ -781,9 +781,9 @@
         },
         {
             "id": "item-piece-idol_kcna-3-012",
-            "name": "[Howling over the World]倉本千奈のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[Howling over the World] 쿠라모토 치나의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_kllj-1-000",
@@ -841,9 +841,9 @@
         },
         {
             "id": "item-piece-idol_kllj-3-012",
-            "name": "[Howling over the World]葛城リーリヤのピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[Howling over the World] 카츠라기 릴리야의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_shro-1-000",
@@ -943,9 +943,9 @@
         },
         {
             "id": "item-piece-idol_ssmk-3-012",
-            "name": "[Love & Joy]紫雲清夏のピース",
-            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
-            "acquisitionRouteDescription": "ガシャなど"
+            "name": "[Love & Joy] 시운 스미카의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_ttmr-1-000",

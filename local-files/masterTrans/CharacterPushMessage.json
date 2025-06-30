@@ -193,91 +193,91 @@
             "characterId": "hmsz",
             "type": "PushType_ApFull",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "푹 잤어요. 지금이라면……\n레슨을 해도 괜찮아요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_ApFull",
             "number": 2,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "푹 쉬셨나요?\n저도 많이 잤으니,\n살짝 레슨을 할까 해요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_MoneyFull",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "머니가 쌓였나봐요.\n받으러 가지 않으실래요?"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_MoneyFull",
             "number": 2,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "낮잠을 자고 계신 걸까요.\n머니가 쌓여 있어요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_DailyMission",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "오늘의 미션이 남아 있나\n봐요. 전부 끝내고,\n기분 좋게 잠들죠?"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_Login",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "낮잠을 꽤나 오래 주무시네요.\n일어나시면,\n만나러 와주세요.\n쭉, 기다리고 있을게요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "아직, 콘테스트에 도전할 수 있나\n봐요. 그럼,\n느긋히 가도록 하죠"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_WorkMiniLiveFinish",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "미니 라이브, 끝났어요.\n오늘은 푹 잘 수 있을 것 같아요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_WorkMiniLiveFinish",
             "number": 2,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "미니 라이브, 방금 끝났어요.\n나중에, 감상을 들려주세요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_WorkMiniLiveFinish",
             "number": 3,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "좋은 미니 라이브였어요.\n프로듀서가 보시기에,\n어떠셨나요?"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_WorkLiveStreamingFinish",
             "number": 1,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "방송, 지켜봐주셨나요?\n느긋히 이야기하는 것도,\n나쁘지 않네요"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_WorkLiveStreamingFinish",
             "number": 2,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "방송 끝났어요.\n일 땡땡이 안 치고 제대로,\n했죠?"
         },
         {
             "characterId": "hmsz",
             "type": "PushType_WorkLiveStreamingFinish",
             "number": 3,
-            "title": "秦谷 美鈴",
+            "title": "하타야 미스즈",
             "message": "방송, 끝났어요.\n그럼, 안녕히 주무세요"
         },
         {

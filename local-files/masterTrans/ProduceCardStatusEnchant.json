@@ -43,7 +43,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "자신을 사용한 후, "
+                    "text": "자신을 사용한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -63,7 +63,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "의 경우,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73,7 +73,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -168,7 +168,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "자신을 사용한 후, "
+                    "text": "자신을 사용한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -188,7 +188,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "의 경우,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -198,7 +198,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -303,7 +303,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "사용 후, "
+                    "text": "사용 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -313,7 +313,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -378,7 +378,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "사용 후, "
+                    "text": "사용 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -388,7 +388,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -463,7 +463,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -578,7 +578,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -653,7 +653,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamAddGrowEffect",
-                    "text": "成長"
+                    "text": "성장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -663,7 +663,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "："
+                    "text": ":"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -673,7 +673,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -683,7 +683,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード使用後、"
+                    "text": " 효과의 스킬 카드 사용 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -693,7 +693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -703,7 +703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -713,7 +713,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+10・"
+                    "text": " +10·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -723,7 +723,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_CostAdd",
-                    "text": "コスト値増加"
+                    "text": "비용값 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -733,7 +733,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+1（"
+                    "text": " +1("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -743,7 +743,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -753,7 +753,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -768,7 +768,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamAddGrowEffect",
-                    "text": "成長"
+                    "text": "성장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -778,7 +778,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "："
+                    "text": ":"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -788,7 +788,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -798,7 +798,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード使用後、"
+                    "text": " 효과의 스킬 카드 사용 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -808,7 +808,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -818,7 +818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -828,7 +828,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+15・"
+                    "text": " +15·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -838,7 +838,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_CostAdd",
-                    "text": "コスト値増加"
+                    "text": "비용값 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -848,7 +848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+1（"
+                    "text": " +1("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -858,7 +858,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -868,7 +868,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -903,7 +903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -913,7 +913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -923,7 +923,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -933,7 +933,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -943,7 +943,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -953,7 +953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -963,7 +963,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+10（"
+                    "text": " +10("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -973,7 +973,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -983,7 +983,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中1回）"
+                    "text": " 중 1회)"
                 }
             ]
         },
@@ -1018,7 +1018,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1028,7 +1028,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1038,7 +1038,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1048,7 +1048,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1058,7 +1058,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1068,7 +1068,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1078,7 +1078,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+8（"
+                    "text": " +8 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1088,7 +1088,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1098,7 +1098,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中1回）"
+                    "text": " 중 1회)"
                 }
             ]
         },
@@ -1133,7 +1133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1143,7 +1143,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1153,7 +1153,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1163,7 +1163,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1173,7 +1173,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1183,7 +1183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonCountAdd",
-                    "text": "パラメータ上昇回数増加"
+                    "text": "파라미터 상승 횟수 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1193,7 +1193,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+1（"
+                    "text": " +1("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1203,7 +1203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1213,7 +1213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中1回）"
+                    "text": " 중 1회)"
                 }
             ]
         },
@@ -1248,7 +1248,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1258,7 +1258,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1268,7 +1268,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1278,7 +1278,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1288,7 +1288,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1298,7 +1298,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_CostReduce",
-                    "text": "コスト値減少"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1308,7 +1308,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "-1・"
+                    "text": " -1·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1318,7 +1318,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1328,7 +1328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+16（"
+                    "text": " +16 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1338,7 +1338,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1348,7 +1348,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -1383,7 +1383,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1393,7 +1393,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1403,7 +1403,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1413,7 +1413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1423,7 +1423,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1433,7 +1433,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_CostReduce",
-                    "text": "コスト値減少"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1443,7 +1443,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "-1・"
+                    "text": " -1·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1453,7 +1453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1463,7 +1463,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+21（"
+                    "text": " +21 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1473,7 +1473,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1483,7 +1483,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -1518,7 +1518,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1528,7 +1528,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1538,7 +1538,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1548,7 +1548,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1558,7 +1558,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1568,7 +1568,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1578,7 +1578,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+10（"
+                    "text": " +10 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1588,7 +1588,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1598,7 +1598,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -1633,7 +1633,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1643,7 +1643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1653,7 +1653,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1663,7 +1663,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1673,7 +1673,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1683,7 +1683,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1693,7 +1693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+15（"
+                    "text": " +15 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1703,7 +1703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1713,7 +1713,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -1748,7 +1748,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1758,7 +1758,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1768,7 +1768,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1778,7 +1778,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1788,7 +1788,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1798,7 +1798,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1808,7 +1808,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+15・"
+                    "text": " +15·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1818,7 +1818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_CostAdd",
-                    "text": "コスト値増加"
+                    "text": "비용값 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1828,7 +1828,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+1（"
+                    "text": " +1("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1838,7 +1838,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1848,7 +1848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -1883,7 +1883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1893,7 +1893,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1903,7 +1903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1913,7 +1913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1923,7 +1923,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -1933,7 +1933,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1943,7 +1943,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+20（"
+                    "text": " +20 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1953,7 +1953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1963,7 +1963,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -1998,7 +1998,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2008,7 +2008,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2018,7 +2018,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2028,7 +2028,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2038,7 +2038,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2048,7 +2048,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2058,7 +2058,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+25・"
+                    "text": " +25 · "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2068,7 +2068,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_CostAdd",
-                    "text": "コスト値増加"
+                    "text": "비용값 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2078,7 +2078,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+1（"
+                    "text": " +1("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -2088,7 +2088,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2098,7 +2098,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -2133,7 +2133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2143,7 +2143,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2153,7 +2153,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2163,7 +2163,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2173,7 +2173,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2183,7 +2183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2193,7 +2193,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+6（"
+                    "text": " +6 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -2203,7 +2203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2213,7 +2213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -2248,7 +2248,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2258,7 +2258,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2268,7 +2268,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2278,7 +2278,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2288,7 +2288,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2298,7 +2298,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2343,7 +2343,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2353,7 +2353,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2363,7 +2363,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2373,7 +2373,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2383,7 +2383,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2393,7 +2393,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2438,7 +2438,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2448,7 +2448,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2458,7 +2458,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2468,7 +2468,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2478,7 +2478,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2488,7 +2488,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2533,7 +2533,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2543,7 +2543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2553,7 +2553,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2563,7 +2563,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2573,7 +2573,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2583,7 +2583,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2628,7 +2628,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2638,7 +2638,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2648,7 +2648,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamConcentration_Produce",
-                    "text": "強気"
+                    "text": "강기"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2658,7 +2658,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2668,7 +2668,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2678,7 +2678,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2723,7 +2723,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2733,7 +2733,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2743,7 +2743,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2753,7 +2753,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2763,7 +2763,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2773,7 +2773,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2783,7 +2783,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+4（"
+                    "text": " +4 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -2793,7 +2793,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2803,7 +2803,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -2838,7 +2838,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2848,7 +2848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2858,7 +2858,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2868,7 +2868,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2878,7 +2878,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -2888,7 +2888,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2898,7 +2898,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+6（"
+                    "text": " +6 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -2908,7 +2908,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2918,7 +2918,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中2回）"
+                    "text": " 중 2회)"
                 }
             ]
         },
@@ -2953,7 +2953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2963,7 +2963,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2973,7 +2973,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2983,7 +2983,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2993,7 +2993,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3003,7 +3003,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3013,7 +3013,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+10（"
+                    "text": " +10 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3023,7 +3023,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3033,7 +3033,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中3回）"
+                    "text": " 중 3회)"
                 }
             ]
         },
@@ -3068,7 +3068,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3078,7 +3078,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3088,7 +3088,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3098,7 +3098,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3108,7 +3108,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3118,7 +3118,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3128,7 +3128,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+5（"
+                    "text": " +5 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3138,7 +3138,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3148,7 +3148,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中3回）"
+                    "text": " 중 3회)"
                 }
             ]
         },
@@ -3183,7 +3183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3193,7 +3193,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3203,7 +3203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3213,7 +3213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3223,7 +3223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3233,7 +3233,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3243,7 +3243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+15（"
+                    "text": " +15 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3253,7 +3253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3263,7 +3263,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中4回）"
+                    "text": " 중 4회)"
                 }
             ]
         },
@@ -3298,7 +3298,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3308,7 +3308,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3318,7 +3318,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3328,7 +3328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3338,7 +3338,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3348,7 +3348,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3358,7 +3358,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+20（"
+                    "text": " +20 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3368,7 +3368,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3378,7 +3378,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中4回）"
+                    "text": " 중 4회)"
                 }
             ]
         },
@@ -3413,7 +3413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3423,7 +3423,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3433,7 +3433,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3443,7 +3443,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3453,7 +3453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3463,7 +3463,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3508,7 +3508,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3518,7 +3518,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3528,7 +3528,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3538,7 +3538,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を変更するたび、"
+                    "text": "을(를) 변경할 때마다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3548,7 +3548,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3558,7 +3558,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3603,7 +3603,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3613,7 +3613,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3623,7 +3623,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3633,7 +3633,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を2回変更するたび、"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3643,7 +3643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3653,7 +3653,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3663,7 +3663,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+4（"
+                    "text": " +4 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3673,7 +3673,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3683,7 +3683,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中3回）"
+                    "text": " 중 3회)"
                 }
             ]
         },
@@ -3718,7 +3718,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3728,7 +3728,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3738,7 +3738,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_Stance",
-                    "text": "指針"
+                    "text": "지침"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3748,7 +3748,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を2回変更するたび、"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3758,7 +3758,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3768,7 +3768,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3778,7 +3778,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+7（"
+                    "text": " +7 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3788,7 +3788,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3798,7 +3798,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中3回）"
+                    "text": " 중 3회)"
                 }
             ]
         },
@@ -3843,7 +3843,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3853,7 +3853,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -3958,7 +3958,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3968,7 +3968,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4053,7 +4053,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4063,7 +4063,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4148,7 +4148,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4158,7 +4158,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4243,7 +4243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4253,7 +4253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4318,7 +4318,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4328,7 +4328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4393,7 +4393,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4403,7 +4403,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4468,7 +4468,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4478,7 +4478,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4543,7 +4543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4553,7 +4553,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4618,7 +4618,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4628,7 +4628,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4693,7 +4693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4703,7 +4703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4768,7 +4768,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4778,7 +4778,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4843,7 +4843,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4853,7 +4853,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4918,7 +4918,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 됐을 때, "
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4928,7 +4928,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 스킬 카드의 "
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4983,7 +4983,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4993,7 +4993,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5003,7 +5003,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5013,7 +5013,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5023,7 +5023,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5033,7 +5033,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_BlockAdd",
-                    "text": "元気値増加"
+                    "text": "원기 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5043,7 +5043,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+10（"
+                    "text": " +10 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5053,7 +5053,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5063,7 +5063,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中1回）"
+                    "text": " 중 1회)"
                 }
             ]
         },
@@ -5098,7 +5098,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5108,7 +5108,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5118,7 +5118,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamPreservation_Produce",
-                    "text": "温存"
+                    "text": "온존"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5128,7 +5128,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になった時、"
+                    "text": "이(가) 됐을 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5138,7 +5138,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5148,7 +5148,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_BlockAdd",
-                    "text": "元気値増加"
+                    "text": "원기 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5158,7 +5158,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+5（"
+                    "text": " +5 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5168,7 +5168,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5178,7 +5178,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中1回）"
+                    "text": " 중 1회)"
                 }
             ]
         },
@@ -5213,7 +5213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5223,7 +5223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5233,7 +5233,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPowerPoint",
-                    "text": "全力値"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5243,7 +5243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が増加後、"
+                    "text": "이(가) 증가 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5253,7 +5253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5263,7 +5263,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5273,7 +5273,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+11（"
+                    "text": " +11 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5283,7 +5283,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5293,7 +5293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中3回）"
+                    "text": " 중 3회)"
                 }
             ]
         },
@@ -5328,7 +5328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "直接効果"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5338,7 +5338,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "で"
+                    "text": "이(가) 증가한 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5348,7 +5348,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamFullPowerPoint",
-                    "text": "全力値"
+                    "text": "전력치"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5358,7 +5358,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が増加後、"
+                    "text": "이(가) 증가 후,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5368,7 +5368,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードの"
+                    "text": "이 스킬 카드의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -5378,7 +5378,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_LessonAdd",
-                    "text": "パラメータ値増加"
+                    "text": "파라미터 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5388,7 +5388,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+6（"
+                    "text": " +6 ("
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5398,7 +5398,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Convert_002",
-                    "text": "レッスン"
+                    "text": "레슨"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5408,7 +5408,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中3回）"
+                    "text": " 중 3회)"
                 }
             ]
         }

@@ -837,7 +837,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "무작위로 강화 된 스킬 카드 (SSR)를, "
+                    "text": "무작위로 강화 된 스킬 카드 (SSR), "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -857,7 +857,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "에 "
+                    "text": "이(가) "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1825,7 +1825,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "다음에 사용하는 "
+                    "text": " 다음에 사용한다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1845,7 +1845,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 효과를 <nobr>"
+                    "text": "의 효과를 더 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1865,7 +1865,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "회 더 </nobr>발동 (<nobr>"
+                    "text": "회 </nobr>발동 (<nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2233,7 +2233,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "단계로 변경"
+                    "text": "단계 째로 변경"
                 }
             ],
             "name": "따뜻한 녹차"
@@ -2345,7 +2345,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "단계로 변경"
+                    "text": "단계 째로 변경"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

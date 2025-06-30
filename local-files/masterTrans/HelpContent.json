@@ -35,7 +35,7 @@
             "helpCategoryId": "help-box-gasha-event",
             "id": "box-gasha-event",
             "order": 1,
-            "name": "ライブツアーイベント"
+            "name": "시즌 이벤트"
         },
         {
             "helpCategoryId": "help-box-gasha-event",
@@ -197,19 +197,19 @@
             "helpCategoryId": "help-dearness-doost-campaign",
             "id": "help-dearness-doost-campaign-info",
             "order": 57,
-            "name": "親愛度ブーストキャンペーン"
+            "name": "친애도 부스트 캠페인"
         },
         {
             "helpCategoryId": "help-dearness-map",
             "id": "help-dearness-map-info",
             "order": 56,
-            "name": "親愛度マップ"
+            "name": "친애도 맵"
         },
         {
             "helpCategoryId": "help-dearness-top",
             "id": "help-dearness-top-info",
             "order": 55,
-            "name": "親愛度TOP"
+            "name": "친애도 TOP"
         },
         {
             "helpCategoryId": "help-event_mission",
@@ -323,7 +323,7 @@
             "helpCategoryId": "help-highscorerush",
             "id": "highscorerush-highscorerush",
             "order": 1,
-            "name": "十王邦夫のアイドル強化月間"
+            "name": "주오 쿠니오의 아이돌 강화의 달"
         },
         {
             "helpCategoryId": "help-highscorerush",
@@ -407,7 +407,7 @@
             "helpCategoryId": "help-idol",
             "id": "idol-dearness-pt",
             "order": 54,
-            "name": "親愛度Pt"
+            "name": "친애도 Pt"
         },
         {
             "helpCategoryId": "help-idol",
@@ -461,7 +461,7 @@
             "helpCategoryId": "help-idol",
             "id": "idol-true-end-bonus",
             "order": 58,
-            "name": "True Endボーナス"
+            "name": "True End 보너스"
         },
         {
             "helpCategoryId": "help-idol",
@@ -815,13 +815,13 @@
             "helpCategoryId": "help-mission",
             "id": "mission-event",
             "order": 7,
-            "name": "イベントミッション"
+            "name": "이벤트 미션"
         },
         {
             "helpCategoryId": "help-mission",
             "id": "mission-idol",
             "order": 6,
-            "name": "アイドルミッション"
+            "name": "아이돌 미션"
         },
         {
             "helpCategoryId": "help-mission",
@@ -839,7 +839,7 @@
             "helpCategoryId": "help-mission",
             "id": "mission-pass",
             "order": 8,
-            "name": "ミッションパス"
+            "name": "미션 패스"
         },
         {
             "helpCategoryId": "help-mission",

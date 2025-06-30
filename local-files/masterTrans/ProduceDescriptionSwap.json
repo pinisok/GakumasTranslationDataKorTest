@@ -129,12 +129,12 @@
         {
             "id": "Swap_Label_Audition",
             "swapType": "ProduceDescriptionSwapType_Lesson",
-            "text": "시험·오디션"
+            "text": "시험・오디션"
         },
         {
             "id": "Swap_Label_Audition",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "시험·오디션"
+            "text": "시험・오디션"
         },
         {
             "id": "Swap_Label_ExamCardUpgrade",
