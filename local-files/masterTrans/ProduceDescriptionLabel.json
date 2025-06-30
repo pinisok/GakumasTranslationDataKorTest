@@ -1468,7 +1468,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가하지 않습니다"
+                    "text": "가 증가하지 않습니다"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2514,7 +2514,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10 이상이면, 다음 턴 시작시 "
+                    "text": "가 10 이상이라면, 다음 턴 시작시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2534,7 +2534,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 10 소비, 지침을 "
+                    "text": "를 10 소비하고, 지침을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2554,7 +2554,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경 "
+                    "text": "으로 변경 "
                 }
             ],
             "name": "전력치"
