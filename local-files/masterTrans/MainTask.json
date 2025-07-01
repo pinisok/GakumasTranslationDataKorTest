@@ -1326,8 +1326,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 29,
             "title": "P과제2-29",
-            "description": "난이도 마스터로 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌",
-            "homeDescription": "난이도 마스터로 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌"
+            "description": "정기공연 『하지메』 : 마스터 에서 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌",
+            "homeDescription": "정기공연 『하지메』 : 마스터 에서 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
