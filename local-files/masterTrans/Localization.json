@@ -44,6 +44,10 @@
         {
             "id": "pvp.rate.support_bonus.sheet.description",
             "description": "콘테스트/아이돌 길 스코어에 적용되는\\n보너스입니다."
+        },
+        {
+            "id": "voice.idol_use_produce_card",
+            "description": "P아이돌 고유 스킬 카드 사용"
         }
     ]
 }

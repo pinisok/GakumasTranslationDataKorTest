@@ -18,7 +18,7 @@
         {
             "characterId": "fktn",
             "name": "후지타 코토네",
-            "regexp": "코토네"
+            "regexp": "코토네$"
         },
         {
             "characterId": "gkgt",
