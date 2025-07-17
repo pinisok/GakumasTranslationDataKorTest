@@ -26,6 +26,10 @@
             "description": "{0}으로 해제"
         },
         {
+            "id": "produce_prepare.edit.warning",
+            "description": "편성은 프로듀스마다 설정 가능합니다. 다른 프로듀스에서 설정하는 경우, 다른 프로듀스에는 적용되지 않습니다."
+        },
+        {
             "id": "produce.high_score_rush.gold.description",
             "description": "「주오 쿠니오의 아이돌 강화의 달・개」에서 획득 할 수 있는 아이템. 이벤트 가챠에서 사용할 수 있습니다."
         },
@@ -44,6 +48,10 @@
         {
             "id": "pvp.rate.support_bonus.sheet.description",
             "description": "콘테스트/아이돌 길 스코어에 적용되는\\n보너스입니다."
+        },
+        {
+            "id": "title.menu.delete_local_data.description",
+            "description": "저장된 로컬 데이터를 삭제하시겠습니까?\\n\\n■주의 사항(※반드시 읽어 주세요)\\n로컬 데이터 삭제를 하면 사용자 데이터는 삭제되지 않지만 게임 플레이 중 중단 데이터나 일부 저장 상태는 삭제됩니다."
         },
         {
             "id": "voice.idol_use_produce_card",

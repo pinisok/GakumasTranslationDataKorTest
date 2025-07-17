@@ -66,6 +66,12 @@
             "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
         },
         {
+            "id": "item-coin-highscorerush-event-003",
+            "name": "별의 반짝임",
+            "description": "이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
             "id": "item-common-idol_card-piece-r",
             "name": "R 아이돌 피스",
             "description": "R 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
@@ -916,6 +922,12 @@
             "name": "[해피 밀푀유] 시노사와 히로의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "이벤트 가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-012",
+            "name": "[선 페이디드] 시노사와 히로의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
         },
         {
             "id": "item-piece-idol_ssmk-1-000",

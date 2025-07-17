@@ -286,6 +286,14 @@
             "arranger": "타키자와 슌스케 (TRYTONELABO)"
         },
         {
+            "id": "music-all-hmsz-003",
+            "title": "너와 세미블루",
+            "displayTitle": "너와 세미블루",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
             "id": "music-all-hrnm-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -540,6 +548,14 @@
             "lyrics": "타부치 토모야",
             "composer": "타부치 토모야",
             "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
+            "id": "music-all-jsna-003",
+            "title": "너와 세미블루",
+            "displayTitle": "너와 세미블루",
+            "lyrics": "이츠키 오토",
+            "composer": "미츠마스 하지메 (FirstCall)",
+            "arranger": "미츠마스 하지메 (FirstCall)"
         },
         {
             "id": "music-all-jsna-007",
@@ -1702,6 +1718,22 @@
             "arranger": "아쉬 이노우에 (Dream Monster), 타나카 토루마 (Dream Monster)"
         },
         {
+            "id": "music-char-kllj-005",
+            "title": "Fragile Heart",
+            "displayTitle": "Fragile Heart",
+            "lyrics": "아쉬 이노우에 (Dream Monster)",
+            "composer": "아쉬 이노우에 (Dream Monster)",
+            "arranger": "아쉬 이노우에 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kllj-005-inst",
+            "title": "Fragile Heart [Instrumental]",
+            "displayTitle": "Fragile Heart [Instrumental]",
+            "lyrics": "아쉬 이노우에 (Dream Monster)",
+            "composer": "아쉬 이노우에 (Dream Monster)",
+            "arranger": "아쉬 이노우에 (Dream Monster)"
+        },
+        {
             "id": "music-char-shro-001",
             "title": "광경",
             "displayTitle": "",
@@ -1748,6 +1780,22 @@
             "lyrics": "후로쿠로",
             "composer": "후로쿠로",
             "arranger": "후로쿠로"
+        },
+        {
+            "id": "music-char-shro-004",
+            "title": "선 페이디드",
+            "displayTitle": "선 페이디드",
+            "lyrics": "하세가와 하쿠시",
+            "composer": "하세가와 하쿠시",
+            "arranger": "하세가와 하쿠시"
+        },
+        {
+            "id": "music-char-shro-004-inst",
+            "title": "선 페이디드 [Instrumental]",
+            "displayTitle": "선 페이디드 [Instrumental]",
+            "lyrics": "하세가와 하쿠시",
+            "composer": "하세가와 하쿠시",
+            "arranger": "하세가와 하쿠시"
         },
         {
             "id": "music-char-ssmk-001",
@@ -1808,7 +1856,7 @@
         {
             "id": "music-char-ssmk-004-inst",
             "title": "Love & Joy [Instrumental]",
-            "displayTitle": "Love & Joy",
+            "displayTitle": "Love & Joy [Instrumental]",
             "lyrics": "아즈마 유타",
             "composer": "하라 카즈히로",
             "arranger": "하라 카즈히로"
@@ -1871,8 +1919,8 @@
         },
         {
             "id": "music-char-ttmr-005-inst",
-            "title": "Unhappy Light[Instrumental]",
-            "displayTitle": "Unhappy Light[Instrumental]",
+            "title": "Unhappy Light [Instrumental]",
+            "displayTitle": "Unhappy Light [Instrumental]",
             "lyrics": "Aira (Dream Monster)",
             "composer": "Aira (Dream Monster)",
             "arranger": "Aira (Dream Monster)"

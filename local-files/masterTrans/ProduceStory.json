@@ -10629,6 +10629,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-shro-3-012-01",
+            "title": "선 페이디드 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-012-02",
+            "title": "선 페이디드 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-shro-3-012-03",
+            "title": "선 페이디드 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-ssmk-3-000-01",
             "title": "Tame-Lie-One-Step 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -11426,6 +11441,16 @@
         {
             "id": "p_story-s_card-2-0054-02",
             "title": "와이라노!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0056-01",
+            "title": "더욱 더 엄격하게",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0056-02",
+            "title": "맞지 않는 사람끼리?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12386,6 +12411,21 @@
         {
             "id": "p_story-s_card-3-0065-03",
             "title": "복잡한 관계?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0066-01",
+            "title": "재미있고 걱정되는 아이",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0066-02",
+            "title": "밝혀내고 싶은 비밀",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0066-03",
+            "title": "인기에 걸맞은 실력",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

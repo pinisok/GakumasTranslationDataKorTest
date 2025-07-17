@@ -1686,6 +1686,36 @@
             "description": "【해피 밀푀유】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-shro-3-012-01",
+            "name": "해 뜨는 쪽으로",
+            "description": "【선 페이디드】시노사와 히로의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-012-02",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-012-03",
+            "name": "뜨거운 마음으로, 가득",
+            "description": "【선 페이디드】시노사와 히로로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-012-04",
+            "name": "선 페이디드+",
+            "description": "【선 페이디드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-012-05",
+            "name": "선 페이디드++",
+            "description": "【선 페이디드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-012-06",
+            "name": "선 페이디드+++",
+            "description": "【선 페이디드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-ssmk-2-000-04",
             "name": "꿈으로의 리스타트+",
             "description": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
@@ -2876,6 +2906,11 @@
             "description": "후지타 코토네로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
         },
         {
+            "id": "achieve-p_idol-fktn-022",
+            "name": "숨겨둔 재능",
+            "description": "후지타 코토네의 특훈 단계 {threshold} 달성한다"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "인생 최고의 날",
             "description": "하타야 미스즈로 True End를 보기"
@@ -3224,6 +3259,11 @@
             "id": "achieve-p_idol-hski-021",
             "name": "놓지지 않을 거야!",
             "description": "하나미 사키로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hski-022",
+            "name": "한계는 아직",
+            "description": "하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-p_idol-hume-000",
@@ -4034,6 +4074,11 @@
             "id": "achieve-p_idol-ttmr-021",
             "name": "증명해 보일게요",
             "description": "츠키무라 테마리로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-022",
+            "name": "어디까지고 높이",
+            "description": "츠키무라 테마리의 특훈 단계 {threshold} 달성"
         }
     ]
 }

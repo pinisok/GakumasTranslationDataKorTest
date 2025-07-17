@@ -891,6 +891,16 @@
             "description": "【광경】'24 축제 시노사와 히로를 입수"
         },
         {
+            "id": "costume_head_shro-cstm-0088",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0089",
+            "name": "선 페이디드",
+            "description": "【선 페이디드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_shro-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 6월에 획득 가능"
@@ -919,6 +929,11 @@
             "id": "costume_head_shro-hair-0007",
             "name": "티어드롭 글래스",
             "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+        },
+        {
+            "id": "costume_head_shro-hair-0011",
+            "name": "선 페이디드(심플 어레인지)",
+            "description": "【선 페이디드】시노사와 히로 입수"
         },
         {
             "id": "costume_head_ssmk-cstm-0009",
