@@ -87,7 +87,7 @@
             "id": "item-common-idol_card-piece-ssr",
             "name": "SSR 아이돌 피스",
             "description": "SSR 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
-            "acquisitionRouteDescription": "교환소 등"
+            "acquisitionRouteDescription": "아이돌 길 등"
         },
         {
             "id": "item-common-support_card-limit-r",
@@ -1076,6 +1076,12 @@
         {
             "id": "item-selection-ticket-002",
             "name": "1st 애니버서리 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-003",
+            "name": "300만 DL 기념 셀렉션 티켓",
             "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
             "acquisitionRouteDescription": "상점 등"
         },

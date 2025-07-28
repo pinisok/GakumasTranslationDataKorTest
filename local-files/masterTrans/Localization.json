@@ -6,6 +6,14 @@
     },
     "data": [
         {
+            "id": "achievement.true_end.receive.initial_status",
+            "description": "초기 파라미터"
+        },
+        {
+            "id": "achievement.true_end.receive.lesson_bonus",
+            "description": "파라미터 보너스"
+        },
+        {
             "id": "dearness.dearness_level_detail_sheet.title",
             "description": "친애도 Lv 상세"
         },
