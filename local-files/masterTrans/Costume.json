@@ -351,6 +351,16 @@
             "description": "세일러 수영복 (하타야 미스즈)를 입수"
         },
         {
+            "id": "hmsz-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
             "id": "hmsz-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복 (하타야 미스즈)를 구입"
@@ -374,6 +384,11 @@
             "id": "hmsz-trng-0002",
             "name": "하츠보시 학원 체육복",
             "description": "하츠보시 학원 체육복 (하타야 미스즈)를 구입"
+        },
+        {
+            "id": "hrnm-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
         },
         {
             "id": "hrnm-cstm-0000",
@@ -761,6 +776,16 @@
             "description": "세일러 수영복 (하나미 우메)를 입수"
         },
         {
+            "id": "hume-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
             "id": "hume-cstm-0118",
             "name": "Howling over the World",
             "description": "【The Rolling Riceball】'25 Howling over the World 하나미 ​​우메를 입수"
@@ -884,6 +909,16 @@
             "id": "jsna-cstm-0111",
             "name": "세일러 수영복",
             "description": "세일러 수영복 (주오 세나)를 입수"
+        },
+        {
+            "id": "jsna-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나의 재능 개화 4단계 달성"
         },
         {
             "id": "jsna-cstm-0118",

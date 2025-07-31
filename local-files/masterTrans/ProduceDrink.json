@@ -775,7 +775,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "        "
+                    "text": "\t"
                 }
             ],
             "name": "센브리 소다"
@@ -837,7 +837,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "무작위로 강화 된 스킬 카드 (SSR), "
+                    "text": "무작위로 강화 된 스킬 카드 (SSR)를, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",

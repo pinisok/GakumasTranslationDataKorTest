@@ -50,6 +50,10 @@
             "name": "수국 꽃 머리 장식 (하나미 사키)"
         },
         {
+            "id": "shop_costume_costume_head_hski-hair-0003",
+            "name": "라운드 안경 (하나미 사키)"
+        },
+        {
             "id": "shop_costume_costume_head_hume-hair-0001",
             "name": "수국 꽃 머리 장식 (하나미 우메)"
         },
@@ -74,8 +78,16 @@
             "name": "수국 꽃 머리 장식 (시노사와 히로)"
         },
         {
+            "id": "shop_costume_costume_head_shro-hair-0003",
+            "name": "라운드 안경 (시노사와 히로)"
+        },
+        {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
             "name": "수국 꽃 머리 장식 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0003",
+            "name": "라운드 안경 (시운 스미카)"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -330,6 +342,10 @@
             "name": "【1회 한정 특가!】쥬얼 6,000개"
         },
         {
+            "id": "shop_jewel_item-0024",
+            "name": "【1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
             "id": "shop_pack_hmsz-0001",
             "name": "【72시간 한정】프로듀스 아이돌 피스팩 (미스즈)"
         },
@@ -556,6 +572,10 @@
         {
             "id": "shop_pass_item-0015",
             "name": "프리미엄 미션 패스 2025년 7월"
+        },
+        {
+            "id": "shop_pass_item-0016",
+            "name": "프리미엄 미션 패스 2025년 8월"
         }
     ]
 }

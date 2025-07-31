@@ -1670,6 +1670,22 @@
             "arranger": "타카기 류이치 (Dream Monster)"
         },
         {
+            "id": "music-char-kcna-005",
+            "title": "두근거림의 솔페주",
+            "displayTitle": "두근거림의 솔페주",
+            "lyrics": "Cocoro. (Dream Monster)",
+            "composer": "토모아리 타구마 (Dream Monster)",
+            "arranger": "토모아리 타구마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-005-inst",
+            "title": "두근거림의 솔페주 [Instrumental]",
+            "displayTitle": "두근거림의 솔페주 [Instrumental]",
+            "lyrics": "Cocoro. (Dream Monster)",
+            "composer": "토모아리 타구마 (Dream Monster)",
+            "arranger": "토모아리 타구마 (Dream Monster)"
+        },
+        {
             "id": "music-char-kllj-001",
             "title": "백선",
             "displayTitle": "",
@@ -1924,6 +1940,22 @@
             "lyrics": "Aira (Dream Monster)",
             "composer": "Aira (Dream Monster)",
             "arranger": "Aira (Dream Monster)"
+        },
+        {
+            "id": "music-unit-begrazia-002",
+            "title": "Star-mine",
+            "displayTitle": "Star-mine",
+            "lyrics": "진",
+            "composer": "진",
+            "arranger": "진"
+        },
+        {
+            "id": "music-unit-begrazia-002 -inst",
+            "title": "Star-mine [Instrumental]",
+            "displayTitle": "Star-mine [Instrumental]",
+            "lyrics": "진",
+            "composer": "진",
+            "arranger": "진"
         },
         {
             "id": "music-unit-reiris-001",

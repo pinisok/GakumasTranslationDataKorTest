@@ -426,6 +426,36 @@
             "description": "【Campus mode!!】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hmsz-3-010-01",
+            "name": "아침이 가득 찰 때까지",
+            "description": "【Star-mine】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-010-02",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-010-03",
+            "name": "아주...... 익숙한 감각",
+            "description": "【Star-mine】하타야 미스즈로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-010-04",
+            "name": "Star-mine +",
+            "description": "【Star-mine】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-010-05",
+            "name": "Star-mine ++",
+            "description": "【Star-mine】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-010-06",
+            "name": "Star-mine +++",
+            "description": "【Star-mine】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hrnm-2-000-04",
             "name": "『나 다움』의 시작+",
             "description": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
@@ -966,6 +996,36 @@
             "description": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hume-3-012-01",
+            "name": "손에 넣은 미래",
+            "description": "【Star-mine】하나미 우메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-012-02",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-012-03",
+            "name": "둘과 함께라서, 다행이에요",
+            "description": "【Star-mine】하나미 우메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-012-04",
+            "name": "Star-mine +",
+            "description": "【Star-mine】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-012-05",
+            "name": "Star-mine ++",
+            "description": "【Star-mine】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-012-06",
+            "name": "Star-mine +++",
+            "description": "【Star-mine】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-jsna-2-000-01",
             "name": "왕자의 행차",
             "description": "【샛별】주오 세나의 프로듀스로 최종 시험 합격"
@@ -1114,6 +1174,36 @@
             "id": "achieve-i_card-jsna-3-006-06",
             "name": "Our Chant +++",
             "description": "【Our Chant】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-011-01",
+            "name": "기다리고 기다리던 순간",
+            "description": "【Star-mine】주오 세나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-011-02",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-011-03",
+            "name": "바로 나, 주오 세나의 적이야!",
+            "description": "【Star-mine】주오 세나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-011-04",
+            "name": "Star-mine +",
+            "description": "【Star-mine】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-011-05",
+            "name": "Star-mine ++",
+            "description": "【Star-mine】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-011-06",
+            "name": "Star-mine +++",
+            "description": "【Star-mine】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-kcna-2-000-04",

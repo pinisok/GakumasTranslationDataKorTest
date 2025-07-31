@@ -211,6 +211,11 @@
             "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
         },
         {
+            "id": "costume_head_fktn-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0011",
             "name": "달 거북이",
             "description": "【달 거북이】하타야 미스즈 입수"
@@ -229,6 +234,16 @@
             "id": "costume_head_hmsz-cstm-0054",
             "name": "Campus mode!!",
             "description": "【Campus mode!!】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_hmsz-hair-0001",
@@ -468,7 +483,7 @@
         {
             "id": "costume_head_hski-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 8월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 8월에 획득 등"
         },
         {
             "id": "costume_head_hski-hair-0004",
@@ -484,6 +499,11 @@
             "id": "costume_head_hski-hair-0007",
             "name": "티어드롭 글래스",
             "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+        },
+        {
+            "id": "costume_head_hski-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -549,6 +569,16 @@
             "id": "costume_head_hume-cstm-0110",
             "name": "칠흑의 반짝임",
             "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
+        },
+        {
+            "id": "costume_head_hume-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】하나미 우메의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_hume-hair-0001",
@@ -621,6 +651,16 @@
             "description": "【Our Chant】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_jsna-cstm-0114",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0115",
+            "name": "Star-mine",
+            "description": "【Star-mine】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_jsna-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(주오 세나)을 구매"
@@ -649,6 +689,11 @@
             "id": "costume_head_jsna-hair-0007",
             "name": "티어드롭 글래스",
             "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+        },
+        {
+            "id": "costume_head_jsna-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
         },
         {
             "id": "costume_head_jsna-schl-0000",
@@ -913,7 +958,7 @@
         {
             "id": "costume_head_shro-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 8월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 8월에 획득 등"
         },
         {
             "id": "costume_head_shro-hair-0004",
@@ -1003,7 +1048,7 @@
         {
             "id": "costume_head_ssmk-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 8월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 8월 에서 획득 등"
         },
         {
             "id": "costume_head_ssmk-hair-0004",
@@ -1124,6 +1169,11 @@
             "id": "costume_head_ttmr-hair-0007",
             "name": "티어드롭 글래스",
             "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
         }
     ]
 }

@@ -90,6 +90,10 @@
             "name": "사이좋은? 삼인조의 일상"
         },
         {
+            "id": "event-story-017",
+            "name": "3학년 1반의 일상"
+        },
+        {
             "id": "first-live-01",
             "name": "초성 공연"
         },
@@ -168,6 +172,10 @@
         {
             "id": "kcna-birthday-01",
             "name": "동경으로 가득"
+        },
+        {
+            "id": "kcna-birthday-02",
+            "name": "쿠라모토 치나 생일 2025"
         },
         {
             "id": "kllj-001",
@@ -868,6 +876,10 @@
         {
             "id": "story-bg-school-teachersroom-00-noon",
             "name": "커뮤 배경"
+        },
+        {
+            "id": "summer-greeting",
+            "name": "주오 쿠니오가 보낸 여름 안부 편지"
         },
         {
             "id": "ttmr-001",

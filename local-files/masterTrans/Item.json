@@ -114,9 +114,15 @@
             "acquisitionRouteDescription": "머니 교환소 등"
         },
         {
+            "id": "item-dearness-unlock-shro",
+            "name": "히로의 기록의 열쇠",
+            "description": "시노사와 히로의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-dearness-unlock-ssmk",
             "name": "스미카와의 기록의 열쇠",
-            "description": "시운 스미카의 STEP3의 친애도 커뮤니케이션을 해방하는 아이템",
+            "description": "시운 스미카의 STEP 3 친애도 커뮤니케이션을 해방하는 아이템",
             "acquisitionRouteDescription": "교환소 등"
         },
         {
@@ -390,6 +396,12 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-medal-story-event-008",
+            "name": "3학년 1반 메모리얼",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-medal-story-event-013",
             "name": "수학 여행 기념품",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
@@ -558,6 +570,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_hmsz-3-010",
+            "name": "[Star-mine]하타야 미스즈의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_hrnm-1-000",
             "name": "[학원생활] 히메사키 리나미의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -714,6 +732,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_hume-3-012",
+            "name": "[Star-mine]하나미 우메의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_jsna-1-000",
             "name": "[학원생활] 주오 세나의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -752,6 +776,12 @@
         {
             "id": "item-piece-idol_jsna-3-006",
             "name": "[Our Chant] 주오 세나의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-011",
+            "name": "[Star-mine]주오 세나의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

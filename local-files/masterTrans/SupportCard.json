@@ -541,6 +541,22 @@
             "name": "제5종 근접 조우"
         },
         {
+            "id": "s_card-2-0022",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 확률 중"
+                }
+            ],
+            "name": "오늘은 견학하러 왔어요"
+        },
+        {
             "id": "s_card-2-0023",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -1549,6 +1565,22 @@
             "name": "프로듀스는 힘드네"
         },
         {
+            "id": "s_card-3-0033",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 확률대"
+                }
+            ],
+            "name": "우리 화해하자"
+        },
+        {
             "id": "s_card-3-0034",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2091,6 +2123,38 @@
                 }
             ],
             "name": "엄마냐고!"
+        },
+        {
+            "id": "s_card-3-0069",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 확률대"
+                }
+            ],
+            "name": "언제까지나 계속되면 좋을 텐데"
+        },
+        {
+            "id": "s_card-3-0071",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 확률대"
+                }
+            ],
+            "name": "자, 가보자!"
         }
     ]
 }
