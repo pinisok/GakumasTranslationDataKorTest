@@ -903,7 +903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -913,7 +913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1018,7 +1018,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1028,7 +1028,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1133,7 +1133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1143,7 +1143,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1248,7 +1248,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1258,7 +1258,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1383,7 +1383,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1393,7 +1393,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1518,7 +1518,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1528,7 +1528,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1633,7 +1633,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1643,7 +1643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1748,7 +1748,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1758,7 +1758,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1883,7 +1883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1893,7 +1893,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1998,7 +1998,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2008,7 +2008,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2133,7 +2133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2143,7 +2143,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2248,7 +2248,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2258,7 +2258,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2343,7 +2343,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2353,7 +2353,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2438,7 +2438,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2448,7 +2448,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2533,7 +2533,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2543,7 +2543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2628,7 +2628,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2638,7 +2638,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2723,7 +2723,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2733,7 +2733,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2838,7 +2838,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2848,7 +2848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2953,7 +2953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2963,7 +2963,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3068,7 +3068,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3078,7 +3078,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3183,7 +3183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3193,7 +3193,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3298,7 +3298,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3308,7 +3308,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3413,7 +3413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3423,7 +3423,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3508,7 +3508,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3518,7 +3518,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3603,7 +3603,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3613,7 +3613,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -3718,7 +3718,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3728,7 +3728,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -4983,7 +4983,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4993,7 +4993,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5098,7 +5098,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5108,7 +5108,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5213,7 +5213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5223,7 +5223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5328,7 +5328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_OnHitEffect",
-                    "text": "전력치"
+                    "text": "직접 효과"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5338,7 +5338,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가한 후,"
+                    "text": "로 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

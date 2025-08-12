@@ -6816,7 +6816,7 @@
                     "text": " 제외)"
                 }
             ],
-            "name": "전력치"
+            "name": "직접 효과"
         },
         {
             "id": "Label_ParameterBuffMultiplePerTurnAdd",
