@@ -1414,6 +1414,22 @@
             "arranger": "카나야마 히데시 (Dream Monster)"
         },
         {
+            "id": "music-char-fktn-004",
+            "title": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "displayTitle": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "lyrics": "히게드라이버",
+            "composer": "히게드라이버",
+            "arranger": "히게드라이버"
+        },
+        {
+            "id": "music-char-fktn-004-inst",
+            "title": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 [Instrumental]",
+            "displayTitle": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 [Instrumental]",
+            "lyrics": "히게드라이버",
+            "composer": "히게드라이버",
+            "arranger": "히게드라이버"
+        },
+        {
             "id": "music-char-hmsz-001",
             "title": "달 거북이",
             "displayTitle": "달 거북이",

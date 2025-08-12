@@ -1668,6 +1668,21 @@
             ]
         },
         {
+            "id": "p_card_search-ssr-random-deck_grave-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "랜덤한 손 패나 버림 패에 있는 스킬 카드(SSR) 3장"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-ssr-target",
             "produceDescriptions": [
                 {

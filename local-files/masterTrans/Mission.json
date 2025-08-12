@@ -6,6 +6,38 @@
     },
     "data": [
         {
+            "id": "dearness_event_fktn-001",
+            "name": "후지타 코토네의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_fktn-002",
+            "name": "후지타 코토네의 프로듀스에서 외출을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_fktn-003",
+            "name": "후지타 코토네의 프로듀스에서 상담을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_fktn-004",
+            "name": "후지타 코토네의 프로듀스에서 영업을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_fktn-005",
+            "name": "후지타 코토네의 프로듀스에서 선물을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_fktn-006",
+            "name": "후지타 코토네로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_fktn-007",
+            "name": "후지타 코토네의 프로듀스에서 특별지도를 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_fktn-008",
+            "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_event_shro-001",
             "name": "시노사와 히로의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
         },
@@ -68,6 +100,26 @@
         {
             "id": "dearness_event_ssmk-008",
             "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-001",
+            "name": "후지타 코토네의 댄스를 2000 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-002",
+            "name": "후지타 코토네의 프로듀스에서 스킬 카드를 총 {threshold}회 사용하자"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-003",
+            "name": "후지타 코토네의 프로듀스에서 스킬 카드를 {threshold}회 강화하자"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-004",
+            "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_normal-mission_fktn-005",
+            "name": "후지타 코토네의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_normal-mission_shro-001",
@@ -1775,6 +1827,106 @@
         },
         {
             "id": "mission-highscorerush-event-003-mission_56",
+            "name": "5일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_11",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_12",
+            "name": "후지타 코토네의 춤을 1000 이상으로 육성하여 프로듀스를 완료하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_13",
+            "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_14",
+            "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_16",
+            "name": "1일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_21",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_22",
+            "name": "하나미 우메의 댄스를 1000 이상으로 육성하여 프로듀스를 완료하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_23",
+            "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_24",
+            "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_26",
+            "name": "2일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_31",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_32",
+            "name": "후지타 코토네 또는 하나미 우메의 프로듀스로 최종 시험 {threshold}회 합격"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_33",
+            "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_34",
+            "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_36",
+            "name": "3일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_41",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_42",
+            "name": "후지타 코토네 또는 하나미 우메의 프로듀스로 최종 시험 {threshold}회 합격"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_43",
+            "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_44",
+            "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_46",
+            "name": "4일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_51",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_52",
+            "name": "후지타 코토네 또는 하나미 우메의 프로듀스로 최종 시험 {threshold}회 합격"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_53",
+            "name": "후지타 코토네의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_54",
+            "name": "하나미 우메의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-004-mission_56",
             "name": "5일차 미션을 모두 클리어"
         },
         {
@@ -4336,6 +4488,30 @@
         {
             "id": "achieve-i_card-fktn-3-011-06",
             "name": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-01",
+            "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-02",
+            "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-03",
+            "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-04",
+            "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-05",
+            "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-06",
+            "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hmsz-2-000-01",

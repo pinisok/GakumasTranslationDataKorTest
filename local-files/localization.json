@@ -3401,7 +3401,7 @@
     "produce.lesson.no_diff.contest": "점수 상승 없음",
     "produce.lesson.no_diff.score": "상승 없음",
     "produce.lesson.no_effect": "발휘되지 않는 효과가 있습니다.\n실행하시겠습니까?",
-    "produce.lesson.no_effect.aggressive_zero": "동기의 값이 ０이므로 효과가 발동하지 않습니다.",
+    "produce.lesson.no_effect.aggressive_zero": "의욕의 값이 ０이므로 효과가 발동하지 않습니다.",
     "produce.lesson.no_effect.block_restriction": "기력 상승이 무효화되어 효과가 발동되지 않습니다.",
     "produce.lesson.no_effect.block_zero": "기력 값이 0이므로 효과가 발동되지 않습니다.",
     "produce.lesson.no_effect.hand_limit": "선택 슬롯이 이미 상한 매수이므로 효과가 발동하지 않습니다.",

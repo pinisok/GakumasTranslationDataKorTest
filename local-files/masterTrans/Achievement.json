@@ -336,6 +336,36 @@
             "description": "【비 갠 뒤의 아이리스】후지타 코토네의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-fktn-3-013-01",
+            "name": "자기 긍정감 폭발 ↑↑",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-02",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-03",
+            "name": "슈키 슈키 슈~키♡",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-04",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송+",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-05",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송++",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-013-06",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송++",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hmsz-2-000-01",
             "name": "쉬엄쉬엄, 앞으로",
             "description": "【천천히, 한 걸음씩】하타야 미스즈의 프로듀스로 최종 시험에 합격"
