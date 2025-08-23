@@ -151,6 +151,11 @@
             "description": "【Campus mode!!】후지타 코토네의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_fktn-cstm-0063",
+            "name": "축제 핫피",
+            "description": "축제 핫피 (후지타 코토네) 를 구입"
+        },
+        {
             "id": "costume_head_fktn-cstm-0065",
             "name": "가장광소곡",
             "description": "【세계 제일 귀여운 나】'24 할로윈 후지타 코토네 입수"
@@ -249,6 +254,11 @@
             "id": "costume_head_hmsz-cstm-0054",
             "name": "Campus mode!!",
             "description": "【Campus mode!!】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0063",
+            "name": "관국",
+            "description": "【달 거북이】'25 축제 하타야 미스즈 입수"
         },
         {
             "id": "costume_head_hmsz-cstm-0114",
@@ -656,6 +666,11 @@
             "description": "【해피 밀푀유】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_jsna-cstm-0063",
+            "name": "관국",
+            "description": "【작은 야망】'25 축제 주오 세나 입수"
+        },
+        {
             "id": "costume_head_jsna-cstm-0077",
             "name": "Our Chant",
             "description": "【Our Chant】주오 세나를 입수"
@@ -849,6 +864,11 @@
             "id": "costume_head_kllj-cstm-0054",
             "name": "Campus mode!!",
             "description": "【Campus mode!!】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0063",
+            "name": "축제 핫피",
+            "description": "축제 핫피 (카츠라기 릴리야) 를 구입"
         },
         {
             "id": "costume_head_kllj-cstm-0065",

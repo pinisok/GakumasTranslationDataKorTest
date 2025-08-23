@@ -1825,6 +1825,356 @@
             "title": "P과제100",
             "description": "True End : N.I.A를 {threshold} 명 보자",
             "homeDescription": "True End : N.I.A를 {threshold} 명 보자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 1,
+            "title": "P과제04-1",
+            "description": "프로듀스로 「N.I.A」 : 마스터에 {threshold}번 도전하자",
+            "homeDescription": "프로듀스로 「N.I.A」 : 마스터에 {threshold}번 도전하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 2,
+            "title": "P과제04-2",
+            "description": "프로듀스에 도전해 평가 SS 이상을 획득하자",
+            "homeDescription": "프로듀스에 도전해 평가 SS 이상을 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 3,
+            "title": "P과제04-3",
+            "description": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 4,
+            "title": "P과제04-4",
+            "description": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자",
+            "homeDescription": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 5,
+            "title": "P과제04-5",
+            "description": "True End : N.I.A를 {threshold} 명 보자",
+            "homeDescription": "True End : N.I.A를 {threshold} 명 보자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 6,
+            "title": "P과제04-6",
+            "description": "업적을 {threshold}개 획득하자",
+            "homeDescription": "업적을 {threshold}개 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 7,
+            "title": "P과제04-7",
+            "description": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자",
+            "homeDescription": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 8,
+            "title": "P과제04-8",
+            "description": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 9,
+            "title": "P과제04-9",
+            "description": "프로듀서 Lv {threshold}에 도달하자.",
+            "homeDescription": "프로듀서 Lv {threshold}에 도달하자."
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 10,
+            "title": "P과제04-10",
+            "description": "하나미 사키의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 11,
+            "title": "P과제04-11",
+            "description": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 12,
+            "title": "P과제04-12",
+            "description": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 13,
+            "title": "P과제04-13",
+            "description": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 14,
+            "title": "P과제04-14",
+            "description": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 15,
+            "title": "P과제04-15",
+            "description": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 16,
+            "title": "P과제04-16",
+            "description": "시운 스미카의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 17,
+            "title": "P과제04-17",
+            "description": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 18,
+            "title": "P과제04-18",
+            "description": "하나미 우메의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 19,
+            "title": "P과제04-19",
+            "description": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 20,
+            "title": "P과제04-20",
+            "description": "주오 세나의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 21,
+            "title": "P과제04-21",
+            "description": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자",
+            "homeDescription": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 22,
+            "title": "P과제04-22",
+            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：센스의 프로듀스 아이돌",
+            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：센스의 프로듀스 아이돌"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 23,
+            "title": "P과제04-23",
+            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：로직의 프로듀스 아이돌",
+            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：로직의 프로듀스 아이돌"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 24,
+            "title": "P과제04-24",
+            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：어노말리의 프로듀스 아이돌",
+            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：어노말리의 프로듀스 아이돌"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 25,
+            "title": "P과제04-25",
+            "description": "N.I.A에서 스킬 카드를 {threshold}번 커스터마이징하자",
+            "homeDescription": "N.I.A에서 스킬 카드를 {threshold}번 커스터마이징하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 26,
+            "title": "P과제04-26",
+            "description": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6 달성하자",
+            "homeDescription": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 27,
+            "title": "P과제04-27",
+            "description": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자",
+            "homeDescription": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 28,
+            "title": "P과제04-28",
+            "description": "서포트 카드 {threshold}장을 Lv50 으로 만들자",
+            "homeDescription": "서포트 카드 {threshold}장을 Lv50 으로 만들자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 29,
+            "title": "P과제04-29",
+            "description": "프로듀서 Lv {threshold}에 도달하자.",
+            "homeDescription": "프로듀서 Lv {threshold}에 도달하자."
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 30,
+            "title": "P과제04-30",
+            "description": "하나미 사키로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "하나미 사키로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 31,
+            "title": "P과제04-31",
+            "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "츠키무라 테마리로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 32,
+            "title": "P과제04-32",
+            "description": "후지타 코토네로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "후지타 코토네로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 33,
+            "title": "P과제04-33",
+            "description": "아리무라 마오로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "아리무라 마오로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 34,
+            "title": "P과제04-34",
+            "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 35,
+            "title": "P과제04-35",
+            "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "쿠라모토 치나로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 36,
+            "title": "P과제04-36",
+            "description": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자",
+            "homeDescription": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 37,
+            "title": "P과제04-37",
+            "description": "업적을 {threshold}개 획득하자",
+            "homeDescription": "업적을 {threshold}개 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 38,
+            "title": "P과제04-38",
+            "description": "시운 스미카로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "시운 스미카로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 39,
+            "title": "P과제04-39",
+            "description": "시노사와 히로로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "시노사와 히로로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 40,
+            "title": "P과제04-40",
+            "description": "하나미 우메로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "하나미 우메로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 41,
+            "title": "P과제04-41",
+            "description": "히메사키 리나미로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "히메사키 리나미로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 42,
+            "title": "P과제04-42",
+            "description": "주오 세나로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "주오 세나로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 43,
+            "title": "P과제04-43",
+            "description": "하타야 미스즈로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자",
+            "homeDescription": "하타야 미스즈로 최종 시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 44,
+            "title": "P과제04-44",
+            "description": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자",
+            "homeDescription": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 45,
+            "title": "P과제04-45",
+            "description": "N.I.A에서 스킬 카드를 {threshold}번 커스터마이징하자",
+            "homeDescription": "N.I.A에서 스킬 카드를 {threshold}번 커스터마이징하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 46,
+            "title": "P과제04-46",
+            "description": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6 달성하자",
+            "homeDescription": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6 달성하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 47,
+            "title": "P과제04-47",
+            "description": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자",
+            "homeDescription": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 48,
+            "title": "P과제04-48",
+            "description": "서포트 카드 {threshold}장을 Lv60 으로 만들자",
+            "homeDescription": "서포트 카드 {threshold}장을 Lv60 으로 만들자"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 49,
+            "title": "P과제04-49",
+            "description": "프로듀서 Lv {threshold}에 도달하자.",
+            "homeDescription": "프로듀서 Lv {threshold}에 도달하자."
+        },
+        {
+            "mainTaskGroupId": "main_task_group-04-01",
+            "number": 50,
+            "title": "P과제04-50",
+            "description": "프로듀스 아이돌 {threshold}명의 특훈 단계를 7 달성하자",
+            "homeDescription": "프로듀스 아이돌 {threshold}명의 특훈 단계를 7 달성하자"
         }
     ]
 }

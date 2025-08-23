@@ -7699,7 +7699,7 @@
         },
         {
             "id": "main_task_group-01-01#30",
-            "name": "프로듀스에 도전하여 C+ 이상의 등급을 획득하자"
+            "name": "프로듀스에 도전하여 평가 C+ 이상을 획득하자"
         },
         {
             "id": "main_task_group-01-01#31",
@@ -8620,6 +8620,206 @@
         {
             "id": "main_task_group-03-01#100",
             "name": "True End : N.I.A를 {threshold} 명 보자"
+        },
+        {
+            "id": "main_task_group-04-01#1",
+            "name": "프로듀스로 「N.I.A」:마스터에 {threshold}번 도전하자"
+        },
+        {
+            "id": "main_task_group-04-01#2",
+            "name": "프로듀스에 도전하여 평가 SS 이상을 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#3",
+            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#4",
+            "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#5",
+            "name": "True End : N.I.A를 {threshold} 명 보자"
+        },
+        {
+            "id": "main_task_group-04-01#6",
+            "name": "업적을 {threshold}개 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#7",
+            "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#8",
+            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#9",
+            "name": "프로듀서 Lv {threshold}에 도달하자."
+        },
+        {
+            "id": "main_task_group-04-01#10",
+            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#11",
+            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#12",
+            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#13",
+            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#14",
+            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#15",
+            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#16",
+            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#17",
+            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#18",
+            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#19",
+            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#20",
+            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#21",
+            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#22",
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 센스의 프로듀스 아이돌"
+        },
+        {
+            "id": "main_task_group-04-01#23",
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 로직의 프로듀스 아이돌"
+        },
+        {
+            "id": "main_task_group-04-01#24",
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 어노말리의 프로듀스 아이돌"
+        },
+        {
+            "id": "main_task_group-04-01#25",
+            "name": "N.I.A에서 스킬 카드를 {threshold}번 커스터마이징하자"
+        },
+        {
+            "id": "main_task_group-04-01#26",
+            "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#27",
+            "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#28",
+            "name": "서포트 카드 {threshold}장을 Lv50로 만들자"
+        },
+        {
+            "id": "main_task_group-04-01#29",
+            "name": "프로듀서 Lv {threshold}에 도달하자."
+        },
+        {
+            "id": "main_task_group-04-01#30",
+            "name": "하나미 사키로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#31",
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#32",
+            "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#33",
+            "name": "아리무라 마오로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#34",
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#35",
+            "name": "쿠라모토 치나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#36",
+            "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#37",
+            "name": "업적을 {threshold}개 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#38",
+            "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#39",
+            "name": "시노사와 히로로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#40",
+            "name": "하나미 우메로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#41",
+            "name": "히메사키 리나미로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#42",
+            "name": "주오 세나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#43",
+            "name": "하타야 미스즈로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#44",
+            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+        },
+        {
+            "id": "main_task_group-04-01#45",
+            "name": "N.I.A에서 스킬 카드를 {threshold}번 커스터마이징하자"
+        },
+        {
+            "id": "main_task_group-04-01#46",
+            "name": "프로듀스 아이돌 {threshold}명의 특훈 단계를 6 달성하자"
+        },
+        {
+            "id": "main_task_group-04-01#47",
+            "name": "아이돌 길에서 ★을 총 {threshold} 개 이상 획득하자"
+        },
+        {
+            "id": "main_task_group-04-01#48",
+            "name": "서포트 카드 {threshold}장을 Lv60로 만들자"
+        },
+        {
+            "id": "main_task_group-04-01#49",
+            "name": "프로듀서 Lv {threshold}에 도달하자."
+        },
+        {
+            "id": "main_task_group-04-01#50",
+            "name": "プロデュースアイドル{threshold}人の特訓段階を7にしよう"
         }
     ]
 }

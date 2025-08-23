@@ -7069,12 +7069,12 @@
         {
             "id": "Label_ProduceCardPositionType_DeckFirst",
             "produceDescriptions": [],
-            "name": "덱 위"
+            "name": "덱의 맨 위"
         },
         {
             "id": "Label_ProduceCardPositionType_DeckLast",
             "produceDescriptions": [],
-            "name": "덱 아래 "
+            "name": "댁의 맨 아래"
         },
         {
             "id": "Label_ProduceCardPositionType_DeckRandom",

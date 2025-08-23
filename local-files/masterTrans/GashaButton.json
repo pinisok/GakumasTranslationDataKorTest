@@ -97,6 +97,12 @@
             "description": "10회 가챠"
         },
         {
+            "id": "gasha_button-pickup-001-10-another25summer",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
             "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
             "order": 1,
             "name": "10회 가챠",
@@ -113,6 +119,12 @@
             "order": 3,
             "name": "10회 가챠",
             "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_marge_button-ssr-00520",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "有償10回ガシャ"
         },
         {
             "id": "gasha_ticket_ssr_10_button-001",

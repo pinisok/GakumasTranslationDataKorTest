@@ -120,6 +120,12 @@
             "acquisitionRouteDescription": "머니 교환소 등"
         },
         {
+            "id": "item-dearness-unlock-fktn",
+            "name": "코토네의 기록의 열쇠",
+            "description": "후지타 코토네의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-dearness-unlock-shro",
             "name": "히로의 기록의 열쇠",
             "description": "시노사와 히로의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
