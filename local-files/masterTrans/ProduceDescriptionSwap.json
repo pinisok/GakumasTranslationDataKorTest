@@ -294,7 +294,7 @@
         {
             "id": "Swap_Label_ProduceCardPositionType_DeckLast",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "덱의 맨 아래 "
+            "text": "덱의 맨 아래"
         },
         {
             "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
