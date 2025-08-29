@@ -5367,5 +5367,6 @@
     "memory.inherit.disable.grade.toast_range": "평가가 {0} 등급보다 낮은 메모리를 선택할 수 없습니다.",
     "memory.inherit.select_memory.customize_base_disable.toast": "커스터마이즈 되지 않은 카드는 합성할 수 없습니다.",
     "memory.inherit.select_memory.customize_base_equal_customize_down_disable.toast": "커스터마이즈 단계가 낮은 카드는 합성할 수 없습니다.",
-    "memory.inherit.select_memory.customize_base_equal_customize_equal_disable.toast": "동일한 맞춤형 카드는 합성할 수 없습니다."
+    "memory.inherit.select_memory.customize_base_equal_customize_equal_disable.toast": "동일한 맞춤형 카드는 합성할 수 없습니다.",
+    "memory.detail.produce_review.disabled.not_cleared_true_live": "TrueLIVE가 해금되지 않음"
 }
