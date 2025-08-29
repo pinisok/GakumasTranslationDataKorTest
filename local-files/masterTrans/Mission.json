@@ -3910,6 +3910,34 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-tour-event-001-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-tour-event-001-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-tour-event-001-mission_3",
+            "name": "라이브 투어 이벤트를 {threshold}번 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-001-mission_4",
+            "name": "라이브 투어 이벤트에서 하코유레 Lv1 이상의 무대에 {threshold}번 도전해 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-001-mission_5",
+            "name": "라이브 투어 이벤트에서 하코유레 Lv2 이상의 무대에 {threshold}번 도전해 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-001-mission_6",
+            "name": "라이브 투어 이벤트에서 하코유레 Lv3 이상의 무대에 {threshold}번 도전해 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-001-mission_7",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-weekly-incrementgashadrawcount-1",
             "name": "코인 가챠를 {threshold}번 뽑자"
         },
@@ -4344,6 +4372,30 @@
         {
             "id": "achieve-i_card-amao-3-009-06",
             "name": "【눈이 녹을 때에】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-013-01",
+            "name": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-013-02",
+            "name": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-013-03",
+            "name": "【미라쿠루나나우(˚∀˚)!】아리무라 마오로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-013-04",
+            "name": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-013-05",
+            "name": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-013-06",
+            "name": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",
@@ -5832,6 +5884,30 @@
         {
             "id": "achieve-i_card-ssmk-3-012-06",
             "name": "【Love & Joy】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-014-01",
+            "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-014-02",
+            "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-014-03",
+            "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-014-04",
+            "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-014-05",
+            "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-014-06",
+            "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",

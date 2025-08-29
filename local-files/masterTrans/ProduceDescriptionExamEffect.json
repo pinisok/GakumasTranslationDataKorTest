@@ -319,7 +319,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-            "name": "호조 감소"
+            "name": "절호조 감소"
         },
         {
             "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",

@@ -593,7 +593,7 @@
             "helpCategoryId": "help-livetour-event",
             "id": "tour-play-ticket",
             "order": 3,
-            "name": "ライブ挑戦券"
+            "name": "라이브 도전권"
         },
         {
             "helpCategoryId": "help-livetour-event",
@@ -605,7 +605,7 @@
             "helpCategoryId": "help-livetour-event",
             "id": "tour-stage",
             "order": 2,
-            "name": "イベントステージ"
+            "name": "이벤트 스테이지"
         },
         {
             "helpCategoryId": "help-livetour-event",

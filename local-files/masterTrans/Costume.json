@@ -126,6 +126,16 @@
             "description": "【Fluorite】'25 애니메이트 아리무라 마오 입수"
         },
         {
+            "id": "amao-cstm-0120",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오 입수"
+        },
+        {
+            "id": "amao-cstm-0121",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
             "id": "amao-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(아리무라 마오) 구매하기"
@@ -291,6 +301,11 @@
             "description": "【세계 제일 귀여운 나】'25 애니메이트 후지타 코토네 입수"
         },
         {
+            "id": "fktn-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【세계 제일 귀여운 나】'25 미라쿠루나나우(˚∀˚)! 후지타 코토네 입수"
+        },
+        {
             "id": "fktn-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(후지타 코토네) 구매하기"
@@ -379,6 +394,11 @@
             "id": "hmsz-cstm-0115",
             "name": "Star-mine",
             "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【달 거북이】'25 미라쿠루나나우(˚∀˚)! 하타야 미스즈 입수"
         },
         {
             "id": "hmsz-othr-0002",
@@ -529,6 +549,11 @@
             "id": "hrnm-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【clumsy trick】'25 애니메이트 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【clumsy trick】'25 미라쿠루나나우(˚∀˚)! 히메사키 리나미 입수"
         },
         {
             "id": "hrnm-othr-0000",
@@ -696,6 +721,11 @@
             "description": "【Fighting My Way】'25 Howling over the World 하나미 사키 입수"
         },
         {
+            "id": "hski-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【Fighting My Way】'25 미라쿠루나나우(˚∀˚)! 하나미 사키 입수"
+        },
+        {
             "id": "hski-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(하나미 사키) 구매하기"
@@ -814,6 +844,11 @@
             "id": "hume-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【The Rolling Riceball】'25 애니메이트 하나미 ​​우메를 입수"
+        },
+        {
+            "id": "hume-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【The Rolling Riceball】'25 미라쿠루나나우(˚∀˚)! 하나미 우메 입수"
         },
         {
             "id": "hume-othr-0000",
@@ -954,6 +989,11 @@
             "id": "jsna-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【작은 야망】'25 애니메이트 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【작은 야망】'25 미라쿠루나나우(˚∀˚)! 주오 세나 입수"
         },
         {
             "id": "jsna-othr-0002",
@@ -1099,6 +1139,11 @@
             "id": "kcna-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【Wonder Scale】'25 애니메이트 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【Wonder Scale】'25 미라쿠루나나우(˚∀˚)! 쿠라모토 치나 입수"
         },
         {
             "id": "kcna-othr-0002",
@@ -1249,6 +1294,11 @@
             "id": "kllj-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【백선】'25 애니메이트 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【백선】'25 미라쿠루나나우(˚∀˚)! 카츠라기 릴리야를 입수"
         },
         {
             "id": "kllj-othr-0002",
@@ -1571,6 +1621,11 @@
             "description": "【Tame-Lie-One-Step】'25 애니메이트 시운 스미카 입수"
         },
         {
+            "id": "ssmk-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【미라쿠루나나우(˚∀˚)!】시운 스미카 입수"
+        },
+        {
             "id": "ssmk-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복 (시운 스미카) 구입하기"
@@ -1719,6 +1774,11 @@
             "id": "ttmr-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【Luna say maybe】'25 애니메이트 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0122",
+            "name": "미라쿠루나나우(˚∀˚)!",
+            "description": "【Luna say maybe】'25 미라쿠루나나우(˚∀˚)! 츠키무라 테마리 입수"
         },
         {
             "id": "ttmr-othr-0002",

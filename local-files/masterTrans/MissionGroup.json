@@ -534,6 +534,10 @@
             "name": "스토리 이벤트 미션 013"
         },
         {
+            "id": "mission-group-tour-event-001",
+            "name": "투어 이벤트 미션 001"
+        },
+        {
             "id": "panel_mission-event-002-group_1",
             "name": "제2회 패널미션 시트 1"
         },
