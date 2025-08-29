@@ -420,6 +420,12 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-medal-tour-event-001",
+            "name": "大阪ツアーメダル",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "시즌 이벤트"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "센스 코인",
             "description": "센스 가챠에 사용하는 코인",
@@ -494,6 +500,12 @@
         {
             "id": "item-piece-idol_amao-3-009",
             "name": "[눈이 녹을 때에] 아리무라 마오의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-013",
+            "name": "[ミラクルナナウ(ﾟ∀ﾟ)！]有村麻央のピース",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -1032,6 +1044,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_ssmk-3-014",
+            "name": "[ミラクルナナウ(ﾟ∀ﾟ)！]紫雲清夏のピース",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "イベント交換所など"
+        },
+        {
             "id": "item-piece-idol_ttmr-1-000",
             "name": "[학원생활] 츠키무라 테마리의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1084,6 +1102,12 @@
             "name": "[비 갠 뒤의 아이리스] 츠키무라 테마리의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-play-ticket_tour-event-001",
+            "name": "ライブ挑戦券（大阪）",
+            "description": "ライブツアーイベントでステージに挑戦できるアイテム",
+            "acquisitionRouteDescription": "시즌 이벤트"
         },
         {
             "id": "item-produce_continue-1",

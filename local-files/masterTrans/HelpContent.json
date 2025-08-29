@@ -573,51 +573,51 @@
         },
         {
             "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-exchange",
-            "order": 5,
-            "name": "テスト：help-livetour-event-exchange"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-finish",
-            "order": 9,
-            "name": "テスト：help-livetour-event-finish"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-memory",
-            "order": 3,
-            "name": "テスト：help-livetour-event-memory"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-mission",
+            "id": "tour-exchange",
             "order": 7,
-            "name": "テスト：help-livetour-event-mission"
+            "name": "이벤트 교환소용 아이템"
         },
         {
             "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-reward",
+            "id": "tour-finish",
+            "order": 9,
+            "name": "이벤트 종료 후"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-idol",
             "order": 4,
-            "name": "テスト：help-livetour-event-reward"
+            "name": "이벤트 보상 프로듀스 아이돌"
         },
         {
             "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-rule",
-            "order": 1,
-            "name": "テスト：help-livetour-event-rule"
+            "id": "tour-play-ticket",
+            "order": 3,
+            "name": "ライブ挑戦券"
         },
         {
             "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-stage",
-            "order": 2,
-            "name": "テスト：help-livetour-event-stage"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "help-livetour-event-story",
+            "id": "tour-reward",
             "order": 6,
-            "name": "テスト：help-livetour-event-story"
+            "name": "이벤트 보상"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-stage",
+            "order": 2,
+            "name": "イベントステージ"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-story",
+            "order": 5,
+            "name": "이벤트 커뮤"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
+            "id": "tour-tour",
+            "order": 1,
+            "name": "시즌 이벤트"
         },
         {
             "helpCategoryId": "help-main-story-event",

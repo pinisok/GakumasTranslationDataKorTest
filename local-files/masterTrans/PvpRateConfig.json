@@ -82,8 +82,28 @@
             "description": "S26"
         },
         {
+            "id": "pvp_rate_config-27",
+            "description": "S27"
+        },
+        {
+            "id": "pvp_rate_config-28",
+            "description": "S28"
+        },
+        {
+            "id": "pvp_rate_config-29",
+            "description": "S29"
+        },
+        {
             "id": "pvp_rate_config-3",
             "description": "S3"
+        },
+        {
+            "id": "pvp_rate_config-30",
+            "description": "S30"
+        },
+        {
+            "id": "pvp_rate_config-31",
+            "description": "S31"
         },
         {
             "id": "pvp_rate_config-4",

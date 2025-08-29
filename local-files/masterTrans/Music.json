@@ -94,6 +94,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-012-inst",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！ [Instrumental]",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！ [Instrumental]",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-amao-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -180,6 +188,14 @@
             "lyrics": "카리스야사보우",
             "composer": "카리스야사보우",
             "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-amao-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
         },
         {
             "id": "music-all-fktn-001",
@@ -270,6 +286,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-fktn-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-hmsz-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -292,6 +316,22 @@
             "lyrics": "이츠키 오토",
             "composer": "미츠마스 하지메 (FirstCall)",
             "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-hmsz-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hmsz-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
         },
         {
             "id": "music-all-hrnm-001",
@@ -382,6 +422,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-hrnm-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-hski-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -470,6 +518,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-hski-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-hume-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -534,6 +590,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-hume-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-jsna-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -556,6 +620,14 @@
             "lyrics": "이츠키 오토",
             "composer": "미츠마스 하지메 (FirstCall)",
             "arranger": "미츠마스 하지메 (FirstCall)"
+        },
+        {
+            "id": "music-all-jsna-004",
+            "title": "관국",
+            "displayTitle": "관국",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
         },
         {
             "id": "music-all-jsna-007",
@@ -596,6 +668,14 @@
             "lyrics": "카리스야사보우",
             "composer": "카리스야사보우",
             "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-jsna-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
         },
         {
             "id": "music-all-kcna-001",
@@ -686,6 +766,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-kcna-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-kllj-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -772,6 +860,14 @@
             "lyrics": "카리스야사보우",
             "composer": "카리스야사보우",
             "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-kllj-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
         },
         {
             "id": "music-all-nasr-010",
@@ -958,6 +1054,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-ssmk-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-ttmr-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1044,6 +1148,14 @@
             "lyrics": "카리스야사보우",
             "composer": "카리스야사보우",
             "arranger": "카리스야사보우"
+        },
+        {
+            "id": "music-all-ttmr-012",
+            "title": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "displayTitle": "ミラクルナナウ(ﾟ∀ﾟ)！",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
         },
         {
             "id": "music-bgm-01_001",

@@ -62,14 +62,6 @@
             "description": "#学マス #初星学園通知表 "
         },
         {
-            "id": "pvp.rate.support_bonus.sheet.bullet_point2",
-            "description": "・보유하고 있는 서포트 카드의 보너스 합계가\\n 콘테스트/아이돌 길 스코어에서\\n 적용되는 서포트 보너스가 됩니다."
-        },
-        {
-            "id": "pvp.rate.support_bonus.sheet.description",
-            "description": "콘테스트/아이돌 길 스코어에 적용되는\\n보너스입니다."
-        },
-        {
             "id": "title.menu.delete_local_data.description",
             "description": "저장된 로컬 데이터를 삭제하시겠습니까?\\n\\n■주의 사항(※반드시 읽어 주세요)\\n로컬 데이터 삭제를 하면 사용자 데이터는 삭제되지 않지만 게임 플레이 중 중단 데이터나 일부 저장 상태는 삭제됩니다."
         },
