@@ -1154,6 +1154,24 @@
             "name": "True End： N.I.A"
         },
         {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-produce",
+            "order": 2,
+            "name": "이벤트 모드 프로듀스"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-reroll",
+            "order": 3,
+            "name": "메모리 어빌리티 재추첨"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-research-event",
+            "order": 1,
+            "name": "아사리 선생님의 프로듀스 세미나"
+        },
+        {
             "helpCategoryId": "help-shop",
             "id": "shop-coingasha",
             "order": 5,

@@ -990,6 +990,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_shro-3-014",
+            "name": "[미라쿠루나나우(˚∀˚)!]시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_ssmk-1-000",
             "name": "[학원생활] 시운 스미카의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1138,6 +1144,12 @@
             "name": "콘테스트 메달",
             "description": "교환소에서 사용하는 메달",
             "acquisitionRouteDescription": "콘테스트"
+        },
+        {
+            "id": "item-research-event-001",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
         },
         {
             "id": "item-selection-ticket-001",

@@ -610,6 +610,10 @@
             "name": "24 시즌 한정 SSR 확정 10연 가챠를 {threshold}번 뽑자"
         },
         {
+            "id": "hidden_mission-view-gasha-00540-free-10-005",
+            "name": "아사리 선생님의 선물! 최대 100연 무료! 10연 무료 가챠를 {threadhold}회 뽑자"
+        },
+        {
             "id": "mission-box-gasha-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -3718,6 +3722,38 @@
             "name": "7일차의 모든 미션을 클리어하자"
         },
         {
+            "id": "mission-research-event-001-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-001-mission_10",
+            "name": "스킬 카드 「천진난만」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-001-mission_11",
+            "name": "스킬 카드 「각성」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-001-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-001-mission_2",
+            "name": "플랜：아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-research-event-001-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+        },
+        {
+            "id": "mission-research-event-001-mission_8",
+            "name": "스킬 카드 「성취」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-001-mission_9",
+            "name": "스킬 카드 「국민적 아이돌」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
             "id": "mission-story-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -5742,6 +5778,30 @@
             "name": "【선 페이디드】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-shro-3-014-01",
+            "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-014-02",
+            "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-014-03",
+            "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-014-04",
+            "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-014-05",
+            "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-014-06",
+            "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-ssmk-2-000-04",
             "name": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
         },
@@ -7656,6 +7716,18 @@
         {
             "id": "achieve-p_idol-ttmr-022",
             "name": "츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achievement_char_kcna-024",
+            "name": "쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achievement_char_kllj-024",
+            "name": "카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achievement_char_ssmk-024",
+            "name": "시운 스미카의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "main_task_group-01-01#1",
