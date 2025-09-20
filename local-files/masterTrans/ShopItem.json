@@ -18,6 +18,10 @@
             "name": "하츠보시 학원 체육복 (아리무라 마오)"
         },
         {
+            "id": "shop_costume_amao-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (아리무라 마오)"
+        },
+        {
             "id": "shop_costume_costume_head_amao-hair-0001",
             "name": "수국 꽃 머리 장식 (아리무라 마오)"
         },
@@ -122,6 +126,10 @@
             "name": "하츠보시 학원 체육복 (후지타 코토네)"
         },
         {
+            "id": "shop_costume_fktn-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (후지타 코토네)"
+        },
+        {
             "id": "shop_costume_hmsz-cstm-0069",
             "name": "차일드 스모크 (하타야 미스즈)"
         },
@@ -135,6 +143,10 @@
         },
         {
             "id": "shop_costume_hmsz-trng-0002",
+            "name": "하츠보시 학원 체육복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-trng-0002-resale",
             "name": "하츠보시 학원 체육복 (하타야 미스즈)"
         },
         {
@@ -154,6 +166,10 @@
             "name": "하츠보시 학원 체육복 (히메사키 리나미)"
         },
         {
+            "id": "shop_costume_hrnm-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (히메사키 리나미)"
+        },
+        {
             "id": "shop_costume_hski-cstm-0069_revival-1",
             "name": "차일드 스모크 (하나미 사키)"
         },
@@ -163,6 +179,10 @@
         },
         {
             "id": "shop_costume_hski-trng-0002",
+            "name": "하츠보시 학원 체육복 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-trng-0002-resale",
             "name": "하츠보시 학원 체육복 (하나미 사키)"
         },
         {
@@ -179,6 +199,10 @@
         },
         {
             "id": "shop_costume_hume-trng-0002",
+            "name": "하츠보시 학원 체육복 (하나미 우메)"
+        },
+        {
+            "id": "shop_costume_hume-trng-0002-resale",
             "name": "하츠보시 학원 체육복 (하나미 우메)"
         },
         {
@@ -202,6 +226,10 @@
             "name": "하츠보시 학원 체육복 (주오 세나)"
         },
         {
+            "id": "shop_costume_jsna-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (주오 세나)"
+        },
+        {
             "id": "shop_costume_kcna-cstm-0069_revival-1",
             "name": "차일드 스모크 (쿠라모토 치나)"
         },
@@ -211,6 +239,10 @@
         },
         {
             "id": "shop_costume_kcna-trng-0002",
+            "name": "하츠보시 학원 체육복 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_kcna-trng-0002-resale",
             "name": "하츠보시 학원 체육복 (쿠라모토 치나)"
         },
         {
@@ -227,6 +259,10 @@
         },
         {
             "id": "shop_costume_kllj-trng-0002",
+            "name": "하츠보시 학원 체육복 (카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_kllj-trng-0002-resale",
             "name": "하츠보시 학원 체육복 (카츠라기 릴리야)"
         },
         {
@@ -254,6 +290,10 @@
             "name": "하츠보시 학원 체육복 (시노사와 히로)"
         },
         {
+            "id": "shop_costume_shro-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (시노사와 히로)"
+        },
+        {
             "id": "shop_costume_ssmk-cstm-0051",
             "name": "후드 수영복 (시운 스미카)"
         },
@@ -270,6 +310,10 @@
             "name": "하츠보시 학원 체육복 (시운 스미카)"
         },
         {
+            "id": "shop_costume_ssmk-trng-0002-resale",
+            "name": "하츠보시 학원 체육복 (시운 스미카)"
+        },
+        {
             "id": "shop_costume_ttmr-cstm-0069_revival-1",
             "name": "차일드 스모크 (츠키무라 테마리)"
         },
@@ -279,6 +323,10 @@
         },
         {
             "id": "shop_costume_ttmr-trng-0002",
+            "name": "하츠보시 학원 체육복 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-trng-0002-resale",
             "name": "하츠보시 학원 체육복 (츠키무라 테마리)"
         },
         {
@@ -428,6 +476,10 @@
         {
             "id": "shop_pack_item-0014",
             "name": "【72시간 한정】프로듀스 아이돌 피스 팩(리나미)"
+        },
+        {
+            "id": "shop_pack_item-0050",
+            "name": "하츠보시 운동회 개최 기념 팩"
         },
         {
             "id": "shop_pack_item-100dl",

@@ -726,6 +726,36 @@
             "description": "【Howling over the World】히메사키 리나미의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hrnm-3-013-01",
+            "name": "미열 노스탤지어",
+            "description": "【36℃ U･B･U】히메사키 리나미의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-013-02",
+            "name": "36℃ U･B･U",
+            "description": "【36℃ U･B･U】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-013-03",
+            "name": "너를 만나서, 나는 다시",
+            "description": "【36℃ U･B･U】히메사키 리나미로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-013-04",
+            "name": "36℃ U･B･U +",
+            "description": "【36℃ U･B･U】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-013-05",
+            "name": "36℃ U･B･U ++",
+            "description": "【36℃ U･B･U】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-013-06",
+            "name": "36℃ U･B･U +++",
+            "description": "【36℃ U･B･U】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hski-2-000-04",
             "name": "내가 제일!+",
             "description": "【내가 최고!】 하나미 사키의 특훈 단계 {threshold} 달성"

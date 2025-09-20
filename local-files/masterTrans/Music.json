@@ -966,6 +966,14 @@
             "arranger": "카리스야사보우"
         },
         {
+            "id": "music-all-shro-012",
+            "title": "미라쿠루나나우(˚∀˚)!",
+            "displayTitle": "미라쿠루나나우(˚∀˚)!",
+            "lyrics": "YUC'e",
+            "composer": "YUC'e",
+            "arranger": "YUC'e"
+        },
+        {
             "id": "music-all-ssmk-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1620,6 +1628,22 @@
             "lyrics": "시나가와 이츠키",
             "composer": "스도 유겐",
             "arranger": "스도 유겐"
+        },
+        {
+            "id": "music-char-hrnm-004",
+            "title": "36℃ U･B･U",
+            "displayTitle": "36℃ U･B･U",
+            "lyrics": "Soflan Daichi",
+            "composer": "이토 츠바사",
+            "arranger": "이토 츠바사"
+        },
+        {
+            "id": "music-char-hrnm-004-inst",
+            "title": "36℃ U･B･U [Instrumental]",
+            "displayTitle": "36℃ U･B･U [Instrumental]",
+            "lyrics": "Soflan Daichi",
+            "composer": "이토 츠바사",
+            "arranger": "이토 츠바사"
         },
         {
             "id": "music-char-hski-001",

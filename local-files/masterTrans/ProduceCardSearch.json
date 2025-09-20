@@ -1718,6 +1718,21 @@
             ]
         },
         {
+            "id": "p_card_search-ssr-deck_grave",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "덱이나 버린 패에 있는 스킬 카드(SSR)"
+                }
+            ]
+        },
+        {
             "id": "p_card_search-ssr-lost",
             "produceDescriptions": [
                 {

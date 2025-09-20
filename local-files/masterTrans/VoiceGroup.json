@@ -2707,6 +2707,66 @@
             "title": "프로듀스④"
         },
         {
+            "id": "voice_group-cidol-hrnm-3-013_home",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013_home",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013_home",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-detail",
+            "voiceAssetId": "sud_vo_system_hrnm-cstm-0094_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-detail",
+            "voiceAssetId": "sud_vo_system_hrnm-cstm-0094_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hrnm-3-013-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hrnm-3-013_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-hrnm-3-014_home",
             "voiceAssetId": "sud_vo_system_cidol-hrnm-3-014_home_cmmn-01",
             "title": "홈①"
@@ -6687,6 +6747,66 @@
             "title": "옷 갈아입기②"
         },
         {
+            "id": "voice_group-cidol-shro-3-014_home",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014_home",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014_home",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-detail",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-detail",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-detail",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-detail",
+            "voiceAssetId": "sud_vo_system_shro-cstm-0120_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-detail",
+            "voiceAssetId": "sud_vo_system_shro-cstm-0120_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-shro-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-shro-3-014_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-ssmk-1-000-detail",
             "voiceAssetId": "sud_vo_system_ssmk-schl-0000_01",
             "title": "옷 갈아입기①"
@@ -8707,6 +8827,16 @@
             "title": "벚꽃 포토그래프"
         },
         {
+            "id": "voice_group-hrnm-cstm-0094-cmmn",
+            "voiceAssetId": "sud_vo_system_hrnm-cstm-0094_01",
+            "title": "36℃ U･B･U"
+        },
+        {
+            "id": "voice_group-hrnm-cstm-0094-cmmn",
+            "voiceAssetId": "sud_vo_system_hrnm-cstm-0094_02",
+            "title": "36℃ U･B･U"
+        },
+        {
             "id": "voice_group-hrnm-cstm-0110-cmmn",
             "voiceAssetId": "sud_vo_system_hrnm-cstm-0110_01",
             "title": "칠흑의 반짝임"
@@ -10175,6 +10305,16 @@
             "id": "voice_group-shro-cstm-0119-cmmn",
             "voiceAssetId": "sud_vo_system_shro-cstm-0119_02",
             "title": "고금동서 식은 죽 먹기"
+        },
+        {
+            "id": "voice_group-shro-cstm-0120-cmmn",
+            "voiceAssetId": "sud_vo_system_shro-cstm-0120_01",
+            "title": "미라쿠루나나우(˚∀˚)!"
+        },
+        {
+            "id": "voice_group-shro-cstm-0120-cmmn",
+            "voiceAssetId": "sud_vo_system_shro-cstm-0120_02",
+            "title": "미라쿠루나나우(˚∀˚)!"
         },
         {
             "id": "voice_group-shro-othr-0002-cmmn",

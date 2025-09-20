@@ -442,6 +442,41 @@
             "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
         },
         {
+            "characterId": "hrnm",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "히메사키 리나미의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
             "characterId": "hski",
             "dearnessLevel": 1,
             "produceConditionDescription": ""

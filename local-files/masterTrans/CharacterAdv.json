@@ -33,7 +33,7 @@
         {
             "characterId": "hrnm",
             "name": "히메사키 리나미",
-            "regexp": "리나미"
+            "regexp": "리나미$"
         },
         {
             "characterId": "hski",
