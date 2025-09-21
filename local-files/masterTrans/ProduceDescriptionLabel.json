@@ -3923,7 +3923,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 최소값에 따라, 1당 10%(임시) 증가"
+                    "text": "의 최소값에 따라, 1당 10% 증가"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3936,7 +3936,7 @@
                     "text": ""
                 }
             ],
-            "name": "프라이드 (임시)"
+            "name": "프라이드"
         },
         {
             "id": "Label_ExamLessonValueMultipleDown",
