@@ -1477,7 +1477,7 @@
         },
         {
             "id": "achieve-i_card-kcna-3-012-01",
-            "name": "다음버에는 반드시",
+            "name": "다음 번에는 반드시",
             "description": "【Howling over the World】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
         },
         {
@@ -3223,7 +3223,7 @@
         {
             "id": "achieve-p_idol-hmsz-013",
             "name": "돌보는게 좋아",
-            "description": "하타야 미스즈의 프로듀싱 상담으로 {threshold}회 교환"
+            "description": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 강화"
         },
         {
             "id": "achieve-p_idol-hmsz-014",
