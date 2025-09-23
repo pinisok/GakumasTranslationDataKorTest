@@ -309,17 +309,17 @@
         {
             "supportCardId": "s_card-2-0022",
             "number": 1,
-            "text": "この私直々の水泳指導を\n受けてもらうわ。"
+            "text": "내가 직접 해 주는\n수영 지도를 받도록 하렴."
         },
         {
             "supportCardId": "s_card-2-0022",
             "number": 2,
-            "text": "今日は見学なんです。"
+            "text": "오늘은 견학이라서요."
         },
         {
             "supportCardId": "s_card-2-0022",
             "number": 3,
-            "text": "……そ、そう。"
+            "text": "……그, 그러니."
         },
         {
             "supportCardId": "s_card-2-0023",
@@ -759,47 +759,77 @@
         {
             "supportCardId": "s_card-2-0056",
             "number": 1,
-            "text": "1周遅れているぞ！\n走る姿勢を意識しろっ！"
+            "text": "한 바퀴 늦었지 않나!\n달리는 자세를 의식해라!"
         },
         {
             "supportCardId": "s_card-2-0056",
             "number": 2,
-            "text": "ばたん、きゅ～～……"
+            "text": "털썩, 추욱~~……"
         },
         {
             "supportCardId": "s_card-2-0056",
             "number": 3,
-            "text": "なっとらんぞ！　篠澤ぁ！"
+            "text": "아직 부족하다! 시노사와아!"
         },
         {
             "supportCardId": "s_card-2-0058",
             "number": 1,
-            "text": "このまえー、寮のとこで虫が出て……\n退治が大変だったんですよー！"
+            "text": "요전에ー, 기숙사에서 벌레가 나와서……\n구제하느라 고생했단 말이에요ー!"
         },
         {
             "supportCardId": "s_card-2-0058",
             "number": 2,
-            "text": "え！　知らなかった……！\nけ、結構、大きかったの……？"
+            "text": "에! 몰랐어……!\n크, 크기가 꽤, 컸어……?"
         },
         {
             "supportCardId": "s_card-2-0058",
             "number": 3,
-            "text": "そ～なんですよ～！\n誰がやっつけるか揉めましたよ～。"
+            "text": "그~랬거든요~! 누가 처리할까\n정하느라 고생했다고요~."
         },
         {
             "supportCardId": "s_card-2-0059",
             "number": 1,
-            "text": "はーっ！　とりゃーっ！"
+            "text": "하ー앗! 영차ー!"
         },
         {
             "supportCardId": "s_card-2-0059",
             "number": 2,
-            "text": "広、その型は一体……？"
+            "text": "히로, 그 자세는 대체……?"
         },
         {
             "supportCardId": "s_card-2-0059",
             "number": 3,
-            "text": "ふふ、オリジナルの、アイドル拳法。"
+            "text": "후후, 오리지널, 아이돌 권법이야."
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 1,
+            "text": "안쪽만……알맹이만……아야."
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 2,
+            "text": "……가시 찔렸다."
+        },
+        {
+            "supportCardId": "s_card-2-0060",
+            "number": 3,
+            "text": "아앗! 괜찮아!?\n집게를 쓰는 편이 나을 거야."
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 1,
+            "text": "체간을 단련하면, 이런 식으로――"
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 2,
+            "text": "좋은 스트레치네!\n부하는 큰데, 부담은 적고!"
+        },
+        {
+            "supportCardId": "s_card-2-0061",
+            "number": 3,
+            "text": "히메사키 선배의 스트레치도\n꼭, 가르쳐주십시오!"
         },
         {
             "supportCardId": "s_card-3-0000",
@@ -1304,17 +1334,17 @@
         {
             "supportCardId": "s_card-3-0033",
             "number": 1,
-            "text": "今夜は冷えますよ。\n一緒に羽織りましょう。"
+            "text": "오늘 밤은 추워요.\n같이 덮죠."
         },
         {
             "supportCardId": "s_card-3-0033",
             "number": 2,
-            "text": "……恥ずかしいんだけど。\n子供扱いしないでよ。"
+            "text": "……낯간지러운데.\n어린애 취급 하지 마."
         },
         {
             "supportCardId": "s_card-3-0033",
             "number": 3,
-            "text": "ふふ……\n今夜だけは、諦めてください。"
+            "text": "후후……\n오늘 밤만큼은, 포기하세요."
         },
         {
             "supportCardId": "s_card-3-0034",
@@ -1769,32 +1799,32 @@
         {
             "supportCardId": "s_card-3-0065",
             "number": 1,
-            "text": "今回は、なにを企んでいるんです？"
+            "text": "이번에는, 무슨 꿍꿍이인가요?"
         },
         {
             "supportCardId": "s_card-3-0065",
             "number": 2,
-            "text": "藤田ことね有料お弁当サービス\nでーっす♪"
+            "text": "후지타 코토네의 유로 도시락\n서비스 되겠습니다ー♪"
         },
         {
             "supportCardId": "s_card-3-0065",
             "number": 3,
-            "text": "手毬のお弁当、一緒に作る？"
+            "text": "테마리 도시락, 같이 만들래?"
         },
         {
             "supportCardId": "s_card-3-0066",
             "number": 1,
-            "text": "あなたの担当プロデューサーは、\n苦労しそうね。"
+            "text": "네 담당 프로듀서는,\n고생 깨나 하겠는걸."
         },
         {
             "supportCardId": "s_card-3-0066",
             "number": 2,
-            "text": "ふふ、わたしは篠澤広。"
+            "text": "후후, 나는 시노사와 히로."
         },
         {
             "supportCardId": "s_card-3-0066",
             "number": 3,
-            "text": "辛うじてアイドルを\nしている者だ、よ。"
+            "text": "턱걸이 아이돌을\n하고 있는 몸, 이거든."
         },
         {
             "supportCardId": "s_card-3-0067",
@@ -1814,77 +1844,122 @@
         {
             "supportCardId": "s_card-3-0068",
             "number": 1,
-            "text": "手毬、野菜もバランスよくとるのよ！"
+            "text": "테마리, 채소도 밸런스 맞춰서 먹어!"
         },
         {
             "supportCardId": "s_card-3-0068",
             "number": 2,
-            "text": "……わかってるよ。\nちょ、ニンジンは入れないで！"
+            "text": "……나도 알아.\n잠깐, 당근은 넣지 마!"
         },
         {
             "supportCardId": "s_card-3-0068",
             "number": 3,
-            "text": "好き嫌いはよくないぞー。"
+            "text": "편식은 몸에 안 좋다고ー."
         },
         {
             "supportCardId": "s_card-3-0069",
             "number": 1,
-            "text": "すっごく綺麗ね！"
+            "text": "무척 예쁘네!"
         },
         {
             "supportCardId": "s_card-3-0069",
             "number": 2,
-            "text": "はい。すごく綺麗……ですね。"
+            "text": "네. 무척……예쁘네요."
         },
         {
             "supportCardId": "s_card-3-0069",
             "number": 3,
-            "text": "このメンバーで花火が見られて、\n本当によかったわ――"
+            "text": "이 멤버로 불꽃놀이를 볼 수 있어서,\n정말 잘 됐다――"
         },
         {
             "supportCardId": "s_card-3-0070",
             "number": 1,
-            "text": "なんでランチタイムのイッチバン\n忙しいときに来るんですかぁぁ～？"
+            "text": "왜 런치타임에서 제일 바쁜\n타이밍에 오고 난리에요오오~?"
         },
         {
             "supportCardId": "s_card-3-0070",
             "number": 2,
-            "text": "昼食を食べに来たからな。"
+            "text": "점심 식사를 하러 왔으니까 그렇지."
         },
         {
             "supportCardId": "s_card-3-0070",
             "number": 3,
-            "text": "せめてピーク時じゃないときに\nしてくれぇぇえええっ！"
+            "text": "최소한 피크타임이 아닐 때\n와 달라고오오오오!"
         },
         {
             "supportCardId": "s_card-3-0071",
             "number": 1,
-            "text": "ん、次は有村の番か。"
+            "text": "음, 다음은 아리무라 차례인가."
         },
         {
             "supportCardId": "s_card-3-0071",
             "number": 2,
-            "text": "イェーイ、盛り上げちゃうよー！"
+            "text": "이예ー이, 분위기 띄워 보자ー!"
         },
         {
             "supportCardId": "s_card-3-0071",
             "number": 3,
-            "text": "莉波、今日はテンション高いわね……"
+            "text": "리나미, 오늘은 텐션이 높네……"
         },
         {
             "supportCardId": "s_card-3-0072",
             "number": 1,
-            "text": "危なかったね、千奈。けがはない？"
+            "text": "큰일 날 뻔 했네, 치나. 다친 덴 없어?"
         },
         {
             "supportCardId": "s_card-3-0072",
             "number": 2,
-            "text": "ありがとうございます……！"
+            "text": "감사합니다……!"
         },
         {
             "supportCardId": "s_card-3-0072",
             "number": 3,
-            "text": "ふふ、軽いから、\nこのまま抱き上げて行こうかな。"
+            "text": "후후, 가벼우니까,\n이대로 안아 들고 가 버릴까."
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 1,
+            "text": "피ー스, 피ーーーー스."
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 2,
+            "text": "갸루 하면 교복으로 놀이공원.\n카츄샤, 그리고 양손에 피스."
+        },
+        {
+            "supportCardId": "s_card-3-0073",
+            "number": 3,
+            "text": "뭐야 그게~! 완전 깬다~!\n그거 편견 아냐~?"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 1,
+            "text": "이 잡지, 옛날 생각 나네."
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 2,
+            "text": "이번 달 호는, 츠무지 쨩의\n특집 기사가 실렸거든요!"
+        },
+        {
+            "supportCardId": "s_card-3-0074",
+            "number": 3,
+            "text": "후후, 릴리야 쨩, 즐거워 보이네."
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 1,
+            "text": "드디어 운동회, 메인이네."
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 2,
+            "text": "하츠보시 학원의 운동회는, 운동신경이나\n체력만으로 이길 수 있을 만큼 쉽지 않단다."
+        },
+        {
+            "supportCardId": "s_card-3-0098",
+            "number": 3,
+            "text": "백전백승, 일의전심, 용왕매진……\n온 힘을 다해서 승리를 붙잡으러 가자!"
         }
     ]
 }
