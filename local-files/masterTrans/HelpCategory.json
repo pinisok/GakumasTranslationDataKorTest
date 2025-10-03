@@ -167,8 +167,14 @@
             ]
         },
         {
-            "id": "help-research-event",
+            "id": "help-producer-ranking",
             "order": 24,
+            "name": "프로듀서 랭킹",
+            "texts": []
+        },
+        {
+            "id": "help-research-event",
+            "order": 28,
             "name": "아사리 선생님의 프로듀스 세미나",
             "texts": []
         },

@@ -34,6 +34,10 @@
             "name": "수국 꽃 머리 장식 (후지타 코토네)"
         },
         {
+            "id": "shop_costume_costume_head_fktn-hair-0003",
+            "name": "라운드 안경 (후지타 코토네)"
+        },
+        {
             "id": "shop_costume_costume_head_hmsz-hair-0001",
             "name": "수국 꽃 머리 장식 (하타야 미스즈)"
         },
@@ -54,6 +58,10 @@
             "name": "수국 꽃 머리 장식 (히메사키 리나미)"
         },
         {
+            "id": "shop_costume_costume_head_hrnm-hair-0003",
+            "name": "라운드 안경 (히메사키 리나미)"
+        },
+        {
             "id": "shop_costume_costume_head_hski-hair-0001",
             "name": "수국 꽃 머리 장식 (하나미 사키)"
         },
@@ -66,6 +74,10 @@
             "name": "수국 꽃 머리 장식 (하나미 우메)"
         },
         {
+            "id": "shop_costume_costume_head_hume-hair-0003",
+            "name": "라운드 안경 (하나미 우메)"
+        },
+        {
             "id": "shop_costume_costume_head_jsna-hair-0001",
             "name": "수국 꽃 머리 장식 (주오 세나)"
         },
@@ -76,6 +88,10 @@
         {
             "id": "shop_costume_costume_head_kcna-hair-0001",
             "name": "수국 꽃 머리 장식 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0003",
+            "name": "라운드 안경 (쿠라모토 치나)"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -652,6 +668,10 @@
         {
             "id": "shop_pass_item-0017",
             "name": "프리미엄 미션 패스 2025년 9월"
+        },
+        {
+            "id": "shop_pass_item-0018",
+            "name": "프리미엄 미션 패스 2025년 10월"
         }
     ]
 }

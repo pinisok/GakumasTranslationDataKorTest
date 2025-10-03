@@ -47,7 +47,7 @@
         },
         {
             "type": "ProduceCardGrowEffectType_CostReduce",
-            "name": "비용 감소"
+            "name": "소비 체력 감소"
         },
         {
             "type": "ProduceCardGrowEffectType_CostAdd",

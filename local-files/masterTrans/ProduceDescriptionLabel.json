@@ -1051,7 +1051,7 @@
                     "text": "코스트에 영향을 미치지 않음"
                 }
             ],
-            "name": "파라미터 증가"
+            "name": "소비 체력 감소"
         },
         {
             "id": "Label_CostReviewAdd",

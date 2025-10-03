@@ -14,6 +14,10 @@
             "description": "파라미터 보너스"
         },
         {
+            "id": "card.detail.enhance.invalid.point.exp.short",
+            "description": "트레이닝Pt가 부족합니다."
+        },
+        {
             "id": "dearness.dearness_level_detail_sheet.title",
             "description": "친애도 Lv 상세"
         },
@@ -58,16 +62,16 @@
             "description": "플레이 중인 프로듀스 데이터가 삭제되었습니다."
         },
         {
+            "id": "producer_ranking.character_reward.description",
+            "description": "시즌 종료 시 프로듀서 랭킹 순위에 따라 집계 기간 종료 후 보상을 획득할 수 있습니다"
+        },
+        {
             "id": "profile.report.share.text",
             "description": "#学マス #初星学園通知表 "
         },
         {
             "id": "research_event.target_idol_sheet.description",
             "description": "이벤트 모드 대상인 P아이돌만 이벤트 모드의 프로듀스에 도전할 수 있습니다"
-        },
-        {
-            "id": "title.menu.delete_local_data.description",
-            "description": "저장된 로컬 데이터를 삭제하시겠습니까?\\n\\n■주의 사항(※반드시 읽어 주세요)\\n로컬 데이터 삭제를 하면 사용자 데이터는 삭제되지 않지만 게임 플레이 중 중단 데이터나 일부 저장 상태는 삭제됩니다."
         },
         {
             "id": "voice.idol_use_produce_card",

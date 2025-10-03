@@ -38,6 +38,10 @@
             "title": "라이브 투어 이벤트 히로시마편"
         },
         {
+            "id": "box_gasha_event-19-01",
+            "title": "라이브 투어 이벤트 나고야 편"
+        },
+        {
             "id": "livetour_event_group-001",
             "title": "라이브 투어 이벤트 오사카편"
         },
@@ -132,6 +136,10 @@
         {
             "id": "story_dearness_hrnm_step-02",
             "title": "STEP2"
+        },
+        {
+            "id": "story_dearness_hrnm_step-03",
+            "title": "STEP3"
         },
         {
             "id": "story_dearness_hski_step-01",

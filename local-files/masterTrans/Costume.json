@@ -136,6 +136,11 @@
             "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 재능 개화 4단계 달성"
         },
         {
+            "id": "amao-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Fluorite】'25 전력을 다해 가자! 아리무라 마오 입수"
+        },
+        {
             "id": "amao-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(아리무라 마오) 구매하기"
@@ -306,6 +311,16 @@
             "description": "【세계 제일 귀여운 나】'25 미라쿠루나나우(˚∀˚)! 후지타 코토네 입수"
         },
         {
+            "id": "fktn-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네 입수"
+        },
+        {
+            "id": "fktn-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
             "id": "fktn-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(후지타 코토네) 구매하기"
@@ -399,6 +414,11 @@
             "id": "hmsz-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【달 거북이】'25 미라쿠루나나우(˚∀˚)! 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【달 거북이】'25 전력을 다해 가자! 하타야 미스즈 입수"
         },
         {
             "id": "hmsz-othr-0002",
@@ -564,6 +584,11 @@
             "id": "hrnm-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【clumsy trick】'25 미라쿠루나나우(˚∀˚)! 히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【clumsy trick】'25 전력을 다해 가자! 히메사키 리나미 입수"
         },
         {
             "id": "hrnm-othr-0000",
@@ -736,6 +761,11 @@
             "description": "【Fighting My Way】'25 미라쿠루나나우(˚∀˚)! 하나미 사키 입수"
         },
         {
+            "id": "hski-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Fighting My Way】'25 전력을 다해 가자! 하나미 사키 입수"
+        },
+        {
             "id": "hski-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(하나미 사키) 구매하기"
@@ -859,6 +889,11 @@
             "id": "hume-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【The Rolling Riceball】'25 미라쿠루나나우(˚∀˚)! 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【The Rolling Riceball】'25 전력을 다해 가자! 하나미 우메 입수"
         },
         {
             "id": "hume-othr-0000",
@@ -1004,6 +1039,11 @@
             "id": "jsna-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【작은 야망】'25 미라쿠루나나우(˚∀˚)! 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【작은 야망】'25 전력을 다해 가자! 주오 세나 입수"
         },
         {
             "id": "jsna-othr-0002",
@@ -1154,6 +1194,11 @@
             "id": "kcna-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【Wonder Scale】'25 미라쿠루나나우(˚∀˚)! 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Wonder Scale】'25 전력을 다해 가자! 쿠라모토 치나 입수"
         },
         {
             "id": "kcna-othr-0002",
@@ -1309,6 +1354,11 @@
             "id": "kllj-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【백선】'25 미라쿠루나나우(˚∀˚)! 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【백선】'25 전력을 다해 가자! 카츠라기 릴리야를 입수"
         },
         {
             "id": "kllj-othr-0002",
@@ -1491,6 +1541,11 @@
             "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 재능 개화 4단계 달성"
         },
         {
+            "id": "shro-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【광경】'25 전력을 다해 가자! 시노사와 히로 입수"
+        },
+        {
             "id": "shro-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(시노사와 히로) 구매하기"
@@ -1644,6 +1699,11 @@
             "id": "ssmk-cstm-0122",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【미라쿠루나나우(˚∀˚)!】시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0125",
+            "name": "전력을 다해 가자!",
+            "description": "【Tame-Lie-One-Step】'25 전력을 다해 가자! 시운 스미카 입수"
         },
         {
             "id": "ssmk-othr-0002",

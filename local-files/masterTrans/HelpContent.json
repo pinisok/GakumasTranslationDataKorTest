@@ -1154,6 +1154,18 @@
             "name": "True End： N.I.A"
         },
         {
+            "helpCategoryId": "help-producer-ranking",
+            "id": "producer-ranking",
+            "order": 1,
+            "name": "프로듀서 랭킹"
+        },
+        {
+            "helpCategoryId": "help-producer-ranking",
+            "id": "producer-ranking-season",
+            "order": 2,
+            "name": "시즌"
+        },
+        {
             "helpCategoryId": "help-research-event",
             "id": "research-event-event-produce",
             "order": 2,

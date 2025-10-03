@@ -396,6 +396,36 @@
             "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-fktn-3-016-01",
+            "name": "터뜨려 버려♪",
+            "description": "【전력을 다해 가자!】후지타 코토네의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-02",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-03",
+            "name": "그런 점이 완전 좋다니까~♡",
+            "description": "【전력을 다해 가자!】후지타 코토네로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-04",
+            "name": "전력을 다해 가자!+",
+            "description": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-05",
+            "name": "전력을 다해 가자!++",
+            "description": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-06",
+            "name": "전력을 다해 가자!+++",
+            "description": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hmsz-2-000-01",
             "name": "쉬엄쉬엄, 앞으로",
             "description": "【천천히, 한 걸음씩】하타야 미스즈의 프로듀스로 최종 시험에 합격"
@@ -964,6 +994,36 @@
             "id": "achieve-i_card-hski-3-012-06",
             "name": "비 갠 뒤의 아이리스+++",
             "description": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-01",
+            "name": "악착같이 해!",
+            "description": "【전력을 다해 가자!】하나미 사키의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-02",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-03",
+            "name": "온 힘을 다해, 저돌적으로",
+            "description": "【전력을 다해 가자!】하나미 사키로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-04",
+            "name": "전력을 다해 가자!+",
+            "description": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-05",
+            "name": "전력을 다해 가자!++",
+            "description": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-06",
+            "name": "전력을 다해 가자!+++",
+            "description": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-2-000-01",
@@ -3223,7 +3283,7 @@
         {
             "id": "achieve-p_idol-hmsz-013",
             "name": "돌보는게 좋아",
-            "description": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 강화"
+            "description": "하타야 미스즈의 프로듀스로 스킬 카드 {threshold}회 강화"
         },
         {
             "id": "achieve-p_idol-hmsz-014",

@@ -64,6 +64,12 @@
             "name": "친애도 TOP",
             "description": "「친애도 TOP」기능 해방",
             "routeDescription": "홈의 친애도에서 확인할 수 있습니다"
+        },
+        {
+            "tutorialType": "TutorialType_ProducerRanking",
+            "name": "프로듀서 랭킹",
+            "description": "「프로듀서 랭킹」 기능 해방",
+            "routeDescription": "콘테스트의 P랭킹에서 확인할 수 있습니다"
         }
     ]
 }
