@@ -832,6 +832,21 @@
             "text": "히메사키 선배의 스트레치도\n꼭, 가르쳐주십시오!"
         },
         {
+            "supportCardId": "s_card-2-0062",
+            "number": 1,
+            "text": "와아～～～～～～～～앗！\n에헤헤……마오선배、놀라셨어요？"
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 2,
+            "text": "후후、코토네인가。깜짝 놀랐어。\n뱀파이어 잘 어울리네。"
+        },
+        {
+            "supportCardId": "s_card-2-0062",
+            "number": 3,
+            "text": "이건 절대 놀라지 않는 녀석이다～！？"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "자, 한 입 줄게!"
@@ -1945,6 +1960,21 @@
             "supportCardId": "s_card-3-0074",
             "number": 3,
             "text": "후후, 릴리야 쨩, 즐거워 보이네."
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 1,
+            "text": "잘 와 주셨습니다♪"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 2,
+            "text": "넓고 큰 집에 메이드씨까지――"
+        },
+        {
+            "supportCardId": "s_card-3-0075",
+            "number": 3,
+            "text": "………………하와아아！\n드라마 세계같아～～～앗！"
         },
         {
             "supportCardId": "s_card-3-0098",
