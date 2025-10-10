@@ -46,6 +46,10 @@
             "title": "스킬 카드 변경 시 파라미터 상승"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
+            "title": "스킬 카드 커스터마이즈 시 파라미터 상승"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
             "title": "액티브 스킬 카드 삭제 시 파라미터 상승"
         },
@@ -60,6 +64,10 @@
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
             "title": "시험·오디션 종료시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
+            "title": "SP레슨 종료 시 보유 스킬 카드가 20장 이상일 경우 파라미터 상승"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
@@ -88,6 +96,10 @@
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
             "title": "스킬 카드 획득 시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000",
+            "title": "원기 효과의 스킬 카드 획득 시 파라미터 상승"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
@@ -122,8 +134,24 @@
             "title": "멘탈 스킬 카드 획득 시 파라미터 상승"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
+            "title": "스킬 카드(SSR) 획득 시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",
+            "title": "P드링크 획득 시 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_item",
+            "title": "P아이템 획득 시 파라미터 상승"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
             "title": "초기 파라미터 상승"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_customize",
+            "title": "특별 지도 시작 시 파라미터 상승"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",

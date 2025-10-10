@@ -2376,6 +2376,36 @@
             "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-ttmr-3-015-01",
+            "name": "하늘까지 일직선",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-02",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-03",
+            "name": "내 거니까",
+            "description": "【전력을 다해 가자!】츠키무라 테마리로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-04",
+            "name": "전력을 다해 가자!+",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-05",
+            "name": "전력을 다해 가자!++",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-06",
+            "name": "전력을 다해 가자!+++",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-m_amao-001",
             "name": "마스터 업적",
             "description": "아리무라 마오의 업적의 ★을 {threshold}개 획득"

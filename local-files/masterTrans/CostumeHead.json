@@ -106,6 +106,11 @@
             "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
         },
         {
+            "id": "costume_head_amao-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+        },
+        {
             "id": "costume_head_atbm-schl-0000",
             "name": "평소의 헤어스타일",
             "description": "처음부터 소지"
@@ -206,6 +211,16 @@
             "description": "【비 갠 뒤의 아이리스】후지타 코토네의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_fktn-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_fktn-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 5월에 획득 가능"
@@ -218,7 +233,7 @@
         {
             "id": "costume_head_fktn-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0004",
@@ -418,7 +433,7 @@
         {
             "id": "costume_head_hrnm-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
         },
         {
             "id": "costume_head_hrnm-hair-0004",
@@ -434,6 +449,11 @@
             "id": "costume_head_hrnm-hair-0007",
             "name": "티어드롭 글래스",
             "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
         },
         {
             "id": "costume_head_hrnm-schl-0000",
@@ -643,7 +663,7 @@
         {
             "id": "costume_head_hume-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
         },
         {
             "id": "costume_head_hume-hair-0004",
@@ -833,7 +853,7 @@
         {
             "id": "costume_head_kcna-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0004",
@@ -949,6 +969,11 @@
             "id": "costume_head_kllj-hair-0007",
             "name": "티어드롭 글래스",
             "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
+        },
+        {
+            "id": "costume_head_kllj-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
         },
         {
             "id": "costume_head_kllj-schl-0000",
@@ -1151,6 +1176,11 @@
             "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
         },
         {
+            "id": "costume_head_ssmk-hair-0008",
+            "name": "개 귀",
+            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+        },
+        {
             "id": "costume_head_ssmk-hair-0010",
             "name": "Love & Joy (평소의 메이크업)",
             "description": "【Love & Joy】시운 스미카 입수"
@@ -1224,6 +1254,16 @@
             "id": "costume_head_ttmr-cstm-0113",
             "name": "비 갠 뒤의 아이리스",
             "description": "【비 갠 뒤의 아이리스】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0123",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0124",
+            "name": "전력을 다해 가자!",
+            "description": "【전력을 다해 가자!】츠키무라 테마리의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_ttmr-hair-0001",

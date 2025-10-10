@@ -826,6 +826,26 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-box-gasha-event-019-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_3",
+            "name": "이벤트 박스 가챠를 {threshold}번 뽑자"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_4",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-box-gasha-event-019-mission_5",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-circle-battle-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -3906,6 +3926,38 @@
             "name": "스킬 카드 「국민적 아이돌」을 소지하고 프로듀스를 클리어 하자"
         },
         {
+            "id": "mission-research-event-002-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_10",
+            "name": "스킬 카드 「아이돌이 됩니다」를 소지하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_11",
+            "name": "스킬 카드 「각오」를 소지하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_2",
+            "name": "플랜 : 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_8",
+            "name": "스킬 카드 「전심전력」을 소지하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-002-mission_9",
+            "name": "스킬 카드 「심·기·체」을 소지하고 프로듀스를 클리어하자"
+        },
+        {
             "id": "mission-story-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -4754,6 +4806,30 @@
             "name": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-fktn-3-016-01",
+            "name": "【전력을 다해 가자!】후지타 코토네의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-02",
+            "name": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-03",
+            "name": "【전력을 다해 가자!】후지타 코토네로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-04",
+            "name": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-05",
+            "name": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-016-06",
+            "name": "【전력을 다해 가자!】후지타 코토네의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hmsz-2-000-01",
             "name": "【천천히, 한 걸음씩】하타야 미스즈의 프로듀스로 최종 시험에 합격"
         },
@@ -5208,6 +5284,30 @@
         {
             "id": "achieve-i_card-hski-3-012-06",
             "name": "【비 갠 뒤의 아이리스】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-01",
+            "name": "【전력을 다해 가자!】하나미 사키의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-02",
+            "name": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-03",
+            "name": "【전력을 다해 가자!】하나미 사키로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-04",
+            "name": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-05",
+            "name": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-015-06",
+            "name": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-2-000-01",
@@ -6288,6 +6388,30 @@
         {
             "id": "achieve-i_card-ttmr-3-011-06",
             "name": "【비 갠 뒤의 아이리스】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-01",
+            "name": "【전력을 다해 가자!】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-02",
+            "name": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-03",
+            "name": "【전력을 다해 가자!】츠키무라 테마리로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-04",
+            "name": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-05",
+            "name": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-015-06",
+            "name": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-m_amao-001",
