@@ -3588,6 +3588,31 @@
             ]
         },
         {
+            "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-3_150-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "p_card-01-ido-3_150",
+                    "text": "세계 제일의 용기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "사용 시, "
+                }
+            ]
+        },
+        {
             "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-02-act-1_028-0_1",
             "produceDescriptions": [
                 {
@@ -4343,7 +4368,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 시, 5턴째 이후인 경우, "
+                    "text": "스킬 카드 사용 시, 6턴 이후의 경우, "
                 }
             ]
         },
@@ -10522,7 +10547,7 @@
             ]
         },
         {
-            "id": "e_trigger-exam_start_turn-turn_progress_up-3",
+            "id": "e_trigger-exam_start_turn-turn_progress_up-2",
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10533,6 +10558,21 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "턴 시작시, 3턴째 이후인 경우, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_start_turn-turn_progress_up-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "턴 시작시, 4턴 이후의 경우, "
                 }
             ]
         },
@@ -12991,6 +13031,36 @@
             ]
         },
         {
+            "id": "e_trigger-none-turn_progress_up-2",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "3턴 이후 일때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-none-turn_progress_up-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "4턴 이후 일때, "
+                }
+            ]
+        },
+        {
             "id": "e_trigger-start_exam_play",
             "produceDescriptions": [
                 {
@@ -13011,7 +13081,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "시작시, "
+                    "text": "시작 후, "
                 }
             ]
         },
@@ -13026,7 +13096,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 }
             ]
         },
@@ -13041,7 +13111,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13061,7 +13131,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 5 이상일때, "
+                    "text": "이 5 이상일때, "
                 }
             ]
         },
@@ -13076,7 +13146,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 시작 시, 덱이나 버림 패에 있는 스킬 카드가 12장 이상일때, "
+                    "text": "턴 시작 후, 덱이나 버린 패에 있는 스킬 카드가 12장 이상일 경우, "
                 }
             ]
         },
@@ -13091,7 +13161,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 시작 시, 덱이나 버림 패에 있는 스킬 카드가 18장 이상일때,"
+                    "text": "턴 시작 후, 덱이나 버린 패에 있는 스킬 카드가 18장 이상일 경우, "
                 }
             ]
         },
@@ -13106,7 +13176,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "ターン開始後、"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13141,7 +13211,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13186,7 +13256,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 }
             ]
         },
@@ -13211,7 +13281,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 }
             ]
         },
@@ -13236,7 +13306,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 }
             ]
         },
@@ -13251,7 +13321,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13286,7 +13356,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13321,7 +13391,22 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "남은 2턴 동안의 턴 개시시, "
+                    "text": "남은 2턴 이내인 턴 개시 후, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-start_play-remaining_turn-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "남은 3턴 이내인 턴 개시 후, "
                 }
             ]
         },
@@ -13336,7 +13421,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, "
+                    "text": "턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -13371,7 +13456,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, 체력이 50% 이하인 경우, "
+                    "text": "턴 시작 후, 체력이 50% 이하 일 때, "
                 }
             ]
         }

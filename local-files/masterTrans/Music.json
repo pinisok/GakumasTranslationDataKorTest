@@ -1262,6 +1262,14 @@
             "arranger": "YUC'e"
         },
         {
+            "id": "music-all-ttmr-013",
+            "title": "전력을 다해 가자!",
+            "displayTitle": "전력을 다해 가자!",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
+            "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
             "id": "music-bgm-01_001",
             "title": "교실에서의 한때",
             "displayTitle": "교실에서의 한때",
@@ -1916,6 +1924,22 @@
             "lyrics": "타카기 류이치 (Dream Monster)",
             "composer": "타카기 류이치 (Dream Monster)",
             "arranger": "타카기 류이치 (Dream Monster)"
+        },
+        {
+            "id": "music-char-kcna-004",
+            "title": "하늘과 약속",
+            "displayTitle": "하늘과 약속",
+            "lyrics": "오오모리 쇼코",
+            "composer": "Evan Call",
+            "arranger": "Evan Call"
+        },
+        {
+            "id": "music-char-kcna-004-inst",
+            "title": "하늘과 약속 [Instrumental]",
+            "displayTitle": "하늘과 약속 [Instrumental]",
+            "lyrics": "오오모리 쇼코",
+            "composer": "Evan Call",
+            "arranger": "Evan Call"
         },
         {
             "id": "music-char-kcna-005",

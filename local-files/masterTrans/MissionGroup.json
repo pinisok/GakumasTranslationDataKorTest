@@ -14,6 +14,10 @@
             "name": "아이돌 미션 리나미"
         },
         {
+            "id": "dearness_normal-mission_kcna_01",
+            "name": "아이돌 미션 치나"
+        },
+        {
             "id": "dearness_normal-mission_shro_01",
             "name": "아이돌 미션 히로"
         },
@@ -27,6 +31,10 @@
         },
         {
             "id": "dearness_panel-mission_hrnm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_kcna_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -323,6 +331,26 @@
         },
         {
             "id": "mission-group-highscorerush-event-005_5",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_1",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_2",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_3",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_4",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-006_5",
             "name": "하이스코어 러쉬 이벤트 미션"
         },
         {

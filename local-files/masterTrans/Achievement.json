@@ -1566,6 +1566,36 @@
             "description": "【Howling over the World】쿠라모토 치나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kcna-3-014-01",
+            "name": "세계 제일의 용기",
+            "description": "【하늘과 약속】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-014-02",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-014-03",
+            "name": "어떤 마음을 전해드릴까요?",
+            "description": "【하늘과 약속】쿠라모토 치나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-014-04",
+            "name": "하늘과 약속+",
+            "description": "【하늘과 약속】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-014-05",
+            "name": "하늘과 약속++",
+            "description": "【하늘과 약속】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-014-06",
+            "name": "하늘과 약속+++",
+            "description": "【하늘과 약속】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kllj-2-000-04",
             "name": "한발짝 내디딘 뒤에+",
             "description": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"

@@ -831,6 +831,16 @@
             "description": "【가장광소곡】쿠라모토 치나를 입수"
         },
         {
+            "id": "costume_head_kcna-cstm-0090",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0091",
+            "name": "하늘과 약속",
+            "description": "【하늘과 약속】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_kcna-cstm-0116",
             "name": "Howling over the World",
             "description": "【Howling over the World】쿠라모토 치나를 입수"
@@ -874,6 +884,11 @@
             "id": "costume_head_kcna-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 9월 에서 획득"
+        },
+        {
+            "id": "costume_head_kcna-hair-0013",
+            "name": "하늘과 약속 (심플 어레인지)",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
         },
         {
             "id": "costume_head_kllj-cstm-0007",
