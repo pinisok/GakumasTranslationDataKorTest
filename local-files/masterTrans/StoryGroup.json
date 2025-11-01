@@ -39,7 +39,7 @@
         },
         {
             "id": "box_gasha_event-19-01",
-            "title": "라이브 투어 이벤트 나고야 편"
+            "title": "라이브 투어 이벤트 나고야편"
         },
         {
             "id": "livetour_event_group-001",
@@ -110,6 +110,10 @@
             "title": "STEP2"
         },
         {
+            "id": "story_dearness_amao_step-03",
+            "title": "STEP3"
+        },
+        {
             "id": "story_dearness_fktn_step-01",
             "title": "STEP1"
         },
@@ -172,6 +176,10 @@
         {
             "id": "story_dearness_kcna_step-02",
             "title": "STEP2"
+        },
+        {
+            "id": "story_dearness_kcna_step-03",
+            "title": "STEP3"
         },
         {
             "id": "story_dearness_kllj_step-01",

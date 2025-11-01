@@ -61,6 +61,16 @@
             "description": "【Fluorite】'24 할로윈 아리무라 마오를 입수"
         },
         {
+            "id": "costume_head_amao-cstm-0092",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
+            "id": "costume_head_amao-cstm-0093",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_amao-cstm-0120",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오 입수"
@@ -109,6 +119,11 @@
             "id": "costume_head_amao-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+        },
+        {
+            "id": "costume_head_amao-hair-0014",
+            "name": "봐줘 (심플 어레인지)",
+            "description": "【봐줘】아리무라 마오 입수"
         },
         {
             "id": "costume_head_atbm-schl-0000",
@@ -238,7 +253,7 @@
         {
             "id": "costume_head_fktn-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0006",
@@ -254,6 +269,11 @@
             "id": "costume_head_fktn-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+        },
+        {
+            "id": "costume_head_fktn-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
         },
         {
             "id": "costume_head_fktn-hair-0012",
@@ -558,7 +578,7 @@
         {
             "id": "costume_head_hski-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능 등"
         },
         {
             "id": "costume_head_hski-hair-0006",
@@ -574,6 +594,11 @@
             "id": "costume_head_hski-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+        },
+        {
+            "id": "costume_head_hski-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -1298,7 +1323,7 @@
         {
             "id": "costume_head_ttmr-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능 등"
         },
         {
             "id": "costume_head_ttmr-hair-0006",
@@ -1314,6 +1339,11 @@
             "id": "costume_head_ttmr-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
         }
     ]
 }

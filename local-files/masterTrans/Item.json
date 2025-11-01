@@ -96,6 +96,12 @@
             "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
         },
         {
+            "id": "item-coin-highscorerush-event-007",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~ 별들의 반짝임 ~ (아리무라 마오/하나미 우메)의 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
             "id": "item-common-idol_card-piece-r",
             "name": "R 아이돌 피스",
             "description": "R 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
@@ -139,19 +145,25 @@
         },
         {
             "id": "item-dearness-unlock-fktn",
-            "name": "코토네의 기록의 열쇠",
+            "name": "코토네와의 기록의 열쇠",
             "description": "후지타 코토네의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
             "acquisitionRouteDescription": "교환소 등"
         },
         {
             "id": "item-dearness-unlock-hrnm",
-            "name": "리나미의 기록의 열쇠",
+            "name": "리나미와의 기록의 열쇠",
             "description": "히메사키 리나미의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
             "acquisitionRouteDescription": "교환소 등"
         },
         {
+            "id": "item-dearness-unlock-kcna",
+            "name": "치나와의 기록의 열쇠",
+            "description": "쿠라모토 치나의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-dearness-unlock-shro",
-            "name": "히로의 기록의 열쇠",
+            "name": "히로와의 기록의 열쇠",
             "description": "시노사와 히로의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
             "acquisitionRouteDescription": "교환소 등"
         },
@@ -530,6 +542,12 @@
         {
             "id": "item-piece-idol_amao-3-013",
             "name": "[미라쿠루나나우(˚∀˚)!]아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-015",
+            "name": "[봐줘] 아리무라 마오의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

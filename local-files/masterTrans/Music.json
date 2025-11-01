@@ -1590,6 +1590,22 @@
             "arranger": "SHOW (Digz, Inc. Group)"
         },
         {
+            "id": "music-char-amao-004",
+            "title": "봐줘",
+            "displayTitle": "봐줘",
+            "lyrics": "kamome sano",
+            "composer": "kamome sano",
+            "arranger": "kamome sano"
+        },
+        {
+            "id": "music-char-amao-004-inst",
+            "title": "봐줘 [Instrumental]",
+            "displayTitle": "봐줘 [Instrumental]",
+            "lyrics": "kamome sano",
+            "composer": "kamome sano",
+            "arranger": "kamome sano"
+        },
+        {
             "id": "music-char-fktn-001",
             "title": "세상에서 가장 귀여운 나",
             "displayTitle": "",

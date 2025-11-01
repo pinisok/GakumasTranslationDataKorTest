@@ -9924,6 +9924,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-amao-3-015-01",
+            "title": "봐줘 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-amao-3-015-02",
+            "title": "봐줘 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-amao-3-015-03",
+            "title": "봐줘 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-fktn-3-000-01",
             "title": "세상에서 제일 귀여운 나 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -11714,6 +11729,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0065-01",
+            "title": "피곤한 왕자님",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0065-02",
+            "title": "왕자님의 의외의 일면",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『친구』런치",
             "produceEventHintProduceConditionDescriptions": []
@@ -12866,6 +12891,21 @@
         {
             "id": "p_story-s_card-3-0077-03",
             "title": "본받아야 할 자세",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0078-01",
+            "title": "팔씨름 성인에게 도전하라!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0078-02",
+            "title": "좋아하는 건 좋아하는 거야",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0078-03",
+            "title": "채소 나르기 트레이닝",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

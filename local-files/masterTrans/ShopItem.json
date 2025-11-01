@@ -14,6 +14,10 @@
             "name": "세일러 수영복 (아리무라 마오)"
         },
         {
+            "id": "shop_costume_amao-othr-0002-resale",
+            "name": "온천용 수영복(아리무라 마오)"
+        },
+        {
             "id": "shop_costume_amao-trng-0002",
             "name": "하츠보시 학원 체육복 (아리무라 마오)"
         },
@@ -36,6 +40,10 @@
         {
             "id": "shop_costume_costume_head_fktn-hair-0003",
             "name": "라운드 안경 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_costume_head_fktn-hair-0004",
+            "name": "고양이 귀 (후지타 코토네)"
         },
         {
             "id": "shop_costume_costume_head_hmsz-hair-0001",
@@ -68,6 +76,10 @@
         {
             "id": "shop_costume_costume_head_hski-hair-0003",
             "name": "라운드 안경 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0004",
+            "name": "고양이 귀 (하나미 사키)"
         },
         {
             "id": "shop_costume_costume_head_hume-hair-0001",
@@ -126,6 +138,10 @@
             "name": "라운드 안경 (츠키무라 테마리)"
         },
         {
+            "id": "shop_costume_costume_head_ttmr-hair-0004",
+            "name": "고양이 귀 (츠키무라 테마리)"
+        },
+        {
             "id": "shop_costume_fktn-cstm-0063",
             "name": "축제 핫피 (후지타 코토네)"
         },
@@ -136,6 +152,10 @@
         {
             "id": "shop_costume_fktn-cstm-0111",
             "name": "세일러 수영복 (후지타 코토네)"
+        },
+        {
+            "id": "shop_costume_fktn-othr-0002-resale",
+            "name": "온천용 수영복(후지타 코토네)"
         },
         {
             "id": "shop_costume_fktn-trng-0002",
@@ -155,6 +175,10 @@
         },
         {
             "id": "shop_costume_hmsz-othr-0002",
+            "name": "온천용 수영복 (하타야 미스즈)"
+        },
+        {
+            "id": "shop_costume_hmsz-othr-0002-resale",
             "name": "온천용 수영복 (하타야 미스즈)"
         },
         {
@@ -192,6 +216,10 @@
         {
             "id": "shop_costume_hski-cstm-0111",
             "name": "세일러 수영복 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_hski-othr-0002-resale",
+            "name": "온천용 수영복 (하나미 사키)"
         },
         {
             "id": "shop_costume_hski-trng-0002",
@@ -238,6 +266,10 @@
             "name": "온천용 수영복 (주오 세나)"
         },
         {
+            "id": "shop_costume_jsna-othr-0002-resale",
+            "name": "온천용 수영복 (주오 세나)"
+        },
+        {
             "id": "shop_costume_jsna-trng-0002",
             "name": "하츠보시 학원 체육복 (주오 세나)"
         },
@@ -274,6 +306,10 @@
             "name": "세일러 수영복 (카츠라기 릴리야)"
         },
         {
+            "id": "shop_costume_kllj-othr-0002-resale",
+            "name": "온천용 수영복(카츠라 릴리야)"
+        },
+        {
             "id": "shop_costume_kllj-trng-0002",
             "name": "하츠보시 학원 체육복 (카츠라기 릴리야)"
         },
@@ -302,6 +338,10 @@
             "name": "세일러 수영복 (시노사와 히로)"
         },
         {
+            "id": "shop_costume_shro-othr-0002-resale",
+            "name": "온천용 수영복(시노사와 히로)"
+        },
+        {
             "id": "shop_costume_shro-trng-0002",
             "name": "하츠보시 학원 체육복 (시노사와 히로)"
         },
@@ -322,6 +362,10 @@
             "name": "세일러 수영복 (시운 스미카)"
         },
         {
+            "id": "shop_costume_ssmk-othr-0002-resale",
+            "name": "온천용 수영복 (시운 스미카)"
+        },
+        {
             "id": "shop_costume_ssmk-trng-0002",
             "name": "하츠보시 학원 체육복 (시운 스미카)"
         },
@@ -336,6 +380,10 @@
         {
             "id": "shop_costume_ttmr-cstm-0111",
             "name": "세일러 수영복 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_ttmr-othr-0002-resale",
+            "name": "온천용 수영복(츠키무라 테마리)"
         },
         {
             "id": "shop_costume_ttmr-trng-0002",
@@ -672,6 +720,10 @@
         {
             "id": "shop_pass_item-0018",
             "name": "프리미엄 미션 패스 2025년 10월"
+        },
+        {
+            "id": "shop_pass_item-0019",
+            "name": "프리미엄 미션 패스 2025년 11월"
         }
     ]
 }

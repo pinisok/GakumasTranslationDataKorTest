@@ -186,6 +186,36 @@
             "description": "【미라쿠루나나우(˚∀˚)!】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-amao-3-015-01",
+            "name": "찾아낸 세계에서",
+            "description": "【봐줘】아리무라 마오의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-02",
+            "name": "봐줘",
+            "description": "【봐줘】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-03",
+            "name": "반하게 만들어 보이겠어요",
+            "description": "【봐줘】아리무라 마오로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-04",
+            "name": "봐줘+",
+            "description": "【봐줘】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-05",
+            "name": "봐줘++",
+            "description": "【봐줘】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-06",
+            "name": "봐줘+++",
+            "description": "【봐줘】아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-fktn-2-000-04",
             "name": "귀엽게♡ 시작했답니다+",
             "description": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
