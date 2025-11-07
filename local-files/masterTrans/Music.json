@@ -350,6 +350,14 @@
             "arranger": "카와하라 레오 (Rebrast)"
         },
         {
+            "id": "music-all-hmsz-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
             "id": "music-all-hmsz-012",
             "title": "미라쿠루나나우(˚∀˚)!",
             "displayTitle": "미라쿠루나나우(˚∀˚)!",
@@ -684,6 +692,14 @@
             "lyrics": "오야마 쿄코 (Rebrast)",
             "composer": "하야카와 히로타카 (Rebrast), 카와하라 레오 (Rebrast)",
             "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-jsna-005",
+            "title": "가장광소곡",
+            "displayTitle": "가장광소곡",
+            "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
+            "composer": "FAKE TYPE.",
+            "arranger": "DYES IWASAKI (FAKE TYPE.)"
         },
         {
             "id": "music-all-jsna-007",
@@ -2164,6 +2180,22 @@
             "lyrics": "아즈마 유타",
             "composer": "하라 카즈히로",
             "arranger": "하라 카즈히로"
+        },
+        {
+            "id": "music-char-ssmk-005",
+            "title": "Kira Kira",
+            "displayTitle": "Kira Kira",
+            "lyrics": "Chica",
+            "composer": "Dirty Orange (Digz, Inc. Group)、MOMONADY、Chica",
+            "arranger": "Dirty Orange (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-ssmk-005-inst",
+            "title": "Kira Kira [Instrumental]",
+            "displayTitle": "Kira Kira [Instrumental]",
+            "lyrics": "Chica",
+            "composer": "Dirty Orange (Digz, Inc. Group)、MOMONADY、Chica",
+            "arranger": "Dirty Orange (Digz, Inc. Group)"
         },
         {
             "id": "music-char-ttmr-001",

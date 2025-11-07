@@ -306,6 +306,11 @@
             "description": "【달 거북이】'25 축제 하타야 미스즈 입수"
         },
         {
+            "id": "costume_head_hmsz-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【ツキノカメ】'25ハロウィン 秦谷 美鈴を入手"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0114",
             "name": "Star-mine",
             "description": "【Star-mine】하타야 미스즈 입수"
@@ -746,6 +751,11 @@
             "description": "【작은 야망】'25 축제 주오 세나 입수"
         },
         {
+            "id": "costume_head_jsna-cstm-0065",
+            "name": "가장광소곡",
+            "description": "【小さな野望】'25ハロウィン 十王 星南を入手"
+        },
+        {
             "id": "costume_head_jsna-cstm-0077",
             "name": "Our Chant",
             "description": "【Our Chant】주오 세나를 입수"
@@ -1071,6 +1081,11 @@
             "description": "【광경】'24 축제 시노사와 히로를 입수"
         },
         {
+            "id": "costume_head_shro-cstm-0065",
+            "name": "ゾンビ制服",
+            "description": "ゾンビ制服（篠澤広）を購入"
+        },
+        {
             "id": "costume_head_shro-cstm-0088",
             "name": "선 페이디드",
             "description": "【선 페이디드】시노사와 히로 입수"
@@ -1269,6 +1284,11 @@
             "id": "costume_head_ttmr-cstm-0063",
             "name": "관국",
             "description": "【Luna say maybe】'24 축제 츠키무라 테마리 획득"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0065",
+            "name": "ゾンビ制服",
+            "description": "ゾンビ制服（月村手毬）を購入"
         },
         {
             "id": "costume_head_ttmr-cstm-0072",

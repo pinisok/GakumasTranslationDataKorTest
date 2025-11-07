@@ -4430,6 +4430,30 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-story-event-009-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-story-event-009-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-story-event-009-mission_3",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-story-event-009-mission_4",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-story-event-009-mission_5",
+            "name": "P드링크를 {threshold}번 사용하자"
+        },
+        {
+            "id": "mission-story-event-009-mission_6",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-story-event-013-mission_1",
             "name": "{threshold}일 로그인하자"
         },

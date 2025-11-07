@@ -1445,6 +1445,24 @@
             "step": 1,
             "subStep": 1,
             "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_Tour",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_Research",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProducerRanking",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
         }
     ]
 }

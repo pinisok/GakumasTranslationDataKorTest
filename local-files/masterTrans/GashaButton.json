@@ -13,6 +13,18 @@
             "description": "10회 가챠"
         },
         {
+            "id": "gasha_button_merge-ssr-00530",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
+            "id": "gasha_button_merge-ssr-00560",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
             "id": "gasha_button-001-01",
             "order": 2,
             "name": "1회 가챠",
@@ -73,6 +85,12 @@
             "description": "10회 가챠"
         },
         {
+            "id": "gasha_button-free-10-05",
+            "order": 3,
+            "name": "10연 무료, 최대 100연 무료 가챠",
+            "description": "10회 가챠"
+        },
+        {
             "id": "gasha_button-pickup-001-01",
             "order": 2,
             "name": "1회 가챠",
@@ -122,6 +140,12 @@
         },
         {
             "id": "gasha_marge_button-ssr-00520",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
+            "id": "gasha_marge_button-ssr-00620",
             "order": 1,
             "name": "유료 10회 가챠",
             "description": "유료 10회 가챠"

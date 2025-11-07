@@ -144,6 +144,12 @@
             "acquisitionRouteDescription": "머니 교환소 등"
         },
         {
+            "id": "item-dearness-unlock-amao",
+            "name": "麻央との記録の鍵",
+            "description": "有村麻央のSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-dearness-unlock-fktn",
             "name": "코토네와의 기록의 열쇠",
             "description": "후지타 코토네의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
@@ -446,6 +452,12 @@
         {
             "id": "item-medal-story-event-008",
             "name": "3학년 1반 메모리얼",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-009",
+            "name": "ピクニックの思い出",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
@@ -1244,6 +1256,12 @@
         {
             "id": "item-selection-ticket-003",
             "name": "300만 DL 기념 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-004",
+            "name": "1.5th アニバーサリーセレクションチケット",
             "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
             "acquisitionRouteDescription": "상점 등"
         },
