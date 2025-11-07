@@ -145,8 +145,8 @@
         },
         {
             "id": "item-dearness-unlock-amao",
-            "name": "麻央との記録の鍵",
-            "description": "有村麻央のSTEP3の親愛度コミュを解放するアイテム",
+            "name": "마오와의 기록의 열쇠",
+            "description": "아리무라 마오의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
             "acquisitionRouteDescription": "교환소 등"
         },
         {
@@ -457,7 +457,7 @@
         },
         {
             "id": "item-medal-story-event-009",
-            "name": "ピクニックの思い出",
+            "name": "피크닉 추억",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
@@ -1261,7 +1261,7 @@
         },
         {
             "id": "item-selection-ticket-004",
-            "name": "1.5th アニバーサリーセレクションチケット",
+            "name": "1.5th 애니버서리 셀렉션 티켓",
             "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
             "acquisitionRouteDescription": "상점 등"
         },
