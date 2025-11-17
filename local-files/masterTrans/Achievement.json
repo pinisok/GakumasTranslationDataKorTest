@@ -3053,27 +3053,27 @@
         {
             "id": "achieve-p_idol-atbm-014",
             "name": "모든 것이 일급품",
-            "description": "아마야 츠바메의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
+            "description": "아마야 츠바메의 댄스를 1000 이상으로 육성하고 프로듀스를 완료하자"
         },
         {
             "id": "achieve-p_idol-atbm-015",
-            "name": "「アイドルへの道」雨夜燕",
-            "description": "「아이돌 길」아마야 츠바메"
+            "name": "「아이돌 길」아마야 츠바메",
+            "description": "「아이돌 길」에서 클리어 조건의 ★을 {threshold}개 획득"
         },
         {
             "id": "achieve-p_idol-atbm-016",
-            "name": "「아이돌 길」에서 클리어 조건의 ★을 {threshold}개 획득",
-            "description": "지상의 기쁨"
+            "name": "지상의 기쁨",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득"
         },
         {
             "id": "achieve-p_idol-atbm-017",
-            "name": "아마야 츠바메로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득",
-            "description": "아마야 츠바메 마스터"
+            "name": "아마야 츠바메 마스터",
+            "description": "아마야 츠바메로 난이도 「마스터」에서 최종 시험 1위를 획득"
         },
         {
             "id": "achieve-p_idol-atbm-020",
-            "name": "아마야 츠바메로 난이도 「마스터」에서 최종 시험 1위를 획득",
-            "description": "나아가야 할 길"
+            "name": "나아가야 할 길",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
