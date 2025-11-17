@@ -214,6 +214,14 @@
             "arranger": "Mitsu.J (Digz, Inc. Group)"
         },
         {
+            "id": "music-all-atbm-001",
+            "title": "하지메",
+            "displayTitle": "하지메",
+            "lyrics": "하라구치 사스케",
+            "composer": "하라구치 사스케",
+            "arranger": "미야카와 단, 하라구치 사스케"
+        },
+        {
             "id": "music-all-fktn-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1558,6 +1566,22 @@
             "arranger": ""
         },
         {
+            "id": "music-bgm-01_035",
+            "title": "아이돌의 길",
+            "displayTitle": "아이돌의 길",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
+            "id": "music-bgm-01_036",
+            "title": "표 [BGM Arrange]",
+            "displayTitle": "표 [BGM Arrange]",
+            "lyrics": "",
+            "composer": "",
+            "arranger": ""
+        },
+        {
             "id": "music-char-amao-001",
             "title": "Fluorite",
             "displayTitle": "",
@@ -1620,6 +1644,22 @@
             "lyrics": "kamome sano",
             "composer": "kamome sano",
             "arranger": "kamome sano"
+        },
+        {
+            "id": "music-char-atbm-001",
+            "title": "이론무장하고",
+            "displayTitle": "이론무장하고",
+            "lyrics": "마츠쿠마 켄타, GBB 아야카",
+            "composer": "마츠쿠마 켄타",
+            "arranger": "SCRAMBLES"
+        },
+        {
+            "id": "music-char-atbm-001-inst",
+            "title": "이론무장하고 [Instrumental]",
+            "displayTitle": "이론무장하고 [Instrumental]",
+            "lyrics": "마츠쿠마 켄타, GBB 아야카",
+            "composer": "마츠쿠마 켄타",
+            "arranger": "SCRAMBLES"
         },
         {
             "id": "music-char-fktn-001",

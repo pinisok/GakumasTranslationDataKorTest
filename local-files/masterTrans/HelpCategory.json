@@ -29,6 +29,12 @@
             "texts": []
         },
         {
+            "id": "help-competition",
+            "order": 12,
+            "name": "링크 콘테스트",
+            "texts": []
+        },
+        {
             "id": "help-contest",
             "order": 12,
             "name": "콘테스트",

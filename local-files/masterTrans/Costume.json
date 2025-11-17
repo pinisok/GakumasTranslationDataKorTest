@@ -171,9 +171,54 @@
             "description": "하츠보시 학원 체육복(아리무라 마오)을 구매"
         },
         {
+            "id": "atbm-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "atbm-cstm-0069",
+            "name": "차일드 스모크",
+            "description": "차일드 스모크(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "atbm-cstm-0106",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0107",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "atbm-cstm-0111",
+            "name": "세일러 수영복",
+            "description": "세일러 수영복(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "atbm-othr-0002",
+            "name": "온천용 수영복",
+            "description": "온천용 수영복(아마야 츠바메)를 구입"
+        },
+        {
             "id": "atbm-schl-0000",
             "name": "하츠세키 학원 교복",
             "description": "처음부터 소지"
+        },
+        {
+            "id": "atbm-trng-0000",
+            "name": "레슨웨어",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "atbm-trng-0001",
+            "name": "레슨웨어",
+            "description": "아마야 츠바메의 마스터 업적 Rank 3을 달성"
+        },
+        {
+            "id": "atbm-trng-0002",
+            "name": "하츠보시 학원 체육복",
+            "description": "하츠보시 학원 체육복(아마야 츠바메)를 구입"
         },
         {
             "id": "fktn-casl-0000",

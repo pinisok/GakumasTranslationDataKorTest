@@ -1,21 +1,29 @@
 {
-  "rules": {
-    "primaryKeys": [
-      "id"
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "memory_gift-20251116-kcna",
+            "name": "메모리 「학원 생활 쿠라모토 치나」"
+        },
+        {
+            "id": "memory_gift-20251116-shro",
+            "name": "메모리 「학원 생활 시노사와 히로」"
+        },
+        {
+            "id": "memory_gift-fktn",
+            "name": "첫 라이브"
+        },
+        {
+            "id": "memory_gift-hski",
+            "name": "첫 라이브"
+        },
+        {
+            "id": "memory_gift-ttmr",
+            "name": "첫 라이브"
+        }
     ]
-  },
-  "data": [
-    {
-      "id": "memory_gift-fktn",
-      "name": "첫 라이브"
-    },
-    {
-      "id": "memory_gift-hski",
-      "name": "첫 라이브"
-    },
-    {
-      "id": "memory_gift-ttmr",
-      "name": "첫 라이브"
-    }
-  ]
 }

@@ -8,12 +8,12 @@
         {
             "characterId": "amao",
             "name": "아리무라 마오",
-            "regexp": "마오"
+            "regexp": "아마야$"
         },
         {
             "characterId": "atbm",
             "name": "아마야 츠바메",
-            "regexp": "츠바메"
+            "regexp": "츠바메$"
         },
         {
             "characterId": "fktn",
@@ -38,12 +38,12 @@
         {
             "characterId": "hski",
             "name": "하나미 사키",
-            "regexp": "사키"
+            "regexp": "사키$"
         },
         {
             "characterId": "hume",
             "name": "하나미 우메",
-            "regexp": "우메"
+            "regexp": "우메$"
         },
         {
             "characterId": "jkno",
@@ -53,17 +53,17 @@
         {
             "characterId": "jsna",
             "name": "주오 세나",
-            "regexp": "세나"
+            "regexp": "세나$"
         },
         {
             "characterId": "kcna",
             "name": "쿠라모토 치나",
-            "regexp": "치나"
+            "regexp": "치나$"
         },
         {
             "characterId": "kllj",
             "name": "카츠라기 릴리야",
-            "regexp": "릴리야"
+            "regexp": "릴리야$"
         },
         {
             "characterId": "myu0",
@@ -78,12 +78,12 @@
         {
             "characterId": "shro",
             "name": "시노사와 히로",
-            "regexp": "히로"
+            "regexp": "히로$"
         },
         {
             "characterId": "ssmk",
             "name": "시운 스미카",
-            "regexp": "스미카"
+            "regexp": "스미카$ "
         },
         {
             "characterId": "trda",
@@ -103,7 +103,7 @@
         {
             "characterId": "ttmr",
             "name": "츠키무라 테마리",
-            "regexp": "테마리"
+            "regexp": "테마리$"
         }
     ]
 }

@@ -216,6 +216,66 @@
             "description": "【봐줘】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-atbm-2-000-01",
+            "name": "자전일섬",
+            "description": "【초지일관】아마야 츠바메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-02",
+            "name": "초지일관",
+            "description": "【초지일관】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-03",
+            "name": "네놈의 담당 아이돌이니까!",
+            "description": "【초지일관】아마야 츠바메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-04",
+            "name": "초지일관+",
+            "description": "【초지일관】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-05",
+            "name": "초지일관++",
+            "description": "【초지일관】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-06",
+            "name": "초지일관+++",
+            "description": "【초지일관】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-01",
+            "name": "저는, 결코",
+            "description": "【이론무장하고】아마야 츠바메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-02",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-03",
+            "name": "내가, 그렇게 하고 싶은 거다",
+            "description": "【이론무장하고】아마야 츠바메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-04",
+            "name": "이론무장하고+",
+            "description": "【이론무장하고】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-05",
+            "name": "이론무장하고++",
+            "description": "【이론무장하고】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-06",
+            "name": "이론무장하고+++",
+            "description": "【이론무장하고】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-fktn-2-000-04",
             "name": "귀엽게♡ 시작했답니다+",
             "description": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
@@ -2471,6 +2531,11 @@
             "description": "아리무라 마오의 업적의 ★을 {threshold}개 획득"
         },
         {
+            "id": "achieve-m_atbm-001",
+            "name": "마스터 업적",
+            "description": "아마야 츠바메의 업적의 ★을 {threshold}개 획득"
+        },
+        {
             "id": "achieve-m_fktn-001",
             "name": "마스터 업적",
             "description": "후지타 코토네의 업적의 ★을 {threshold}개 획득"
@@ -2628,17 +2693,17 @@
         {
             "id": "achieve-o_023",
             "name": "기대의 신인",
-            "description": "콘테스트에서 {threshold}점 이상 획득"
+            "description": "콘테스트 에서 스코어 10,000점 이상 획득"
         },
         {
             "id": "achieve-o_024",
             "name": "다크호스",
-            "description": "콘테스트에서 {threshold}점 이상 획득"
+            "description": "콘테스트 에서 스코어 30,000점 이상 획득"
         },
         {
             "id": "achieve-o_025",
             "name": "본선 진출 후보",
-            "description": "콘테스트에서 {threshold}점 이상 획득"
+            "description": "콘테스트 에서 스코어 60,000점 이상 획득"
         },
         {
             "id": "achieve-o_026",
@@ -2909,6 +2974,106 @@
             "id": "achieve-p_idol-amao-022",
             "name": "이상과 현실",
             "description": "아리무라 마오의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-p_idol-atbm-000",
+            "name": "가치의 증명",
+            "description": "아마야 츠바메로 True End를 보기"
+        },
+        {
+            "id": "achieve-p_idol-atbm-000-1",
+            "name": "현상 파악",
+            "description": "아마야 츠바메로 True End  : N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-atbm-001",
+            "name": "네놈이 없으면, 나는",
+            "description": "아마야 츠바메의 프로듀스에서 스킬 카드를 {threshold}회 사용함."
+        },
+        {
+            "id": "achieve-p_idol-atbm-002",
+            "name": "학원 No.2의 실력",
+            "description": "아마야 츠바메로 레슨을 {threshold}회 클리어"
+        },
+        {
+            "id": "achieve-p_idol-atbm-003",
+            "name": "타고난 재능",
+            "description": "아마야 츠바메로 SP 레슨을 {threshold}회 클리어"
+        },
+        {
+            "id": "achieve-p_idol-atbm-004",
+            "name": "너무 높은 프라이드",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 B 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-005",
+            "name": "넘어서기 위한 길",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-006",
+            "name": "정점을 집어삼킬 각오",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 S 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-007",
+            "name": "반역의 봉화",
+            "description": "아마야 츠바메의 프로듀스를 {threshold}회 완료"
+        },
+        {
+            "id": "achieve-p_idol-atbm-008",
+            "name": "껍질을 깨고 나간 끝에",
+            "description": "아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-p_idol-atbm-009",
+            "name": "꺼지지 않는 불꽃",
+            "description": "아마야 츠바메의 프로듀스로 최종 시험 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-atbm-010",
+            "name": "악역계 아이돌",
+            "description": "아마야 츠바메의 팬 {threshold}명 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-011",
+            "name": "네놈은 나를 지탱해라",
+            "description": "아마야 츠바메의 친애도 Lv을 {threshold} 달성하자"
+        },
+        {
+            "id": "achieve-p_idol-atbm-012",
+            "name": "자양강장",
+            "description": "아마야 츠바메의 프로듀스로 스킬 카드 {threshold}회 강화"
+        },
+        {
+            "id": "achieve-p_idol-atbm-013",
+            "name": "쳐부수기 위하여",
+            "description": "아마야 츠바메의 프로듀싱 상담으로 {threshold}회 교환"
+        },
+        {
+            "id": "achieve-p_idol-atbm-014",
+            "name": "모든 것이 일급품",
+            "description": "아마야 츠바메의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
+        },
+        {
+            "id": "achieve-p_idol-atbm-015",
+            "name": "「アイドルへの道」雨夜燕",
+            "description": "「아이돌 길」아마야 츠바메"
+        },
+        {
+            "id": "achieve-p_idol-atbm-016",
+            "name": "「아이돌 길」에서 클리어 조건의 ★을 {threshold}개 획득",
+            "description": "지상의 기쁨"
+        },
+        {
+            "id": "achieve-p_idol-atbm-017",
+            "name": "아마야 츠바메로 최종 시험에 합격하여 평가 S+ 이상을 {threshold} 회 획득",
+            "description": "아마야 츠바메 마스터"
+        },
+        {
+            "id": "achieve-p_idol-atbm-020",
+            "name": "아마야 츠바메로 난이도 「마스터」에서 최종 시험 1위를 획득",
+            "description": "나아가야 할 길"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",

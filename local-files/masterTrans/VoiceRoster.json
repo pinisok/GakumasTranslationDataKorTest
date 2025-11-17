@@ -522,6 +522,441 @@
             "title": "업무 개시②"
         },
         {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_cmmn_clothe-01",
+            "title": "의상"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_birthday-01",
+            "title": "홈 (2024생일）"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-04",
+            "title": "메인 로비④"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-05",
+            "title": "메인 로비⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-06",
+            "title": "메인 로비⑥"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-07",
+            "title": "메인 로비⑦"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-08",
+            "title": "메인 로비⑧"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-09",
+            "title": "메인 로비 (친애도 Lv1~3)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-10",
+            "title": "홈 (친애도 Lv3~5) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-11",
+            "title": "홈 (친애도 Lv3~5) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-12",
+            "title": "홈 (친애도 Lv5~6)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-13",
+            "title": "홈 (친애도 Lv6~8)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-14",
+            "title": "홈 (친애도 Lv7~9)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-15",
+            "title": "홈 (친애도 Lv10~) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-16",
+            "title": "홈 (친애도 Lv10~) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-17",
+            "title": "홈 (친애도 Lv10~）③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-18",
+            "title": "메인 로비⑨"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-19",
+            "title": "메인 로비⑩"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-20",
+            "title": "메인 로비⑪"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-21",
+            "title": "메인 로비⑫"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-22",
+            "title": "메인 로비⑬"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-23",
+            "title": "메인 로비⑭"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-24",
+            "title": "메인 로비⑮"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_cmmn-25",
+            "title": "메인 로비⑯"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_touch-01",
+            "title": "메인 로비⑰"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_touch-02",
+            "title": "메인 로비⑱"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-01",
+            "title": "메인 로비 (아침)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-02",
+            "title": "메인 로비 (아침)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-03",
+            "title": "메인 로비 (낮)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-04",
+            "title": "메인 로비 (낮)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-05",
+            "title": "메인 로비 (저녁)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-06",
+            "title": "메인 로비 (저녁)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-07",
+            "title": "메인 로비 (밤)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-08",
+            "title": "메인 로비 (밤)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-09",
+            "title": "홈 (2026 신년)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-10",
+            "title": "홈 (2026 발렌타인)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-11",
+            "title": "홈 (2026 할로윈)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-12",
+            "title": "홈 (2025 크리스마스)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-13",
+            "title": "홈 (2025 섣달 그믐)"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-14",
+            "title": "메인 로비 (봄)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-15",
+            "title": "메인 로비 (봄)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-16",
+            "title": "메인 로비 (봄)③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-17",
+            "title": "메인 로비 (여름)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-18",
+            "title": "메인 로비 (여름)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-19",
+            "title": "메인 로비 (여름)③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-20",
+            "title": "메인 로비(가을)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-21",
+            "title": "메인 로비(가을)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-22",
+            "title": "메인 로비(가을)③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-23",
+            "title": "홈(겨울)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-24",
+            "title": "홈(겨울)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_home_transition-25",
+            "title": "홈(겨울)③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_idol_potential-01",
+            "title": "재능 개화①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_idol_potential-02",
+            "title": "재능 개화②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-01",
+            "title": "프로듀싱 결과(True End) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-02",
+            "title": "프로듀싱 결과(True End) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-03",
+            "title": "프로듀싱 결과(True End) ③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-04",
+            "title": "프로듀스 결과 (A End)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-05",
+            "title": "프로듀스 결과 (A End)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-06",
+            "title": "프로듀스 결과 (A End)③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-07",
+            "title": "프로듀스 결과 (B~C End)①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-08",
+            "title": "프로듀스 결과 (B~C End)②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-01",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-02",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-03",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-04",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-05",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-06",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-07",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-08",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-09",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-10",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-11",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-12",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-13",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-14",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-15",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-16",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-17",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-18",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-19",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_work_result-01",
+            "title": "업무 성공"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_work_result-02",
+            "title": "업무 대성공"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_work_start-01",
+            "title": "업무 개시①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_work_start-02",
+            "title": "업무 개시②"
+        },
+        {
             "characterId": "amao",
             "assetId": "sud_vo_system_dear_amao_021-01",
             "title": "친애도 TOP (친애도 Lv21) ①"
@@ -1859,7 +2294,7 @@
         {
             "characterId": "hmsz",
             "assetId": "sud_vo_system_hmsz_home_transition-11",
-            "title": "ホーム（2025ハロウィン）"
+            "title": "홈 (2025 할로윈)"
         },
         {
             "characterId": "hmsz",

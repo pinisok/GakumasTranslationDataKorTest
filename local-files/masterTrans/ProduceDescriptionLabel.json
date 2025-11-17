@@ -2352,7 +2352,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승량을 200% 증가\n턴 종료시 "
+                    "text": "상승량 200% 증가\n다음 턴 시작시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3868,32 +3868,12 @@
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
                     "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_ExamLesson",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "파라미터"
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "상승량을 "
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
                     "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의욕"
+                    "text": "의욕 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3903,7 +3883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 "
+                    "text": "이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3923,7 +3903,27 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 최소값에 따라, 1당 10% 증가"
+                    "text": "의 최소값에 따라, 1개당, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLesson",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "파라미터 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "상승량을 2% 증가(최대 50%)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",

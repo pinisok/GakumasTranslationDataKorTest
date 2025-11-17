@@ -134,6 +134,72 @@
             "name": "이벤트 커뮤"
         },
         {
+            "helpCategoryId": "help-competition",
+            "id": "competition-competition",
+            "order": 1,
+            "name": "링크 콘테스트"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-competition-ranking",
+            "order": 10,
+            "name": "링크 콘테스트 랭킹"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-grade",
+            "order": 8,
+            "name": "등급"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-preparation-period",
+            "order": 7,
+            "name": "개최 준비 기간"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rate-pt",
+            "order": 9,
+            "name": "마이 유닛"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rehearsal",
+            "order": 11,
+            "name": "리허설"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rule",
+            "order": 2,
+            "name": "링크 콘테스트 규칙"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-season",
+            "order": 6,
+            "name": "시즌"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-squad",
+            "order": 3,
+            "name": "편성"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-stage",
+            "order": 4,
+            "name": "스테이지"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-total",
+            "order": 5,
+            "name": "종합력"
+        },
+        {
             "helpCategoryId": "help-contest",
             "id": "contest-contest",
             "order": 1,
@@ -1038,12 +1104,6 @@
             "id": "produce-produce-2",
             "order": 38,
             "name": "NEXT IDOL AUDITION"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-2-master-ranking",
-            "order": 48,
-            "name": "N.I.A 마스터 랭킹"
         },
         {
             "helpCategoryId": "help-produce",

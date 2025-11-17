@@ -26,12 +26,52 @@
             "name": "하츠보시 학원 체육복 (아리무라 마오)"
         },
         {
+            "id": "shop_costume_atbm-cstm-0069",
+            "name": "차일드 스모크(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_atbm-cstm-0111",
+            "name": "세일러 수영복(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_atbm-othr-0002",
+            "name": "온천용 수영복(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_atbm-trng-0002",
+            "name": "하츠보시 학원 체육복(아마야 츠바메)"
+        },
+        {
             "id": "shop_costume_costume_head_amao-hair-0001",
             "name": "수국 꽃 머리 장식 (아리무라 마오)"
         },
         {
             "id": "shop_costume_costume_head_amao-hair-0003",
             "name": "라운드 안경 (아리무라 마오)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0001",
+            "name": "수국 머리 꽃 장식(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0003",
+            "name": "둥근 안경(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0004",
+            "name": "고양이 귀(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0006",
+            "name": "하츠미☆액세서리(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0007",
+            "name": "티어드롭 글래스(아마야 츠바메)"
+        },
+        {
+            "id": "shop_costume_costume_head_atbm-hair-0008",
+            "name": "개 귀(아마야 츠바메)"
         },
         {
             "id": "shop_costume_costume_head_fktn-hair-0001",
@@ -484,6 +524,18 @@
         {
             "id": "shop_jewel_item-0024",
             "name": "【1회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_jewel_item-0025",
+            "name": "【2회 한정 특가!】쥬얼 12,300개"
+        },
+        {
+            "id": "shop_jewel_item-0026",
+            "name": "【2회 한정 특가!】쥬얼 6,000개"
+        },
+        {
+            "id": "shop_pack_atbm-0001",
+            "name": "【72시간 한정】프로듀스 아이돌 피스팩 (츠바메)"
         },
         {
             "id": "shop_pack_hmsz-0001",

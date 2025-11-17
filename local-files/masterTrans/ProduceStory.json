@@ -69,6 +69,61 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story_002_atbm_after-audition-a-normal-02",
+            "title": "아직 여기서부터",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-a-normal-03",
+            "title": "아직도 지금부터",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-b-normal-02",
+            "title": "더 더 앞으로!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-b-normal-03",
+            "title": "더 앞으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-final-failure-01",
+            "title": "다시 함께",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-final-normal-01",
+            "title": "더 높은 곳으로!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-mid-failure-01",
+            "title": "다음 번에는 반드시",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_before-audition-a-normal-01",
+            "title": "기합은 충분해?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_before-audition-b-normal-01",
+            "title": "준비는 만반이야?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_ending-normal-02",
+            "title": "Normal End",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_opening-normal-02",
+            "title": "목표는 『N.I.A』 제패!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story_002_fktn_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
@@ -990,6 +1045,237 @@
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
                 "有村麻央のTrue Endをみる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-failure-01",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で不合格"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-01",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-02",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-03",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を3位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-04",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-failure-01",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-01",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-02",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-03",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を3位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-04",
+            "title": "시험 결과는...",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-step-1-normal-01",
+            "title": "신경쓰이는 모습",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度7以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-1-normal-02",
+            "title": "신경쓰이는 모습",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-1-normal-03",
+            "title": "신경쓰이는 모습",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-step-2-normal-01",
+            "title": "신경쓰이는 모습",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度7以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-2-normal-02",
+            "title": "신경쓰이는 모습",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-2-normal-03",
+            "title": "신경쓰이는 모습",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-before-audition-final-normal-01",
+            "title": "가자! 최종시험에",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-before-audition-mid-normal-01",
+            "title": "막상! 중간고사에!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-01",
+            "title": "【A End】지극히 자연스러운 욕구",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-02",
+            "title": "【B End】너무나 무거운 기대",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-03",
+            "title": "【C End】명운을 맡길 각오 ",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験に合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-04",
+            "title": "【D End】절대 놓치지 않아",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で4位または5位になる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-05",
+            "title": "【E End】목숨을 건 약속",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で6位になる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-true-01",
+            "title": "True End",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験を1位で合格する",
+                "アチーブメント「すべて一級品」を獲得する",
+                "アチーブメント「貴様は私を支えろ」を獲得する",
+                "アチーブメント「学園No.2の実力」を獲得する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-fb-01",
+            "title": "정진향상",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-fb-02",
+            "title": "반석견고",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-fb-03",
+            "title": "임전태세",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-01",
+            "title": "프로듀싱 시작!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-02",
+            "title": "아마야 츠바메 시동!",
+            "produceEventHintProduceConditionDescriptions": [
+                "プロデュースを開始する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-03",
+            "title": "아마야 츠바메 시동!",
+            "produceEventHintProduceConditionDescriptions": [
+                "プロデュースを開始する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-04",
+            "title": "아마야 츠바메 시동!",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-05",
+            "title": "아마야 츠바메 시동!",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-true-01",
+            "title": "꿈에 더 가까워지기 위해",
+            "produceEventHintProduceConditionDescriptions": [
+                "雨夜燕のTrue Endをみる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-true-02",
+            "title": "꿈에 더 가까워지기 위해",
+            "produceEventHintProduceConditionDescriptions": [
+                "雨夜燕のTrue Endをみる"
             ]
         },
         {
@@ -3696,6 +3982,171 @@
         {
             "id": "p_story-event-001_amao_school_011",
             "title": "마오의 레슨",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_001",
+            "title": "비즈니스 츠바메",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_002",
+            "title": "오늘의 주제는?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_003",
+            "title": "닌자는 누구냐",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_004",
+            "title": "단것의 유혹",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_005",
+            "title": "추천하는 가게는?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_006",
+            "title": "군자는 『벌레』를 가까이하지 않는다",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_007",
+            "title": "주문은 소바입니까?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_008",
+            "title": "봐야 할 영화는?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_009",
+            "title": "나의 파트너의 이름은……!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_010",
+            "title": "수면 부족의 이유는?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_011",
+            "title": "돌격, 메이드 카페!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_012",
+            "title": "옷 갈아입는 아마요 씨",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_013",
+            "title": "둔치는 마음에 드나요?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_014",
+            "title": "서예를 통달한 자",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_015",
+            "title": "선보이는 팬심",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_016",
+            "title": "아마야 츠바메의 일상",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_017-01",
+            "title": "Fighting Game!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_017-02",
+            "title": "Fighting Game!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_018-01",
+            "title": "도전하라, 제비뽑기 백 번!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_018-02",
+            "title": "도전하라, 제비뽑기 백 번!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_019",
+            "title": "몸가짐 주의!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_020",
+            "title": "주먹밥은 무슨 맛?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_001",
+            "title": "츠바메와 공부",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_002",
+            "title": "츠바메는 무슨 아이돌?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_003",
+            "title": "신뢰 관계는 완벽?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_004",
+            "title": "고삐는 단단히",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_005",
+            "title": "3개의 『백』의 성",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_006",
+            "title": "가치의 변화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_007",
+            "title": "붓의 달인 이름은?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_008",
+            "title": "플러스도 마이너스도 아닌 숫자",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_009",
+            "title": "민완 비서, 아마요 츠바메",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_010",
+            "title": "숙명의 싸움!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_011",
+            "title": "레슨은 무엇에?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -9939,6 +10390,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-atbm-3-000-01",
+            "title": "이론무장하고 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-000-02",
+            "title": "이론무장하고 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-000-03",
+            "title": "이론무장하고 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-fktn-3-000-01",
             "title": "세상에서 제일 귀여운 나 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -11139,6 +11605,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-1-0012-01",
+            "title": "기대의 1학년생",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-1-0012-02",
+            "title": "시험 결과, 발표!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-2-0000-01",
             "title": "친애하는 포옹 ......?",
             "produceEventHintProduceConditionDescriptions": []
@@ -11736,6 +12212,16 @@
         {
             "id": "p_story-s_card-2-0065-02",
             "title": "왕자님의 의외의 일면",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0066-01",
+            "title": "금빛 번쩍이는 드래곤",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0066-02",
+            "title": "지금은 아이돌을 전력으로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12909,6 +13395,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-3-0079-01",
+            "title": "까다롭고 유능한 후배",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0079-02",
+            "title": "낮잠, 때때로 레슨",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0079-03",
+            "title": "부회장의 부탁",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0080-01",
             "title": "인형 뽑기 달인, 시운",
             "produceEventHintProduceConditionDescriptions": []
@@ -12991,6 +13492,56 @@
         {
             "id": "story-dearness-amao-010-1",
             "title": "제10.5화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-001",
+            "title": "1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-002",
+            "title": "2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-003",
+            "title": "3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-004",
+            "title": "4화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-005",
+            "title": "5화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-006",
+            "title": "6화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-007",
+            "title": "7화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-008",
+            "title": "8화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-009",
+            "title": "9화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-010",
+            "title": "10화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

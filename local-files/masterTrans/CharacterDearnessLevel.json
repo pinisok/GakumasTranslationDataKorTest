@@ -142,6 +142,56 @@
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
+            "characterId": "atbm",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "업적 「학원 No.2」의 실력을 획득한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 댄스를 800 이상으로 만든다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+        },
+        {
             "characterId": "fktn",
             "dearnessLevel": 1,
             "produceConditionDescription": ""

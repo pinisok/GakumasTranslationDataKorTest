@@ -92,6 +92,84 @@
             "content": "멋진 아이돌을 목표로 하는 몸집 작은3학년. 후배들에게 작은 왕자님으로 추앙받고 있다.\n어릴적부터 가극의 스타를 동경해, 아역배우로서 활약하고 있었지만,\n최근에는 그녀가 바라는 이상적인 모습과 신체 성장의 차이로 고민하고 있다."
         },
         {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3학년"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "169"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "51"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "80/55/82"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "황소자"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "아마네 유카리"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "5월 20일"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "오른손"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "도쿄"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "비서 기능 전반, 수학, 서예"
+        },
+        {
+            "characterId": "atbm",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "서예, 역사(일본사), 독서"
+        },
+        {
             "characterId": "fktn",
             "type": "CharacterDetailType_Grade",
             "order": 1,
@@ -977,7 +1055,7 @@
             "characterId": "ttmr",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "6월3일"
+            "content": "6월 3일"
         },
         {
             "characterId": "ttmr",

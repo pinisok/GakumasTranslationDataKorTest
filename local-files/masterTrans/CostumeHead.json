@@ -126,6 +126,51 @@
             "description": "【봐줘】아리무라 마오 입수"
         },
         {
+            "id": "costume_head_atbm-cstm-0000",
+            "name": "하지메",
+            "description": "처음부터 소지"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0106",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메 입수"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0107",
+            "name": "이론무장하고",
+            "description": "【이론무장하고】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_atbm-hair-0001",
+            "name": "수국 머리 장식",
+            "description": "수국 머리 장식(아마야 츠바메)을 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0003",
+            "name": "둥근 안경",
+            "description": "둥근 안경(아마야 츠바메)을 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0004",
+            "name": "고양이 귀",
+            "description": "고양이 귀(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0006",
+            "name": "하츠미☆액세서리",
+            "description": "하츠미☆액세서리(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "티어드롭 글래스(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0008",
+            "name": "개 귀",
+            "description": "개 귀(아마야 츠바메)를 입수"
+        },
+        {
             "id": "costume_head_atbm-schl-0000",
             "name": "평소의 헤어스타일",
             "description": "처음부터 소지"

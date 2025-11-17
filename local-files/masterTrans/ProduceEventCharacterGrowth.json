@@ -25,6 +25,24 @@
             "description": "비주얼 1000 이상"
         },
         {
+            "characterId": "atbm",
+            "number": 1,
+            "title": "단점을 무기로",
+            "description": "비주얼 300 이상"
+        },
+        {
+            "characterId": "atbm",
+            "number": 2,
+            "title": "안정된 실력",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "atbm",
+            "number": 3,
+            "title": "정점을 집어삼키는 힘",
+            "description": "댄스 1000 이상"
+        },
+        {
             "characterId": "fktn",
             "number": 1,
             "title": "생활개선",

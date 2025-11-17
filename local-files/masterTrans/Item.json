@@ -234,6 +234,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-ssr-fix_5",
+            "name": "1.5th 주년 기념 SSR 확정 가챠 티켓",
+            "description": "1.5th 주년 기념 SSR 확정 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-idol-fix_1",
             "name": "SSR P 아이돌 확정 가챠 티켓",
             "description": "SSR P 아이돌 확정 티켓 가챠에서 사용하는 티켓",
@@ -560,6 +566,24 @@
         {
             "id": "item-piece-idol_amao-3-015",
             "name": "[봐줘] 아리무라 마오의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-1-000",
+            "name": "[학원생활] 아마야 츠바메의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-2-000",
+            "name": "[초지일관] 아마야 츠바메의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-000",
+            "name": "[이론무장하고] 아마야 츠바메의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
