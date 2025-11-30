@@ -1236,6 +1236,36 @@
             "description": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hume-3-009-01",
+            "name": "가위바위보 뿅",
+            "description": "【구-스-피-】하나미 우메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-02",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-03",
+            "name": "함께, 찾아올게요!",
+            "description": "【구-스-피-】하나미 우메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-04",
+            "name": "구-스-피- +",
+            "description": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성]"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-05",
+            "name": "구-스-피- ++",
+            "description": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-06",
+            "name": "구-스-피- +++",
+            "description": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hume-3-012-01",
             "name": "손에 넣은 미래",
             "description": "【Star-mine】하나미 우메의 프로듀스로 최종 시험에 합격"

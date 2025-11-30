@@ -13,6 +13,12 @@
             "description": "10회 가챠"
         },
         {
+            "id": "gasha_button_animate-ssr-00630",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
             "id": "gasha_button_merge-ssr-00530",
             "order": 1,
             "name": "유료 10회 가챠",
@@ -71,6 +77,12 @@
             "order": 3,
             "name": "10회 티켓 가챠",
             "description": "10회 티켓 가챠"
+        },
+        {
+            "id": "gasha_button-640-fes",
+            "order": 1,
+            "name": "5회 가챠",
+            "description": "5회 가챠"
         },
         {
             "id": "gasha_button-free-10-01",
@@ -178,6 +190,12 @@
             "id": "gasha_ticket_ssr_button_idol_2",
             "order": 1,
             "name": "The 1st Period 공연 기념 SSR P아이돌 확정 티켓으로 뽑기",
+            "description": "SSR 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button_seasons-2511-001",
+            "order": 1,
+            "name": "1.5주년 기념 시즌 한정 SSR 확정 티켓으로 뽑기",
             "description": "SSR 확정 1연차"
         },
         {

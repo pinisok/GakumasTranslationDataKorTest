@@ -691,6 +691,16 @@
             "description": "【Campus mode!!】하나미 우메의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_hume-cstm-0057",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0058",
+            "name": "구-스-피-",
+            "description": "【구-스-피-】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_hume-cstm-0063",
             "name": "관국",
             "description": "【The Rolling Riceball】'24 축제 하나미 우메를 입수"
@@ -743,7 +753,7 @@
         {
             "id": "costume_head_hume-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_hume-hair-0006",
@@ -759,6 +769,11 @@
             "id": "costume_head_hume-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 9월 에서 획득"
+        },
+        {
+            "id": "costume_head_hume-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_hume-schl-0000",
@@ -838,7 +853,7 @@
         {
             "id": "costume_head_jsna-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_jsna-hair-0006",
@@ -948,7 +963,7 @@
         {
             "id": "costume_head_kcna-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0006",
@@ -964,6 +979,11 @@
             "id": "costume_head_kcna-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 9월 에서 획득"
+        },
+        {
+            "id": "costume_head_kcna-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0013",
@@ -1168,7 +1188,7 @@
         {
             "id": "costume_head_shro-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_shro-hair-0006",
@@ -1184,6 +1204,11 @@
             "id": "costume_head_shro-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 9월 에서 획득"
+        },
+        {
+            "id": "costume_head_shro-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2025년 12월에 획득 가능 등"
         },
         {
             "id": "costume_head_shro-hair-0011",

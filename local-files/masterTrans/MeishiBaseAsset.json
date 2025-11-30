@@ -102,6 +102,10 @@
             "name": "릴리야와 스미카의 일상"
         },
         {
+            "id": "event-story-021",
+            "name": "세나와 츠바메의 일상"
+        },
+        {
             "id": "first-live-01",
             "name": "초성 공연"
         },
@@ -172,6 +176,10 @@
         {
             "id": "jsna-birthday-01",
             "name": "Cosmetic"
+        },
+        {
+            "id": "jsna-birthday-02",
+            "name": "주오 세나 생일 2025"
         },
         {
             "id": "kcna-001",

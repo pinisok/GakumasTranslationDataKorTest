@@ -130,6 +130,10 @@
             "name": "라운드 안경 (하나미 우메)"
         },
         {
+            "id": "shop_costume_costume_head_hume-hair-0004",
+            "name": "고양이 귀(하나미 우메)"
+        },
+        {
             "id": "shop_costume_costume_head_jsna-hair-0001",
             "name": "수국 꽃 머리 장식 (주오 세나)"
         },
@@ -138,12 +142,20 @@
             "name": "라운드 안경 (주오 세나)"
         },
         {
+            "id": "shop_costume_costume_head_jsna-hair-0004",
+            "name": "고양이 귀(주오 세나)"
+        },
+        {
             "id": "shop_costume_costume_head_kcna-hair-0001",
             "name": "수국 꽃 머리 장식 (쿠라모토 치나)"
         },
         {
             "id": "shop_costume_costume_head_kcna-hair-0003",
             "name": "라운드 안경 (쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0004",
+            "name": "고양이 귀(쿠라모토 치나)"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -160,6 +172,10 @@
         {
             "id": "shop_costume_costume_head_shro-hair-0003",
             "name": "라운드 안경 (시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0004",
+            "name": "고양이 귀(시노사와 히로)"
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -606,6 +622,18 @@
             "name": "하츠보시 운동회 개최 기념 팩"
         },
         {
+            "id": "shop_pack_item-0057",
+            "name": "1.5주년 기념 아이돌 팩"
+        },
+        {
+            "id": "shop_pack_item-0058",
+            "name": "1.5주년 기념 서포트 팩"
+        },
+        {
+            "id": "shop_pack_item-0061",
+            "name": "1.5주년 기념 시즌 팩"
+        },
+        {
             "id": "shop_pack_item-100dl",
             "name": "[100만 DL 기념] 육성 팩 (6/28까지)"
         },
@@ -788,6 +816,10 @@
         {
             "id": "shop_pass_item-0019",
             "name": "프리미엄 미션 패스 2025년 11월"
+        },
+        {
+            "id": "shop_pass_item-0020",
+            "name": "프리미엄 미션 패스 2025년 12월"
         }
     ]
 }

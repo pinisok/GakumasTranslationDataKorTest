@@ -186,6 +186,12 @@
             "acquisitionRouteDescription": "대여, 동아리 기부 등"
         },
         {
+            "id": "item-gacha-coin-18m-aniv-001",
+            "name": "1.5th 하츠미짱 코인",
+            "description": "1.5주년 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-gacha-coin-anniversary-001",
             "name": "하츠미 짱 코인",
             "description": "1st 애니버서리 코인 가챠에서 사용하는 코인",
@@ -196,6 +202,12 @@
             "name": "하츠보시 복권 티켓 2025",
             "description": "근하신년! 복권 가챠에서 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
+            "name": "1.5주년 기념 시즌 한정 SSR 확정 가챠 티켓",
+            "description": "1.5주년 기념 시즌 한정 SSR 확정 가챠 티켓에 사용하는 티켓",
+            "acquisitionRouteDescription": ""
         },
         {
             "id": "item-gashaitem-10_01",
@@ -464,6 +476,12 @@
         {
             "id": "item-medal-story-event-009",
             "name": "피크닉 추억",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-010",
+            "name": "반짝반짝 별과 함께 보는 풍경",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
@@ -854,6 +872,12 @@
         {
             "id": "item-piece-idol_hume-3-006",
             "name": "[Campus mode!!] 하나미 우메의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-009",
+            "name": "[구-스-피-] 하나미 우메의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

@@ -267,6 +267,16 @@
             "title": "하츠보시 학원 체육복"
         },
         {
+            "id": "voice_group-atbm-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-casl-0002_01",
+            "title": "마음에 드는 사복"
+        },
+        {
+            "id": "voice_group-atbm-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-casl-0002_02",
+            "title": "마음에 드는 사복"
+        },
+        {
             "id": "voice_group-atbm-cstm-0000-cmmn",
             "voiceAssetId": "sud_vo_system_atbm-cstm-0000_01",
             "title": "하지메"
@@ -2295,6 +2305,46 @@
             "id": "voice_group-cidol-hmsz-3-005-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-hmsz-3-005_produce_schedule-04",
             "title": "프로듀스④"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-009_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-009-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
+            "title": "옷 갈아입기②"
         },
         {
             "id": "voice_group-cidol-hmsz-3-010_home",
@@ -4384,6 +4434,66 @@
         {
             "id": "voice_group-cidol-hume-3-006-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-hume-3-006_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009_home",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009_home",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009_home",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-detail",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-detail",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-009-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-009_produce_schedule-04",
             "title": "프로듀스④"
         },
         {
@@ -9557,6 +9667,16 @@
             "title": "Star-mine"
         },
         {
+            "id": "voice_group-hmsz-cstm-0119-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_01",
+            "title": "고금동서 식은 죽 먹기"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0119-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0119_02",
+            "title": "고금동서 식은 죽 먹기"
+        },
+        {
             "id": "voice_group-hmsz-cstm-0122-cmmn",
             "voiceAssetId": "sud_vo_system_hmsz-cstm-0122_01",
             "title": "미라쿠루나나우(˚∀˚)!"
@@ -10197,6 +10317,16 @@
             "title": "Campus mode!!"
         },
         {
+            "id": "voice_group-hume-cstm-0057-cmmn",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0057_01",
+            "title": "구-스-피-"
+        },
+        {
+            "id": "voice_group-hume-cstm-0057-cmmn",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0057_02",
+            "title": "구-스-피-"
+        },
+        {
             "id": "voice_group-hume-cstm-0063-cmmn",
             "voiceAssetId": "sud_vo_system_hume-cstm-0063_01",
             "title": "관국"
@@ -10355,6 +10485,16 @@
             "id": "voice_group-hume-trng-0002-cmmn",
             "voiceAssetId": "sud_vo_system_hume-trng-0002_02",
             "title": "하츠보시 학원 체육복"
+        },
+        {
+            "id": "voice_group-jsna-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_jsna-casl-0002_01",
+            "title": "마음에 드는 사복"
+        },
+        {
+            "id": "voice_group-jsna-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_jsna-casl-0002_02",
+            "title": "마음에 드는 사복"
         },
         {
             "id": "voice_group-jsna-cstm-0000-cmmn",

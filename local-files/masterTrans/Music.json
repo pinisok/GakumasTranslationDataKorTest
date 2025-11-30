@@ -366,6 +366,14 @@
             "arranger": "DYES IWASAKI (FAKE TYPE.)"
         },
         {
+            "id": "music-all-hmsz-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-hmsz-012",
             "title": "미라쿠루나나우(˚∀˚)!",
             "displayTitle": "미라쿠루나나우(˚∀˚)!",
@@ -1886,6 +1894,22 @@
             "arranger": "한다 아키토시"
         },
         {
+            "id": "music-char-hume-002",
+            "title": "구-스-피-",
+            "displayTitle": "구-스-피-",
+            "lyrics": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "composer": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "arranger": "사토 타카후미 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hume-002-inst",
+            "title": "구-스-피- [Instrumental]",
+            "displayTitle": "구-스-피- [Instrumental]",
+            "lyrics": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "composer": "사토 타카후미 (Bandai Namco Studios Inc.)",
+            "arranger": "사토 타카후미 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-char-hume-003",
             "title": "짱세 최강 엑서사이즈",
             "displayTitle": "짱세 최강 엑서사이즈",
@@ -1948,6 +1972,22 @@
             "lyrics": "스테파니 토팔리안, MOMONADY",
             "composer": "MOMONADY, 유키 후나코시 (Digz, Inc. Group)",
             "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-jsna-005",
+            "title": "Choo Choo Choo",
+            "displayTitle": "Choo Choo Choo",
+            "lyrics": "BOYHOOD (Digz, Inc. Group)",
+            "composer": "BOYHOOD (Digz, Inc. Group)",
+            "arranger": "BOYHOOD (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-jsna-005-inst",
+            "title": "Choo Choo Choo [Instrumental]",
+            "displayTitle": "Choo Choo Choo [Instrumental]",
+            "lyrics": "BOYHOOD (Digz, Inc. Group)",
+            "composer": "BOYHOOD (Digz, Inc. Group)",
+            "arranger": "BOYHOOD (Digz, Inc. Group)"
         },
         {
             "id": "music-char-kcna-001",

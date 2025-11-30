@@ -2072,7 +2072,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "약체 상태를 회복한다"
+                    "text": "저하 상태를 회복한다"
                 }
             ],
             "name": "저하 상태 회복"

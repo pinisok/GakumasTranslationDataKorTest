@@ -790,6 +790,10 @@
             "name": "아사리 선생님의 선물! 최대 100연 무료! 10연 무료 가챠를 {threadhold}회 뽑자"
         },
         {
+            "id": "hidden_mission-view-gasha-00640-pickup-002",
+            "name": "1.5주년 기념 한정&Re;IRES 등장! SSR 15% 가챠를 {threshold}회 뽑자"
+        },
+        {
             "id": "mission-box-gasha-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -4482,6 +4486,30 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-story-event-010-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-story-event-010-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-story-event-010-mission_3",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-story-event-010-mission_4",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-story-event-010-mission_5",
+            "name": "P드링크를 {threshold}번 사용하자"
+        },
+        {
+            "id": "mission-story-event-010-mission_6",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-story-event-013-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -5836,6 +5864,30 @@
         {
             "id": "achieve-i_card-hume-3-006-06",
             "name": "【Campus mode!!】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-01",
+            "name": "【구-스-피-】하나미 우메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-02",
+            "name": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-03",
+            "name": "【구-스-피-】하나미 우메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-04",
+            "name": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-05",
+            "name": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-009-06",
+            "name": "【구-스-피-】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-3-012-01",

@@ -10855,6 +10855,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hume-3-009-01",
+            "title": "구-스-피- 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hume-3-009-02",
+            "title": "구-스-피- 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hume-3-009-03",
+            "title": "구-스-피- 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hume-3-012-01",
             "title": "Star-mine 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -12042,6 +12057,16 @@
         {
             "id": "p_story-s_card-2-0045-02",
             "title": "사실 무서운 선배",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0046-01",
+            "title": "봐주기 없기!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0046-02",
+            "title": "학원 기숙사의 비보",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -13422,6 +13447,36 @@
         {
             "id": "p_story-s_card-3-0080-03",
             "title": "애니송으로 승부!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0081-01",
+            "title": "서로 주고받는 '정말 좋아해'",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0081-02",
+            "title": "등장, 언니 산타!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0081-03",
+            "title": "목표로부터의 선물",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0086-01",
+            "title": "완전 귀여운 프리에 도전!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0086-02",
+            "title": "초대형 파르페에 도전!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0086-03",
+            "title": "소꿉친구 데이트에 도전!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
