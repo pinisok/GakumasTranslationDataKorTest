@@ -134,6 +134,38 @@
             "name": "쿠라모토 치나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
+            "id": "dearness_event_kllj-001",
+            "name": "카츠라기 릴리야의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_kllj-002",
+            "name": "카츠라기 릴리야의 프로듀스에서 외출을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_kllj-003",
+            "name": "카츠라기 릴리야의 프로듀스에서 상담을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_kllj-004",
+            "name": "카츠라기 릴리야의 프로듀스에서 영업을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_kllj-005",
+            "name": "카츠라기 릴리야의 프로듀스에서 선물을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_kllj-006",
+            "name": "카츠라기 릴리야로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_kllj-007",
+            "name": "카츠라기 릴리야의 프로듀스에서 특별지도를 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_kllj-008",
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_event_shro-001",
             "name": "시노사와 히로의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
         },
@@ -278,6 +310,26 @@
             "name": "쿠라모토 치나의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
+            "id": "dearness_normal-mission_kllj-001",
+            "name": "카츠라기 릴리야의 비주얼을 2000 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-002",
+            "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 총 {threshold}회 사용하자"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-003",
+            "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 강화하자"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-004",
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-005",
+            "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
             "id": "dearness_normal-mission_shro-001",
             "name": "시노사와 히로의 보컬을 2000 이상으로 육성하여 프로듀스 완료"
         },
@@ -316,6 +368,70 @@
         {
             "id": "dearness_normal-mission_ssmk-005",
             "name": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_014_001",
+            "name": "링크 콘테스트에서 1위 이내에 들자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_014_002",
+            "name": "콘테스트에서 1위 이내에 들자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_016_001",
+            "name": "링크 콘테스트에서 1등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_016_002",
+            "name": "콘테스트에서 1등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_017_001",
+            "name": "링크 콘테스트에서 2등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_017_002",
+            "name": "콘테스트에서 2등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_018_001",
+            "name": "링크 콘테스트에서 3등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_018_002",
+            "name": "콘테스트에서 3등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_019_001",
+            "name": "링크 콘테스트에서 4등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_019_002",
+            "name": "콘테스트에서 4등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_020_001",
+            "name": "링크 콘테스트에서 5등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_020_002",
+            "name": "콘테스트에서 5등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_021_001",
+            "name": "링크 콘테스트에서 6등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_021_002",
+            "name": "콘테스트에서 6등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_022_001",
+            "name": "링크 콘테스트에서 7등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_022_002",
+            "name": "콘테스트에서 7등급에 도달하자"
         },
         {
             "id": "hidden_mission-app-review-main-task-clear",
@@ -1347,7 +1463,7 @@
         },
         {
             "id": "mission-daily-incrementpvpratewincount-1",
-            "name": "링크 콘테스트에 {threshold}번 도전하자"
+            "name": "콘테스트에 {threshold}번 도전하자"
         },
         {
             "id": "mission-daily-incrementreceivemoney-1",
@@ -2431,6 +2547,106 @@
         },
         {
             "id": "mission-highscorerush-event-007-mission_56",
+            "name": "5일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_11",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_12",
+            "name": "카츠라기 릴리야의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_13",
+            "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_14",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_16",
+            "name": "1일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_21",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_22",
+            "name": "주오 세나의 비주얼를 1000 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_23",
+            "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_24",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_26",
+            "name": "2일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_31",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_32",
+            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_33",
+            "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_34",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_36",
+            "name": "3일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_41",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_42",
+            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_43",
+            "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_44",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_46",
+            "name": "4일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_51",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_52",
+            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_53",
+            "name": "카츠라기 릴리야의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_54",
+            "name": "주오 세나의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_56",
             "name": "5일차 미션을 모두 클리어"
         },
         {
@@ -3663,31 +3879,31 @@
         },
         {
             "id": "mission-normal-absolutepvprategrade-2",
-            "name": "링크 콘테스트에서 2등급에 도달하자"
+            "name": "콘테스트에서 2등급에 도달하자"
         },
         {
             "id": "mission-normal-absolutepvprategrade-3",
-            "name": "링크 콘테스트에서 3등급에 도달하자"
+            "name": "콘테스트에서 3등급에 도달하자"
         },
         {
             "id": "mission-normal-absolutepvprategrade-4",
-            "name": "링크 콘테스트에서 4등급에 도달하자"
+            "name": "콘테스트에서 4등급에 도달하자"
         },
         {
             "id": "mission-normal-absolutepvprategrade-5",
-            "name": "링크 콘테스트에서 5등급에 도달하자"
+            "name": "콘테스트에서 5등급에 도달하자"
         },
         {
             "id": "mission-normal-absolutepvprategrade-6",
-            "name": "링크 콘테스트에서 6등급에 도달하자"
+            "name": "콘테스트에서 6등급에 도달하자"
         },
         {
             "id": "mission-normal-absolutepvprategrade-7",
-            "name": "링크 콘테스트에서 7등급에 도달하자"
+            "name": "콘테스트에서 7등급에 도달하자"
         },
         {
             "id": "mission-normal-absolutepvprateunitoverallpower-1",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "mission-normal-absolutesupportcardcount-1",
@@ -3771,11 +3987,11 @@
         },
         {
             "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "mission-normal-incrementpvpratewincount-1",
-            "name": "링크 콘테스트에서 {threshold}회 승리하자"
+            "name": "콘테스트에서 {threshold}번 승리하자"
         },
         {
             "id": "mission-normal-incrementreceivemoney-1",
@@ -4115,7 +4331,7 @@
         },
         {
             "id": "mission-release_mission-3-3",
-            "name": "링크 콘테스트에서 스킬 카드를 {threshold}번 사용하자"
+            "name": "콘테스트에 {threshold}번 도전하자"
         },
         {
             "id": "mission-release_mission-3-4",
@@ -4859,7 +5075,7 @@
         },
         {
             "id": "panel_mission-event-niv-mission_4",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "panel_mission-event-niv-mission_5",
@@ -6416,6 +6632,30 @@
         {
             "id": "achieve-i_card-kllj-3-012-06",
             "name": "【Howling over the World】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-01",
+            "name": "【Atmosphere】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-02",
+            "name": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-03",
+            "name": "【Atmosphere】카츠라기 릴리야로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-04",
+            "name": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-05",
+            "name": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-06",
+            "name": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-shro-2-000-04",
@@ -8723,7 +8963,7 @@
         },
         {
             "id": "main_task_group-01-01#26",
-            "name": "링크 콘테스트에서 편성하자"
+            "name": "콘테스트에서 편성하자"
         },
         {
             "id": "main_task_group-01-01#27",
@@ -8811,7 +9051,7 @@
         },
         {
             "id": "main_task_group-01-01#48",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-01-01#49",
@@ -8863,7 +9103,7 @@
         },
         {
             "id": "main_task_group-02-01#1",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-02-01#2",
@@ -8875,7 +9115,7 @@
         },
         {
             "id": "main_task_group-02-01#4",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#5",
@@ -8943,11 +9183,11 @@
         },
         {
             "id": "main_task_group-02-01#21",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#22",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-02-01#23",
@@ -8967,7 +9207,7 @@
         },
         {
             "id": "main_task_group-02-01#27",
-            "name": "링크 콘테스트에서 스킬 카드를 {threshold}번 사용하자"
+            "name": "콘테스트에 도전하자"
         },
         {
             "id": "main_task_group-02-01#28",
@@ -8983,7 +9223,7 @@
         },
         {
             "id": "main_task_group-02-01#31",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#32",
@@ -9011,7 +9251,7 @@
         },
         {
             "id": "main_task_group-02-01#38",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-02-01#39",
@@ -9027,7 +9267,7 @@
         },
         {
             "id": "main_task_group-02-01#42",
-            "name": "링크 콘테스트에서 스킬 카드를 {threshold}번 사용하자"
+            "name": "콘테스트에 도전하자"
         },
         {
             "id": "main_task_group-02-01#43",
@@ -9055,7 +9295,7 @@
         },
         {
             "id": "main_task_group-02-01#49",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#50",
@@ -9083,11 +9323,11 @@
         },
         {
             "id": "main_task_group-02-01#56",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-02-01#57",
-            "name": "링크 콘테스트에서 스킬 카드를 {threshold}번 사용하자"
+            "name": "콘테스트에 도전하자"
         },
         {
             "id": "main_task_group-02-01#58",
@@ -9111,7 +9351,7 @@
         },
         {
             "id": "main_task_group-02-01#63",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#64",
@@ -9147,7 +9387,7 @@
         },
         {
             "id": "main_task_group-02-01#72",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-02-01#73",
@@ -9163,7 +9403,7 @@
         },
         {
             "id": "main_task_group-02-01#76",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#77",
@@ -9179,7 +9419,7 @@
         },
         {
             "id": "main_task_group-02-01#80",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-02-01#81",
@@ -9207,7 +9447,7 @@
         },
         {
             "id": "main_task_group-02-01#87",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-02-01#88",
@@ -9319,7 +9559,7 @@
         },
         {
             "id": "main_task_group-03-01#15",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#16",
@@ -9339,7 +9579,7 @@
         },
         {
             "id": "main_task_group-03-01#20",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-03-01#21",
@@ -9359,7 +9599,7 @@
         },
         {
             "id": "main_task_group-03-01#25",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#26",
@@ -9383,7 +9623,7 @@
         },
         {
             "id": "main_task_group-03-01#31",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-03-01#32",
@@ -9403,7 +9643,7 @@
         },
         {
             "id": "main_task_group-03-01#36",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#37",
@@ -9475,15 +9715,15 @@
         },
         {
             "id": "main_task_group-03-01#54",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-03-01#55",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#56",
-            "name": "링크 콘테스트에서 스킬 카드를 {threshold}번 사용하자"
+            "name": "콘테스트에 도전하자"
         },
         {
             "id": "main_task_group-03-01#57",
@@ -9507,11 +9747,11 @@
         },
         {
             "id": "main_task_group-03-01#62",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-03-01#63",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#64",
@@ -9559,11 +9799,11 @@
         },
         {
             "id": "main_task_group-03-01#75",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-03-01#76",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#77",
@@ -9643,11 +9883,11 @@
         },
         {
             "id": "main_task_group-03-01#96",
-            "name": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "name": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "id": "main_task_group-03-01#97",
-            "name": "링크 콘테스트의 스테이지 총합 하이스코어로 {threshold} 이상을 획득하자"
+            "name": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "id": "main_task_group-03-01#98",

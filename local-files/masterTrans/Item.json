@@ -271,8 +271,8 @@
         },
         {
             "id": "item-gashaticket-ssr-idol-fix_3",
-            "name": "MOIW2025記念 SSR Pアイドル確定ガシャチケット",
-            "description": "MOIW2025記念 SSR Pアイドル確定チケットガシャで使用するチケット",
+            "name": "MOIW2025 기념 SSR P아이돌 확정 가챠 티켓",
+            "description": "MOIW2025 기념 SSR P아이돌 확정 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -1075,7 +1075,7 @@
         },
         {
             "id": "item-piece-idol_kllj-3-015",
-            "name": "[Atmosphere]葛城リーリヤのピース",
+            "name": "[Atmosphere] 카츠라기 릴리야의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

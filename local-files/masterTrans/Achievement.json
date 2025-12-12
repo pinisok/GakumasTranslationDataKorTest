@@ -1926,6 +1926,36 @@
             "description": "【Howling over the World】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kllj-3-015-01",
+            "name": "넘쳐흐르는 마음",
+            "description": "【Atmosphere】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-02",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-03",
+            "name": "발동 준비, 완료입니다!",
+            "description": "【Atmosphere】카츠라기 릴리야로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-04",
+            "name": "Atmosphere +",
+            "description": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-05",
+            "name": "Atmosphere ++",
+            "description": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-06",
+            "name": "Atmosphere +++",
+            "description": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-shro-2-000-04",
             "name": "가장 어울리지 않는 것+",
             "description": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"

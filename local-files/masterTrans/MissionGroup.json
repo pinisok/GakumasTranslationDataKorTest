@@ -22,6 +22,10 @@
             "name": "아이돌 미션 치나"
         },
         {
+            "id": "dearness_normal-mission_kllj_01",
+            "name": "아이돌 미션 릴리야"
+        },
+        {
             "id": "dearness_normal-mission_shro_01",
             "name": "아이돌 미션 히로"
         },
@@ -43,6 +47,10 @@
         },
         {
             "id": "dearness_panel-mission_kcna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_kllj_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -380,6 +388,26 @@
         {
             "id": "mission-group-highscorerush-event-007_5",
             "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_1",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_2",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_3",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_4",
+            "name": "하이스코어 러쉬 이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-008_5",
+            "name": "하이스코어 러쉬 이벤트 미션"
         },
         {
             "id": "mission-group-main-story-event-001_1",

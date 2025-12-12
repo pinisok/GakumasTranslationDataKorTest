@@ -1046,6 +1046,16 @@
             "description": "【백선】'24 할로윈 카츠라기 릴리야를 입수"
         },
         {
+            "id": "costume_head_kllj-cstm-0098",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0099",
+            "name": "Atmosphere",
+            "description": "【Atmosphere】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_kllj-cstm-0116",
             "name": "Howling over the World",
             "description": "【Howling over the World】카츠라기 릴리야를 입수"
@@ -1089,6 +1099,21 @@
             "id": "costume_head_kllj-hair-0008",
             "name": "개 귀",
             "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+        },
+        {
+            "id": "costume_head_kllj-hair-0018",
+            "name": "Atmosphere (심플 어레인지)",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-hair-0019",
+            "name": "Atmosphere (심플 어레인지)",
+            "description": "【Atmosphere】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kllj-hair-0024",
+            "name": "Atmosphere (포인트 컬러 어레인지)",
+            "description": "【Atmosphere】카츠라기 릴리야 입수"
         },
         {
             "id": "costume_head_kllj-schl-0000",

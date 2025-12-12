@@ -30,6 +30,10 @@
             "description": "친애도 Lv 상세"
         },
         {
+            "id": "exchange.complete.confirm",
+            "description": "교환했습니다"
+        },
+        {
             "id": "high_score_event.top.adv.title_label",
             "description": "아이돌 강화의 달\\n~별들의 반짝임~"
         },
@@ -60,6 +64,10 @@
         {
             "id": "produce_prepare.top.event_icon.high_score_rush.title",
             "description": "주오 쿠니오의 아이돌 강화의 달"
+        },
+        {
+            "id": "produce.card.move_position.deckall",
+            "description": "다른 편성 덱"
         },
         {
             "id": "produce.high_score_rush.gold.description",
@@ -96,6 +104,10 @@
         {
             "id": "shop.web_store.confirm.description",
             "description": "웹 브라우저를 여시겠습니까?\\n생년월일은 【메뉴 > 기타 > 생년월일 입력】에서 설정할 수 있습니다."
+        },
+        {
+            "id": "story.story_event.section.normal_condition_lock_text",
+            "description": "이벤트 Pt를 획득하고 이전 커뮤니티를 읽어 해방"
         },
         {
             "id": "voice.idol_use_produce_card",
