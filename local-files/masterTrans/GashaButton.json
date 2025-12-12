@@ -215,6 +215,12 @@
             "order": 1,
             "name": "1.5th 주년 기념 SSR 확정 가챠 티켓으로 뽑기",
             "description": "SSR 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_ssr_button-6",
+            "order": 1,
+            "name": "MOIW2025 기념 SSR P아이돌 확정 가챠 티켓으로 뽑기",
+            "description": "SSR 아이돌 확정 1연차"
         }
     ]
 }
