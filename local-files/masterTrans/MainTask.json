@@ -185,8 +185,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 26,
             "title": "하츠보시 도전26",
-            "description": "링크 콘테스트에서 편성하자",
-            "homeDescription": "링크 콘테스트에서 편성하자"
+            "description": "콘테스트에서 편성하자",
+            "homeDescription": "콘테스트에서 편성하자"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -339,8 +339,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 48,
             "title": "하츠보시 도전48",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -430,8 +430,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 1,
             "title": "P과제1",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -451,8 +451,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 4,
             "title": "P과제4",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -570,15 +570,15 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 21,
             "title": "P과제21",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 22,
             "title": "P과제22",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -612,8 +612,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 27,
             "title": "P과제27",
-            "description": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자",
-            "homeDescription": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자"
+            "description": "콘테스트에 도전하자",
+            "homeDescription": "콘테스트에 도전하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -640,8 +640,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 31,
             "title": "P과제31",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -689,8 +689,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 38,
             "title": "P과제38",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -717,8 +717,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 42,
             "title": "P과제42",
-            "description": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자",
-            "homeDescription": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자"
+            "description": "콘테스트에 도전하자",
+            "homeDescription": "콘테스트에 도전하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -766,8 +766,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 49,
             "title": "P과제49",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -815,15 +815,15 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 56,
             "title": "P과제56",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 57,
             "title": "P과제57",
-            "description": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자",
-            "homeDescription": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자"
+            "description": "콘테스트에 도전하자",
+            "homeDescription": "콘테스트에 도전하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -864,8 +864,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 63,
             "title": "P과제63",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -927,8 +927,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 72,
             "title": "P과제72",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -955,8 +955,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 76,
             "title": "P과제76",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -983,8 +983,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 80,
             "title": "P과제80",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -1032,8 +1032,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 87,
             "title": "P과제87",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -1228,8 +1228,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 15,
             "title": "P과제2-15",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1263,8 +1263,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 20,
             "title": "P과제2-20",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1298,8 +1298,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 25,
             "title": "P과제2-25",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1340,8 +1340,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 31,
             "title": "P과제2-31",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1375,8 +1375,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 36,
             "title": "P과제2-36",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1501,22 +1501,22 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 54,
             "title": "P과제54",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 55,
             "title": "P과제55",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 56,
             "title": "P과제56",
-            "description": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자",
-            "homeDescription": "링크 콘테스트에서 스킬 카드를 {threshold} 번 사용하자"
+            "description": "콘테스트에 도전하자",
+            "homeDescription": "콘테스트에 도전하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1557,15 +1557,15 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 62,
             "title": "P과제62",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 63,
             "title": "P과제63",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1648,15 +1648,15 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 75,
             "title": "P과제75",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 76,
             "title": "P과제76",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1795,15 +1795,15 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 96,
             "title": "P과제96",
-            "description": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자",
-            "homeDescription": "링크 콘테스트의 유닛 종합력을 {threshold} 이상으로 올리자"
+            "description": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자",
+            "homeDescription": "콘테스트의 유닛 종합력을 {threshold} 이상으로 하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 97,
             "title": "P과제97",
-            "description": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자",
-            "homeDescription": "링크 콘테스트의 스테이지 합계 하이 스코어로 {threshold} 이상을 달성하자"
+            "description": "콘테스트에서 점수를 {threshold} 이상 획득하자",
+            "homeDescription": "콘테스트에서 점수를 {threshold} 이상 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
