@@ -6020,7 +6020,7 @@
     "profile.badge_select.remove_button.disabled,": "설정 중 배지 없음",
     "profile.badge_select.move_confirm_sheet.description1,": "획득한 배지를 설정하시겠습니까?\n배지를 설정하여 순위와 같은 플레이어\n정보에 배지를 표시할 수 있습니다.",
     "home.gasha.result.continuous.share,": "공유하기",
-    "home.gasha.result.continuous.draw_suffix,": "묶기",
+    "home.gasha.result.continuous.draw_suffix,": "연차",
     "home.gasha.result.continuous.continuing_prefix,": "현재 ",
     "home.gasha.result.continuous.continuing_suffix,": "회 연속 중",
     "home.gasha.result.continuous.ending_prefix,": "최종 결과",
