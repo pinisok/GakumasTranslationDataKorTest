@@ -379,11 +379,11 @@
         },
         {
             "id": "hidden_mission-achieve-o_015_001",
-            "name": "링크 콘테스트 100위 안에 들어가자"
+            "name": "링크 콘테스트 100위 내에 들어가자"
         },
         {
             "id": "hidden_mission-achieve-o_015_002",
-            "name": "コンテストで100位以内に入ろう"
+            "name": "콘테스트 100위 내에 들어가자"
         },
         {
             "id": "hidden_mission-achieve-o_016_001",
@@ -4539,11 +4539,11 @@
         },
         {
             "id": "mission-research-event-003-mission_10",
-            "name": "スキルカード「星屑センセーション」を所持してプロデュースをクリアしよう"
+            "name": "스킬 카드 「별무리 센세이션」을 소지하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-003-mission_11",
-            "name": "スキルカード「ノートの端の決意」を所持してプロデュースをクリアしよう"
+            "name": "스킬 카드 「노트 끝의 결의」을 소지하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-003-mission_12",
@@ -4551,7 +4551,7 @@
         },
         {
             "id": "mission-research-event-003-mission_2",
-            "name": "プラン：センスのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+            "name": "플랜:센스 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-research-event-003-mission_3",
@@ -4559,11 +4559,11 @@
         },
         {
             "id": "mission-research-event-003-mission_8",
-            "name": "スキルカード「私がスター」を所持してプロデュースをクリアしよう"
+            "name": "스킬 카드 「내가 스타」을 소지하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-003-mission_9",
-            "name": "スキルカード「虹色ドリーマー」を所持してプロデュースをクリアしよう"
+            "name": "스킬 카드 「레인보우 드리머」을 소지하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-story-event-001-mission_1",
