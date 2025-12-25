@@ -163,6 +163,18 @@
             "description": "유료 10회 가챠"
         },
         {
+            "id": "gasha_marge_button-ssr-00670",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
+            "id": "gasha_ticket_christmas-001",
+            "order": 3,
+            "name": "크리스마스 로그인 보너스 가챠 티켓으로 뽑기",
+            "description": "10회 가챠"
+        },
+        {
             "id": "gasha_ticket_ssr_10_button-001",
             "order": 1,
             "name": "SSR 확정 티켓으로 뽑기",

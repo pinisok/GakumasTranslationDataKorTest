@@ -199,7 +199,7 @@
         },
         {
             "id": "dearness_event_ssmk-001",
-            "name": "시운 스미카의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
+            "name": "시운 스미카의 댄스을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_ssmk-002",
@@ -378,6 +378,14 @@
             "name": "콘테스트에서 1위 이내에 들자"
         },
         {
+            "id": "hidden_mission-achieve-o_015_001",
+            "name": "リンクコンテストで100位以内に入ろう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_015_002",
+            "name": "コンテストで100位以内に入ろう"
+        },
+        {
             "id": "hidden_mission-achieve-o_016_001",
             "name": "링크 콘테스트에서 1등급에 도달하자"
         },
@@ -432,6 +440,22 @@
         {
             "id": "hidden_mission-achieve-o_022_002",
             "name": "콘테스트에서 7등급에 도달하자"
+        },
+        {
+            "id": "hidden_mission-achieve-o_026_001",
+            "name": "hidden_mission-achieve-o_026_001"
+        },
+        {
+            "id": "hidden_mission-achieve-o_026_002",
+            "name": "hidden_mission-achieve-o_026_002"
+        },
+        {
+            "id": "hidden_mission-achieve-o_027_001",
+            "name": "hidden_mission-achieve-o_027_001"
+        },
+        {
+            "id": "hidden_mission-achieve-o_027_002",
+            "name": "hidden_mission-achieve-o_027_002"
         },
         {
             "id": "hidden_mission-app-review-main-task-clear",
@@ -4508,6 +4532,38 @@
         {
             "id": "mission-research-event-002-mission_9",
             "name": "스킬 카드 「심·기·체」을 소지하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-003-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-003-mission_10",
+            "name": "スキルカード「星屑センセーション」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_11",
+            "name": "スキルカード「ノートの端の決意」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-003-mission_2",
+            "name": "プラン：センスのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-research-event-003-mission_8",
+            "name": "スキルカード「私がスター」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_9",
+            "name": "スキルカード「虹色ドリーマー」を所持してプロデュースをクリアしよう"
         },
         {
             "id": "mission-story-event-001-mission_1",
@@ -8848,6 +8904,10 @@
         {
             "id": "achieve-p_idol-ttmr-022",
             "name": "츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achievement_char_hume-024",
+            "name": "하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achievement_char_kcna-024",

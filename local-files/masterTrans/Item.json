@@ -174,6 +174,12 @@
             "acquisitionRouteDescription": "교환소 등"
         },
         {
+            "id": "item-dearness-unlock-kllj",
+            "name": "릴리야와의 기록의 열쇠",
+            "description": "카츠라기 릴리야의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-dearness-unlock-shro",
             "name": "히로와의 기록의 열쇠",
             "description": "시노사와 히로의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
@@ -231,6 +237,12 @@
             "id": "item-gashaticket-10",
             "name": "플래티넘 10연 가챠 티켓",
             "description": "플래티넘 가챠에서 사용하는 10연 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-christmas-001",
+            "name": "크리스마스 가챠 10연 티켓",
+            "description": "크리스마스 로그인 보너스 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -1303,6 +1315,12 @@
         },
         {
             "id": "item-research-event-002",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-003",
             "name": "아사리 선생님 인감",
             "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"

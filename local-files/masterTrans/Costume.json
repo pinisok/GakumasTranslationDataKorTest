@@ -441,6 +441,11 @@
             "description": "【달 거북이】'25 할로윈 하타야 미스즈 입수"
         },
         {
+            "id": "hmsz-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【달 거북이】'25 크리스마스 하타야 미스즈 입수"
+        },
+        {
             "id": "hmsz-cstm-0069",
             "name": "차일드 스모크",
             "description": "차일드 스모크 (하타야 미스즈)를 구입"
@@ -921,6 +926,11 @@
             "description": "【The Rolling Riceball】'24 할로윈 하나미 ​​우메를 입수"
         },
         {
+            "id": "hume-cstm-0067",
+            "name": "산타 케이프",
+            "description": "산타 케이프(하나미 우메) 를 입수"
+        },
+        {
             "id": "hume-cstm-0069",
             "name": "차일드 스모크",
             "description": "차일드 스모크(하나미 우메)를 구매"
@@ -1059,6 +1069,11 @@
             "id": "jsna-cstm-0065",
             "name": "가장광소곡",
             "description": "【작은 야망】'25 할로윈 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0067",
+            "name": "White Night! White Wish!",
+            "description": "【작은 야망】'25 크리스마스 주오 세나를 입수"
         },
         {
             "id": "jsna-cstm-0069",
@@ -1399,6 +1414,11 @@
             "id": "kllj-cstm-0065",
             "name": "가장광소곡",
             "description": "【백선】'24 할로윈 카츠라기 릴리야를 입수"
+        },
+        {
+            "id": "kllj-cstm-0067",
+            "name": "산타 케이프",
+            "description": "산타 케이프(카츠라기 릴리야) 를 입수"
         },
         {
             "id": "kllj-cstm-0069",

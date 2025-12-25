@@ -366,6 +366,14 @@
             "arranger": "DYES IWASAKI (FAKE TYPE.)"
         },
         {
+            "id": "music-all-hmsz-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
+        },
+        {
             "id": "music-all-hmsz-008",
             "title": "고금동서 식은 죽 먹기",
             "displayTitle": "고금동서 식은 죽 먹기",
@@ -716,6 +724,14 @@
             "lyrics": "TOPHAMHAT-KYO (FAKE TYPE.)",
             "composer": "FAKE TYPE.",
             "arranger": "DYES IWASAKI (FAKE TYPE.)"
+        },
+        {
+            "id": "music-all-jsna-006",
+            "title": "White Night! White Wish!",
+            "displayTitle": "White Night! White Wish!",
+            "lyrics": "하야시 히데키",
+            "composer": "사토 준이치 (fhána)",
+            "arranger": "사토 준이치 (fhána)"
         },
         {
             "id": "music-all-jsna-007",
@@ -2118,6 +2134,22 @@
             "arranger": "아쉬 이노우에 (Dream Monster), 타나카 토루마 (Dream Monster)"
         },
         {
+            "id": "music-char-kllj-004",
+            "title": "Atmosphere",
+            "displayTitle": "Atmosphere",
+            "lyrics": "Heart's Cry",
+            "composer": "Heart's Cry",
+            "arranger": "Heart's Cry"
+        },
+        {
+            "id": "music-char-kllj-004-inst",
+            "title": "Atmosphere [Instrumental]",
+            "displayTitle": "Atmosphere [Instrumental]",
+            "lyrics": "Heart's Cry",
+            "composer": "Heart's Cry",
+            "arranger": "Heart's Cry"
+        },
+        {
             "id": "music-char-kllj-005",
             "title": "Fragile Heart",
             "displayTitle": "Fragile Heart",
@@ -2196,6 +2228,22 @@
             "lyrics": "하세가와 하쿠시",
             "composer": "하세가와 하쿠시",
             "arranger": "하세가와 하쿠시"
+        },
+        {
+            "id": "music-char-shro-005",
+            "title": "컨템퍼러리 댄스",
+            "displayTitle": "컨템퍼러리 댄스",
+            "lyrics": "마시마 유로",
+            "composer": "마시마 유로",
+            "arranger": "마시마 유로"
+        },
+        {
+            "id": "music-char-shro-005-inst",
+            "title": "컨템퍼러리 댄스 [Instrumental]",
+            "displayTitle": "컨템퍼러리 댄스 [Instrumental]",
+            "lyrics": "마시마 유로",
+            "composer": "마시마 유로",
+            "arranger": "마시마 유로"
         },
         {
             "id": "music-char-ssmk-001",
