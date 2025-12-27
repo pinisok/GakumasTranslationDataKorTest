@@ -6,6 +6,370 @@
     },
     "data": [
         {
+            "id": "badge-producerranking_001-amao_01",
+            "name": "P랭킹 아리무라 마오 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-amao_02",
+            "name": "P랭킹 아리무라 마오 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-amao_03",
+            "name": "P랭킹 아리무라 마오 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-amao_04",
+            "name": "P랭킹 아리무라 마오 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-amao_05",
+            "name": "P랭킹 아리무라 마오 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-amao_06",
+            "name": "P랭킹 아리무라 마오 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-amao_07",
+            "name": "P랭킹 아리무라 마오 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_01",
+            "name": "P랭킹 아마야 츠바메 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_02",
+            "name": "P랭킹 아마야 츠바메 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_03",
+            "name": "P랭킹 아마야 츠바메 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_04",
+            "name": "P랭킹 아마야 츠바메 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_05",
+            "name": "P랭킹 아마야 츠바메 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_06",
+            "name": "P랭킹 아마야 츠바메 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-atbm_07",
+            "name": "P랭킹 아마야 츠바메 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_01",
+            "name": "P랭킹 후지타 코토네 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_02",
+            "name": "P랭킹 후지타 코토네 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_03",
+            "name": "P랭킹 후지타 코토네 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_04",
+            "name": "P랭킹 후지타 코토네 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_05",
+            "name": "P랭킹 후지타 코토네 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_06",
+            "name": "P랭킹 후지타 코토네 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-fktn_07",
+            "name": "P랭킹 후지타 코토네 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_01",
+            "name": "P랭킹 하타야 미스즈 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_02",
+            "name": "P랭킹 하타야 미스즈 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_03",
+            "name": "P랭킹 하타야 미스즈 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_04",
+            "name": "P랭킹 하타야 미스즈 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_05",
+            "name": "P랭킹 하타야 미스즈 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_06",
+            "name": "P랭킹 하타야 미스즈 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-hmsz_07",
+            "name": "P랭킹 하타야 미스즈 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_01",
+            "name": "P랭킹 히메사키 리나미 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_02",
+            "name": "P랭킹 히메사키 리나미 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_03",
+            "name": "P랭킹 히메사키 리나미 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_04",
+            "name": "P랭킹 히메사키 리나미 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_05",
+            "name": "P랭킹 히메사키 리나미 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_06",
+            "name": "P랭킹 히메사키 리나미 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-hrnm_07",
+            "name": "P랭킹 히메사키 리나미 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-hski_01",
+            "name": "P랭킹 하나미 사키 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-hski_02",
+            "name": "P랭킹 하나미 사키 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-hski_03",
+            "name": "P랭킹 하나미 사키 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-hski_04",
+            "name": "P랭킹 하나미 사키 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-hski_05",
+            "name": "P랭킹 하나미 사키 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-hski_06",
+            "name": "P랭킹 하나미 사키 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-hski_07",
+            "name": "P랭킹 하나미 사키 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-hume_01",
+            "name": "P랭킹 하나미 우메 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-hume_02",
+            "name": "P랭킹 하나미 우메 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-hume_03",
+            "name": "P랭킹 하나미 우메 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-hume_04",
+            "name": "P랭킹 하나미 우메 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-hume_05",
+            "name": "P랭킹 하나미 우메 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-hume_06",
+            "name": "P랭킹 하나미 우메 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-hume_07",
+            "name": "P랭킹 하나미 우메 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_01",
+            "name": "P랭킹 주오 세나 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_02",
+            "name": "P랭킹 주오 세나 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_03",
+            "name": "P랭킹 주오 세나 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_04",
+            "name": "P랭킹 주오 세나 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_05",
+            "name": "P랭킹 주오 세나 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_06",
+            "name": "P랭킹 주오 세나 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-jsna_07",
+            "name": "P랭킹 주오 세나 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_01",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_02",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_03",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_04",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_05",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_06",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-kcna_07",
+            "name": "P랭킹 쿠라모토 치나 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_01",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_02",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_03",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_04",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_05",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_06",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-kllj_07",
+            "name": "P랭킹 카츠라기 릴리야 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-shro_01",
+            "name": "P랭킹 시노사와 히로 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-shro_02",
+            "name": "P랭킹 시노사와 히로 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-shro_03",
+            "name": "P랭킹 시노사와 히로 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-shro_04",
+            "name": "P랭킹 시노사와 히로 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-shro_05",
+            "name": "P랭킹 시노사와 히로 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-shro_06",
+            "name": "P랭킹 시노사와 히로 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-shro_07",
+            "name": "P랭킹 시노사와 히로 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_01",
+            "name": "P랭킹 시운 스미카 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_02",
+            "name": "P랭킹 시운 스미카 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_03",
+            "name": "P랭킹 시운 스미카 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_04",
+            "name": "P랭킹 시운 스미카 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_05",
+            "name": "P랭킹 시운 스미카 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_06",
+            "name": "P랭킹 시운 스미카 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-ssmk_07",
+            "name": "P랭킹 시운 스미카 시즌 1 알타이르"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_01",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 더 스타(TOP100)"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_02",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 더 스타(TOP1000)"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_03",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 더 스타"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_04",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 시리우스(TOP5000)"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_05",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 시리우스"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_06",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 베가"
+        },
+        {
+            "id": "badge-producerranking_001-ttmr_07",
+            "name": "P랭킹 츠키무라 테마리 시즌 1 알타이르"
+        },
+        {
             "id": "badge-producerranking-000-amao-01",
             "name": "P랭킹 아리무라 마오 시즌 0 THE STAR (TOP100)"
         },

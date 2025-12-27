@@ -71,7 +71,9 @@
         {
             "id": "p_story_002_atbm_after-audition-a-normal-02",
             "title": "아직 여기서부터",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "１次オーディションで「メロBang!」を選択し合格する"
+            ]
         },
         {
             "id": "p_story_002_atbm_after-audition-a-normal-03",
@@ -81,7 +83,9 @@
         {
             "id": "p_story_002_atbm_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+            ]
         },
         {
             "id": "p_story_002_atbm_after-audition-b-normal-03",
@@ -101,7 +105,9 @@
         {
             "id": "p_story_002_atbm_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "１次/２次オーディションで不合格になる"
+            ]
         },
         {
             "id": "p_story_002_atbm_before-audition-a-normal-01",
@@ -116,7 +122,9 @@
         {
             "id": "p_story_002_atbm_ending-normal-02",
             "title": "Normal End",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "最終オーディションに合格する"
+            ]
         },
         {
             "id": "p_story_002_atbm_opening-normal-02",
@@ -2206,7 +2214,7 @@
             "id": "p_story-001-hume-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に挑戦する"
+                "最終試験で不合格"
             ]
         },
         {
@@ -6325,6 +6333,366 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-event-002_atbm_business-1-1",
+            "title": "거리 캠페인",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-1-1",
+            "title": "거리 캠페인",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-1-2",
+            "title": "거리 캠페인",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-2",
+            "title": "이벤트 카페 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-2-1",
+            "title": "이벤트 카페 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-2-2",
+            "title": "이벤트 카페 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-3",
+            "title": "인터뷰어",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-3-1",
+            "title": "인터뷰어",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-3-2",
+            "title": "인터뷰어",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-4",
+            "title": "히어로 쇼 사회자",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-4-1",
+            "title": "히어로 쇼 사회자",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-4-2",
+            "title": "히어로 쇼 사회자",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-5",
+            "title": "시음 판매",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-5-1",
+            "title": "시음 판매",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-5-2",
+            "title": "시음 판매",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-6",
+            "title": "탈출 게임 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-6-1",
+            "title": "탈출 게임 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-6-2",
+            "title": "탈출 게임 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-1",
+            "title": "청소 자원봉사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-1-1",
+            "title": "청소 자원봉사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-1-2",
+            "title": "청소 자원봉사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-2",
+            "title": "상가 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-2-1",
+            "title": "상가 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-2-2",
+            "title": "상가 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-3",
+            "title": "아마가와 관광 대사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-3-1",
+            "title": "아마가와 관광 대사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-3-2",
+            "title": "아마가와 관광 대사",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-4",
+            "title": "라디오 공개 수록",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-4-1",
+            "title": "라디오 공개 수록",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-4-2",
+            "title": "라디오 공개 수록",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-5",
+            "title": "꼬마 체조 교실",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-5-1",
+            "title": "꼬마 체조 교실",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-5-2",
+            "title": "꼬마 체조 교실",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-6",
+            "title": "아마가와 이벤트 걸",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-6-1",
+            "title": "아마가와 이벤트 걸",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-6-2",
+            "title": "아마가와 이벤트 걸",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-1",
+            "title": "삼림욕 스팟 촬영",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-1-1",
+            "title": "삼림욕 스팟 촬영",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-1-2",
+            "title": "삼림욕 스팟 촬영",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-2",
+            "title": "스파 리조트 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-2-1",
+            "title": "스파 리조트 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-2-2",
+            "title": "스파 리조트 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-3",
+            "title": "수족관 내비게이션 수록",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-3-1",
+            "title": "수족관 내비게이션 수록",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-3-2",
+            "title": "수족관 내비게이션 수록",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-4",
+            "title": "요가 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-4-1",
+            "title": "요가 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-4-2",
+            "title": "요가 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-5",
+            "title": "온천 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-5-1",
+            "title": "온천 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-5-2",
+            "title": "온천 PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-6",
+            "title": "캠프장 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-6-1",
+            "title": "캠프장 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-6-2",
+            "title": "캠프장 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-1",
+            "title": "미니 라이브",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-1-1",
+            "title": "미니 라이브",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-1-2",
+            "title": "미니 라이브",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-2",
+            "title": "토크 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-2-1",
+            "title": "토크 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-2-2",
+            "title": "토크 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-3",
+            "title": "악수회",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-3-1",
+            "title": "악수회",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-3-2",
+            "title": "악수회",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-4",
+            "title": "영화 상영 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-4-1",
+            "title": "영화 상영 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-4-2",
+            "title": "영화 상영 이벤트",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-5",
+            "title": "게임 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-5-1",
+            "title": "게임 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-5-2",
+            "title": "게임 체험",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-6",
+            "title": "사인회",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-6-1",
+            "title": "사인회",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-6-2",
+            "title": "사인회",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-event-002_fktn_business-1-1",
             "title": "거리 캠페인",
             "produceEventHintProduceConditionDescriptions": []
@@ -10405,6 +10773,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-atbm-3-012-01",
+            "title": "Campus mode!! 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-012-02",
+            "title": "Campus mode!! 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-012-03",
+            "title": "Campus mode!! 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-fktn-3-000-01",
             "title": "세상에서 제일 귀여운 나 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -13502,6 +13885,21 @@
         {
             "id": "p_story-s_card-3-0082-03",
             "title": "문득 생각이 났거든요!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0085-01",
+            "title": "이상적인 선후배",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0085-02",
+            "title": "좌우명은?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0085-03",
+            "title": "상대가 누구든",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

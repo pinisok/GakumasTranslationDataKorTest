@@ -7718,7 +7718,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 됐을 때, "
+                    "text": "이 됐을 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7913,7 +7913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、スキルカード（R以上）が21枚以上の場合、"
+                    "text": "시작시, 스킬 카드(R 이상)가 21장 이상 일때, "
                 }
             ]
         },
@@ -8581,7 +8581,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、山札か捨札にある"
+                    "text": "턴 개시시, 덱이나 버림 패에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -13295,7 +13295,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 3 이상일때, "
+                    "text": "이  3 이상일때, "
                 }
             ]
         },
@@ -13355,7 +13355,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1장 이상인 경우, "
+                    "text": "가 1장 이상인 경우, "
                 }
             ]
         },
@@ -13390,7 +13390,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が2枚以上の場合、"
+                    "text": "가 2장 이상 일때, "
                 }
             ]
         },
@@ -13405,7 +13405,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外以外にある"
+                    "text": "제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -13425,7 +13425,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が2枚以上の場合、"
+                    "text": "가 2장 이상 일때, "
                 }
             ]
         },
@@ -13460,7 +13460,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が3枚以上の場合、"
+                    "text": "가 3장 이상 일때, "
                 }
             ]
         },
@@ -13475,7 +13475,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "山札か捨札にあるスキルカードが6枚以上の場合、"
+                    "text": "덱이나 버림 패에 있는 스킬 카드가 6장 이상 일때, "
                 }
             ]
         },
@@ -13490,7 +13490,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "山札か捨札にあるスキルカードが9枚以上の場合、"
+                    "text": "덱이나 버림 패에 있는 스킬 카드가 9장 이상 일때, "
                 }
             ]
         },
@@ -13515,7 +13515,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 2회 이상인 경우,"
+                    "text": "가 된 횟수가 2회 이상인 경우,"
                 }
             ]
         },
@@ -13815,7 +13815,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 3 이상일때, "
+                    "text": "이 3 이상일때, "
                 }
             ]
         },
@@ -13840,7 +13840,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 5 이상일때, "
+                    "text": "이 5 이상일때, "
                 }
             ]
         },
@@ -14520,7 +14520,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始後、手札にあるスキルカード（R）が1枚以上の場合、"
+                    "text": "턴 개시 후, 패에 있는 스킬 카드(R) 이 1장 이상 일때, "
                 }
             ]
         },

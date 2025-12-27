@@ -51,7 +51,7 @@
         },
         {
             "id": "shop_costume_costume_head_amao-hair-0004",
-            "name": "ネコミミ（有村麻央）"
+            "name": "고양이 귀(아리무라 마오)"
         },
         {
             "id": "shop_costume_costume_head_atbm-hair-0001",
@@ -115,7 +115,7 @@
         },
         {
             "id": "shop_costume_costume_head_hrnm-hair-0004",
-            "name": "ネコミミ（姫崎莉波）"
+            "name": "고양이 귀(히메사키 리나미)"
         },
         {
             "id": "shop_costume_costume_head_hski-hair-0001",
@@ -175,7 +175,7 @@
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0004",
-            "name": "ネコミミ（葛城リーリヤ）"
+            "name": "고양이 귀(카츠라기 릴리야)"
         },
         {
             "id": "shop_costume_costume_head_shro-hair-0001",
@@ -199,7 +199,7 @@
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0004",
-            "name": "ネコミミ（紫雲清夏）"
+            "name": "고양이 귀(시운 스미카)"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -663,11 +663,11 @@
         },
         {
             "id": "shop_pack_item-0063",
-            "name": "TVCM放映記念 育成お得パックA"
+            "name": "TVCM 방영 기념 육성 실속 팩 A"
         },
         {
             "id": "shop_pack_item-0064",
-            "name": "TVCM放映記念 育成お得パックB"
+            "name": "TVCM 방영 기념 육성 실속 팩 B"
         },
         {
             "id": "shop_pack_item-100dl",
@@ -735,7 +735,7 @@
         },
         {
             "id": "shop_pack_item-newyear_2500_02",
-            "name": "福袋パック2026銀"
+            "name": "복주머니 팩 2026 은"
         },
         {
             "id": "shop_pack_item-newyear_5000_01",
@@ -743,7 +743,7 @@
         },
         {
             "id": "shop_pack_item-newyear_5000_02",
-            "name": "福袋パック2026金"
+            "name": "복주머니 팩 2026 금"
         },
         {
             "id": "shop_pack_item-onsen-costume-amao",
@@ -867,7 +867,7 @@
         },
         {
             "id": "shop_pass_item-0021",
-            "name": "プレミアムミッションパス 2026年1月"
+            "name": "프리미엄 미션 패스 2026년 1월"
         }
     ]
 }
