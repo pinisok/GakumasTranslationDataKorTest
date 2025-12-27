@@ -181,9 +181,29 @@
             "description": "처음부터 소지"
         },
         {
+            "id": "atbm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메 입수"
+        },
+        {
+            "id": "atbm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
             "id": "atbm-cstm-0069",
             "name": "차일드 스모크",
             "description": "차일드 스모크(아마야 츠바메)를 구입"
+        },
+        {
+            "id": "atbm-cstm-0072",
+            "name": "금빛의 빛",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 10 클리어"
+        },
+        {
+            "id": "atbm-cstm-0073",
+            "name": "백금의 빛",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 15 클리어"
         },
         {
             "id": "atbm-cstm-0106",
@@ -194,6 +214,11 @@
             "id": "atbm-cstm-0107",
             "name": "이론무장하고",
             "description": "【이론무장하고】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "atbm-cstm-0110",
+            "name": "칠흑의 반짝임",
+            "description": "아마야 츠바메의 아이돌 길 스테이지 25 클리어"
         },
         {
             "id": "atbm-cstm-0111",

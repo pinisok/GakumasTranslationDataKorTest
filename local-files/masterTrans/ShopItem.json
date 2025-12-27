@@ -50,6 +50,10 @@
             "name": "라운드 안경 (아리무라 마오)"
         },
         {
+            "id": "shop_costume_costume_head_amao-hair-0004",
+            "name": "ネコミミ（有村麻央）"
+        },
+        {
             "id": "shop_costume_costume_head_atbm-hair-0001",
             "name": "수국 머리 꽃 장식(아마야 츠바메)"
         },
@@ -110,6 +114,10 @@
             "name": "라운드 안경 (히메사키 리나미)"
         },
         {
+            "id": "shop_costume_costume_head_hrnm-hair-0004",
+            "name": "ネコミミ（姫崎莉波）"
+        },
+        {
             "id": "shop_costume_costume_head_hski-hair-0001",
             "name": "수국 꽃 머리 장식 (하나미 사키)"
         },
@@ -166,6 +174,10 @@
             "name": "라운드 안경 (카츠라기 릴리야)"
         },
         {
+            "id": "shop_costume_costume_head_kllj-hair-0004",
+            "name": "ネコミミ（葛城リーリヤ）"
+        },
+        {
             "id": "shop_costume_costume_head_shro-hair-0001",
             "name": "수국 꽃 머리 장식 (시노사와 히로)"
         },
@@ -184,6 +196,10 @@
         {
             "id": "shop_costume_costume_head_ssmk-hair-0003",
             "name": "라운드 안경 (시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0004",
+            "name": "ネコミミ（紫雲清夏）"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -646,6 +662,14 @@
             "name": "MOIW2025 기념 팩"
         },
         {
+            "id": "shop_pack_item-0063",
+            "name": "TVCM放映記念 育成お得パックA"
+        },
+        {
+            "id": "shop_pack_item-0064",
+            "name": "TVCM放映記念 育成お得パックB"
+        },
+        {
             "id": "shop_pack_item-100dl",
             "name": "[100만 DL 기념] 육성 팩 (6/28까지)"
         },
@@ -710,8 +734,16 @@
             "name": "복주머니 팩2025은"
         },
         {
+            "id": "shop_pack_item-newyear_2500_02",
+            "name": "福袋パック2026銀"
+        },
+        {
             "id": "shop_pack_item-newyear_5000_01",
             "name": "복주머니 팩2025금"
+        },
+        {
+            "id": "shop_pack_item-newyear_5000_02",
+            "name": "福袋パック2026金"
         },
         {
             "id": "shop_pack_item-onsen-costume-amao",
@@ -832,6 +864,10 @@
         {
             "id": "shop_pass_item-0020",
             "name": "프리미엄 미션 패스 2025년 12월"
+        },
+        {
+            "id": "shop_pass_item-0021",
+            "name": "プレミアムミッションパス 2026年1月"
         }
     ]
 }

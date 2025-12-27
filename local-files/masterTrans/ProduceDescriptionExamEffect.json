@@ -219,7 +219,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
-            "name": "사용 불가"
+            "name": "스킬 카드 사용불가"
         },
         {
             "type": "ProduceExamEffectType_ExamGimmickSlump",

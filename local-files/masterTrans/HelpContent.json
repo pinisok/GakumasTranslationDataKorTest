@@ -933,6 +933,12 @@
         },
         {
             "helpCategoryId": "help-produce",
+            "id": "produce-004-add",
+            "order": 50,
+            "name": "난이도:레전드(정기 공연 『하지메』)"
+        },
+        {
+            "helpCategoryId": "help-produce",
             "id": "produce-005-add",
             "order": 47,
             "name": "난이도：마스터(NEXT IDOL AUDITION)"
@@ -1214,10 +1220,28 @@
             "name": "True End： N.I.A"
         },
         {
+            "helpCategoryId": "help-produce",
+            "id": "ProduceCardConvert",
+            "order": 51,
+            "name": "스킬 카드 스위치"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "producer-ranking-badge",
+            "order": 53,
+            "name": "뱃지"
+        },
+        {
             "helpCategoryId": "help-producer-ranking",
             "id": "producer-ranking",
             "order": 1,
             "name": "프로듀서 랭킹"
+        },
+        {
+            "helpCategoryId": "help-producer-ranking",
+            "id": "producer-ranking-badge",
+            "order": 3,
+            "name": "뱃지"
         },
         {
             "helpCategoryId": "help-producer-ranking",

@@ -276,6 +276,36 @@
             "description": "【이론무장하고】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-atbm-3-012-01",
+            "name": "다크 히어로의 탄생",
+            "description": "【Campus mode!!】아마야 츠바메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-03",
+            "name": "모두의 세상을 바꿔주겠어!",
+            "description": "【Campus mode!!】아마야 츠바메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-fktn-2-000-04",
             "name": "귀엽게♡ 시작했답니다+",
             "description": "【귀엽게♡ 시작했답니다】후지타 코토네의 특훈 단계 {threshold} 달성"
@@ -2916,6 +2946,11 @@
             "description": "최종 시험을 스코어 SSS 이상으로 {threshold}회 합격"
         },
         {
+            "id": "achieve-p_common-029",
+            "name": "길을 비추는 자",
+            "description": "최종 시험을 스코어 SSS+ 이상으로 {threshold}회 합격"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "진정한 나",
             "description": "아리무라 마오로 True End를 보기"
@@ -3036,6 +3071,16 @@
             "description": "아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-p_idol-amao-023",
+            "name": "귀엽고 멋진 왕자님",
+            "description": "아리무라 마오로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-amao-024",
+            "name": "같은 꿈을 향해 날다",
+            "description": "아리무라 마오로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-atbm-000",
             "name": "가치의 증명",
             "description": "아마야 츠바메로 True End를 보기"
@@ -3131,9 +3176,34 @@
             "description": "아마야 츠바메로 난이도 「마스터」에서 최종 시험 1위를 획득"
         },
         {
+            "id": "achieve-p_idol-atbm-018",
+            "name": "도전",
+            "description": "프로듀스에서 특별 지도를 {threshold}회 선택"
+        },
+        {
+            "id": "achieve-p_idol-atbm-019",
+            "name": "구해야 할 자들",
+            "description": "프로듀스에서 팬 투표 수를 {threshold} 획득"
+        },
+        {
             "id": "achieve-p_idol-atbm-020",
             "name": "나아가야 할 길",
             "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SS 이상을 {threshold} 회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-021",
+            "name": "따내러 가자",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-023",
+            "name": "샛별의 라이벌",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-024",
+            "name": "마음에 불을 밝히고",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -3526,6 +3596,16 @@
             "description": "후지타 코토네의 특훈 단계 {threshold} 달성한다"
         },
         {
+            "id": "achieve-p_idol-fktn-023",
+            "name": "황금 세대 필두",
+            "description": "후지타 코토네로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-fktn-024",
+            "name": "할 수 있는 것 전~부",
+            "description": "후지타 코토네로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "인생 최고의 날",
             "description": "하타야 미스즈로 True End를 보기"
@@ -3639,6 +3719,16 @@
             "id": "achieve-p_idol-hmsz-021",
             "name": "당신에게 분명히, 바쳐 보이겠습니다",
             "description": "하타야 미스즈로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-023",
+            "name": "마성의 아이돌",
+            "description": "하타야 미스즈로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-024",
+            "name": "약속을 지키기 위해",
+            "description": "하타야 미스즈로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hrnm-000",
@@ -3761,6 +3851,16 @@
             "description": "히메사키 리나미의 특훈 단계 {threshold} 달성한다"
         },
         {
+            "id": "achieve-p_idol-hrnm-023",
+            "name": "상냥한 모두의 언니",
+            "description": "히메사키 리나미로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-024",
+            "name": "원점을 다시 바라보며",
+            "description": "히메사키 리나미로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hski-000",
             "name": "무적의 톱 아이돌",
             "description": "하나미 사키로 True End를 보기"
@@ -3881,6 +3981,16 @@
             "description": "하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-p_idol-hski-023",
+            "name": "기가 세고 지기 싫어하는 우등생",
+            "description": "하나미 사키로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hski-024",
+            "name": "정답으로 만들겠어",
+            "description": "하나미 사키로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "인생 최고의 파인 플레이",
             "description": "하나미 우메로 True End를 보기"
@@ -3994,6 +4104,16 @@
             "id": "achieve-p_idol-hume-021",
             "name": "진정한 아이돌이 되고 싶어요",
             "description": "하나미 우메로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hume-023",
+            "name": "하츠보시 학원의 괴물",
+            "description": "하나미 우메로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hume-024",
+            "name": "언니의 목표로",
+            "description": "하나미 우메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -4111,6 +4231,16 @@
             "description": "주오 세나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
         },
         {
+            "id": "achieve-p_idol-jsna-023",
+            "name": "샛별의 톱 아이돌",
+            "description": "주오 세나로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-jsna-024",
+            "name": "우리의 두 가지 꿈",
+            "description": "주오 세나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "레벨 1의 신인 아이돌",
             "description": "쿠라모토 치나로 True End를 보기"
@@ -4226,6 +4356,16 @@
             "description": "쿠라모토 치나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
         },
         {
+            "id": "achieve-p_idol-kcna-023",
+            "name": "훌륭한 일류 아이돌",
+            "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-kcna-024",
+            "name": "입후보하겠어요!",
+            "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "빛",
             "description": "카츠라기 릴리야로 True End를 보기"
@@ -4339,6 +4479,16 @@
             "id": "achieve-p_idol-kllj-021",
             "name": "마지막으로 웃는, 그날까지",
             "description": "카츠라기 릴리야로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-kllj-023",
+            "name": "응원하고 싶어지는 아이돌",
+            "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-kllj-024",
+            "name": "불타오르는 시추에이션",
+            "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -4461,6 +4611,16 @@
             "description": "시노사와 히로의 특훈 단계 {threshold} 달성한다"
         },
         {
+            "id": "achieve-p_idol-shro-023",
+            "name": "분위기 톱 아이돌",
+            "description": "시노사와 히로로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-shro-024",
+            "name": "몇 번째인가의 기적을",
+            "description": "시노사와 히로로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "내딛은 한걸음",
             "description": "시운 스미카로 True End를 보기"
@@ -4574,6 +4734,16 @@
             "id": "achieve-p_idol-ssmk-021",
             "name": "가볍게, 날갯짓하며",
             "description": "시운 스미카로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-023",
+            "name": "보기 드문 재능의 소유자",
+            "description": "시운 스미카로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-024",
+            "name": "되고 싶은 나로",
+            "description": "시운 스미카로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -4694,6 +4864,21 @@
             "id": "achieve-p_idol-ttmr-022",
             "name": "어디까지고 높이",
             "description": "츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-023",
+            "name": "불안정한 실력자",
+            "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 SSS 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-024",
+            "name": "따라잡아 주겠어!",
+            "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achievement_char_hume-024",
+            "name": "가속되는 성장",
+            "description": "하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achievement_char_kcna-024",

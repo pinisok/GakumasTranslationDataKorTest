@@ -6,6 +6,30 @@
     },
     "data": [
         {
+            "id": "dearness_panel-mission_amao_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_fktn_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_hrnm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_kcna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_kllj_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_shro_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_ssmk_01",
             "name": "친애도 부스트 캠페인"
         },
@@ -24,6 +48,14 @@
         {
             "id": "panel_mission-event-006",
             "name": "패널 미션"
+        },
+        {
+            "id": "panel_mission-event-007",
+            "name": "주오 쿠니오의 챌린지 미션 ~NIA편~"
+        },
+        {
+            "id": "panel_mission-event-008",
+            "name": "주오 쿠니오의 챌린지 미션 ~Step3편~"
         },
         {
             "id": "panel_mission-event-niv",

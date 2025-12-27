@@ -18,6 +18,10 @@
             "description": "트레이닝 Pt가 부족합니다."
         },
         {
+            "id": "card.produce_card_customize.detail_sheet.nia_condition",
+            "description": "※커스터마이즈는 특별 지도에서 할 수 있습니다"
+        },
+        {
             "id": "competition.rehearsal_battle_confirm.label.description",
             "description": "※도전 횟수는 소비되지 않습니다 / 레이트 Pt는 획득할 수 없습니다"
         },
@@ -38,8 +42,24 @@
             "description": "아이돌 강화의 달\\n~별들의 반짝임~"
         },
         {
+            "id": "home.gasha.continuous_share.share_text",
+            "description": "＼ TVCM 방영 기념 무제한 가챠 개최 중 ／\n\n「계속」이 계속되는 한, 무료로 가챠 무제한!\n가챠는 SSR 1장 이상 확정!\n\n#学マス #引き放題って好き"
+        },
+        {
+            "id": "home.gasha.continuous_share.title",
+            "description": "TVCM 방영 기념 무제한 가챠 결과"
+        },
+        {
             "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
             "description": "대상 P아이돌 획득으로 "
+        },
+        {
+            "id": "home.gasha.draw_button.item",
+            "description": "아이템"
+        },
+        {
+            "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
+            "description": "소지 수가 부족합니다"
         },
         {
             "id": "home.pvp.contest.out_of_term_toast",
@@ -71,7 +91,7 @@
         },
         {
             "id": "produce.card.rarity.legend",
-            "description": "추가 예정"
+            "description": "레전드"
         },
         {
             "id": "produce.high_score_rush.gold.description",
@@ -91,7 +111,7 @@
         },
         {
             "id": "profile.badge_select.thumb_empty.empty.toast",
-            "description": "향후 프로듀서 랭킹에서 획득할 수 있습니다"
+            "description": "프로듀서 랭킹에서 획득 가능"
         },
         {
             "id": "profile.report.share.text",

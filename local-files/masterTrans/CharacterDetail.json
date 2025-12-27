@@ -332,6 +332,12 @@
             "content": "낮잠, 산책"
         },
         {
+            "characterId": "hmsz",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n츠키무라 테마리의 그늘에 가려져 다소 수수한 평가를 받았지만, 그 실력은 진짜다. 결점이 적은 완성된 아이돌이라는 인상. 한층 더 성장할 것도 기대할 수 있을 것이다."
+        },
+        {
             "characterId": "hrnm",
             "type": "CharacterDetailType_Grade",
             "order": 1,
