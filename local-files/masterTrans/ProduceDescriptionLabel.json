@@ -208,7 +208,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이후 시험에서 라이벌 점수가 증가"
+                    "text": "이후의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -228,7 +228,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "라이벌 점수 증가"
+                    "text": "에서 라이벌 점수 증가"
                 }
             ],
             "name": "라이벌 점수 증가"
@@ -740,7 +740,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "스킬 카드 사용에 필요한 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -760,7 +760,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": " 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
                 }
             ],
             "name": "집중 비용 증가"
@@ -4147,7 +4147,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경하면,"
+                    "text": "로 변경하거나 해제할때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4543,7 +4543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "(은)는 "
+                    "text": "는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5993,7 +5993,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "」와「"
+                    "text": "」과「"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6013,7 +6013,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "」을 해제한다"
+                    "text": "」를 해제한다"
                 }
             ],
             "name": "지침 해제"
@@ -6088,7 +6088,7 @@
                     "text": "증가. 체력 감소시, 고양이 1 감소"
                 }
             ],
-            "name": "고양"
+            "name": "고양 "
         },
         {
             "id": "Label_ExamUplifting_Produce",
@@ -6223,7 +6223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "전력치"
+                    "text": "전력치 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6233,7 +6233,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승치가 감소\n"
+                    "text": "상승값이 감소\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6243,7 +6243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "전력치"
+                    "text": "전력치 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6253,7 +6253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "증가 효과가 없는 스킬 카드에는 영향을 주지 않음\n상승치는 0이 되지 않는다"
+                    "text": "증가 효과가 없는 스킬 카드에는 영향을 주지 않음\n상승치는 0이 되지 않음"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6581,7 +6581,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "파라미터"
+                    "text": "파라미터 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7136,12 +7136,12 @@
         {
             "id": "Label_ProduceCardPositionType_DeckLast",
             "produceDescriptions": [],
-            "name": "댁의 맨 아래"
+            "name": "덱의 맨 아래"
         },
         {
             "id": "Label_ProduceCardPositionType_DeckRandom",
             "produceDescriptions": [],
-            "name": "생성"
+            "name": "덱의 무작위 위치"
         },
         {
             "id": "Label_ProduceCardPositionType_Grave",
