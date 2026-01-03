@@ -607,6 +607,21 @@
             "text": "네.\n정말 귀여워졌네요."
         },
         {
+            "supportCardId": "s_card-2-0043",
+            "number": 1,
+            "text": "간다아아아아!"
+        },
+        {
+            "supportCardId": "s_card-2-0043",
+            "number": 2,
+            "text": "기다려 기다려! \n빠르다니까!?"
+        },
+        {
+            "supportCardId": "s_card-2-0043",
+            "number": 3,
+            "text": "아하하! \n정말 즐겁네!"
+        },
+        {
             "supportCardId": "s_card-2-0044",
             "number": 1,
             "text": "와! 엄청 아름다운 음색♪"
@@ -635,6 +650,21 @@
             "supportCardId": "s_card-2-0045",
             "number": 3,
             "text": "우와앗!?\n보여 주지 않아도 괜찮으니까!"
+        },
+        {
+            "supportCardId": "s_card-2-0046",
+            "number": 1,
+            "text": "뿅, 하고——앗."
+        },
+        {
+            "supportCardId": "s_card-2-0046",
+            "number": 2,
+            "text": "아앗! 히로 양이 \n해머 반동에 질 것 같아!?"
+        },
+        {
+            "supportCardId": "s_card-2-0046",
+            "number": 3,
+            "text": "때리는 쪽이 튕겨 나갈 정도의 단단한 머리. \n역시 우메."
         },
         {
             "supportCardId": "s_card-2-0047",
@@ -849,47 +879,62 @@
         {
             "supportCardId": "s_card-2-0063",
             "number": 1,
-            "text": "この辺！　この辺りを押すといいよ。"
+            "text": "이 근처! 이 근처를 누르면 좋아."
         },
         {
             "supportCardId": "s_card-2-0063",
             "number": 2,
-            "text": "あ、ちょっとま――ひぐっ！？"
+            "text": "아, 잠깐만——히귝!?"
         },
         {
             "supportCardId": "s_card-2-0063",
             "number": 3,
-            "text": "ここが痛いってことは、\n疲れが溜まっているのかも～！"
+            "text": "여기가 아프다는 건, \n피로가 쌓여 있는 걸지도~!"
         },
         {
             "supportCardId": "s_card-2-0064",
             "number": 1,
-            "text": "肩の力は抜きつつ、\n指先まで意識をしつつ――"
+            "text": "어깨에 힘은 빼면서, \n손끝까지 의식을 집중하고——"
         },
         {
             "supportCardId": "s_card-2-0064",
             "number": 2,
-            "text": "すっごくキレイ――こ、こうかな？"
+            "text": "정말 예뻐——이, 이렇게 하는 건가?"
         },
         {
             "supportCardId": "s_card-2-0064",
             "number": 3,
-            "text": "とてもいいと思います！\nさすが葛城さんですわ♪"
+            "text": "아주 좋다고 생각해요! \n역시 카츠라기 씨예요♪"
         },
         {
             "supportCardId": "s_card-2-0065",
             "number": 1,
-            "text": "……まあ。\nどうして、こんなところに。"
+            "text": "……어머. \n어째서 이런 곳에."
         },
         {
             "supportCardId": "s_card-2-0065",
             "number": 2,
-            "text": "きっと、寮長のお仕事で\nお疲れなのでしょうね。"
+            "text": "분명, 기숙사 사감 \n업무로 지치신 거겠죠."
         },
         {
             "supportCardId": "s_card-2-0065",
             "number": 3,
-            "text": "……ふぁ……あ……ん、美鈴……？"
+            "text": "……후아……아……음, 미스즈……?"
+        },
+        {
+            "supportCardId": "s_card-2-0066",
+            "number": 1,
+            "text": "아리무라, 아까 영화는 어땠나."
+        },
+        {
+            "supportCardId": "s_card-2-0066",
+            "number": 2,
+            "text": "아아, 정말 좋았어. \n츠바메가 추천하는 영화는 전부 재미있네."
+        },
+        {
+            "supportCardId": "s_card-2-0066",
+            "number": 3,
+            "text": "훗, 네놈과는,\n영화와 책 취향만큼은 맞는 모양이군."
         },
         {
             "supportCardId": "s_card-3-0000",
@@ -2024,62 +2069,137 @@
         {
             "supportCardId": "s_card-3-0076",
             "number": 1,
-            "text": "えっと、そ、その……わかるでしょ？"
+            "text": "저, 저기, 그…… 알지?"
         },
         {
             "supportCardId": "s_card-3-0076",
             "number": 2,
-            "text": "ふふ。いいえ、わかりません。"
+            "text": "후후. 아뇨, 모르겠는데요."
         },
         {
             "supportCardId": "s_card-3-0076",
             "number": 3,
-            "text": "（フフ、あのふたり、仲直りしたのね）"
+            "text": "(후후, 저 두 사람, 화해했구나)"
         },
         {
             "supportCardId": "s_card-3-0077",
             "number": 1,
-            "text": "ふわぁぁ～……気持ちいいですわ～～♡"
+            "text": "후아아~…… 기분 좋네요~~♡"
         },
         {
             "supportCardId": "s_card-3-0077",
             "number": 2,
-            "text": "トレーニング後は、\nしっかりほぐしておかないと、ね。"
+            "text": "트레이닝 후에는,\n제대로 풀어 줘야지."
         },
         {
             "supportCardId": "s_card-3-0077",
             "number": 3,
-            "text": "これが、\n効く効くぅ～ってやつですわぁ！"
+            "text": "이게 바로\n 자극이 팍팍 온다는 그거네요~!"
         },
         {
             "supportCardId": "s_card-3-0078",
             "number": 1,
-            "text": "ふっふー、次の挑戦者は誰かー。"
+            "text": "훗후-, 다음 도전자는 누구냐-."
         },
         {
             "supportCardId": "s_card-3-0078",
             "number": 2,
-            "text": "ボクが行こう。\n腕相撲は少し嗜んでいてね。"
+            "text": "내가 갈게. \n팔씨름은 조금 소양이 있어서 말이야."
         },
         {
             "supportCardId": "s_card-3-0078",
             "number": 3,
-            "text": "麻央先輩、負けませんよー。"
+            "text": "마오 선배, 지지 않을 거예요-."
+        },
+        {
+            "supportCardId": "s_card-3-0079",
+            "number": 1,
+            "text": "여기 있었나 하타야! \n왜 한가롭게 누워 있는 거냐!?"
+        },
+        {
+            "supportCardId": "s_card-3-0079",
+            "number": 2,
+            "text": "후아아…… 오늘도 낮잠 자기 좋은 날씨네요."
+        },
+        {
+            "supportCardId": "s_card-3-0079",
+            "number": 3,
+            "text": "정말이지…… 이런 곳에 있었구나."
         },
         {
             "supportCardId": "s_card-3-0080",
             "number": 1,
-            "text": "ま、また落ちちゃった……！\nもう1回……！"
+            "text": "또, 또 떨어졌어……! \n한 번 더……!"
         },
         {
             "supportCardId": "s_card-3-0080",
             "number": 2,
-            "text": "リ、リーリヤ？\nそろそろ諦めた方が……"
+            "text": "리, 릴리야? \n슬슬 포기하는 게……"
         },
         {
             "supportCardId": "s_card-3-0080",
             "number": 3,
-            "text": "まだお金はあるから、大丈夫！"
+            "text": "아직 돈은 있으니까 괜찮아!"
+        },
+        {
+            "supportCardId": "s_card-3-0081",
+            "number": 1,
+            "text": "니시시~♪ 볼 말랑말랑해~."
+        },
+        {
+            "supportCardId": "s_card-3-0081",
+            "number": 2,
+            "text": "으으음……"
+        },
+        {
+            "supportCardId": "s_card-3-0081",
+            "number": 3,
+            "text": "큰일이다, 깨워 버렸나!?"
+        },
+        {
+            "supportCardId": "s_card-3-0082",
+            "number": 1,
+            "text": "카, 카츠라기! 왜 여기 있는 거야!?"
+        },
+        {
+            "supportCardId": "s_card-3-0082",
+            "number": 2,
+            "text": "저, 저는…… 그게, 저……  \n츠바메 선배는요!?"
+        },
+        {
+            "supportCardId": "s_card-3-0082",
+            "number": 3,
+            "text": "아, 아니 나는…… 조금 말이지……"
+        },
+        {
+            "supportCardId": "s_card-3-0085",
+            "number": 1,
+            "text": "알겠나, 일절의 잡념을 버리고,\n정신을 통일하는 거다."
+        },
+        {
+            "supportCardId": "s_card-3-0085",
+            "number": 2,
+            "text": "아, 다리 저려~!?"
+        },
+        {
+            "supportCardId": "s_card-3-0085",
+            "number": 3,
+            "text": "우메, 집중하렴."
+        },
+        {
+            "supportCardId": "s_card-3-0086",
+            "number": 1,
+            "text": "어때? 완벽하지?"
+        },
+        {
+            "supportCardId": "s_card-3-0086",
+            "number": 2,
+            "text": "흥, 내가 본보기를 보여주지."
+        },
+        {
+            "supportCardId": "s_card-3-0086",
+            "number": 3,
+            "text": "그, 그건 너무 과한 거 아니니!?"
         },
         {
             "supportCardId": "s_card-3-0098",
