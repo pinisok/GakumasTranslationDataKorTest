@@ -16,6 +16,11 @@
             "description": "아리무라 마오의 친밀도 Lv 10 만들기"
         },
         {
+            "id": "amao-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
             "id": "amao-cstm-0000",
             "name": "하지메",
             "description": "처음부터 소지"
@@ -256,6 +261,11 @@
             "description": "처음부터 소지"
         },
         {
+            "id": "fktn-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
             "id": "fktn-cstm-0000",
             "name": "하지메",
             "description": "처음부터 소지"
@@ -454,6 +464,16 @@
             "id": "hmsz-cstm-0054",
             "name": "Campus mode!!",
             "description": "【Campus mode!!】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0059",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈를 입수"
+        },
+        {
+            "id": "hmsz-cstm-0060",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈의 재능 개화 4단계 달성"
         },
         {
             "id": "hmsz-cstm-0063",

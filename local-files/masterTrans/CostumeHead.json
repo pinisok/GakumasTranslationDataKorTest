@@ -98,12 +98,12 @@
         {
             "id": "costume_head_amao-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 9월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 9월에서 획득 가능 등"
         },
         {
             "id": "costume_head_amao-hair-0004",
             "name": "고양이 귀",
-            "description": "プレミアムミッションパス 2025年1月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
         },
         {
             "id": "costume_head_amao-hair-0006",
@@ -133,22 +133,22 @@
         {
             "id": "costume_head_atbm-cstm-0053",
             "name": "Campus mode!!",
-            "description": "【Campus mode!!】雨夜 燕を入手"
+            "description": "【Campus mode!!】아마야 츠바메 입수"
         },
         {
             "id": "costume_head_atbm-cstm-0054",
             "name": "Campus mode!!",
-            "description": "【Campus mode!!】雨夜 燕の才能開花4段階目で入手"
+            "description": "【Campus mode!!】아마야 츠바메의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_atbm-cstm-0072",
             "name": "금빛의 빛",
-            "description": "雨夜燕のアイドルへの道 ステージ10をクリア"
+            "description": "아마야 츠바메의 아이돌 길 스테이지 10 클리어"
         },
         {
             "id": "costume_head_atbm-cstm-0073",
             "name": "백금의 빛",
-            "description": "雨夜燕のアイドルへの道 ステージ15をクリア"
+            "description": "아마야 츠바메의 아이돌 길 스테이지 15 클리어"
         },
         {
             "id": "costume_head_atbm-cstm-0106",
@@ -163,7 +163,7 @@
         {
             "id": "costume_head_atbm-cstm-0110",
             "name": "칠흑의 반짝임",
-            "description": "雨夜燕のアイドルへの道 ステージ25をクリア"
+            "description": "아마야 츠바메의 아이돌 길 스테이지 25 클리어"
         },
         {
             "id": "costume_head_atbm-hair-0001",
@@ -173,7 +173,7 @@
         {
             "id": "costume_head_atbm-hair-0002",
             "name": "공주님 티아라",
-            "description": "雨夜燕のアイドルへの道 ステージ20をクリア"
+            "description": "아마야 츠바메의 아이돌 길 스테이지 20 클리어"
         },
         {
             "id": "costume_head_atbm-hair-0003",
@@ -376,6 +376,16 @@
             "description": "【Campus mode!!】하타야 미스즈의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_hmsz-cstm-0059",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈 입수"
+        },
+        {
+            "id": "costume_head_hmsz-cstm-0060",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0063",
             "name": "관국",
             "description": "【달 거북이】'25 축제 하타야 미스즈 입수"
@@ -433,7 +443,7 @@
         {
             "id": "costume_head_hmsz-hair-0009",
             "name": "큼직한 리본",
-            "description": "プレミアムミッションパス 2026年1月で獲得"
+            "description": "프리미엄 미션 패스 2026년 1월에서 획득 가능"
         },
         {
             "id": "costume_head_hmsz-schl-0000",
@@ -543,7 +553,7 @@
         {
             "id": "costume_head_hrnm-hair-0004",
             "name": "고양이 귀",
-            "description": "プレミアムミッションパス 2025年1月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hrnm-hair-0006",
@@ -1118,7 +1128,7 @@
         {
             "id": "costume_head_kllj-hair-0004",
             "name": "고양이 귀",
-            "description": "プレミアムミッションパス 2025年1月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
         },
         {
             "id": "costume_head_kllj-hair-0006",
@@ -1138,7 +1148,7 @@
         {
             "id": "costume_head_kllj-hair-0009",
             "name": "큼직한 리본",
-            "description": "プレミアムミッションパス 2026年1月で獲得"
+            "description": "프리미엄 미션 패스 2026년 1월에서 획득 가능"
         },
         {
             "id": "costume_head_kllj-hair-0018",
@@ -1353,7 +1363,7 @@
         {
             "id": "costume_head_ssmk-hair-0004",
             "name": "고양이 귀",
-            "description": "プレミアムミッションパス 2025年1月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 1월에서 획득 가능 등"
         },
         {
             "id": "costume_head_ssmk-hair-0006",
@@ -1373,7 +1383,7 @@
         {
             "id": "costume_head_ssmk-hair-0009",
             "name": "큼직한 리본",
-            "description": "プレミアムミッションパス 2026年1月で獲得"
+            "description": "프리미엄 미션 패스 2026년 1월에서 획득 가능"
         },
         {
             "id": "costume_head_ssmk-hair-0010",

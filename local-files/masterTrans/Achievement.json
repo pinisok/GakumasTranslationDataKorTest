@@ -666,6 +666,36 @@
             "description": "【Star-mine】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hmsz-3-014-01",
+            "name": "꿈과 현실의 경계선",
+            "description": "【Superlative】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-02",
+            "name": "Superlative",
+            "description": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-03",
+            "name": "오늘 밤, 꿈에서 만나요",
+            "description": "【Superlative】하타야 미스즈로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-04",
+            "name": "Superlative +",
+            "description": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-05",
+            "name": "Superlative ++",
+            "description": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-06",
+            "name": "Superlative +++",
+            "description": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hrnm-2-000-04",
             "name": "『나 다움』의 시작+",
             "description": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"

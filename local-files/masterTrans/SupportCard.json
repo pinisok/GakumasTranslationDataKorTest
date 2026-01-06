@@ -621,6 +621,22 @@
             "name": "푹신푹신한 가면?"
         },
         {
+            "id": "s_card-2-0026",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 중"
+                }
+            ],
+            "name": "보글보글, 좋은 냄새♪"
+        },
+        {
             "id": "s_card-2-0027",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2541,6 +2557,22 @@
             "name": "왜 이런 곳에!?"
         },
         {
+            "id": "s_card-3-0083",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "당당하게 땡땡이치고 있어!?"
+        },
+        {
             "id": "s_card-3-0085",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2571,6 +2603,22 @@
                 }
             ],
             "name": "이리 내, 시범을 보여 주지!"
+        },
+        {
+            "id": "s_card-3-0087",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "멋내기도 메이크업도♪"
         },
         {
             "id": "s_card-3-0098",

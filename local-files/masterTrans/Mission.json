@@ -4810,6 +4810,30 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-story-event-011-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-story-event-011-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-story-event-011-mission_3",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-story-event-011-mission_4",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-story-event-011-mission_5",
+            "name": "P드링크를 {threshold}번 사용하자"
+        },
+        {
+            "id": "mission-story-event-011-mission_6",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-story-event-013-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -5852,6 +5876,30 @@
         {
             "id": "achieve-i_card-hmsz-3-010-06",
             "name": "【Star-mine】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-01",
+            "name": "【Superlative】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-02",
+            "name": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-03",
+            "name": "【Superlative】하타야 미스즈로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-04",
+            "name": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-05",
+            "name": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-014-06",
+            "name": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hrnm-2-000-04",

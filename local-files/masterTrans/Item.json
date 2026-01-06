@@ -7,9 +7,9 @@
     "data": [
         {
             "id": "item_gacha-coin-continuous-001",
-            "name": "TVCM放映記念引き放題ガシャコイン",
-            "description": "TVCM放映記念引き放題ガシャで使用するコイン",
-            "acquisitionRouteDescription": "TVCM放映記念ログインボーナス、TVCM放映記念ミッション"
+            "name": "TVCM 방영 기념 무제한 가샤 코인",
+            "description": "TVCM 방영 기념 무제한 가샤에서 사용하는 동전",
+            "acquisitionRouteDescription": "TVCM 방영 기념 로그인 보너스, TVCM 방영 기념 미션"
         },
         {
             "id": "item-coin-box-gasha-event-001",
@@ -223,15 +223,15 @@
         },
         {
             "id": "item-gacha-coin-newyear-002",
-            "name": "初星ふくびき券 2026",
+            "name": "하츠보시 복권 티켓 2026",
             "description": "근하신년! 복권 가챠에서 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
             "id": "item-gasha_200limit-exchange",
-            "name": "Story of Re;IRIS放映記念交換券",
-            "description": "20枚集めるとアイテム交換所でプロデュースアイドルやサポートカードを交換できるチケット",
-            "acquisitionRouteDescription": "Story of Re;IRIS放映記念SSR1.5倍セレクトピックアップガシャ"
+            "name": "Story of Re; IRIS 방영 기념 교환권",
+            "description": "20장 모으면 아이템 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "Story of Re; IRIS 방영기념 SSR 1.5배 셀렉트픽 업가샤"
         },
         {
             "id": "item-gasha-ticket-ssr-fix-seasons-2511-001",
@@ -307,8 +307,8 @@
         },
         {
             "id": "item-gashaticket-ssr-idol-season-fix_4",
-            "name": "シーズン限定 SSR Pアイドル確定ガシャチケット",
-            "description": "シーズン限定 SSR Pアイドル確定チケットガシャで使用するチケット",
+            "name": "시즌 한정 SSR P 아이돌 확정 가챠 티켓",
+            "description": "시즌 한정 SSR P 아이돌 확정 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -325,8 +325,8 @@
         },
         {
             "id": "item-gashaticket-ssr-support-season-fix_1",
-            "name": "シーズン限定 SSR サポートカード確定ガシャチケット",
-            "description": "シーズン限定 SSR サポートカード確定チケットガシャで使用するチケット",
+            "name": "시즌 한정 SSR 서포트 카드 확정 가챠 티켓",
+            "description": "시즌 한정 SSR 서포트 카드 확정 티켓 가샤에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -540,6 +540,12 @@
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {
+            "id": "item-medal-story-event-011",
+            "name": "기숙사 일동보다",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
             "id": "item-medal-story-event-013",
             "name": "수학 여행 기념품",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
@@ -661,7 +667,7 @@
         },
         {
             "id": "item-piece-idol_atbm-3-012",
-            "name": "[Campus mode!!]雨夜燕のピース",
+            "name": "[Campus mode!!] 아마야 츠바메의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -764,6 +770,12 @@
         {
             "id": "item-piece-idol_hmsz-3-010",
             "name": "[Star-mine]하타야 미스즈의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hmsz-3-014",
+            "name": "[Superlative]하타야 미스즈의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

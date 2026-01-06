@@ -118,6 +118,10 @@
             "title": "STEP1"
         },
         {
+            "id": "story_dearness_atbm_step-02",
+            "title": "STEP2"
+        },
+        {
             "id": "story_dearness_fktn_step-01",
             "title": "STEP1"
         },
@@ -194,6 +198,10 @@
             "title": "STEP2"
         },
         {
+            "id": "story_dearness_kllj_step-03",
+            "title": "STEP3"
+        },
+        {
             "id": "story_dearness_shro_step-01",
             "title": "STEP1"
         },
@@ -264,6 +272,10 @@
         {
             "id": "story_event_group-21-01",
             "title": "세나와 츠바메의 일상"
+        },
+        {
+            "id": "story_event_group-22-01",
+            "title": "코토네와 마오의 일상"
         },
         {
             "id": "story_gvg_group-01-01",
