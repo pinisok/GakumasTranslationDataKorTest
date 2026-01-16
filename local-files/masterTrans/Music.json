@@ -222,6 +222,14 @@
             "arranger": "미야카와 단, 하라구치 사스케"
         },
         {
+            "id": "music-all-atbm-002",
+            "title": "Campus mode!!",
+            "displayTitle": "Campus mode!!",
+            "lyrics": "타부치 토모야",
+            "composer": "타부치 토모야",
+            "arranger": "타키자와 슌스케 (TRYTONELABO)"
+        },
+        {
             "id": "music-all-fktn-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1670,6 +1678,22 @@
             "arranger": "kamome sano"
         },
         {
+            "id": "music-char-amao-005",
+            "title": "Top Secret",
+            "displayTitle": "Top Secret",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group)",
+            "arranger": "SHOW (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-amao-005-inst",
+            "title": "Top Secret [Instrumental]",
+            "displayTitle": "Top Secret [Instrumental]",
+            "lyrics": "SHOW (Digz, Inc. Group)",
+            "composer": "SHOW (Digz, Inc. Group)",
+            "arranger": "SHOW (Digz, Inc. Group)"
+        },
+        {
             "id": "music-char-atbm-001",
             "title": "이론무장하고",
             "displayTitle": "이론무장하고",
@@ -1764,6 +1788,22 @@
             "lyrics": "미후메이 (Bandai Namco Studios Inc.)",
             "composer": "미후메이 (Bandai Namco Studios Inc.)",
             "arranger": "미후메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hmsz-002",
+            "title": "Superlative",
+            "displayTitle": "Superlative",
+            "lyrics": "siqlo",
+            "composer": "siqlo",
+            "arranger": "siqlo"
+        },
+        {
+            "id": "music-char-hmsz-002-inst",
+            "title": "Superlative [Instrumental]",
+            "displayTitle": "Superlative [Instrumental]",
+            "lyrics": "siqlo",
+            "composer": "siqlo",
+            "arranger": "siqlo"
         },
         {
             "id": "music-char-hmsz-003",
@@ -2372,6 +2412,22 @@
             "lyrics": "타나카 토루마 (Dream Monster)",
             "composer": "타나카 토루마 (Dream Monster)",
             "arranger": "타나카 토루마 (Dream Monster)"
+        },
+        {
+            "id": "music-char-ttmr-004",
+            "title": "도대체 언제부터",
+            "displayTitle": "도대체 언제부터",
+            "lyrics": "오오하시 칫포케",
+            "composer": "오오하시 칫포케",
+            "arranger": "이와사키 류이치"
+        },
+        {
+            "id": "music-char-ttmr-004-inst",
+            "title": "도대체 언제부터 [Instrumental]",
+            "displayTitle": "도대체 언제부터 [Instrumental]",
+            "lyrics": "오오하시 칫포케",
+            "composer": "오오하시 칫포케",
+            "arranger": "이와사키 류이치"
         },
         {
             "id": "music-char-ttmr-005",

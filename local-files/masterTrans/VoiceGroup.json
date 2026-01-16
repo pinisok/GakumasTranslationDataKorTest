@@ -27,6 +27,16 @@
             "title": "진짜의 나"
         },
         {
+            "id": "voice_group-amao-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_amao-casl-0002_01",
+            "title": "마음에 드는 사복"
+        },
+        {
+            "id": "voice_group-amao-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_amao-casl-0002_02",
+            "title": "마음에 드는 사복"
+        },
+        {
             "id": "voice_group-amao-cstm-0000-cmmn",
             "voiceAssetId": "sud_vo_system_amao-cstm-0000_01",
             "title": "하지메"
@@ -287,6 +297,16 @@
             "title": "하지메"
         },
         {
+            "id": "voice_group-atbm-cstm-0053-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0053_01",
+            "title": "Campus mode!!"
+        },
+        {
+            "id": "voice_group-atbm-cstm-0053-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0053_02",
+            "title": "Campus mode!!"
+        },
+        {
             "id": "voice_group-atbm-cstm-0069-cmmn",
             "voiceAssetId": "sud_vo_system_atbm-cstm-0069_01",
             "title": "차일드 스모크"
@@ -297,6 +317,26 @@
             "title": "차일드 스모크"
         },
         {
+            "id": "voice_group-atbm-cstm-0072-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0072_01",
+            "title": "금빛의 빛"
+        },
+        {
+            "id": "voice_group-atbm-cstm-0072-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0072_02",
+            "title": "금빛의 빛"
+        },
+        {
+            "id": "voice_group-atbm-cstm-0073-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0073_01",
+            "title": "백금의 빛"
+        },
+        {
+            "id": "voice_group-atbm-cstm-0073-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0073_02",
+            "title": "백금의 빛"
+        },
+        {
             "id": "voice_group-atbm-cstm-0106-cmmn",
             "voiceAssetId": "sud_vo_system_atbm-cstm-0107_01",
             "title": "이론무장하고"
@@ -305,6 +345,16 @@
             "id": "voice_group-atbm-cstm-0106-cmmn",
             "voiceAssetId": "sud_vo_system_atbm-cstm-0107_02",
             "title": "이론무장하고"
+        },
+        {
+            "id": "voice_group-atbm-cstm-0110-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0110_01",
+            "title": "칠흑의 반짝임"
+        },
+        {
+            "id": "voice_group-atbm-cstm-0110-cmmn",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0110_02",
+            "title": "칠흑의 반짝임"
         },
         {
             "id": "voice_group-atbm-cstm-0111-cmmn",
@@ -1204,6 +1254,66 @@
         {
             "id": "voice_group-cidol-atbm-3-000-produce_schedule",
             "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012_home",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012_home",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012_home",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-detail",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0053_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-detail",
+            "voiceAssetId": "sud_vo_system_atbm-cstm-0053_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-detail",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-detail",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-detail",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-atbm-3-012-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-atbm-3-012_produce_schedule-04",
             "title": "프로듀스④"
         },
         {
@@ -2525,6 +2635,66 @@
             "id": "voice_group-cidol-hmsz-3-013-detail",
             "voiceAssetId": "sud_vo_system_hmsz-cstm-0125_02",
             "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0059_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0059_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-014-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-014_produce_schedule-04",
+            "title": "프로듀스④"
         },
         {
             "id": "voice_group-cidol-hrnm-1-000-detail",
@@ -9417,6 +9587,66 @@
             "title": "프로듀스④"
         },
         {
+            "id": "voice_group-cidol-ttmr-3-016_home",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016_home",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016_home",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-detail",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-detail",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-detail",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-detail",
+            "voiceAssetId": "sud_vo_system_ttmr-cstm-0084_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-detail",
+            "voiceAssetId": "sud_vo_system_ttmr-cstm-0084_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-ttmr-3-016-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-ttmr-3-016_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-fktn-casl-0000-cmmn",
             "voiceAssetId": "sud_vo_system_fktn-casl-0000_01",
             "title": "평소 사복"
@@ -9425,6 +9655,16 @@
             "id": "voice_group-fktn-casl-0000-cmmn",
             "voiceAssetId": "sud_vo_system_fktn-casl-0000_02",
             "title": "평소 사복"
+        },
+        {
+            "id": "voice_group-fktn-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_fktn-casl-0002_01",
+            "title": "마음에 드는 사복"
+        },
+        {
+            "id": "voice_group-fktn-casl-0002-cmmn",
+            "voiceAssetId": "sud_vo_system_fktn-casl-0002_02",
+            "title": "마음에 드는 사복"
         },
         {
             "id": "voice_group-fktn-cstm-0000-cmmn",
@@ -9725,6 +9965,16 @@
             "id": "voice_group-hmsz-cstm-0053-cmmn",
             "voiceAssetId": "sud_vo_system_hmsz-cstm-0053_02",
             "title": "Campus mode!!"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0059-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0059_01",
+            "title": "Superlative"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0059-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0059_02",
+            "title": "Superlative"
         },
         {
             "id": "voice_group-hmsz-cstm-0063-cmmn",
@@ -12170,6 +12420,16 @@
             "id": "voice_group-ttmr-cstm-0081-cmmn",
             "voiceAssetId": "sud_vo_system_ttmr-cstm-0081_02",
             "title": "벚꽃 포토그래프"
+        },
+        {
+            "id": "voice_group-ttmr-cstm-0084-cmmn",
+            "voiceAssetId": "sud_vo_system_ttmr-cstm-0084_01",
+            "title": "도대체 언제부터"
+        },
+        {
+            "id": "voice_group-ttmr-cstm-0084-cmmn",
+            "voiceAssetId": "sud_vo_system_ttmr-cstm-0084_02",
+            "title": "도대체 언제부터"
         },
         {
             "id": "voice_group-ttmr-cstm-0110-cmmn",

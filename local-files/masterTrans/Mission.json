@@ -230,6 +230,38 @@
             "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
+            "id": "dearness_event_ttmr-001",
+            "name": "츠키무라 테마리의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_ttmr-002",
+            "name": "츠키무라 테마리의 프로듀스에서 외출을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_ttmr-003",
+            "name": "츠키무라 테마리의 프로듀스에서 상담을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_ttmr-004",
+            "name": "츠키무라 테마리의 프로듀스에서 영업을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_ttmr-005",
+            "name": "츠키무라 테마리의 프로듀스에서 선물을 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_ttmr-006",
+            "name": "츠키무라 테마리로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_ttmr-007",
+            "name": "츠키무라 테마리의 프로듀스에서 특별지도를 {threshold}회 선택하자"
+        },
+        {
+            "id": "dearness_event_ttmr-008",
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_normal-mission_amao-001",
             "name": "아리무라 마오의 보컬를 2000 이상으로 육성하여 프로듀스 완료"
         },
@@ -368,6 +400,26 @@
         {
             "id": "dearness_normal-mission_ssmk-005",
             "name": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-001",
+            "name": "츠키무라 테마리의 보컬를 2000 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-002",
+            "name": "츠키무라 테마리의 프로듀스에서 스킬 카드를 총 {threshold}회 사용하자"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-003",
+            "name": "츠키무라 테마리의 프로듀스에서 스킬 카드를 {threshold}회 강화하자"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-004",
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-005",
+            "name": "츠키무라 테마리의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "hidden_mission-achieve-o_014_001",
@@ -2347,7 +2399,7 @@
         },
         {
             "id": "mission-highscorerush-event-005-mission_32",
-            "name": "히메사키 리나미 또는 아리무라 마오의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "히메사키 리나미 또는 아리무라 마오의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-005-mission_33",
@@ -2367,7 +2419,7 @@
         },
         {
             "id": "mission-highscorerush-event-005-mission_42",
-            "name": "히메사키 리나미 또는 아리무라 마오의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "히메사키 리나미 또는 아리무라 마오의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-005-mission_43",
@@ -2387,7 +2439,7 @@
         },
         {
             "id": "mission-highscorerush-event-005-mission_52",
-            "name": "히메사키 리나미 또는 아리무라 마오의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "히메사키 리나미 또는 아리무라 마오의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-005-mission_53",
@@ -2447,7 +2499,7 @@
         },
         {
             "id": "mission-highscorerush-event-006-mission_32",
-            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-006-mission_33",
@@ -2467,7 +2519,7 @@
         },
         {
             "id": "mission-highscorerush-event-006-mission_42",
-            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-006-mission_43",
@@ -2487,7 +2539,7 @@
         },
         {
             "id": "mission-highscorerush-event-006-mission_52",
-            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-006-mission_53",
@@ -2547,7 +2599,7 @@
         },
         {
             "id": "mission-highscorerush-event-007-mission_32",
-            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-007-mission_33",
@@ -2567,7 +2619,7 @@
         },
         {
             "id": "mission-highscorerush-event-007-mission_42",
-            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-007-mission_43",
@@ -2587,7 +2639,7 @@
         },
         {
             "id": "mission-highscorerush-event-007-mission_52",
-            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "쿠라모토 치나 또는 시운 스미카의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-007-mission_53",
@@ -2647,7 +2699,7 @@
         },
         {
             "id": "mission-highscorerush-event-008-mission_32",
-            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-008-mission_33",
@@ -2667,7 +2719,7 @@
         },
         {
             "id": "mission-highscorerush-event-008-mission_42",
-            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-008-mission_43",
@@ -2687,7 +2739,7 @@
         },
         {
             "id": "mission-highscorerush-event-008-mission_52",
-            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험 {threshold}회에 합격하자"
+            "name": "카츠라기 릴리야 또는 주오 세나의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-008-mission_53",
@@ -2699,6 +2751,106 @@
         },
         {
             "id": "mission-highscorerush-event-008-mission_56",
+            "name": "5일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_11",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_12",
+            "name": "츠키무라 테마리의 보컬을 1000 이상으로 육성하고 프로듀스를 완료하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_13",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_14",
+            "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_16",
+            "name": "1일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_21",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_22",
+            "name": "하나미 사키의 비주얼을 1000 이상으로 육성하여 프로듀스를 완료하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_23",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_24",
+            "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_26",
+            "name": "2일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_31",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_32",
+            "name": "츠키무라 테마리 또는 하나미 사키의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_33",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_34",
+            "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_36",
+            "name": "3일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_41",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_42",
+            "name": "츠키무라 테마리 또는 하나미 사키의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_43",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_44",
+            "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_46",
+            "name": "4일차 미션을 모두 클리어"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_51",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_52",
+            "name": "츠키무라 테마리 또는 하나미 사키의 프로듀스로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_53",
+            "name": "츠키무라 테마리의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_54",
+            "name": "하나미 사키의 프로듀스 평가를 총 {threshold} 획득하자"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_56",
             "name": "5일차 미션을 모두 클리어"
         },
         {
@@ -7460,6 +7612,30 @@
         {
             "id": "achieve-i_card-ttmr-3-015-06",
             "name": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-01",
+            "name": "【대체 언제부터】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-02",
+            "name": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-03",
+            "name": "【대체 언제부터】츠키무라 테마리로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-04",
+            "name": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-05",
+            "name": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-06",
+            "name": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-m_amao-001",

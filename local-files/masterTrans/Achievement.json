@@ -2646,6 +2646,36 @@
             "description": "【전력을 다해 가자!】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-ttmr-3-016-01",
+            "name": "남겨진 나",
+            "description": "【대체 언제부터】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-02",
+            "name": "도대체 언제부터",
+            "description": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-03",
+            "name": "지금보다 나아질 수 있으면 좋겠네",
+            "description": "【대체 언제부터】츠키무라 테마리로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-04",
+            "name": "도대체 언제부터 +",
+            "description": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-05",
+            "name": "도대체 언제부터 ++",
+            "description": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-06",
+            "name": "도대체 언제부터 +++",
+            "description": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-m_amao-001",
             "name": "마스터 업적",
             "description": "아리무라 마오의 업적의 ★을 {threshold}개 획득"
@@ -2722,7 +2752,7 @@
         },
         {
             "id": "achieve-o_003",
-            "name": "단위 취득",
+            "name": "학점 취득",
             "description": "과제 {threshold}개 클리어"
         },
         {

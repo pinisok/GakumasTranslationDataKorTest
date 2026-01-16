@@ -58,6 +58,10 @@
             "name": "이론무장하고"
         },
         {
+            "id": "i_card-atbm-3-012",
+            "name": "Campus mode!!"
+        },
+        {
             "id": "i_card-fktn-1-000",
             "name": "학교생활"
         },
@@ -124,6 +128,10 @@
         {
             "id": "i_card-hmsz-3-010",
             "name": "Star-mine"
+        },
+        {
+            "id": "i_card-hmsz-3-014",
+            "name": "Superlative"
         },
         {
             "id": "i_card-hrnm-1-000",
@@ -362,6 +370,10 @@
             "name": "Howling over the World"
         },
         {
+            "id": "i_card-kllj-3-015",
+            "name": "Atmosphere"
+        },
+        {
             "id": "i_card-shro-1-000",
             "name": "학교생활"
         },
@@ -480,6 +492,10 @@
         {
             "id": "i_card-ttmr-3-015",
             "name": "전력을 다해 가자!"
+        },
+        {
+            "id": "i_card-ttmr-3-016",
+            "name": "도대체 언제부터"
         }
     ]
 }
