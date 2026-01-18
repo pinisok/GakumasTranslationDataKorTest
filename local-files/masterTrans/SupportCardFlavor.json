@@ -367,6 +367,21 @@
             "text": "후후 다 보인다구"
         },
         {
+            "supportCardId": "s_card-2-0026",
+            "number": 1,
+            "text": "美鈴ちゃんは料理よくするの？"
+        },
+        {
+            "supportCardId": "s_card-2-0026",
+            "number": 2,
+            "text": "和食でしたら、\n実家でもよく作っていました。"
+        },
+        {
+            "supportCardId": "s_card-2-0026",
+            "number": 3,
+            "text": "じゃあ次は和食を教えてほしいな。"
+        },
+        {
             "supportCardId": "s_card-2-0027",
             "number": 1,
             "text": "올해 신입생은 어때?"
@@ -935,6 +950,21 @@
             "supportCardId": "s_card-2-0066",
             "number": 3,
             "text": "훗, 네놈과는,\n영화와 책 취향만큼은 맞는 모양이군."
+        },
+        {
+            "supportCardId": "s_card-2-0067",
+            "number": 1,
+            "text": "こんにちは～！　可愛いね～！\n遊んでくれるの～？　嬉しいな～♪"
+        },
+        {
+            "supportCardId": "s_card-2-0067",
+            "number": 2,
+            "text": "うわぁっ！　お、おっきい……！"
+        },
+        {
+            "supportCardId": "s_card-2-0067",
+            "number": 3,
+            "text": "こわくないよ～手毬ちゃん！\nあたしがいるから大丈夫だよ！"
         },
         {
             "supportCardId": "s_card-3-0000",
@@ -2172,6 +2202,36 @@
             "text": "아, 아니 나는…… 조금 말이지……"
         },
         {
+            "supportCardId": "s_card-3-0083",
+            "number": 1,
+            "text": "ふあぁ……\n少しお昼寝しましょうか。"
+        },
+        {
+            "supportCardId": "s_card-3-0083",
+            "number": 2,
+            "text": "は、秦谷さん、\nどこに行くんだろう……？"
+        },
+        {
+            "supportCardId": "s_card-3-0083",
+            "number": 3,
+            "text": "もしかして……不良なのかな？"
+        },
+        {
+            "supportCardId": "s_card-3-0084",
+            "number": 1,
+            "text": "하나～의～꿈～♪"
+        },
+        {
+            "supportCardId": "s_card-3-0084",
+            "number": 2,
+            "text": "오오. 테마리, 역시."
+        },
+        {
+            "supportCardId": "s_card-3-0084",
+            "number": 3,
+            "text": "굉장히 잘하시어요～!"
+        },
+        {
             "supportCardId": "s_card-3-0085",
             "number": 1,
             "text": "알겠나, 일절의 잡념을 버리고,\n정신을 통일하는 거다."
@@ -2200,6 +2260,21 @@
             "supportCardId": "s_card-3-0086",
             "number": 3,
             "text": "그, 그건 너무 과한 거 아니니!?"
+        },
+        {
+            "supportCardId": "s_card-3-0087",
+            "number": 1,
+            "text": "んー、こーんな髪型は、どうです～？\nサイドを編み込んで～。"
+        },
+        {
+            "supportCardId": "s_card-3-0087",
+            "number": 2,
+            "text": "さすが、ことねちゃんだね。\n私も負けないよー。"
+        },
+        {
+            "supportCardId": "s_card-3-0087",
+            "number": 3,
+            "text": "キミたち、ボクで遊んでない？"
         },
         {
             "supportCardId": "s_card-3-0098",
