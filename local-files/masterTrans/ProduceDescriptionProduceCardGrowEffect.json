@@ -1,221 +1,328 @@
 {
     "rules": {
         "primaryKeys": [
-            "type"
+            "type",
+            "produceDescriptionLabelId"
         ]
     },
     "data": [
         {
             "type": "ProduceCardGrowEffectType_LessonAdd",
-            "name": "파라미터 값 증가"
+            "produceDescriptionLabelId": "Label_LessonAdd",
+            "name": "파라미터 값 증가",
+            "produceCardCustomizeDescription": "パラメータ+"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonReduce",
-            "name": "파라미터 값 감소"
+            "produceDescriptionLabelId": "Label_LessonReduce",
+            "name": "파라미터 값 감소",
+            "produceCardCustomizeDescription": "パラメータ-"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonCountAdd",
-            "name": "파라미터 상승 횟수 증가"
+            "produceDescriptionLabelId": "Label_LessonCountAdd",
+            "name": "파라미터 상승 횟수 증가",
+            "produceCardCustomizeDescription": "パラメータ\\n上昇回数+"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonCountReduce",
-            "name": "파라미터 상승 횟수 감소"
+            "produceDescriptionLabelId": "Label_LessonCountReduce",
+            "name": "파라미터 상승 횟수 감소",
+            "produceCardCustomizeDescription": "パラメータ\\n上昇回数-"
         },
         {
             "type": "ProduceCardGrowEffectType_BlockAdd",
-            "name": "원기 증가"
+            "produceDescriptionLabelId": "Label_BlockAdd",
+            "name": "원기 증가",
+            "produceCardCustomizeDescription": "元気+"
         },
         {
             "type": "ProduceCardGrowEffectType_BlockReduce",
-            "name": "원기 감소"
+            "produceDescriptionLabelId": "Label_BlockReduce",
+            "name": "원기 감소",
+            "produceCardCustomizeDescription": "元気-"
         },
         {
             "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
-            "name": "전력 증가"
+            "produceDescriptionLabelId": "Label_FullPowerPointAdd",
+            "name": "전력 증가",
+            "produceCardCustomizeDescription": "全力値+"
         },
         {
             "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
-            "name": "전력 감소"
+            "produceDescriptionLabelId": "Label_FullPowerPointReduce",
+            "name": "전력 감소",
+            "produceCardCustomizeDescription": "全力値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostBuffReduce",
-            "name": "강화 상태 비용 감소"
+            "produceDescriptionLabelId": "Label_CostBuffReduce",
+            "name": "강화 상태 비용 감소",
+            "produceCardCustomizeDescription": "強化状態コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostBuffAdd",
-            "name": "강화 상태 비용 증가"
+            "produceDescriptionLabelId": "Label_CostBuffAdd",
+            "name": "강화 상태 비용 증가",
+            "produceCardCustomizeDescription": "強化状態コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostReduce",
-            "name": "소비 체력 감소"
+            "produceDescriptionLabelId": "Label_CostReduce",
+            "name": "소비 체력 감소",
+            "produceCardCustomizeDescription": "コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostAdd",
-            "name": "비용값 증가"
+            "produceDescriptionLabelId": "Label_CostAdd",
+            "name": "비용값 증가",
+            "produceCardCustomizeDescription": "コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
-            "name": "체력 소비 비용 감소"
+            "produceDescriptionLabelId": "Label_CostPenetrateReduce",
+            "name": "체력 소비 비용 감소",
+            "produceCardCustomizeDescription": "体力消費コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
-            "name": "체력 소비 비용 증가"
+            "produceDescriptionLabelId": "Label_CostPenetrateAdd",
+            "name": "체력 소비 비용 증가",
+            "produceCardCustomizeDescription": "体力消費コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
-            "name": "호조 증가"
+            "produceDescriptionLabelId": "Label_ParameterBuffTurnAdd",
+            "name": "호조 증가",
+            "produceCardCustomizeDescription": "好調+"
         },
         {
             "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
-            "name": "호조 감소"
+            "produceDescriptionLabelId": "Label_ParameterBuffTurnReduce",
+            "name": "호조 감소",
+            "produceCardCustomizeDescription": "好調-"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonBuffAdd",
-            "name": "집중 증가"
+            "produceDescriptionLabelId": "Label_LessonBuffAdd",
+            "name": "집중 증가",
+            "produceCardCustomizeDescription": "集中+"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonBuffReduce",
-            "name": "집중 감소"
+            "produceDescriptionLabelId": "Label_LessonBuffReduce",
+            "name": "집중 감소",
+            "produceCardCustomizeDescription": "集中-"
         },
         {
             "type": "ProduceCardGrowEffectType_ReviewAdd",
-            "name": "호인상 증가"
+            "produceDescriptionLabelId": "Label_ReviewAdd",
+            "name": "호인상 증가",
+            "produceCardCustomizeDescription": "好印象+"
         },
         {
             "type": "ProduceCardGrowEffectType_ReviewReduce",
-            "name": "호인상 감소"
+            "produceDescriptionLabelId": "Label_ReviewReduce",
+            "name": "호인상 감소",
+            "produceCardCustomizeDescription": "好印象-"
         },
         {
             "type": "ProduceCardGrowEffectType_AggressiveAdd",
-            "name": "의욕 증가"
+            "produceDescriptionLabelId": "Label_AggressiveAdd",
+            "name": "의욕 증가",
+            "produceCardCustomizeDescription": "やる気+"
         },
         {
             "type": "ProduceCardGrowEffectType_AggressiveReduce",
-            "name": "의욕 감소"
+            "produceDescriptionLabelId": "Label_AggressiveReduce",
+            "name": "의욕 감소",
+            "produceCardCustomizeDescription": "やる気-"
         },
         {
             "type": "ProduceCardGrowEffectType_CardDrawAdd",
-            "name": "드로우 매수 증가"
+            "produceDescriptionLabelId": "Label_CardDrawAdd",
+            "name": "드로우 매수 증가",
+            "produceCardCustomizeDescription": "カードを引く+"
         },
         {
             "type": "ProduceCardGrowEffectType_CardDrawReduce",
-            "name": "드로우 매수 감소"
+            "produceDescriptionLabelId": "Label_CardDrawReduce",
+            "name": "드로우 매수 감소",
+            "produceCardCustomizeDescription": "カードを引く-"
         },
         {
             "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
-            "name": "절호조 증가"
+            "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnAdd",
+            "name": "절호조 증가",
+            "produceCardCustomizeDescription": "絶好調+"
         },
         {
             "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
-            "name": "절호조 감소"
+            "produceDescriptionLabelId": "Label_ParameterBuffMultiplePerTurnReduce",
+            "name": "절호조 감소",
+            "produceCardCustomizeDescription": "絶好調-"
         },
         {
             "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
-            "name": "소비체력 감소 증가"
+            "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnAdd",
+            "name": "소비체력 감소 증가",
+            "produceCardCustomizeDescription": "消費体力減少+"
         },
         {
             "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
-            "name": "소비체력 감소 감소"
+            "produceDescriptionLabelId": "Label_StaminaConsumptionDownTurnReduce",
+            "name": "소비체력 감소 감소",
+            "produceCardCustomizeDescription": "消費体力減少-"
         },
         {
             "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
-            "name": "소비체력 증가 감소"
+            "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnAdd",
+            "name": "소비체력 증가 감소",
+            "produceCardCustomizeDescription": "消費体力増加+"
         },
         {
             "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
-            "name": "소비체력 증가 증가"
+            "produceDescriptionLabelId": "Label_StaminaConsumptionAddTurnReduce",
+            "name": "소비체력 증가 증가",
+            "produceCardCustomizeDescription": "消費体力増加-"
         },
         {
             "type": "ProduceCardGrowEffectType_EffectAdd",
-            "name": "효과 추가"
+            "produceDescriptionLabelId": "Label_EffectAdd",
+            "name": "효과 추가",
+            "produceCardCustomizeDescription": "効果追加"
         },
         {
             "type": "ProduceCardGrowEffectType_EffectDelete",
-            "name": "효과 삭제"
+            "produceDescriptionLabelId": "Label_EffectDelete",
+            "name": "효과 삭제",
+            "produceCardCustomizeDescription": "効果削除"
         },
         {
             "type": "ProduceCardGrowEffectType_EffectChange",
-            "name": "효과 대체"
+            "produceDescriptionLabelId": "Label_EffectChange",
+            "name": "효과 대체",
+            "produceCardCustomizeDescription": "効果変更"
         },
         {
             "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
-            "name": "성장 효과 대체"
+            "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
+            "name": "성장 효과 대체",
+            "produceCardCustomizeDescription": "成長"
         },
         {
             "type": "ProduceCardGrowEffectType_PlayTriggerChange",
-            "name": "사용 가능 조건 대체"
+            "produceDescriptionLabelId": "Label_PlayTriggerChange",
+            "name": "사용 가능 조건 대체",
+            "produceCardCustomizeDescription": "条件変更"
         },
         {
             "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
-            "name": "효과 발동 조건 대체"
+            "produceDescriptionLabelId": "Label_PlayEffectTriggerChange",
+            "name": "효과 발동 조건 대체",
+            "produceCardCustomizeDescription": "条件変更"
         },
         {
             "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-            "name": "사용 후 이동처 변경"
+            "produceDescriptionLabelId": "Label_PlayMovePositionTypeChange",
+            "name": "사용 후 이동처 변경",
+            "produceCardCustomizeDescription": "移動先変更"
         },
         {
             "type": "ProduceCardGrowEffectType_InitialAdd",
-            "name": "개시 시 패 효과 부여"
+            "produceDescriptionLabelId": "Label_InitialAdd",
+            "name": "개시 시 패 효과 부여",
+            "produceCardCustomizeDescription": "開始時手札に入る"
         },
         {
             "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
-            "name": "집중 비용 감소"
+            "produceDescriptionLabelId": "Label_CostLessonBuffReduce",
+            "name": "집중 비용 감소",
+            "produceCardCustomizeDescription": "集中コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
-            "name": "집중 비용 증가"
+            "produceDescriptionLabelId": "Label_CostLessonBuffAdd",
+            "name": "집중 비용 증가",
+            "produceCardCustomizeDescription": "集中コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostReviewReduce",
-            "name": "호인상 비용 감소"
+            "produceDescriptionLabelId": "Label_CostReviewReduce",
+            "name": "호인상 비용 감소",
+            "produceCardCustomizeDescription": "好印象コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostReviewAdd",
-            "name": "호인상 비용 증가"
+            "produceDescriptionLabelId": "Label_CostReviewAdd",
+            "name": "호인상 비용 증가",
+            "produceCardCustomizeDescription": "好印象コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
-            "name": "의욕 비용 감소"
+            "produceDescriptionLabelId": "Label_CostAggressiveReduce",
+            "name": "의욕 비용 감소",
+            "produceCardCustomizeDescription": "やる気コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
-            "name": "의욕 비용 증가"
+            "produceDescriptionLabelId": "Label_CostAggressiveAdd",
+            "name": "의욕 비용 증가",
+            "produceCardCustomizeDescription": "やる気コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
-            "name": "호조 비용 감소"
+            "produceDescriptionLabelId": "Label_CostParameterBuffReduce",
+            "name": "호조 비용 감소",
+            "produceCardCustomizeDescription": "好調コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
-            "name": "호조 비용 증가"
+            "produceDescriptionLabelId": "Label_CostParameterBuffAdd",
+            "name": "호조 비용 증가",
+            "produceCardCustomizeDescription": "好調コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
-            "name": "전력 비용 감소"
+            "produceDescriptionLabelId": "Label_CostFullPowerPointReduce",
+            "name": "전력 비용 감소",
+            "produceCardCustomizeDescription": "全力値コスト値-"
         },
         {
             "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
-            "name": "전력 비용 증가"
+            "produceDescriptionLabelId": "Label_CostFullPowerPointAdd",
+            "name": "전력 비용 증가",
+            "produceCardCustomizeDescription": "全力値コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
-            "name": "원기 당 파라미터 배율 증가"
+            "produceDescriptionLabelId": "Label_LessonDependBlockAdd",
+            "name": "원기 당 파라미터 배율 증가",
+            "produceCardCustomizeDescription": "元気分パラメータ+"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
-            "name": "의욕 당 파라미터 배율 증가"
+            "produceDescriptionLabelId": "Label_LessonDependExamCardPlayAggressiveAdd",
+            "name": "의욕 당 파라미터 배율 증가",
+            "produceCardCustomizeDescription": "やる気分パラメータ+"
         },
         {
             "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
-            "name": "호인상 당 파라미터 배율 증가"
+            "produceDescriptionLabelId": "Label_LessonDependExamReviewAdd",
+            "name": "호인상 당 파라미터 배율 증가",
+            "produceCardCustomizeDescription": "好印象分パラメータ+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
-            "name": "절호조 비용 증가"
+            "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnAdd",
+            "name": "절호조 비용 증가",
+            "produceCardCustomizeDescription": "絶好調コスト値+"
         },
         {
             "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
-            "name": "절호조 비용 감소"
+            "produceDescriptionLabelId": "Label_CostParameterBuffMultiplePerTurnReduce",
+            "name": "절호조 비용 감소",
+            "produceCardCustomizeDescription": "絶好調コスト値-"
         }
     ]
 }
