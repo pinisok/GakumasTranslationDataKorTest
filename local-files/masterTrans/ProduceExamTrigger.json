@@ -13,6 +13,126 @@
     },
     "data": [
         {
+            "id": "e_trigger-exam_buff_consume",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 비용으로 강화 상태를 소비했을 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_buff_consume-parameter_buff_up-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 비용으로 강화 상태를 소비했을 때, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 3턴 이상일 경우, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_buff_consume-parameter_buff_up-6",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 비용으로 강화 상태를 소비했을 때, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 6턴 이상일 경우, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_buff_consume-parameter_buff_up-8",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "스킬 카드 비용으로 강화 상태를 소비했을 때, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 8턴 이상일 때, "
+                }
+            ]
+        },
+        {
             "id": "e_trigger-exam_buff_consume-review_up-10",
             "produceDescriptions": [
                 {
@@ -43,7 +163,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -78,7 +198,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -198,7 +318,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -243,7 +363,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -288,7 +408,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 7 이상일때, "
+                    "text": "가 7 이상일 때,  "
                 }
             ]
         },
@@ -333,7 +453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 7 이상일때, "
+                    "text": "가 7 이상일 때,  "
                 }
             ]
         },
@@ -378,7 +498,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 12 이상일때, "
+                    "text": "이 12 이상일 때,  "
                 }
             ]
         },
@@ -423,7 +543,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 12 이상일때, "
+                    "text": "이 12 이상일 때,  "
                 }
             ]
         },
@@ -458,7 +578,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -493,7 +613,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -538,7 +658,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -583,7 +703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -618,7 +738,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -653,7 +773,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -698,7 +818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 스킬 카드가 1장 이상일때, "
+                    "text": "의 스킬 카드가 1장 이상일 때,  "
                 }
             ]
         },
@@ -743,7 +863,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의 스킬 카드가 1장 이상일때, "
+                    "text": "의 스킬 카드가 1장 이상일 때,  "
                 }
             ]
         },
@@ -1003,7 +1123,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 13 이상인 경우, "
+                    "text": "이 13 이상일 때, "
                 }
             ]
         },
@@ -1048,7 +1168,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 13 이상인 경우, "
+                    "text": "이 13 이상일 때, "
                 }
             ]
         },
@@ -1093,7 +1213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 13 이상인 경우, "
+                    "text": "이 13 이상일 때, "
                 }
             ]
         },
@@ -1138,7 +1258,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -1173,7 +1293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -1208,7 +1328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 9 이하인 경우, "
+                    "text": "가 9 이하일 때, "
                 }
             ]
         },
@@ -1243,7 +1363,52 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 9 이하인 경우, "
+                    "text": "가 9 이하일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_card_play_after-not-parameter_buff_up-8-p_card_search-target-effect_group-visible-exam_lesson_buff-000-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": " 효과의 스킬 카드 사용 후, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 7턴 이하일 때, "
                 }
             ]
         },
@@ -2163,7 +2328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -2208,7 +2373,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -2343,7 +2508,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2단계인 경우, "
+                    "text": "2단계일 때, "
                 }
             ]
         },
@@ -2388,7 +2553,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2단계인 경우, "
+                    "text": "2단계일 때, "
                 }
             ]
         },
@@ -2433,7 +2598,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -2478,7 +2643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -2513,7 +2678,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -2558,7 +2723,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -2608,7 +2773,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " 사용 후, 체력이 50% 이상인 경우, "
+                    "text": " 사용 후, 체력이 50% 이상일 때, "
                 }
             ]
         },
@@ -2653,7 +2818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 변경한 횟수가 3회 이상일때, "
+                    "text": "을 변경한 횟수가 3회 이상일 때,  "
                 }
             ]
         },
@@ -2698,7 +2863,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 변경한 횟수가 4회 이상인 경우, "
+                    "text": "을 변경한 횟수가 4회 이상일 때, "
                 }
             ]
         },
@@ -2743,7 +2908,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 15 이상일때, "
+                    "text": "가 15 이상일 때,  "
                 }
             ]
         },
@@ -2778,7 +2943,42 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 15 이상일때, "
+                    "text": "이 15 이상일 때,  "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_card_play-block_up-30-p_card_search-playing-idol-unique-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "아이돌 고유 스킬 카드 사용 시, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -2823,7 +3023,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 7 이상일때, "
+                    "text": "가 7 이상일 때,  "
                 }
             ]
         },
@@ -2858,7 +3058,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -2903,7 +3103,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -2948,7 +3148,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -2983,7 +3183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -3028,7 +3228,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -3108,7 +3308,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2단계인 경우, "
+                    "text": "2단계일 때, "
                 }
             ]
         },
@@ -3123,7 +3323,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 시, 미정의 패턴(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)인 경우, "
+                    "text": "스킬 카드 사용 시, 미정의 패턴(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)일 때, "
                 }
             ]
         },
@@ -3168,7 +3368,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " 이하인 경우, "
+                    "text": " 이하일 때, "
                 }
             ]
         },
@@ -3213,7 +3413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " 이상인 경우, "
+                    "text": " 이상일 때, "
                 }
             ]
         },
@@ -3248,7 +3448,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 1 이상일때, "
+                    "text": "가 1 이상일 때,  "
                 }
             ]
         },
@@ -3318,7 +3518,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1 이상일때, "
+                    "text": "이 1 이상일 때,  "
                 }
             ]
         },
@@ -3353,7 +3553,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -3388,7 +3588,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -3423,7 +3623,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -3468,7 +3668,42 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_card_play-lesson_buff_up-8-p_card_search-playing-idol-unique-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "아이돌 고유 스킬 카드 사용 시, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -3593,7 +3828,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -4168,7 +4403,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -4203,7 +4438,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -4263,6 +4498,51 @@
             ]
         },
         {
+            "id": "e_trigger-exam_card_play-parameter_buff_up-3-p_card_search-playing-effect_group-visible-exam_lesson_buff-000-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과의 스킬 카드 사용 시, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 3턴 이상일 경우, "
+                }
+            ]
+        },
+        {
             "id": "e_trigger-exam_card_play-parameter_buff_up-4",
             "produceDescriptions": [
                 {
@@ -4294,6 +4574,51 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "가 4턴 이상일 경우, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_card_play-parameter_buff_up-8-p_card_search-playing-effect_group-visible-exam_lesson_buff-000-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLessonBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamLessonBuff_Produce",
+                    "text": "집중"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "효과의 스킬 카드 사용 시, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 8턴 이상일 때, "
                 }
             ]
         },
@@ -4338,7 +4663,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 사용한 상태의 경우, "
+                    "text": "를 사용한 상태의 경우, "
                 }
             ]
         },
@@ -4383,7 +4708,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 사용한 상태의 경우, "
+                    "text": "를 사용한 상태의 경우, "
                 }
             ]
         },
@@ -4428,7 +4753,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 사용한 상태의 경우, "
+                    "text": "를 사용한 상태의 경우, "
                 }
             ]
         },
@@ -4523,7 +4848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "남은 턴이 3턴 이내인 경우, 스킬 카드(SSR) 사용 시, "
+                    "text": "남은 턴이 3턴 이내일 때, 스킬 카드(SSR) 사용 시, "
                 }
             ]
         },
@@ -4558,7 +4883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1 이상일때, "
+                    "text": "이 1 이상일 때,  "
                 }
             ]
         },
@@ -4593,7 +4918,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -4628,7 +4953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -4663,7 +4988,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -4698,7 +5023,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -4733,7 +5058,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -4758,7 +5083,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "사용 시, 체력이 30% 이하인 경우, "
+                    "text": "사용 시, 체력이 30% 이하일 때, "
                 }
             ]
         },
@@ -4773,7 +5098,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 시, 체력이 50% 이하인 경우, "
+                    "text": "스킬 카드 사용 시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -4798,7 +5123,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "사용 시, 체력이 50% 이하인 경우, "
+                    "text": "사용 시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -4823,7 +5148,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " 효과의 스킬 카드 사용 시, 체력이 50% 이하인 경우, "
+                    "text": " 효과의 스킬 카드 사용 시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -4838,7 +5163,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 시, 체력이 50% 이상인 경우, "
+                    "text": "스킬 카드 사용 시, 체력이 50% 이상일 때, "
                 }
             ]
         },
@@ -4863,7 +5188,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "사용 시, 체력이 50%이상인 경우, "
+                    "text": "사용 시, 체력이 50%이상일 때, "
                 }
             ]
         },
@@ -4888,7 +5213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "사용 시, 체력이 50%이상인 경우, "
+                    "text": "사용 시, 체력이 50%이상일 때, "
                 }
             ]
         },
@@ -4903,7 +5228,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용 시, 체력이 80% 이상인 경우, "
+                    "text": "스킬 카드 사용 시, 체력이 80% 이상일 때, "
                 }
             ]
         },
@@ -4948,7 +5273,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2턴마다 턴 종료시, 제외된 스킬 카드가 8장 이하인 경우, "
+                    "text": "2턴마다 턴 종료시, 제외된 스킬 카드가 8장 이하일 때, "
                 }
             ]
         },
@@ -4983,7 +5308,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 12 이상일때, "
+                    "text": "가 12 이상일 때,  "
                 }
             ]
         },
@@ -5018,7 +5343,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 230 이상인 경우, "
+                    "text": "가 230 이상일 때, "
                 }
             ]
         },
@@ -5053,7 +5378,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -5088,7 +5413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 50 이상인 경우, "
+                    "text": "가 50 이상일 때, "
                 }
             ]
         },
@@ -5123,7 +5448,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 7 이상일때, "
+                    "text": "가 7 이상일 때,  "
                 }
             ]
         },
@@ -5158,7 +5483,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -5193,7 +5518,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -5228,7 +5553,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -5263,7 +5588,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -5333,7 +5658,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "1단계인 경우, "
+                    "text": "1단계일 때, "
                 }
             ]
         },
@@ -5368,7 +5693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2단계인 경우, "
+                    "text": "2단계일 때, "
                 }
             ]
         },
@@ -5403,7 +5728,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 10 이상일때, "
+                    "text": "가 10 이상일 때,  "
                 }
             ]
         },
@@ -5453,7 +5778,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 미정의 패턴(Type: FullPowerUp, CheckType: , Value: 1)인 경우, "
+                    "text": "턴 종료시, 미정의 패턴(Type: FullPowerUp, CheckType: , Value: 1)일 때, "
                 }
             ]
         },
@@ -5488,7 +5813,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 20 이상인 경우, "
+                    "text": "이 20 이상일 때, "
                 }
             ]
         },
@@ -5523,7 +5848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -5558,7 +5883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -5593,7 +5918,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -5628,7 +5953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -5723,7 +6048,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -5758,7 +6083,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -5793,7 +6118,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -5828,7 +6153,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 11 이하인 경우, "
+                    "text": "가 11 이하일 때, "
                 }
             ]
         },
@@ -5863,7 +6188,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 9 이하인 경우, "
+                    "text": "가 9 이하일 때, "
                 }
             ]
         },
@@ -5898,7 +6223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -5933,7 +6258,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 4 이하인 경우, "
+                    "text": "이 4 이하일 때, "
                 }
             ]
         },
@@ -5968,7 +6293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이하인 경우, "
+                    "text": "이 6 이하일 때, "
                 }
             ]
         },
@@ -6003,7 +6328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -6038,7 +6363,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이하인 경우, "
+                    "text": "이 5 이하일 때, "
                 }
             ]
         },
@@ -6073,7 +6398,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이하인 경우, "
+                    "text": "이 6 이하일 때, "
                 }
             ]
         },
@@ -6108,7 +6433,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -6143,7 +6468,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -6283,7 +6608,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2단계인 경우, "
+                    "text": "2단계일 때, "
                 }
             ]
         },
@@ -6318,7 +6643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "1단계인 경우, "
+                    "text": "1단계일 때, "
                 }
             ]
         },
@@ -6398,7 +6723,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1 이상일때, "
+                    "text": "이 1 이상일 때,  "
                 }
             ]
         },
@@ -6433,7 +6758,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -6468,7 +6793,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 15 이상일때, "
+                    "text": "이 15 이상일 때,  "
                 }
             ]
         },
@@ -6503,7 +6828,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 20 이상인 경우, "
+                    "text": "이 20 이상일 때, "
                 }
             ]
         },
@@ -6538,7 +6863,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -6573,7 +6898,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -6608,7 +6933,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 55 이상인 경우, "
+                    "text": "이 55 이상일 때, "
                 }
             ]
         },
@@ -6643,7 +6968,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -6678,7 +7003,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -6713,7 +7038,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -6748,7 +7073,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -6763,7 +7088,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 0%인 경우, "
+                    "text": "턴 종료시, 체력이 0%일 때, "
                 }
             ]
         },
@@ -6778,7 +7103,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 4% 이하인 경우, "
+                    "text": "턴 종료시, 체력이 4% 이하일 때, "
                 }
             ]
         },
@@ -6793,7 +7118,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 10% 이상인 경우, "
+                    "text": "턴 종료시, 체력이 10% 이상일 때, "
                 }
             ]
         },
@@ -6808,7 +7133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 100%인 경우, "
+                    "text": "턴 종료시, 체력이 100%일 때, "
                 }
             ]
         },
@@ -6823,7 +7148,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 13% 이상인 경우, "
+                    "text": "턴 종료시, 체력이 13% 이상일 때, "
                 }
             ]
         },
@@ -6838,7 +7163,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 50% 이상일때, "
+                    "text": "턴 종료시, 체력이 50% 이상일 때,  "
                 }
             ]
         },
@@ -6853,7 +7178,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 종료시, 체력이 6% 이상인 경우, "
+                    "text": "턴 종료시, 체력이 6% 이상일 때, "
                 }
             ]
         },
@@ -6893,7 +7218,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -6938,7 +7263,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 8 이상일때, 스킬 카드를 2회 사용할 때마다, "
+                    "text": "가 8 이상일 때,  스킬 카드를 2회 사용할 때마다, "
                 }
             ]
         },
@@ -6963,7 +7288,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 8 이상일때, 스킬 카드를 2회 사용할 때마다, "
+                    "text": "가 8 이상일 때,  스킬 카드를 2회 사용할 때마다, "
                 }
             ]
         },
@@ -7003,7 +7328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "체력이 50% 이하인 경우, 스킬 카드を2회 사용할 때마다, "
+                    "text": "체력이 50% 이하일 때, 스킬 카드を2회 사용할 때마다, "
                 }
             ]
         },
@@ -7018,7 +7343,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "체력이 50% 이상인 경우, 스킬 카드를 2회 사용할 때마다, "
+                    "text": "체력이 50% 이상일 때, 스킬 카드를 2회 사용할 때마다, "
                 }
             ]
         },
@@ -7153,7 +7478,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "체력이 50% 이상인 경우, 스킬 카드를 3회 사용할 때마다, "
+                    "text": "체력이 50% 이상일 때, 스킬 카드를 3회 사용할 때마다, "
                 }
             ]
         },
@@ -7383,7 +7708,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "인 경우, 턴 내에 스킬 카드를 3회 사용할 때마다, "
+                    "text": "일 때, 턴 내에 스킬 카드를 3회 사용할 때마다, "
                 }
             ]
         },
@@ -7608,7 +7933,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 50 이상인 경우, "
+                    "text": "가 50 이상일 때, "
                 }
             ]
         },
@@ -7693,7 +8018,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 5 이상일때, "
+                    "text": "가 5 이상일 때,  "
                 }
             ]
         },
@@ -7738,7 +8063,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 변경할 때마다 "
+                    "text": "을 변경할 때마다 "
                 }
             ]
         },
@@ -7853,7 +8178,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1장 이상인 경우, "
+                    "text": "이 1장 이상일 때, "
                 }
             ]
         },
@@ -7898,7 +8223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "인 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7943,7 +8268,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 9 이하인 경우, "
+                    "text": "가 9 이하일 때, "
                 }
             ]
         },
@@ -7988,7 +8313,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -8058,7 +8383,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -8103,7 +8428,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 된 횟수가 1번 이상일때, "
+                    "text": "가 된 횟수가 1번 이상일 때,  "
                 }
             ]
         },
@@ -8118,7 +8443,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "남은 턴이 3턴 이내인 경우, "
+                    "text": "남은 턴이 3턴 이내일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -8233,7 +8558,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "시작시, 스킬 카드(R 이상)가 21장 이상 일때, "
+                    "text": "시작시, 스킬 카드(R 이상)가 21장 이상일 때, "
                 }
             ]
         },
@@ -8301,7 +8626,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "시작시, 미정의 패턴(Type: ParameterBuff, CheckType: , Value: 1)인 경우, "
+                    "text": "시작시, 미정의 패턴(Type: ParameterBuff, CheckType: , Value: 1)일 때, "
                 }
             ]
         },
@@ -8326,7 +8651,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "시작시,  체력이 80% 이상인 경우, "
+                    "text": "시작시,  체력이 80% 이상일 때, "
                 }
             ]
         },
@@ -8376,7 +8701,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 14 이상인 경우, "
+                    "text": "가 14 이상일 때, "
                 }
             ]
         },
@@ -8411,7 +8736,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 15 이상일때, "
+                    "text": "가 15 이상일 때,  "
                 }
             ]
         },
@@ -8446,7 +8771,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -8491,7 +8816,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -8526,7 +8851,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 50 이상인 경우, "
+                    "text": "가 50 이상일 때, "
                 }
             ]
         },
@@ -8561,7 +8886,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 7 이상일때, "
+                    "text": "가 7 이상일 때,  "
                 }
             ]
         },
@@ -8596,7 +8921,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 80 이상일때, "
+                    "text": "가 80 이상일 때,  "
                 }
             ]
         },
@@ -8631,7 +8956,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 12 이상일때, "
+                    "text": "이 12 이상일 때,  "
                 }
             ]
         },
@@ -8666,7 +8991,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 13 이상인 경우, "
+                    "text": "이 13 이상일 때, "
                 }
             ]
         },
@@ -8701,7 +9026,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 20 이상인 경우, "
+                    "text": "이 20 이상일 때, "
                 }
             ]
         },
@@ -8736,7 +9061,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -8771,7 +9096,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -8806,7 +9131,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -8841,7 +9166,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -8886,7 +9211,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -8956,7 +9281,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 2회 이상인 경우,"
+                    "text": "이 된 횟수가 2회 이상일 때, "
                 }
             ]
         },
@@ -8991,7 +9316,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 3회 이상인 경우,"
+                    "text": "이 된 횟수가 3회 이상일 때, "
                 }
             ]
         },
@@ -9036,7 +9361,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 3회 이상인 경우,"
+                    "text": "이 된 횟수가 3회 이상일 때, "
                 }
             ]
         },
@@ -9071,7 +9396,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 4회 이상일때,"
+                    "text": "이 된 횟수가 4회 이상일 때, "
                 }
             ]
         },
@@ -9151,7 +9476,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " 이하인 경우, "
+                    "text": " 이하일 때, "
                 }
             ]
         },
@@ -9206,7 +9531,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 13 이상인 경우, "
+                    "text": "가 13 이상일 때, "
                 }
             ]
         },
@@ -9261,7 +9586,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 15 이상일때, "
+                    "text": "가 15 이상일 때,  "
                 }
             ]
         },
@@ -9316,7 +9641,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 18이상인 경우, "
+                    "text": "가 18이상일 때, "
                 }
             ]
         },
@@ -9371,7 +9696,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 5 이상일때, "
+                    "text": "가 5 이상일 때,  "
                 }
             ]
         },
@@ -9426,7 +9751,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 8 이상일때, "
+                    "text": "가 8 이상일 때,  "
                 }
             ]
         },
@@ -9461,7 +9786,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 3 이상일때, "
+                    "text": "가 3 이상일 때,  "
                 }
             ]
         },
@@ -9496,7 +9821,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 5 이상일때, "
+                    "text": "가 5 이상일 때,  "
                 }
             ]
         },
@@ -9621,7 +9946,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1 이상일때, "
+                    "text": "이 1 이상일 때,  "
                 }
             ]
         },
@@ -9656,7 +9981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -9691,7 +10016,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 13 이상인 경우, "
+                    "text": "이 13 이상일 때, "
                 }
             ]
         },
@@ -9726,7 +10051,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 20 이상인 경우, "
+                    "text": "이 20 이상일 때, "
                 }
             ]
         },
@@ -9761,7 +10086,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 25 이상일때, "
+                    "text": "이 25 이상일 때,  "
                 }
             ]
         },
@@ -9796,7 +10121,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -9831,7 +10156,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -9876,7 +10201,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -9911,7 +10236,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -9946,7 +10271,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -10116,7 +10441,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -10186,7 +10511,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -10256,7 +10581,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -10291,7 +10616,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -10326,7 +10651,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -10636,7 +10961,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 2회 이상인 경우,"
+                    "text": "이 된 횟수가 2회 이상일 때, "
                 }
             ]
         },
@@ -10671,7 +10996,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 3회 이상인 경우,"
+                    "text": "이 된 횟수가 3회 이상일 때, "
                 }
             ]
         },
@@ -10706,7 +11031,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 4회 이상일때,"
+                    "text": "이 된 횟수가 4회 이상일 때, "
                 }
             ]
         },
@@ -10911,7 +11236,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1 이상일때, "
+                    "text": "이 1 이상일 때,  "
                 }
             ]
         },
@@ -10946,7 +11271,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -10981,7 +11306,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 15 이상일때, "
+                    "text": "이 15 이상일 때,  "
                 }
             ]
         },
@@ -11016,7 +11341,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -11061,7 +11386,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -11096,7 +11421,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -11131,7 +11456,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -11176,7 +11501,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -11211,7 +11536,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -11226,7 +11551,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, 체력이 50% 이하인 경우, "
+                    "text": "턴 개시시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -11251,7 +11576,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, 체력이 50% 이하인 경우, "
+                    "text": "턴 개시시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -11276,7 +11601,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, 체력이 50% 이하인 경우, "
+                    "text": "턴 개시시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -11301,7 +11626,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시시, 체력이 50% 이하인 경우, "
+                    "text": "턴 개시시, 체력이 50% 이하일 때, "
                 }
             ]
         },
@@ -11316,7 +11641,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 시작시,  체력이 50% 이상인 경우, "
+                    "text": "턴 시작시,  체력이 50% 이상일 때, "
                 }
             ]
         },
@@ -11341,7 +11666,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 시작시,  체력이 50% 이상인 경우, "
+                    "text": "턴 시작시,  체력이 50% 이상일 때, "
                 }
             ]
         },
@@ -11356,7 +11681,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 시작시,  체력이 80% 이상인 경우, "
+                    "text": "턴 시작시,  체력이 80% 이상일 때, "
                 }
             ]
         },
@@ -11401,7 +11726,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 변경한 횟수가 4회 이상인 경우, "
+                    "text": "을 변경한 횟수가 4회 이상일 때, "
                 }
             ]
         },
@@ -11416,7 +11741,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 시작시, 3턴째 이후인 경우, "
+                    "text": "턴 시작시, 3턴째 이후일 때, "
                 }
             ]
         },
@@ -11586,7 +11911,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -11676,7 +12001,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가 후, "
+                    "text": "이 증가 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11696,7 +12021,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -11741,7 +12066,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가 후, "
+                    "text": "이 증가 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -11761,7 +12086,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 7 이상일때, "
+                    "text": "이 7 이상일 때,  "
                 }
             ]
         },
@@ -11826,7 +12151,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 12 이상일때, "
+                    "text": "이 12 이상일 때,  "
                 }
             ]
         },
@@ -11891,7 +12216,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 2회 이상인 경우,"
+                    "text": "이 된 횟수가 2회 이상일 때, "
                 }
             ]
         },
@@ -12036,7 +12361,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가 후, "
+                    "text": "이 증가 후, "
                 }
             ]
         },
@@ -12061,7 +12386,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "(으)로 지침을 "
+                    "text": "로 지침을 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12081,7 +12406,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "(으)로 변경된 후 다음이 증가함, "
+                    "text": "로 변경이 증가 후, "
                 }
             ]
         },
@@ -12391,7 +12716,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -12456,7 +12781,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -12521,7 +12846,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이상일때, "
+                    "text": "이 8 이상일 때,  "
                 }
             ]
         },
@@ -12716,7 +13041,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "인 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -12781,7 +13106,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -12826,7 +13151,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 증가 후, "
+                    "text": "이 증가 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -12846,7 +13171,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -12891,7 +13216,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 증가 후、체력이 50%이상인 경우, "
+                    "text": "이 증가 후、체력이 50%이상일 때, "
                 }
             ]
         },
@@ -12941,7 +13266,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -12976,7 +13301,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -12991,7 +13316,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2턴마다, 체력이 50% 이상인 경우, "
+                    "text": "2턴마다, 체력이 50% 이상일 때, "
                 }
             ]
         },
@@ -13026,7 +13351,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -13061,7 +13386,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -13076,7 +13401,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3턴마다, 체력이 50%이상인 경우, "
+                    "text": "3턴마다, 체력이 50%이상일 때, "
                 }
             ]
         },
@@ -13126,7 +13451,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -13325,7 +13650,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -13425,7 +13750,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 10 이상일때, "
+                    "text": "가 10 이상일 때,  "
                 }
             ]
         },
@@ -13460,7 +13785,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -13565,7 +13890,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 15 이상일때, "
+                    "text": "가 15 이상일 때,  "
                 }
             ]
         },
@@ -13590,7 +13915,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 30 이상인 경우, "
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -13615,7 +13940,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이  3 이상일때, "
+                    "text": "이  3 이상일 때,  "
                 }
             ]
         },
@@ -13640,7 +13965,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -13665,7 +13990,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 9 이상인 경우, "
+                    "text": "이 9 이상일 때, "
                 }
             ]
         },
@@ -13700,7 +14025,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 1장 이상인 경우, "
+                    "text": "가 1장 이상일 때, "
                 }
             ]
         },
@@ -13735,7 +14060,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 2장 이상 일때, "
+                    "text": "가 2장 이상일 때, "
                 }
             ]
         },
@@ -13770,7 +14095,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 2장 이상 일때, "
+                    "text": "가 2장 이상일 때, "
                 }
             ]
         },
@@ -13805,7 +14130,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 3장 이상 일때, "
+                    "text": "가 3장 이상일 때, "
                 }
             ]
         },
@@ -13820,7 +14145,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱이나 버림 패에 있는 스킬 카드가 6장 이상 일때, "
+                    "text": "덱이나 버림 패에 있는 스킬 카드가 6장 이상일 때, "
                 }
             ]
         },
@@ -13835,7 +14160,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱이나 버림 패에 있는 스킬 카드가 9장 이상 일때, "
+                    "text": "덱이나 버림 패에 있는 스킬 카드가 9장 이상일 때, "
                 }
             ]
         },
@@ -13860,7 +14185,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 된 횟수가 2회 이상인 경우,"
+                    "text": "가 된 횟수가 2회 이상일 때, "
                 }
             ]
         },
@@ -13885,7 +14210,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 3회 이상인 경우,"
+                    "text": "이 된 횟수가 3회 이상일 때, "
                 }
             ]
         },
@@ -13935,7 +14260,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "2단계인 경우, "
+                    "text": "2단계일 때, "
                 }
             ]
         },
@@ -13960,7 +14285,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 1번 이상일때, "
+                    "text": "이 된 횟수가 1번 이상일 때,  "
                 }
             ]
         },
@@ -13985,7 +14310,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 2회 이상인 경우,"
+                    "text": "이 된 횟수가 2회 이상일 때, "
                 }
             ]
         },
@@ -14010,7 +14335,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 1 이상일때, "
+                    "text": "가 1 이상일 때,  "
                 }
             ]
         },
@@ -14035,7 +14360,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 3 이상일때, "
+                    "text": "가 3 이상일 때,  "
                 }
             ]
         },
@@ -14060,7 +14385,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 5 이상일때, "
+                    "text": "가 5 이상일 때,  "
                 }
             ]
         },
@@ -14110,7 +14435,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -14135,7 +14460,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 15 이상일때, "
+                    "text": "이 15 이상일 때,  "
                 }
             ]
         },
@@ -14160,7 +14485,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때, "
                 }
             ]
         },
@@ -14185,7 +14510,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -14210,7 +14535,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
                 }
             ]
         },
@@ -14235,7 +14560,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이하인 경우, "
+                    "text": "이 5 이하일 때, "
                 }
             ]
         },
@@ -14260,7 +14585,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 8 이하인 경우, "
+                    "text": "이 8 이하일 때, "
                 }
             ]
         },
@@ -14295,7 +14620,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -14335,6 +14660,56 @@
             ]
         },
         {
+            "id": "e_trigger-none-not-parameter_buff_up-16",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 15턴 이하일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-none-not-parameter_buff_up-8",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamParameterBuff",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamParameterBuff",
+                    "text": "호조"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 7턴 이하일 때, "
+                }
+            ]
+        },
+        {
             "id": "e_trigger-none-parameter_buff",
             "produceDescriptions": [
                 {
@@ -14355,7 +14730,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -14380,7 +14755,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -14530,7 +14905,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 8턴 이상인 경우, "
+                    "text": "가 8턴 이상일 때, "
                 }
             ]
         },
@@ -14555,7 +14930,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 1번 이상일때, "
+                    "text": "이 된 횟수가 1번 이상일 때,  "
                 }
             ]
         },
@@ -14580,7 +14955,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 된 횟수가 2회 이상인 경우,"
+                    "text": "이 된 횟수가 2회 이상일 때, "
                 }
             ]
         },
@@ -14630,7 +15005,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 1 이상일때, "
+                    "text": "이 1 이상일 때,  "
                 }
             ]
         },
@@ -14655,7 +15030,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 10 이상일때, "
+                    "text": "이 10 이상일 때,  "
                 }
             ]
         },
@@ -14680,7 +15055,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 15 이상일때, "
+                    "text": "이 15 이상일 때,  "
                 }
             ]
         },
@@ -14705,7 +15080,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 3 이상일때, "
+                    "text": "이 3 이상일 때,  "
                 }
             ]
         },
@@ -14730,7 +15105,22 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 6 이상일때, "
+                    "text": "이 6 이상일 때,  "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-none-stamina_up_multiple-1000",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "체력이 100% 일 때, "
                 }
             ]
         },
@@ -14745,7 +15135,22 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "체력이 50%이상인 경우, "
+                    "text": "체력이 50%이상일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-none-stamina_up_multiple-800",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "체력이 80% 일 때, "
                 }
             ]
         },
@@ -14770,7 +15175,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을(를) 변경한 횟수가 3회 이상일때, "
+                    "text": "을 변경한 횟수가 3회 이상일 때,  "
                 }
             ]
         },
@@ -14795,7 +15200,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 변경한 횟수가 4회 이상인 경우, "
+                    "text": "을 변경한 횟수가 4회 이상일 때, "
                 }
             ]
         },
@@ -14810,7 +15215,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "3턴 이후 일때, "
+                    "text": "3턴 이후일 때, "
                 }
             ]
         },
@@ -14825,7 +15230,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "4턴 이후 일때, "
+                    "text": "4턴 이후일 때, "
                 }
             ]
         },
@@ -14900,7 +15305,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "이 5 이상일때, "
+                    "text": "이 5 이상일 때,  "
                 }
             ]
         },
@@ -14915,7 +15320,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "턴 개시 후, 패에 있는 스킬 카드(R) 이 1장 이상 일때, "
+                    "text": "턴 개시 후, 패에 있는 스킬 카드(R) 이 1장 이상일 때, "
                 }
             ]
         },
@@ -15185,7 +15590,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
                 }
             ]
         },
@@ -15320,7 +15725,22 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상태인 경우, "
+                    "text": "상태일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-start_play-stamina_less_multiple-250",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "턴 개시 후, 체력이 25% 이하일 때, "
                 }
             ]
         },
@@ -15370,7 +15790,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 변경한 횟수가 4회 이상인 경우, "
+                    "text": "을 변경한 횟수가 4회 이상일 때, "
                 }
             ]
         }

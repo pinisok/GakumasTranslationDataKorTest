@@ -1776,6 +1776,36 @@
             "description": "【하늘과 약속】쿠라모토 치나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kcna-3-016-01",
+            "name": "두근거림은 그대로",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-02",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-03",
+            "name": "이 나날도, 태어난 마음도",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-04",
+            "name": "미지의 펼쳐지는 +",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-05",
+            "name": "미지의 펼쳐지는 ++",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-06",
+            "name": "미지의 펼쳐지는 +++",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kllj-2-000-04",
             "name": "한발짝 내디딘 뒤에+",
             "description": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
@@ -2224,6 +2254,36 @@
             "id": "achieve-i_card-shro-3-014-06",
             "name": "미라쿠루나나우(˚∀˚)!+++",
             "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-01",
+            "name": "마음이 뛰는 대로",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-02",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-03",
+            "name": "조금도 질 것 같지 않아",
+            "description": "【미지의 펼쳐지는】시노사와 히로로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-04",
+            "name": "미지의 펼쳐지는 +",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-05",
+            "name": "미지의 펼쳐지는 ++",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-06",
+            "name": "미지의 펼쳐지는 +++",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ssmk-2-000-04",

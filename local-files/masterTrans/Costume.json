@@ -1361,6 +1361,16 @@
             "description": "【Wonder Scale】'25 전력을 다해 가자! 쿠라모토 치나 입수"
         },
         {
+            "id": "kcna-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
             "id": "kcna-othr-0002",
             "name": "어서 오세요 하츠보시 온천",
             "description": "【웰컴 투 하츠보시 온천】쿠라모토 치나 입수"
@@ -1591,6 +1601,11 @@
             "description": "처음부터 소지"
         },
         {
+            "id": "shro-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
+        },
+        {
             "id": "shro-cstm-0000",
             "name": "하지메",
             "description": "처음부터 소지"
@@ -1729,6 +1744,16 @@
             "id": "shro-cstm-0125",
             "name": "전력을 다해 가자!",
             "description": "【광경】'25 전력을 다해 가자! 시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로 입수"
+        },
+        {
+            "id": "shro-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 재능 개화 4단계 달성"
         },
         {
             "id": "shro-othr-0002",
@@ -1924,6 +1949,11 @@
             "id": "ttmr-casl-0000",
             "name": "평소 사복",
             "description": "처음부터 소지"
+        },
+        {
+            "id": "ttmr-casl-0002",
+            "name": "마음에 드는 사복",
+            "description": "이벤트 보상으로 획득"
         },
         {
             "id": "ttmr-cstm-0000",

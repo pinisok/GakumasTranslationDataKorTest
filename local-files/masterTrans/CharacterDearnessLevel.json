@@ -192,6 +192,56 @@
             "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
         },
         {
+            "characterId": "atbm",
+            "dearnessLevel": 11,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 시작"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 12,
+            "produceConditionDescription": "N.I.A 에서 프로듀스 진행"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 13,
+            "produceConditionDescription": "N.I.A 에서 1차 오디션 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 14,
+            "produceConditionDescription": "N.I.A 프로듀스를 1회 클리어 후 N.I.A 에서 2차 오디션 돌파"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 15,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」 선택"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 16,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 17,
+            "produceConditionDescription": "최종 오디션에서 「QUARTET」을 선택하고 통과"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 18,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」 선택"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 19,
+            "produceConditionDescription": "최종 오디션에서 「FINALE」을 선택하고 통과"
+        },
+        {
+            "characterId": "atbm",
+            "dearnessLevel": 20,
+            "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
             "characterId": "fktn",
             "dearnessLevel": 1,
             "produceConditionDescription": ""
@@ -1500,6 +1550,41 @@
             "characterId": "ttmr",
             "dearnessLevel": 20,
             "produceConditionDescription": "최종 오디션 「FINALE」에 합격한 후 프로듀스를 완료한다"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 21,
+            "produceConditionDescription": "츠키무라 테마리의 친애도 TOP으로 이동"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 22,
+            "produceConditionDescription": "친애도 Pt를 누적 100 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 23,
+            "produceConditionDescription": "친애도 Pt를 누적 200 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 24,
+            "produceConditionDescription": "친애도 Pt를 누적 300 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 25,
+            "produceConditionDescription": "친애도 Pt를 누적 400 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 26,
+            "produceConditionDescription": "친애도 Pt를 누적 500 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 27,
+            "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         }
     ]
 }

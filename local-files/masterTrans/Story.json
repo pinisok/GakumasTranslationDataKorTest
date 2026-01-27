@@ -87,7 +87,7 @@
         },
         {
             "id": "story_2025_bd-01_amao-01",
-            "title": "아리무라 마오 생일 2025"
+            "title": "아리무라 마오 생일"
         },
         {
             "id": "story-1st-anniversary-20250516",
@@ -95,27 +95,27 @@
         },
         {
             "id": "story-2024_bd-01_jsna-01",
-            "title": "주오 세나 생일 2024"
+            "title": "주오 세나 생일"
         },
         {
             "id": "story-2024_bd-01_kcna-01",
-            "title": "쿠라모토 치나 생일 2024"
+            "title": "쿠라모토 치나 생일"
         },
         {
             "id": "story-2024_bd-01_kllj-01",
-            "title": "카츠라기 릴리야 생일 2024"
+            "title": "카츠라기 릴리야 생일"
         },
         {
             "id": "story-2024_bd-01_shro-01",
-            "title": "시노사와 히로 생일 2024"
+            "title": "시노사와 히로 생일"
         },
         {
             "id": "story-2024_bd-01_ssmk-01",
-            "title": "시운 스미카 생일 2024"
+            "title": "시운 스미카 생일"
         },
         {
             "id": "story-2024_bd-01_ttmr-01",
-            "title": "츠키무라 테마리 생일 2024"
+            "title": "츠키무라 테마리 생일"
         },
         {
             "id": "story-2024_p-bd-01_amao-01",
@@ -163,19 +163,23 @@
         },
         {
             "id": "story-2025_bd-01_fktn-01",
-            "title": "후지타 코토네 생일 2025"
+            "title": "후지타 코토네 생일"
+        },
+        {
+            "id": "story-2025_bd-01_hmsz-01",
+            "title": "하타야 미스즈 생일"
         },
         {
             "id": "story-2025_bd-01_hrnm-01",
-            "title": "히메사키 리나미 생일 2025"
+            "title": "히메사키 리나미 생일"
         },
         {
             "id": "story-2025_bd-01_hski-01",
-            "title": "하나미 사키 생일 2025"
+            "title": "하나미 사키 생일"
         },
         {
             "id": "story-2025_bd-01_hume-01",
-            "title": "하나미 우메 생일 2025"
+            "title": "하나미 우메 생일"
         },
         {
             "id": "story-2025_p-bd-01_atbm-01",
@@ -575,6 +579,66 @@
         },
         {
             "id": "story-event-01-20-05",
+            "title": "제 5화"
+        },
+        {
+            "id": "story-event-01-21-01",
+            "title": "제 1화"
+        },
+        {
+            "id": "story-event-01-21-02",
+            "title": "제 2화"
+        },
+        {
+            "id": "story-event-01-21-03",
+            "title": "제 3화"
+        },
+        {
+            "id": "story-event-01-21-04",
+            "title": "제 4화"
+        },
+        {
+            "id": "story-event-01-21-05",
+            "title": "제 5화"
+        },
+        {
+            "id": "story-event-01-22-01",
+            "title": "제 1화"
+        },
+        {
+            "id": "story-event-01-22-02",
+            "title": "제 2화"
+        },
+        {
+            "id": "story-event-01-22-03",
+            "title": "제 3화"
+        },
+        {
+            "id": "story-event-01-22-04",
+            "title": "제 4화"
+        },
+        {
+            "id": "story-event-01-22-05",
+            "title": "제 5화"
+        },
+        {
+            "id": "story-event-01-23-01",
+            "title": "제 1화"
+        },
+        {
+            "id": "story-event-01-23-02",
+            "title": "제 2화"
+        },
+        {
+            "id": "story-event-01-23-03",
+            "title": "제 3화"
+        },
+        {
+            "id": "story-event-01-23-04",
+            "title": "제 4화"
+        },
+        {
+            "id": "story-event-01-23-05",
             "title": "제 5화"
         },
         {

@@ -204,6 +204,12 @@
             "acquisitionRouteDescription": "교환소 등"
         },
         {
+            "id": "item-dearness-unlock-ttmr",
+            "name": "테마리와의 기록의 열쇠",
+            "description": "츠키무라 테마리의 STEP 3 친애도 커뮤니티를 해방하는 아이템",
+            "acquisitionRouteDescription": "교환소 등"
+        },
+        {
             "id": "item-friend_coin",
             "name": "프렌드 코인",
             "description": "프렌드 가챠에 사용하는 코인",
@@ -548,6 +554,12 @@
         {
             "id": "item-medal-story-event-011",
             "name": "기숙사 일동보다",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-story-event-012",
+            "name": "생일 선물",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
@@ -1080,6 +1092,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_kcna-3-016",
+            "name": "[미지의 펼쳐지는]쿠라모토 치나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_kllj-1-000",
             "name": "[학원생활] 카츠라기 릴리야의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1202,6 +1220,12 @@
         {
             "id": "item-piece-idol_shro-3-014",
             "name": "[미라쿠루나나우(˚∀˚)!]시노사와 히로의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_shro-3-016",
+            "name": "[미지의 펼쳐지는]시노사와 히로의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

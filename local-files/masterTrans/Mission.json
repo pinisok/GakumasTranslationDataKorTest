@@ -4986,6 +4986,30 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-story-event-012-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-story-event-012-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-story-event-012-mission_3",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-story-event-012-mission_4",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-story-event-012-mission_5",
+            "name": "P드링크를 {threshold}번 사용하자"
+        },
+        {
+            "id": "mission-story-event-012-mission_6",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-story-event-013-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -5059,6 +5083,10 @@
         },
         {
             "id": "mission-weekly-incrementpvpratewincount-1",
+            "name": "콘테스트에 {threshold}번 도전하자"
+        },
+        {
+            "id": "mission-weekly-incrementpvpratewincount-1_normal-count",
             "name": "콘테스트에 {threshold}번 도전하자"
         },
         {
@@ -6918,6 +6946,30 @@
             "name": "【하늘과 약속】쿠라모토 치나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kcna-3-016-01",
+            "name": "【미지의 펼쳐지는】쿠라모토 치나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-02",
+            "name": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-03",
+            "name": "【미지의 펼쳐지는】쿠라모토 치나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-04",
+            "name": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-05",
+            "name": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-016-06",
+            "name": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kllj-2-000-04",
             "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
@@ -7276,6 +7328,30 @@
         {
             "id": "achieve-i_card-shro-3-014-06",
             "name": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-01",
+            "name": "【미지의 펼쳐지는】시노사와 히로의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-02",
+            "name": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-03",
+            "name": "【미지의 펼쳐지는】시노사와 히로로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-04",
+            "name": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-05",
+            "name": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-016-06",
+            "name": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ssmk-2-000-04",

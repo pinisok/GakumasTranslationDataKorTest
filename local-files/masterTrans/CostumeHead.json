@@ -121,6 +121,11 @@
             "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
         },
         {
+            "id": "costume_head_amao-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
             "id": "costume_head_amao-hair-0014",
             "name": "봐줘 (심플 어레인지)",
             "description": "【봐줘】아리무라 마오 입수"
@@ -199,6 +204,11 @@
             "id": "costume_head_atbm-hair-0008",
             "name": "개 귀",
             "description": "개 귀(아마야 츠바메)를 입수"
+        },
+        {
+            "id": "costume_head_atbm-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
         },
         {
             "id": "costume_head_atbm-schl-0000",
@@ -333,7 +343,7 @@
         {
             "id": "costume_head_fktn-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0007",
@@ -571,6 +581,11 @@
             "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
         },
         {
+            "id": "costume_head_hrnm-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
             "id": "costume_head_hrnm-schl-0000",
             "name": "평소의 헤어스타일",
             "description": "처음부터 소지"
@@ -678,7 +693,7 @@
         {
             "id": "costume_head_hski-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능 등"
         },
         {
             "id": "costume_head_hski-hair-0007",
@@ -916,6 +931,11 @@
             "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
         },
         {
+            "id": "costume_head_jsna-hair-0009",
+            "name": "큼직한 리본",
+            "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
             "id": "costume_head_jsna-schl-0000",
             "name": "평소의 헤어스타일",
             "description": "처음부터 소지"
@@ -989,6 +1009,16 @@
             "id": "costume_head_kcna-cstm-0117",
             "name": "Howling over the World",
             "description": "【Howling over the World】쿠라모토 치나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】쿠라모토 치나의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_kcna-hair-0001",
@@ -1244,6 +1274,16 @@
             "id": "costume_head_shro-cstm-0121",
             "name": "미라쿠루나나우(˚∀˚)!",
             "description": "【미라쿠루나나우(˚∀˚)!】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_shro-cstm-0131",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0132",
+            "name": "미지의 펼쳐지는",
+            "description": "【미지의 펼쳐지는】시노사와 히로의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_shro-hair-0001",
@@ -1503,7 +1543,7 @@
         {
             "id": "costume_head_ttmr-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능 등"
         },
         {
             "id": "costume_head_ttmr-hair-0007",

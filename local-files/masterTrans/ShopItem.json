@@ -90,6 +90,10 @@
             "name": "고양이 귀 (후지타 코토네)"
         },
         {
+            "id": "shop_costume_costume_head_fktn-hair-0006",
+            "name": "하츠미☆액세서리(후지타 코토네)"
+        },
+        {
             "id": "shop_costume_costume_head_hmsz-hair-0001",
             "name": "수국 꽃 머리 장식 (하타야 미스즈)"
         },
@@ -128,6 +132,10 @@
         {
             "id": "shop_costume_costume_head_hski-hair-0004",
             "name": "고양이 귀 (하나미 사키)"
+        },
+        {
+            "id": "shop_costume_costume_head_hski-hair-0006",
+            "name": "하츠미☆액세서리(하나미 사키)"
         },
         {
             "id": "shop_costume_costume_head_hume-hair-0001",
@@ -212,6 +220,10 @@
         {
             "id": "shop_costume_costume_head_ttmr-hair-0004",
             "name": "고양이 귀 (츠키무라 테마리)"
+        },
+        {
+            "id": "shop_costume_costume_head_ttmr-hair-0006",
+            "name": "하츠미☆액세서리(츠키무라 테마리)"
         },
         {
             "id": "shop_costume_fktn-cstm-0063",
@@ -868,6 +880,10 @@
         {
             "id": "shop_pass_item-0021",
             "name": "프리미엄 미션 패스 2026년 1월"
+        },
+        {
+            "id": "shop_pass_item-0022",
+            "name": "프리미엄 미션 패스 2026년 2월"
         }
     ]
 }

@@ -118,6 +118,10 @@
             "name": "코토네와 마오의 일상"
         },
         {
+            "id": "event-story-023",
+            "name": "테마리와 히로의 일상"
+        },
+        {
             "id": "first-live-01",
             "name": "초성 공연"
         },
@@ -156,6 +160,10 @@
         {
             "id": "hmsz-birthday-01",
             "name": "소중한 것"
+        },
+        {
+            "id": "hmsz-birthday-02",
+            "name": "하타야 미스즈 생일 2026"
         },
         {
             "id": "hrnm-001",

@@ -234,6 +234,10 @@
             "title": "STEP2"
         },
         {
+            "id": "story_dearness_ttmr_step-03",
+            "title": "STEP3"
+        },
+        {
             "id": "story_event_group-01-01",
             "title": "1학년 1반의 아이돌들"
         },
@@ -276,6 +280,10 @@
         {
             "id": "story_event_group-22-01",
             "title": "코토네와 마오의 일상"
+        },
+        {
+            "id": "story_event_group-23-01",
+            "title": "테마리와 히로의 일상"
         },
         {
             "id": "story_gvg_group-01-01",
