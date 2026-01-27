@@ -54,7 +54,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "아리무라 마오",
-            "message": "아직 콘테스트에 도전할 수 있어요.\n여러 가지 제 모습을,\n팬 여러분이 봐줬으면 좋겠어요"
+            "message": "コンテスト、今日はまだ参加して\nいないよね？　ボクの実力、\nぜひ見てほしいな"
         },
         {
             "characterId": "amao",
@@ -97,6 +97,97 @@
             "number": 3,
             "title": "아리무라 마오",
             "message": "방송 일이 끝났어요.\n시행착오를 거쳤지만,\n즐겼다고 생각해요"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_ApFull",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "体調は万全だ。\nどんなレッスンでも、\n完璧にこなしてみせる"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_ApFull",
+            "number": 2,
+            "title": "아마야 츠바메",
+            "message": "ゆっくり休めたようだな。\nさあ、早くレッスンに行くぞ"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_MoneyFull",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "マニーの受け取りを忘れているぞ。\n一緒に取りに行ってやるから、\n早く来い"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_MoneyFull",
+            "number": 2,
+            "title": "아마야 츠바메",
+            "message": "マニーがたまっているぞ。\n早めに受け取りに来い"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_DailyMission",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "今日のミッションが残っているな。\n私も手伝ってやるから、\n早く終わらせるぞ"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_Login",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "…………早く戻ってこい"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_PvpRateRemainingPlayCount",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "今日のコンテストが未参加だぞ！\nゆっくりしている暇などない。\nいくぞ！"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "ミニライブの仕事、完了だ。\n報酬の確認を頼む"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 2,
+            "title": "아마야 츠바메",
+            "message": "学びのあるミニライブだった。\n忘れないうちに振り返っておきたい。\n貴様も参加するだろう？"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 3,
+            "title": "아마야 츠바메",
+            "message": "今回のミニライブ、\nなかなか手応えがあったぞ。\nあとで、貴様の意見も聞かせてくれ"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 1,
+            "title": "아마야 츠바메",
+            "message": "配信の仕事、完了だ。\n報酬の受け取りを頼む"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 2,
+            "title": "아마야 츠바메",
+            "message": "配信を通じて、しっかりと\nファンの声を感じられた。\n……フッ、やはり支えられているな"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 3,
+            "title": "아마야 츠바메",
+            "message": "今日の配信、見ていたか？\n内容について意見を聞きたいから、\n反省会に来てくれ"
         },
         {
             "characterId": "fktn",
@@ -145,7 +236,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "후지타 코토네",
-            "message": "콘테스트, 아직 도전\n할 수 있다고요~? 엄청 귀여운 저를,\n보여드릴게요♡"
+            "message": "今日のコンテスト、参加しないん\nですかぁ～？　ことねちゃんは、\nいつでもOKですよ～♪"
         },
         {
             "characterId": "fktn",
@@ -236,7 +327,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "하타야 미스즈",
-            "message": "아직, 콘테스트에 도전할 수 있나\n봐요. 그럼,\n느긋히 가도록 하죠"
+            "message": "今日はまだ、コンテストに\n参加していませんね。\nさぁ、どうしましょうか"
         },
         {
             "characterId": "hmsz",
@@ -327,7 +418,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "히메사키 리나미",
-            "message": "콘테스트, 도전할 수 있나 봐.\n열심히 하는 내 모습, 너도 봐줬으면 좋겠어"
+            "message": "今日はコンテスト、参加しないの\nかな？　挑戦してみようよ。\nね？　私、頑張るから"
         },
         {
             "characterId": "hrnm",
@@ -418,7 +509,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "하나미 사키",
-            "message": "아직, 콘테스트에 도전할 수 있어.\n프로듀서!\n함께 이기러 가자!"
+            "message": "今日はコンテスト、参加しないの\nかしら？　わたしが最高の結果を\n届けてあげるわよ！"
         },
         {
             "characterId": "hski",
@@ -509,7 +600,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "하나미 우메",
-            "message": "저, 콘테스트에 도전할 수 있어요!\n팍팍 해치워버리죠,\n프로듀서님!"
+            "message": "コンテスト、参加したいです！\nあたし、思いっきり\nぶちかましちゃいますよ～！"
         },
         {
             "characterId": "hume",
@@ -600,7 +691,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "주오 세나",
-            "message": "아직 콘테스트에 도전할 수 있겠네.\n조정은 완벽해. 주오 세나의 새로운\n가능성, 보여주러 가자!"
+            "message": "今日のコンテストへの参加がまだよ。\nほら、早くいきましょう"
         },
         {
             "characterId": "jsna",
@@ -691,7 +782,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "쿠라모토 치나",
-            "message": "아직 콘테스트에\n도전할 수 있나봐요. 선생님!\n함께 가죠!"
+            "message": "先生、本日のコンテスト参加がまだ\nですわ。わたくし、やる気満々\nですの。参加いたしましょう！"
         },
         {
             "characterId": "kcna",
@@ -782,7 +873,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "카츠라기 릴리야",
-            "message": "아직 콘테스트에 도전할 수,\n있나봐요. 저……\n선배하고 함께, 이기고 싶어요……!"
+            "message": "今日、コンテストって参加、\nしないんでしょうか……？\nわたし、まだ頑張れます！"
         },
         {
             "characterId": "kllj",
@@ -873,7 +964,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "시노사와 히로",
-            "message": "콘테스트, 아직 도전할 수 있, 어.\n도전해서, 가루가 되도록 부서지러 가자"
+            "message": "今日はコンテスト参加してない。\nわたしの体力なら……多分大丈夫。\nいける、よ"
         },
         {
             "characterId": "shro",
@@ -964,7 +1055,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "시운 스미카",
-            "message": "아직 콘테스트 도전할 수 있다고?\n이건 완전히, 할 수 밖에 없지♪"
+            "message": "Ｐっち、今日はコンテスト\nまだ参加してないよね？\nせっかくだし、やっちゃおー！"
         },
         {
             "characterId": "ssmk",
@@ -1055,7 +1146,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "츠키무라 테마리",
-            "message": "아직 콘테스트에 도전할 수 있어요.\n자, 프로듀서.\n함께 가죠"
+            "message": "コンテスト、今日はまだ参加してない\nですよね？　いかないんですか。\n私は準備、できてますけど"
         },
         {
             "characterId": "ttmr",

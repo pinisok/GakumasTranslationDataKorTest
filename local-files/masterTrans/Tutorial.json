@@ -1390,6 +1390,12 @@
             "texts": []
         },
         {
+            "tutorialType": "TutorialType_ProduceLegendTop",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
             "tutorialType": "TutorialType_MissionPanel",
             "step": 1,
             "subStep": 1,
@@ -1460,6 +1466,12 @@
         },
         {
             "tutorialType": "TutorialType_ProducerRanking",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceCardConvert",
             "step": 1,
             "subStep": 1,
             "texts": []

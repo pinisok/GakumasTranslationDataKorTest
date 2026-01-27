@@ -46,6 +46,11 @@
             "description": "뽑기"
         },
         {
+            "id": "box-gasha-event-019_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
             "id": "coin_gasha_button-1-001",
             "name": "1회 뽑기",
             "description": "1회 뽑기"
@@ -66,6 +71,11 @@
             "description": "1회 뽑기"
         },
         {
+            "id": "coin_gasha_button-18m-aniv-001",
+            "name": "1회 뽑기",
+            "description": "1회 뽑기"
+        },
+        {
             "id": "coin_gasha_button-anniversary-001",
             "name": "1회 뽑기",
             "description": "1회 뽑기"
@@ -76,12 +86,52 @@
             "description": "1회 뽑기"
         },
         {
+            "id": "coin_gasha_button-newyear-002",
+            "name": "1회 뽑기",
+            "description": "1회 뽑기"
+        },
+        {
             "id": "highscorerush-event-001_box_01_button",
             "name": "뽑기",
             "description": "뽑기"
         },
         {
             "id": "highscorerush-event-002_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-003_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-004_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-005_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-006_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-007_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-008_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-009_box_01_button",
             "name": "뽑기",
             "description": "뽑기"
         }

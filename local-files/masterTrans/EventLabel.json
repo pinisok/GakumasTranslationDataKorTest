@@ -44,6 +44,14 @@
         {
             "eventType": "EventType_DearnessBoost",
             "name": "친애도 부스트 캠페인"
+        },
+        {
+            "eventType": "EventType_Tour",
+            "name": "시즌"
+        },
+        {
+            "eventType": "EventType_Research",
+            "name": "아사리 선생님의 프로듀스 세미나"
         }
     ]
 }

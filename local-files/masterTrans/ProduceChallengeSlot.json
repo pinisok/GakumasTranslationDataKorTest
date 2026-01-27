@@ -44,6 +44,24 @@
             "unlockDescription": ""
         },
         {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "number": 1,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "number": 2,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_card_play_aggressive",
+            "number": 3,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
             "id": "challenge_slot-exam_concentration",
             "number": 1,
             "produceId": "produce-003",
@@ -80,6 +98,24 @@
             "unlockDescription": ""
         },
         {
+            "id": "challenge_slot-exam_concentration",
+            "number": 1,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "number": 2,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_concentration",
+            "number": 3,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
             "id": "challenge_slot-exam_full_power",
             "number": 1,
             "produceId": "produce-003",
@@ -116,6 +152,24 @@
             "unlockDescription": ""
         },
         {
+            "id": "challenge_slot-exam_full_power",
+            "number": 1,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "number": 2,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_full_power",
+            "number": 3,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
             "id": "challenge_slot-exam_lesson_buff",
             "number": 1,
             "produceId": "produce-003",
@@ -152,6 +206,24 @@
             "unlockDescription": ""
         },
         {
+            "id": "challenge_slot-exam_lesson_buff",
+            "number": 1,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "number": 2,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_lesson_buff",
+            "number": 3,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
             "id": "challenge_slot-exam_parameter_buff",
             "number": 1,
             "produceId": "produce-003",
@@ -188,6 +260,24 @@
             "unlockDescription": ""
         },
         {
+            "id": "challenge_slot-exam_parameter_buff",
+            "number": 1,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "number": 2,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_parameter_buff",
+            "number": 3,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
             "id": "challenge_slot-exam_review",
             "number": 1,
             "produceId": "produce-003",
@@ -221,6 +311,24 @@
             "id": "challenge_slot-exam_review",
             "number": 3,
             "produceId": "produce-005",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "number": 1,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "number": 2,
+            "produceId": "produce-006",
+            "unlockDescription": ""
+        },
+        {
+            "id": "challenge_slot-exam_review",
+            "number": 3,
+            "produceId": "produce-006",
             "unlockDescription": ""
         }
     ]

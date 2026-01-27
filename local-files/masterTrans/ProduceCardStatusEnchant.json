@@ -2238,6 +2238,121 @@
             ]
         },
         {
+            "id": "card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-10-g_effect-cost_add-1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamAddGrowEffect",
+                    "text": "성장"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ":"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_OnHitEffect",
+                    "text": "직접 효과"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "로 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamConcentration",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamConcentration_Produce",
+                    "text": "강기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 됐을 때, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "자신의 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonAdd",
+                    "text": "파라미터 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": " +10·"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_CostAdd",
+                    "text": "비용값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "+1"
+                }
+            ]
+        },
+        {
             "id": "card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-2",
             "produceDescriptions": [
                 {
@@ -2614,6 +2729,121 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "+5"
+                }
+            ]
+        },
+        {
+            "id": "card_enchant-e_trigger-exam_stance_change_concentration-g_effect-lesson_add-5-g_effect-cost_add-1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamAddGrowEffect",
+                    "text": "성장"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ":"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_OnHitEffect",
+                    "text": "직접 효과"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "로 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamConcentration",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamConcentration_Produce",
+                    "text": "강기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "가 됐을 때, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "자신의 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonAdd",
+                    "text": "파라미터 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": " +5 · "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_CostAdd",
+                    "text": "비용값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "+1"
                 }
             ]
         },
@@ -3283,6 +3513,121 @@
             ]
         },
         {
+            "id": "card_enchant-e_trigger-exam_stance_change_count_interval-1-g_effect-lesson_add-20-g_effect-cost_add-1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamAddGrowEffect",
+                    "text": "성장"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ":"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_OnHitEffect",
+                    "text": "직접 효과"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "로 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_Stance",
+                    "text": "지침"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "을(를) 변경할 때마다 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "자신의 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonAdd",
+                    "text": "파라미터 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": " +20· "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_CostAdd",
+                    "text": "비용값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "+1"
+                }
+            ]
+        },
+        {
             "id": "card_enchant-e_trigger-exam_stance_change_count_interval-1-g_effect-lesson_add-4",
             "produceDescriptions": [
                 {
@@ -3564,6 +3909,196 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": " +7 (3번까지)"
+                }
+            ]
+        },
+        {
+            "id": "card_enchant-e_trigger-exam_stance_change_count_interval-2-g_effect-lesson_add-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamAddGrowEffect",
+                    "text": "성장"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ":"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_OnHitEffect",
+                    "text": "직접 효과"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "로 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_Stance",
+                    "text": "지침"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "을 두 번 변경할 때마다, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "자신의 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonAdd",
+                    "text": "파라미터 값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "+3"
+                }
+            ]
+        },
+        {
+            "id": "card_enchant-e_trigger-exam_stance_change_count_interval-2-g_effect-lesson_add-4",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamAddGrowEffect",
+                    "text": "성장"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ":"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_OnHitEffect",
+                    "text": "직접 효과"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "로 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_Stance",
+                    "text": "지침"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "을 두 번 변경할 때마다, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "자신의 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonAdd",
+                    "text": "파라미터 값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "+4"
                 }
             ]
         },
@@ -4824,6 +5359,111 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": " +5 (1번만)"
+                }
+            ]
+        },
+        {
+            "id": "card_enchant-e_trigger-exam_start_turn-g_effect-lesson_add-20-g_effect-lesson_count_add-1-g_effect-cost_add-1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamAddGrowEffect",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ExamAddGrowEffect",
+                    "text": "성장"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": ":"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "턴 개시시, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "자신의 "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonAdd",
+                    "text": "파라미터 값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": " +20· "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_LessonCountAdd",
+                    "text": "파라미터 상승 횟수 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": " +1·"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_CostAdd",
+                    "text": "비용값 증가"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "+1"
                 }
             ]
         },

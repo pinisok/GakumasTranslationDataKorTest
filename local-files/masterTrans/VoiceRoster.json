@@ -843,6 +843,41 @@
         },
         {
             "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-10",
+            "title": "프로듀싱 결과(True End) ①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-11",
+            "title": "프로듀싱 결과(True End) ②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-12",
+            "title": "프로듀싱 결과(True End) ③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-13",
+            "title": "프로듀스 결과①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-14",
+            "title": "프로듀스 결과②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-15",
+            "title": "프로듀스 결과③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_result-16",
+            "title": "프로듀스 결과(불합격)"
+        },
+        {
+            "characterId": "atbm",
             "assetId": "sud_vo_system_atbm_produce_schedule-01",
             "title": "활동 거점①"
         },
@@ -935,6 +970,51 @@
             "characterId": "atbm",
             "assetId": "sud_vo_system_atbm_produce_schedule-19",
             "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-20",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-21",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-22",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-23",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-24",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-25",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-26",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-27",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "atbm",
+            "assetId": "sud_vo_system_atbm_produce_schedule-28",
+            "title": "옥상③"
         },
         {
             "characterId": "atbm",
@@ -1377,6 +1457,111 @@
             "title": "친애도 TOP (친애도 Lv27) ③"
         },
         {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_021-01",
+            "title": "친애도 TOP (친애도 Lv21) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_021-02",
+            "title": "친애도 TOP (친애도 Lv21) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_021-03",
+            "title": "친애도 TOP (친애도 Lv21) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_022-01",
+            "title": "친애도 TOP (친애도 Lv22) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_022-02",
+            "title": "친애도 TOP (친애도 Lv22) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_022-03",
+            "title": "친애도 TOP (친애도 Lv22) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_023-01",
+            "title": "친애도 TOP (친애도 Lv23) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_023-02",
+            "title": "친애도 TOP (친애도 Lv23) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_023-03",
+            "title": "친애도 TOP (친애도 Lv23) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_024-01",
+            "title": "친애도 TOP (친애도 Lv24) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_024-02",
+            "title": "친애도 TOP (친애도 Lv24) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_024-03",
+            "title": "친애도 TOP (친애도 Lv24) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_025-01",
+            "title": "친애도 TOP (친애도 Lv25) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_025-02",
+            "title": "친애도 TOP (친애도 Lv25) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_025-03",
+            "title": "친애도 TOP (친애도 Lv25) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_026-01",
+            "title": "친애도 TOP (친애도 Lv26) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_026-02",
+            "title": "친애도 TOP (친애도 Lv26) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_026-03",
+            "title": "친애도 TOP (친애도 Lv26) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_027-01",
+            "title": "친애도 TOP (친애도 Lv27) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_027-02",
+            "title": "친애도 TOP (친애도 Lv27) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_dear_kllj_027-03",
+            "title": "친애도 TOP (친애도 Lv27) ③"
+        },
+        {
             "characterId": "shro",
             "assetId": "sud_vo_system_dear_shro_021-01",
             "title": "친애도 TOP (친애도 Lv21) ①"
@@ -1584,6 +1769,111 @@
         {
             "characterId": "ssmk",
             "assetId": "sud_vo_system_dear_ssmk_027-03",
+            "title": "친애도 TOP (친애도 Lv27) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_021-01",
+            "title": "친애도 TOP (친애도 Lv21) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_021-02",
+            "title": "친애도 TOP (친애도 Lv21) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_021-03",
+            "title": "친애도 TOP (친애도 Lv21) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_022-01",
+            "title": "친애도 TOP (친애도 Lv22) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_022-02",
+            "title": "친애도 TOP (친애도 Lv22) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_022-03",
+            "title": "친애도 TOP (친애도 Lv22) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_023-01",
+            "title": "친애도 TOP (친애도 Lv23) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_023-02",
+            "title": "친애도 TOP (친애도 Lv23) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_023-03",
+            "title": "친애도 TOP (친애도 Lv23) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_024-01",
+            "title": "친애도 TOP (친애도 Lv24) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_024-02",
+            "title": "친애도 TOP (친애도 Lv24) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_024-03",
+            "title": "친애도 TOP (친애도 Lv24) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_025-01",
+            "title": "친애도 TOP (친애도 Lv25) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_025-02",
+            "title": "친애도 TOP (친애도 Lv25) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_025-03",
+            "title": "친애도 TOP (친애도 Lv25) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_026-01",
+            "title": "친애도 TOP (친애도 Lv26) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_026-02",
+            "title": "친애도 TOP (친애도 Lv26) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_026-03",
+            "title": "친애도 TOP (친애도 Lv26) ③"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_027-01",
+            "title": "친애도 TOP (친애도 Lv27) ①"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_027-02",
+            "title": "친애도 TOP (친애도 Lv27) ②"
+        },
+        {
+            "characterId": "ttmr",
+            "assetId": "sud_vo_system_dear_ttmr_027-03",
             "title": "친애도 TOP (친애도 Lv27) ③"
         },
         {
@@ -2293,8 +2583,23 @@
         },
         {
             "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-09",
+            "title": "홈 (2026 신년)"
+        },
+        {
+            "characterId": "hmsz",
             "assetId": "sud_vo_system_hmsz_home_transition-11",
             "title": "홈 (2025 할로윈)"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-12",
+            "title": "홈 (2025 크리스마스)"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-13",
+            "title": "홈 (2025 섣달 그믐)"
         },
         {
             "characterId": "hmsz",
@@ -2340,6 +2645,21 @@
             "characterId": "hmsz",
             "assetId": "sud_vo_system_hmsz_home_transition-22",
             "title": "메인 로비(가을)③"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-23",
+            "title": "홈(겨울)①"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-24",
+            "title": "홈(겨울)②"
+        },
+        {
+            "characterId": "hmsz",
+            "assetId": "sud_vo_system_hmsz_home_transition-25",
+            "title": "홈(겨울)③"
         },
         {
             "characterId": "hmsz",
