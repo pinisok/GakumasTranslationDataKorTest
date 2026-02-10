@@ -125,7 +125,7 @@
             "characterId": "atbm",
             "type": "CharacterDetailType_ZodiacSign",
             "order": 6,
-            "content": "황소자"
+            "content": "황소자리"
         },
         {
             "characterId": "atbm",
@@ -143,7 +143,7 @@
             "characterId": "atbm",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "5월 20일"
+            "content": "5월20일"
         },
         {
             "characterId": "atbm",
@@ -203,7 +203,7 @@
             "characterId": "fktn",
             "type": "CharacterDetailType_ZodiacSign",
             "order": 6,
-            "content": "황소자"
+            "content": "황소자리"
         },
         {
             "characterId": "fktn",
@@ -905,7 +905,7 @@
             "characterId": "shro",
             "type": "CharacterDetailType_Birthplace",
             "order": 11,
-            "content": "아키다현"
+            "content": "아키타현"
         },
         {
             "characterId": "shro",
@@ -1061,7 +1061,7 @@
             "characterId": "ttmr",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "6월 3일"
+            "content": "6월3일"
         },
         {
             "characterId": "ttmr",
