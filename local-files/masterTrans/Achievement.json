@@ -1536,6 +1536,36 @@
             "description": "【Star-mine】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-jsna-3-015-01",
+            "name": "나를 넘어서",
+            "description": "【적나라】주오 세나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-015-02",
+            "name": "적나라",
+            "description": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-015-03",
+            "name": "나 자신을 인도하는 곡",
+            "description": "【적나라】주오 세나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-015-04",
+            "name": "적나라 +",
+            "description": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-015-05",
+            "name": "적나라 ++",
+            "description": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-015-06",
+            "name": "적나라 +++",
+            "description": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kcna-2-000-04",
             "name": "가슴을 펴고 한 발자국씩+",
             "description": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"

@@ -55,7 +55,7 @@
         },
         {
             "id": "home.gasha.draw_button.item",
-            "description": "아이템"
+            "description": "티켓"
         },
         {
             "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
@@ -75,7 +75,7 @@
         },
         {
             "id": "mission.mission_list.max_point_text.event",
-            "description": "獲得できるウィークリーPtが最大に達しました"
+            "description": "획득 할 수 있는 주간 Pt가 최대에 도달했습니다"
         },
         {
             "id": "produce_prepare.edit.warning",

@@ -382,6 +382,14 @@
             "arranger": "사토 준이치 (fhána)"
         },
         {
+            "id": "music-all-hmsz-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
+        },
+        {
             "id": "music-all-hmsz-008",
             "title": "고금동서 식은 죽 먹기",
             "displayTitle": "고금동서 식은 죽 먹기",
@@ -660,6 +668,14 @@
             "lyrics": "하야시 히데키",
             "composer": "사토 준이치 (fhána)",
             "arranger": "사토 준이치 (fhána)"
+        },
+        {
+            "id": "music-all-hume-007",
+            "title": "해피 밀푀유",
+            "displayTitle": "해피 밀푀유",
+            "lyrics": "나나호시 관현악단",
+            "composer": "이와미 리쿠",
+            "arranger": "나나호시 관현악단"
         },
         {
             "id": "music-all-hume-008",
@@ -2044,6 +2060,22 @@
             "lyrics": "스테파니 토팔리안, MOMONADY",
             "composer": "MOMONADY, 유키 후나코시 (Digz, Inc. Group)",
             "arranger": "YUKI FUNAKOSHI (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-char-jsna-004",
+            "title": "적나라",
+            "displayTitle": "적나라",
+            "lyrics": "이와사토 유호",
+            "composer": "오카베 케이이치(MONACA)",
+            "arranger": "오카베 케이이치(MONACA)"
+        },
+        {
+            "id": "music-char-jsna-004-inst",
+            "title": "적나라 [Instrumental]",
+            "displayTitle": "적나라 [Instrumental]",
+            "lyrics": "이와사토 유호",
+            "composer": "오카베 케이이치(MONACA)",
+            "arranger": "오카베 케이이치(MONACA)"
         },
         {
             "id": "music-char-jsna-005",

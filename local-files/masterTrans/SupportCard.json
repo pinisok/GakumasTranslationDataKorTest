@@ -1277,6 +1277,22 @@
             "name": "사이좋음의 증표"
         },
         {
+            "id": "s_card-2-0069",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 중"
+                }
+            ],
+            "name": "샛별과 왕자님"
+        },
+        {
             "id": "s_card-3-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2683,6 +2699,22 @@
                 }
             ],
             "name": "추억의 보물상자, 네"
+        },
+        {
+            "id": "s_card-3-0089",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "덤벼봐!"
         },
         {
             "id": "s_card-3-0090",

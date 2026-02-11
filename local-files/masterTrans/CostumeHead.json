@@ -886,6 +886,16 @@
             "description": "【Our Chant】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_jsna-cstm-0104",
+            "name": "적나라",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0105",
+            "name": "적나라",
+            "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_jsna-cstm-0114",
             "name": "Star-mine",
             "description": "【Star-mine】주오 세나 입수"
@@ -934,6 +944,21 @@
             "id": "costume_head_jsna-hair-0009",
             "name": "큼직한 리본",
             "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_jsna-hair-0015",
+            "name": "적나라 (기본 메이크업)",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "costume_head_jsna-hair-0017",
+            "name": "적나라 (기본 메이크업)",
+            "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_jsna-hair-0026",
+            "name": "적나라 (포인트 컬러 어레인지)",
+            "description": "【적나라】주오 세나 입수"
         },
         {
             "id": "costume_head_jsna-schl-0000",

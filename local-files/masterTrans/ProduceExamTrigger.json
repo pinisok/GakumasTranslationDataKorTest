@@ -140,7 +140,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -233,7 +233,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 6턴 이상일 때, 사용가능"
+                    "text": "가 6턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -2777,7 +2777,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 13 이상일 때, 사용 가능"
+                    "text": "이 13 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -2882,7 +2882,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 13 이상일 때, 사용 가능"
+                    "text": "이 13 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -2987,7 +2987,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 13 이상일 때, 사용 가능"
+                    "text": "이 13 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -3278,7 +3278,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 9 이하일 때, 사용 가능"
+                    "text": "가 9 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -3371,7 +3371,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 9 이하일 때, 사용 가능"
+                    "text": "가 9 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -3476,7 +3476,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 7턴 이하일 때, 사용가능"
+                    "text": "가 7턴 이하일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -7031,7 +7031,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "가 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -8987,7 +8987,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -10859,7 +10859,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -10964,7 +10964,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -13029,6 +13029,99 @@
             ]
         },
         {
+            "id": "e_trigger-exam_end_turn-block_up-15",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "턴 종료시, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 15 이상일 때, "
+                }
+            ],
+            "playProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 15 이상일 때, 사용 가능"
+                }
+            ],
+            "playEffectProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 15 이상일 때, "
+                }
+            ]
+        },
+        {
             "id": "e_trigger-exam_end_turn-block_up-230",
             "produceDescriptions": [
                 {
@@ -14345,7 +14438,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 20 이상일 때, 사용 가능"
+                    "text": "이 20 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -15404,7 +15497,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 9 이하일 때, 사용 가능"
+                    "text": "가 9 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -15707,7 +15800,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 6 이하일 때, 사용 가능"
+                    "text": "이 6 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -15917,7 +16010,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 5 이하일 때, 사용 가능"
+                    "text": "이 5 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -16010,7 +16103,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 6 이하일 때, 사용 가능"
+                    "text": "이 6 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -16313,7 +16406,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 12턴 이상일 때, 사용가능"
+                    "text": "가 12턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -16406,7 +16499,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -16499,7 +16592,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 6턴 이상일 때, 사용가능"
+                    "text": "가 6턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -17099,7 +17192,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "이 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -17192,7 +17285,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 20 이상일 때, 사용 가능"
+                    "text": "이 20 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -17471,7 +17564,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 55 이상일 때, 사용 가능"
+                    "text": "이 55 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -17657,7 +17750,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7 이상일 때, 사용 가능"
+                    "text": "이 7 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -17750,7 +17843,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -18470,7 +18563,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -18526,6 +18619,63 @@
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
                     "text": "를 2회 사용할 때마다, "
+                }
+            ],
+            "playProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "일 때, 사용 가능"
+                }
+            ],
+            "playEffectProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_play_count_interval-2-p_card_search-target-effect_group-visible-exam_block-000",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": " 스킬 카드를 2번 사용할 때 마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -20069,7 +20219,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 50 이상일 때, 사용 가능"
+                    "text": "가 50 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -20630,7 +20780,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 1장 이상일 때, 사용 가능"
+                    "text": "이 1장 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -20852,7 +21002,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 9 이하일 때, 사용 가능"
+                    "text": "가 9 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -21897,7 +22047,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 14 이상일 때, 사용 가능"
+                    "text": "가 14 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -21990,7 +22140,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "가 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22281,7 +22431,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 50 이상일 때, 사용 가능"
+                    "text": "가 50 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22374,7 +22524,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7 이상일 때, 사용 가능"
+                    "text": "가 7 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22467,7 +22617,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 80 이상일 때, 사용 가능"
+                    "text": "가 80 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22560,7 +22710,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 12 이상일 때, 사용 가능"
+                    "text": "이 12 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22653,7 +22803,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 13 이상일 때, 사용 가능"
+                    "text": "이 13 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -22746,7 +22896,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 20 이상일 때, 사용 가능"
+                    "text": "이 20 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -23025,7 +23175,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7 이상일 때, 사용 가능"
+                    "text": "이 7 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -23118,7 +23268,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -23223,7 +23373,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -23328,7 +23478,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7장 이상일 때, 사용 가능"
+                    "text": "가 7장 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -24099,7 +24249,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 13 이상일 때, 사용 가능"
+                    "text": "가 13 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -24288,7 +24438,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "가 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -24477,7 +24627,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 18 이상일 때, 사용 가능"
+                    "text": "가 18 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -24855,7 +25005,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "가 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -25566,7 +25716,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 13 이상일 때, 사용 가능"
+                    "text": "이 13 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -25659,7 +25809,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 20 이상일 때, 사용 가능"
+                    "text": "이 20 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -25752,7 +25902,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 25 이상일 때, 사용 가능"
+                    "text": "이 25 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -26136,7 +26286,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7 이상일 때, 사용 가능"
+                    "text": "이 7 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -26229,7 +26379,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27414,7 +27564,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27519,7 +27669,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27624,7 +27774,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27717,7 +27867,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 15턴 이상일 때, 사용가능"
+                    "text": "가 15턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27810,7 +27960,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -27915,7 +28065,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -28008,7 +28158,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 6턴 이상일 때, 사용가능"
+                    "text": "가 6턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -29034,7 +29184,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "이 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -30675,7 +30825,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7 이상일 때, 사용 가능"
+                    "text": "이 7 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -30804,7 +30954,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 7 이상일 때, 사용 가능"
+                    "text": "이 7 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -30933,7 +31083,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 12 이상일 때, 사용 가능"
+                    "text": "이 12 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -32214,7 +32364,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이상일 때, 사용 가능"
+                    "text": "이 8 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -32343,7 +32493,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -32472,7 +32622,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 3턴 이상일 때, 사용가능"
+                    "text": "가 3턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -33012,6 +33162,99 @@
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
                     "text": "일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_turn_interval-2-block_up-30",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "2턴마다, "
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 30 이상일 때, "
+                }
+            ],
+            "playProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 30 이상일 때, 사용 가능"
+                }
+            ],
+            "playEffectProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 30 이상일 때, "
                 }
             ]
         },
@@ -33845,7 +34088,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -33983,7 +34226,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -34259,7 +34502,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 6턴 이상일 때, 사용가능"
+                    "text": "가 6턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -34718,7 +34961,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 10턴 이상일 때, 사용가능"
+                    "text": "가 10턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -34844,7 +35087,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "가 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -34952,6 +35195,87 @@
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
                     "text": "이 30 이상일 때, "
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-none-block_up-7",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 7 이상일 때, "
+                }
+            ],
+            "playProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 7 이상일 때, 사용 가능"
+                }
+            ],
+            "playEffectProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamBlock",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ExamBlock",
+                    "text": "원기"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "가 7 이상일 때, "
                 }
             ]
         },
@@ -35273,7 +35597,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 1장 이상일 때, 사용 가능"
+                    "text": "가 1장 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -35390,7 +35714,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 2장 이상일 때, 사용 가능"
+                    "text": "가 2장 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -35507,7 +35831,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 2장 이상일 때, 사용 가능"
+                    "text": "가 2장 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -35624,7 +35948,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 3장 이상일 때, 사용 가능"
+                    "text": "가 3장 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -36698,7 +37022,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "이 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -37022,7 +37346,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 5 이하일 때, 사용 가능"
+                    "text": "이 5 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -37103,7 +37427,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 8 이하일 때, 사용 가능"
+                    "text": "이 8 이하일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -37499,7 +37823,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 7턴 이하일 때, 사용가능"
+                    "text": "가 7턴 이하일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -37742,7 +38066,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 5턴 이상일 때, 사용가능"
+                    "text": "가 5턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -37823,7 +38147,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 1턴 이상일 때, 사용가능"
+                    "text": "가 1턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -37904,7 +38228,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이(가) 12턴 이상일 때, 사용가능"
+                    "text": "가 12턴 이상일 때, 사용가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -38633,7 +38957,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "(이)가 15 이상일 때, 사용 가능"
+                    "text": "이 15 이상일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
