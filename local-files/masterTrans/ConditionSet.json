@@ -6223,51 +6223,51 @@
         },
         {
             "id": "cd-comeback",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "12月26日開始"
+            "description": "12월 26일 개시"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "PLv9以上のユーザー"
+            "description": "PLv9 이상인 유저"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "N.I.A未開放"
+            "description": "N.I.A 미개방"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "既存の条件"
+            "description": "기본 조건"
         },
         {
             "id": "cd-comeback-unlock_open-01",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "12月26日11時未ログイン30日以上"
+            "description": "12월 26일 11시 미 로그인 30일 이상"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "P課題35達成か「N.I.A」に挑戦できる"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "既存の条件"
+            "description": "기본 조건"
         },
         {
             "id": "cd-comeback-unlock_open-02",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-03",
-            "description": "12月26日11時未ログイン30日未満ユーザー"
+            "description": "12월 26일 11시 미로그인 30일 미만 유저"
         },
         {
             "id": "cd-comeback-unlock_open-03",
-            "description": "既存の条件"
+            "description": "기본 조건"
         },
         {
             "id": "cd-comeback-unlock_open-03",
@@ -6275,23 +6275,23 @@
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "12月26日開始"
+            "description": "12월 26일 개시"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "PLv9未満のユーザー"
+            "description": "PLv9 미만인 유저"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "N.I.A未開放"
+            "description": "N.I.A 미개방"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "既存の条件"
+            "description": "기본 조건"
         },
         {
             "id": "cd-comeback-unlock_open-04",
-            "description": "未ログイン30日ユーザー"
+            "description": "미 로그인 30일 유저"
         },
         {
             "id": "cd-comeback-unlock_open-05",
@@ -6343,7 +6343,7 @@
         },
         {
             "id": "cd-comeback-unlock_open-11",
-            "description": "パネル未開放なら"
+            "description": "패널 미개방 일시"
         },
         {
             "id": "cd-comeback-unlock_open-11",
@@ -6371,31 +6371,31 @@
         },
         {
             "id": "cd-dearness_amao-20",
-            "description": "有村麻央の親愛度Lv20達成"
+            "description": "아리무라 마오의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_feature-0001",
-            "description": "ver2.1.0強制アップデート後に解放"
+            "description": "ver2.1.0 강제 업데이트 후 릴리즈"
         },
         {
             "id": "cd-dearness_fktn-20",
-            "description": "藤田ことねの親愛度Lv20達成"
+            "description": "후지타 코토네의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_hrnm-20",
-            "description": "姫崎莉波の親愛度Lv20達成"
+            "description": "히메사키 리나미의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_jsna-20",
-            "description": "十王星南の親愛度Lv20達成"
+            "description": "주오 세나의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_kcna-20",
-            "description": "倉本千奈の親愛度Lv20達成"
+            "description": "쿠라모토 치나의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_kllj-20",
-            "description": "葛城リーリヤの親愛度Lv20達成"
+            "description": "카츠라기 릴리야의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_level-10",
@@ -6451,7 +6451,7 @@
         },
         {
             "id": "cd-dearness_level-2",
-            "description": "解放されていません"
+            "description": "해금되지 않음"
         },
         {
             "id": "cd-dearness_level-20",
@@ -6507,7 +6507,7 @@
         },
         {
             "id": "cd-dearness_level-3",
-            "description": "解放されていません"
+            "description": "해금되지 않음"
         },
         {
             "id": "cd-dearness_level-amao-01",
@@ -7139,31 +7139,31 @@
         },
         {
             "id": "cd-dearness_level-jsna-21",
-            "description": "十王 星南の親愛度Lvを21にする"
+            "description": "주오 세나의 친밀도 Lv 21 도달"
         },
         {
             "id": "cd-dearness_level-jsna-22",
-            "description": "十王 星南の親愛度Lvを22にする"
+            "description": "주오 세나의 친밀도 Lv 22 도달"
         },
         {
             "id": "cd-dearness_level-jsna-23",
-            "description": "十王 星南の親愛度Lvを23にする"
+            "description": "주오 세나의 친밀도 Lv 23 도달"
         },
         {
             "id": "cd-dearness_level-jsna-24",
-            "description": "十王 星南の親愛度Lvを24にする"
+            "description": "주오 세나의 친밀도 Lv 24 도달"
         },
         {
             "id": "cd-dearness_level-jsna-25",
-            "description": "十王 星南の親愛度Lvを25にする"
+            "description": "주오 세나의 친밀도 Lv 25 도달"
         },
         {
             "id": "cd-dearness_level-jsna-26",
-            "description": "十王 星南の親愛度Lvを26にする"
+            "description": "주오 세나의 친밀도 Lv 26 도달"
         },
         {
             "id": "cd-dearness_level-jsna-27",
-            "description": "十王 星南の親愛度Lvを27にする"
+            "description": "주오 세나의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_level-kcna-01",
@@ -7355,7 +7355,7 @@
         },
         {
             "id": "cd-dearness_level-shro-01",
-            "description": "篠澤 広の親愛度Lvを1にする"
+            "description": "시노사와 히로의 친밀도 Lv 1 도달"
         },
         {
             "id": "cd-dearness_level-shro-01-02",
@@ -7363,7 +7363,7 @@
         },
         {
             "id": "cd-dearness_level-shro-02",
-            "description": "篠澤 広の親愛度Lvを2にする"
+            "description": "시노사와 히로의 친밀도 Lv 2 도달"
         },
         {
             "id": "cd-dearness_level-shro-02-04",
@@ -7371,7 +7371,7 @@
         },
         {
             "id": "cd-dearness_level-shro-03",
-            "description": "篠澤 広の親愛度Lvを3にする"
+            "description": "시노사와 히로의 친밀도 Lv 3 도달"
         },
         {
             "id": "cd-dearness_level-shro-03-04",
@@ -7379,11 +7379,11 @@
         },
         {
             "id": "cd-dearness_level-shro-04",
-            "description": "篠澤 広の親愛度Lvを4にする"
+            "description": "시노사와 히로의 친밀도 Lv 4 도달"
         },
         {
             "id": "cd-dearness_level-shro-05",
-            "description": "篠澤 広の親愛度Lvを5にする"
+            "description": "시노사와 히로의 친밀도 Lv 5 도달"
         },
         {
             "id": "cd-dearness_level-shro-05-07",
@@ -7391,7 +7391,7 @@
         },
         {
             "id": "cd-dearness_level-shro-06",
-            "description": "篠澤 広の親愛度Lvを6にする"
+            "description": "시노사와 히로의 친밀도 Lv 6 도달"
         },
         {
             "id": "cd-dearness_level-shro-06-08",
@@ -7399,55 +7399,55 @@
         },
         {
             "id": "cd-dearness_level-shro-07",
-            "description": "篠澤 広の親愛度Lvを7にする"
+            "description": "시노사와 히로의 친밀도 Lv 7 도달"
         },
         {
             "id": "cd-dearness_level-shro-08",
-            "description": "篠澤 広の親愛度Lvを8にする"
+            "description": "시노사와 히로의 친밀도 Lv 8 도달"
         },
         {
             "id": "cd-dearness_level-shro-09",
-            "description": "篠澤 広の親愛度Lvを9にする"
+            "description": "시노사와 히로의 친밀도 Lv 9 도달"
         },
         {
             "id": "cd-dearness_level-shro-10",
-            "description": "篠澤 広の親愛度Lvを10にする"
+            "description": "시노사와 히로의 친밀도 Lv 10 도달"
         },
         {
             "id": "cd-dearness_level-shro-20",
-            "description": "篠澤 広の親愛度Lvを20にする"
+            "description": "시노사와 히로의 친밀도 Lv 20 도달"
         },
         {
             "id": "cd-dearness_level-shro-21",
-            "description": "篠澤 広の親愛度Lvを21にする"
+            "description": "시노사와 히로의 친밀도 Lv 21 도달"
         },
         {
             "id": "cd-dearness_level-shro-22",
-            "description": "篠澤 広の親愛度Lvを22にする"
+            "description": "시노사와 히로의 친밀도 Lv 22 도달"
         },
         {
             "id": "cd-dearness_level-shro-23",
-            "description": "篠澤 広の親愛度Lvを23にする"
+            "description": "시노사와 히로의 친밀도 Lv 23 도달"
         },
         {
             "id": "cd-dearness_level-shro-24",
-            "description": "篠澤 広の親愛度Lvを24にする"
+            "description": "시노사와 히로의 친밀도 Lv 24 도달"
         },
         {
             "id": "cd-dearness_level-shro-25",
-            "description": "篠澤 広の親愛度Lvを25にする"
+            "description": "시노사와 히로의 친밀도 Lv 25 도달"
         },
         {
             "id": "cd-dearness_level-shro-26",
-            "description": "篠澤 広の親愛度Lvを26にする"
+            "description": "시노사와 히로의 친밀도 Lv 26 도달"
         },
         {
             "id": "cd-dearness_level-shro-27",
-            "description": "篠澤 広の親愛度Lvを27にする"
+            "description": "시노사와 히로의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-01",
-            "description": "紫雲 清夏の親愛度Lvを1にする"
+            "description": "시운 스미카의 친밀도 Lv 1 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-01-03",
@@ -7455,11 +7455,11 @@
         },
         {
             "id": "cd-dearness_level-ssmk-02",
-            "description": "紫雲 清夏の親愛度Lvを2にする"
+            "description": "시운 스미카의 친밀도 Lv 2 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-03",
-            "description": "紫雲 清夏の親愛度Lvを3にする"
+            "description": "시운 스미카의 친밀도 Lv 3 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-03-03",
@@ -7471,11 +7471,11 @@
         },
         {
             "id": "cd-dearness_level-ssmk-04",
-            "description": "紫雲 清夏の親愛度Lvを4にする"
+            "description": "시운 스미카의 친밀도 Lv 4 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-05",
-            "description": "紫雲 清夏の親愛度Lvを5にする"
+            "description": "시운 스미카의 친밀도 Lv 5 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-05-07",
@@ -7483,11 +7483,11 @@
         },
         {
             "id": "cd-dearness_level-ssmk-06",
-            "description": "紫雲 清夏の親愛度Lvを6にする"
+            "description": "시운 스미카의 친밀도 Lv 6 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-07",
-            "description": "紫雲 清夏の親愛度Lvを7にする"
+            "description": "시운 스미카의 친밀도 Lv 7 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-07-08",
@@ -7495,51 +7495,51 @@
         },
         {
             "id": "cd-dearness_level-ssmk-08",
-            "description": "紫雲 清夏の親愛度Lvを8にする"
+            "description": "시운 스미카의 친밀도 Lv 8 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-09",
-            "description": "紫雲 清夏の親愛度Lvを9にする"
+            "description": "시운 스미카의 친밀도 Lv 9 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-10",
-            "description": "紫雲 清夏の親愛度Lvを10にする"
+            "description": "시운 스미카의 친밀도 Lv 10 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-20",
-            "description": "紫雲 清夏の親愛度Lvを20にする"
+            "description": "시운 스미카의 친밀도 Lv 20 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-21",
-            "description": "紫雲 清夏の親愛度Lvを21にする"
+            "description": "시운 스미카의 친밀도 Lv 21 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-22",
-            "description": "紫雲 清夏の親愛度Lvを22にする"
+            "description": "시운 스미카의 친밀도 Lv 22 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-23",
-            "description": "紫雲 清夏の親愛度Lvを23にする"
+            "description": "시운 스미카의 친밀도 Lv 23 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-24",
-            "description": "紫雲 清夏の親愛度Lvを24にする"
+            "description": "시운 스미카의 친밀도 Lv 24 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-25",
-            "description": "紫雲 清夏の親愛度Lvを25にする"
+            "description": "시운 스미카의 친밀도 Lv 25 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-26",
-            "description": "紫雲 清夏の親愛度Lvを26にする"
+            "description": "시운 스미카의 친밀도 Lv 26 도달"
         },
         {
             "id": "cd-dearness_level-ssmk-27",
-            "description": "紫雲 清夏の親愛度Lvを27にする"
+            "description": "시운 스미카의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-01",
-            "description": "月村 手毬の親愛度Lvを1にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 1 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-01-03",
@@ -7547,11 +7547,11 @@
         },
         {
             "id": "cd-dearness_level-ttmr-02",
-            "description": "月村 手毬の親愛度Lvを2にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 2 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-03",
-            "description": "月村 手毬の親愛度Lvを3にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 3 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-03-04",
@@ -7559,7 +7559,7 @@
         },
         {
             "id": "cd-dearness_level-ttmr-04",
-            "description": "月村 手毬の親愛度Lvを4にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 4 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-04-07",
@@ -7567,7 +7567,7 @@
         },
         {
             "id": "cd-dearness_level-ttmr-05",
-            "description": "月村 手毬の親愛度Lvを5にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 5 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-05-07",
@@ -7579,59 +7579,59 @@
         },
         {
             "id": "cd-dearness_level-ttmr-06",
-            "description": "月村 手毬の親愛度Lvを6にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 6 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-07",
-            "description": "月村 手毬の親愛度Lvを7にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 7 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-08",
-            "description": "月村 手毬の親愛度Lvを8にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 8 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-09",
-            "description": "月村 手毬の親愛度Lvを9にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 9 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-10",
-            "description": "月村 手毬の親愛度Lvを10にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 10 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-20",
-            "description": "月村 手毬の親愛度Lvを20にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 20 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-21",
-            "description": "月村 手毬の親愛度Lvを21にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 21 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-22",
-            "description": "月村 手毬の親愛度Lvを22にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 22 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-23",
-            "description": "月村 手毬の親愛度Lvを23にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 23 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-24",
-            "description": "月村 手毬の親愛度Lvを24にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 24 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-25",
-            "description": "月村 手毬の親愛度Lvを25にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 25 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-26",
-            "description": "月村 手毬の親愛度Lvを26にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 26 도달"
         },
         {
             "id": "cd-dearness_level-ttmr-27",
-            "description": "月村 手毬の親愛度Lvを27にする"
+            "description": "츠키무라 테마리의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_normal-mission_amao-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_amao-0001",
@@ -7639,7 +7639,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_fktn-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_fktn-0001",
@@ -7647,7 +7647,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_hrnm-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_hrnm-0001",
@@ -7655,7 +7655,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_jsna-0001",
-            "description": "親愛度ブーストキャンペーン終了後"
+            "description": "친애도 부스트 캠페인 종료 후"
         },
         {
             "id": "cd-dearness_normal-mission_jsna-0001",
@@ -7663,7 +7663,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_kcna-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_kcna-0001",
@@ -7671,7 +7671,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_kllj-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_kllj-0001",
@@ -7679,7 +7679,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_shro-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_shro-0001",
@@ -7687,7 +7687,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_ssmk-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_ssmk-0001",
@@ -7695,7 +7695,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_ttmr-0001",
-            "description": "親愛度Lv20達成時"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_ttmr-0001",
@@ -7703,7 +7703,7 @@
         },
         {
             "id": "cd-dearness_shro-20",
-            "description": "篠澤広の親愛度Lv20達成"
+            "description": "시노사와 히로의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_someone-20",
@@ -7731,11 +7731,11 @@
         },
         {
             "id": "cd-dearness_ssmk-20",
-            "description": "紫雲清夏の親愛度Lv20達成"
+            "description": "시운 스미카의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_ttmr-20",
-            "description": "月村手毬の親愛度Lv20達成"
+            "description": "츠키무라 테마리의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness-top_motion_amao_dearness_level-1-20",
@@ -7907,7 +7907,7 @@
         },
         {
             "id": "cd-dearnessTop_unlock",
-            "description": "いずれかのアイドルの親愛度20達成で解放"
+            "description": "어떤 아이돌의 친애도 20 달성으로 해금"
         },
         {
             "id": "cd-draw-gasha_ssr_10",
@@ -7919,7 +7919,7 @@
         },
         {
             "id": "cd-hajime_legend_produce-unlock_open",
-            "description": "いずれかのアイドルの親愛度Lv10かつPLv50以上で解放"
+            "description": "어떤 아이돌의 친애도 Lv10 및 PLv50 이상에서 해금"
         },
         {
             "id": "cd-hajime_legend_produce-unlock_open",
@@ -7931,11 +7931,11 @@
         },
         {
             "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
-            "description": "プロデューサーLv50以上で解放"
+            "description": "프로듀서 Lv50 이상에서 해금"
         },
         {
             "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
-            "description": "いずれかのアイドルの親愛度Lv10で解放"
+            "description": "어떤 아이돌의 친애도 Lv10 에서 해금"
         },
         {
             "id": "cd-half-anniversary-2024",
@@ -9459,7 +9459,7 @@
         },
         {
             "id": "cd-main-story-01-01-01-release",
-            "description": "初星課題1達成で解放"
+            "description": "하츠보시 과제 1 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-01-release",
@@ -9467,7 +9467,7 @@
         },
         {
             "id": "cd-main-story-01-01-02-release",
-            "description": "初星課題8達成で解放"
+            "description": "하츠보시 과제 8 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-02-release",
@@ -9475,7 +9475,7 @@
         },
         {
             "id": "cd-main-story-01-01-03-release",
-            "description": "初星課題13達成で解放"
+            "description": "하츠보시 과제 13 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-03-release",
@@ -9483,7 +9483,7 @@
         },
         {
             "id": "cd-main-story-01-01-04-release",
-            "description": "初星課題17達成で解放"
+            "description": "하츠보시 과제 17 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-04-release",
@@ -9491,7 +9491,7 @@
         },
         {
             "id": "cd-main-story-01-01-05-release",
-            "description": "初星課題22達成で解放"
+            "description": "하츠보시 과제 22 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-05-release",
@@ -9499,7 +9499,7 @@
         },
         {
             "id": "cd-main-story-01-01-06-release",
-            "description": "初星課題27達成で解放"
+            "description": "하츠보시 과제 27 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-06-release",
@@ -9507,7 +9507,7 @@
         },
         {
             "id": "cd-main-story-01-01-07-release",
-            "description": "初星課題30達成で解放"
+            "description": "하츠보시 과제 30 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-07-release",
@@ -9515,7 +9515,7 @@
         },
         {
             "id": "cd-main-story-01-01-08-release",
-            "description": "初星課題34達成で解放"
+            "description": "하츠보시 과제 34 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-08-release",
@@ -9523,7 +9523,7 @@
         },
         {
             "id": "cd-main-story-01-01-09-release",
-            "description": "初星課題38達成で解放"
+            "description": "하츠보시 과제 38 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-09-release",
@@ -9531,7 +9531,7 @@
         },
         {
             "id": "cd-main-story-01-01-10-release",
-            "description": "初星課題42達成で解放"
+            "description": "하츠보시 과제 42 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-10-release",
@@ -9539,7 +9539,7 @@
         },
         {
             "id": "cd-main-story-01-01-11-release",
-            "description": "初星課題46達成で解放"
+            "description": "하츠보시 과제 46 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-11-release",
@@ -9547,7 +9547,7 @@
         },
         {
             "id": "cd-main-story-01-01-12-release",
-            "description": "初星課題50達成で解放"
+            "description": "하츠보시 과제 50 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-12-release",
@@ -9555,7 +9555,7 @@
         },
         {
             "id": "cd-main-story-01-01-13-release",
-            "description": "初星課題53達成で解放"
+            "description": "하츠보시 과제 53 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-13-release",
@@ -9563,7 +9563,7 @@
         },
         {
             "id": "cd-main-story-01-01-14-release",
-            "description": "初星課題57達成で解放"
+            "description": "하츠보시 과제 57 달성으로 해금"
         },
         {
             "id": "cd-main-story-01-01-14-release",
@@ -9571,11 +9571,11 @@
         },
         {
             "id": "cd-master_produce-unlock_open",
-            "description": "いずれかのアイドルの親愛度Lv10で解放"
+            "description": "어떤 아이돌의 친애도 Lv10 에서 해금"
         },
         {
             "id": "cd-master_produce-view_open",
-            "description": "初星課題60達成で解放"
+            "description": "하츠보시 과제 60 달성으로 해금"
         },
         {
             "id": "cd-mission_clear-absolutedearnesslevel-1",
@@ -9923,15 +9923,15 @@
         },
         {
             "id": "cd-nia_master_produce-unlock_open",
-            "description": "いずれかのアイドルの親愛度20達成で解放"
+            "description": "어떤 아이돌의 친애도 20 달성으로 해금"
         },
         {
             "id": "cd-nia_produce-unlock_open",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "cd-nia_produce-unlock_open",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "cd-not_app-review_main-task-clear-01-14",
@@ -10031,7 +10031,7 @@
         },
         {
             "id": "cd-open-producer_ranking",
-            "description": "初星課題60達成で解放"
+            "description": "하츠보시 과제 60 달성으로 해금"
         },
         {
             "id": "cd-open-producer_ranking",
@@ -10519,11 +10519,11 @@
         },
         {
             "id": "cd-pro_produce-view_open",
-            "description": "いずれかのアイドルの親愛度Lvを8にする"
+            "description": "어떤 아이돌의 친애도 Lv8 도달"
         },
         {
             "id": "cd-pro_produce-view_open",
-            "description": "初星課題55達成で開放"
+            "description": "하츠보시 과제 55 달성으로 개방"
         },
         {
             "id": "cd-produce_group-002-a-amao",
@@ -11467,7 +11467,7 @@
         },
         {
             "id": "cd-release_Invitation",
-            "description": "初星課題1達成"
+            "description": "하츠보시 과제 1 달성"
         },
         {
             "id": "cd-release-ending-normal-a-voice-amao",
@@ -12951,27 +12951,27 @@
         },
         {
             "id": "cd-seminar_clear-01-01",
-            "description": "【基礎１】好調をクリア"
+            "description": "【기초 1】호조를 클리어"
         },
         {
             "id": "cd-seminar_clear-01-02",
-            "description": "【基礎２】集中をクリア"
+            "description": "【기초 2】집중을 클리어"
         },
         {
             "id": "cd-seminar_clear-01-03",
-            "description": "【基礎３】好印象をクリア"
+            "description": "【기초 3】호인상을 클리어"
         },
         {
             "id": "cd-seminar_clear-01-04",
-            "description": "【基礎４】やる気をクリア"
+            "description": "【기초 4】의욕을 클리어"
         },
         {
             "id": "cd-seminar_clear-01-07",
-            "description": "【基礎８】強気をクリア"
+            "description": "【기초 8】강기를 클리어"
         },
         {
             "id": "cd-seminar_clear-01-08",
-            "description": "【基礎７】全力をクリア"
+            "description": "【기초 7】전력을 클리어"
         },
         {
             "id": "cd-shop_costume_amao-cstm-0069_revival-1",
@@ -13331,19 +13331,19 @@
         },
         {
             "id": "cd-story_unlock_atbm_produce_group-004",
-            "description": "プロデュース「N.I.A」追加準備中"
+            "description": "프로듀스 「N.I.A」 추가 준비 중"
         },
         {
             "id": "cd-story_unlock_atbm_produce_group-005",
-            "description": "プロデュース「N.I.A」追加準備中"
+            "description": "프로듀스 「N.I.A」 추가 준비 중"
         },
         {
             "id": "cd-story_unlock_hmsz_produce_group-004",
-            "description": "プロデュース「N.I.A」追加準備中"
+            "description": "프로듀스 「N.I.A」 추가 준비 중"
         },
         {
             "id": "cd-story_unlock_hmsz_produce_group-005",
-            "description": "プロデュース「N.I.A」追加準備中"
+            "description": "프로듀스 「N.I.A」 추가 준비 중"
         },
         {
             "id": "cd-story_unlock_livetour_event_group-001",
@@ -13499,7 +13499,7 @@
         },
         {
             "id": "cd-storyread-opening-normal-01",
-            "description": "プロデュースに1回挑戦で開放"
+            "description": "프로듀스에 1회 도전해 개방"
         },
         {
             "id": "cd-storyread-opening-normal-01",
@@ -13555,7 +13555,7 @@
         },
         {
             "id": "cd-task_clear-01-001",
-            "description": "初星課題1達成で解放"
+            "description": "하츠보시 과제 1 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-001-24-hour",
@@ -13563,431 +13563,431 @@
         },
         {
             "id": "cd-task_clear-01-002",
-            "description": "初星課題2達成で解放"
+            "description": "하츠보시 과제 2 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-003",
-            "description": "初星課題3達成で解放"
+            "description": "하츠보시 과제 3 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-004",
-            "description": "初星課題4達成で解放"
+            "description": "하츠보시 과제 4 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-005",
-            "description": "初星課題5達成で解放"
+            "description": "하츠보시 과제 5 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-006",
-            "description": "初星課題6達成で解放"
+            "description": "하츠보시 과제 6 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-007",
-            "description": "初星課題7達成で解放"
+            "description": "하츠보시 과제 7 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-008",
-            "description": "初星課題8達成で解放"
+            "description": "하츠보시 과제 8 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-009",
-            "description": "初星課題9達成で解放"
+            "description": "하츠보시 과제 9 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-010",
-            "description": "初星課題10達成で解放"
+            "description": "하츠보시 과제 10 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-011",
-            "description": "初星課題11達成で解放"
+            "description": "하츠보시 과제 11 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-012",
-            "description": "初星課題12達成で解放"
+            "description": "하츠보시 과제 12 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-013",
-            "description": "初星課題13達成で解放"
+            "description": "하츠보시 과제 13 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-014",
-            "description": "初星課題14達成で解放"
+            "description": "하츠보시 과제 14 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-015",
-            "description": "初星課題15達成で解放"
+            "description": "하츠보시 과제 15 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-016",
-            "description": "初星課題16達成で解放"
+            "description": "하츠보시 과제 16 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-017",
-            "description": "初星課題17達成で解放"
+            "description": "하츠보시 과제 17 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-018",
-            "description": "初星課題18達成で解放"
+            "description": "하츠보시 과제 18 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-019",
-            "description": "初星課題19達成で解放"
+            "description": "하츠보시 과제 19 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-020",
-            "description": "初星課題20達成で解放"
+            "description": "하츠보시 과제 20 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-021",
-            "description": "初星課題21達成で解放"
+            "description": "하츠보시 과제 21 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-022",
-            "description": "初星課題22達成で解放"
+            "description": "하츠보시 과제 22 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-023",
-            "description": "初星課題23達成で解放"
+            "description": "하츠보시 과제 23 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-024",
-            "description": "初星課題24達成で解放"
+            "description": "하츠보시 과제 24 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-025",
-            "description": "初星課題25達成で解放"
+            "description": "하츠보시 과제 25 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-026",
-            "description": "初星課題26達成で解放"
+            "description": "하츠보시 과제 26 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-027",
-            "description": "初星課題27達成で解放"
+            "description": "하츠보시 과제 27 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-028",
-            "description": "初星課題28達成で解放"
+            "description": "하츠보시 과제 28 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-029",
-            "description": "初星課題29達成で解放"
+            "description": "하츠보시 과제 29 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-030",
-            "description": "初星課題30達成で解放"
+            "description": "하츠보시 과제 30 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-031",
-            "description": "初星課題31達成で解放"
+            "description": "하츠보시 과제 31 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-032",
-            "description": "初星課題32達成で解放"
+            "description": "하츠보시 과제 32 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-033",
-            "description": "初星課題33達成で解放"
+            "description": "하츠보시 과제 33 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-034",
-            "description": "初星課題34達成で解放"
+            "description": "하츠보시 과제 34 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-035",
-            "description": "初星課題35達成で解放"
+            "description": "하츠보시 과제 35 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-036",
-            "description": "初星課題36達成で解放"
+            "description": "하츠보시 과제 36 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-037",
-            "description": "初星課題37達成で解放"
+            "description": "하츠보시 과제 37 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-038",
-            "description": "初星課題38達成で解放"
+            "description": "하츠보시 과제 38 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-039",
-            "description": "初星課題39達成で解放"
+            "description": "하츠보시 과제 39 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-040",
-            "description": "初星課題40達成で解放"
+            "description": "하츠보시 과제 40 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-041",
-            "description": "初星課題41達成で解放"
+            "description": "하츠보시 과제 41 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-042",
-            "description": "初星課題42達成で解放"
+            "description": "하츠보시 과제 42 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-043",
-            "description": "初星課題43達成で解放"
+            "description": "하츠보시 과제 43 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-044",
-            "description": "初星課題44達成で解放"
+            "description": "하츠보시 과제 44 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-045",
-            "description": "初星課題45達成で解放"
+            "description": "하츠보시 과제 45 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-046",
-            "description": "初星課題46達成で解放"
+            "description": "하츠보시 과제 46 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-047",
-            "description": "初星課題47達成で解放"
+            "description": "하츠보시 과제 47 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-048",
-            "description": "初星課題48達成で解放"
+            "description": "하츠보시 과제 48 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-049",
-            "description": "初星課題49達成で解放"
+            "description": "하츠보시 과제 49 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-050",
-            "description": "初星課題50達成で解放"
+            "description": "하츠보시 과제 50 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-051",
-            "description": "初星課題51達成で解放"
+            "description": "하츠보시 과제 51 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-052",
-            "description": "初星課題52達成で解放"
+            "description": "하츠보시 과제 52 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-053",
-            "description": "初星課題53達成で解放"
+            "description": "하츠보시 과제 53 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-054",
-            "description": "初星課題54達成で解放"
+            "description": "하츠보시 과제 54 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-055",
-            "description": "初星課題55達成で解放"
+            "description": "하츠보시 과제 55 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-056",
-            "description": "初星課題56達成で解放"
+            "description": "하츠보시 과제 56 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-057",
-            "description": "初星課題57達成で解放"
+            "description": "하츠보시 과제 57 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-058",
-            "description": "初星課題58達成で解放"
+            "description": "하츠보시 과제 58 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-059",
-            "description": "初星課題59達成で解放"
+            "description": "하츠보시 과제 59 달성으로 해금"
         },
         {
             "id": "cd-task_clear-01-060",
-            "description": "初星課題60達成で解放"
+            "description": "하츠보시 과제 60 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-001",
-            "description": "P課題1達成で解放"
+            "description": "P과제 1 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-002",
-            "description": "P課題2達成で解放"
+            "description": "P과제 2 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-003",
-            "description": "P課題3達成で解放"
+            "description": "P과제 3 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-004",
-            "description": "P課題4達成で解放"
+            "description": "P과제 4 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-005",
-            "description": "P課題5達成で解放"
+            "description": "P과제 5 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-006",
-            "description": "P課題6達成で解放"
+            "description": "P과제 6 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-007",
-            "description": "P課題7達成で解放"
+            "description": "P과제 7 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-008",
-            "description": "P課題8達成で解放"
+            "description": "P과제 8 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-009",
-            "description": "P課題9達成で解放"
+            "description": "P과제 9 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-010",
-            "description": "P課題10達成で解放"
+            "description": "P과제 10 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-011",
-            "description": "P課題11達成で解放"
+            "description": "P과제 11 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-012",
-            "description": "P課題12達成で解放"
+            "description": "P과제 12 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-013",
-            "description": "P課題13達成で解放"
+            "description": "P과제 13 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-014",
-            "description": "P課題14達成で解放"
+            "description": "P과제 14 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-015",
-            "description": "P課題15達成で解放"
+            "description": "P과제 15 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-016",
-            "description": "P課題16達成で解放"
+            "description": "P과제 16 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-017",
-            "description": "P課題17達成で解放"
+            "description": "P과제 17 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-018",
-            "description": "P課題18達成で解放"
+            "description": "P과제 18 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-019",
-            "description": "P課題19達成で解放"
+            "description": "P과제 19 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-020",
-            "description": "P課題20達成で解放"
+            "description": "P과제 20 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-021",
-            "description": "P課題21達成で解放"
+            "description": "P과제 21 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-022",
-            "description": "P課題22達成で解放"
+            "description": "P과제 22 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-023",
-            "description": "P課題23達成で解放"
+            "description": "P과제 23 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-024",
-            "description": "P課題24達成で解放"
+            "description": "P과제 24 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-025",
-            "description": "P課題25達成で解放"
+            "description": "P과제 25 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-026",
-            "description": "P課題26達成で解放"
+            "description": "P과제 26 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-027",
-            "description": "P課題27達成で解放"
+            "description": "P과제 27 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-028",
-            "description": "P課題28達成で解放"
+            "description": "P과제 28 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-029",
-            "description": "P課題29達成で解放"
+            "description": "P과제 29 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-030",
-            "description": "P課題30達成で解放"
+            "description": "P과제 30 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-031",
-            "description": "P課題31達成で解放"
+            "description": "P과제 31 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-032",
-            "description": "P課題32達成で解放"
+            "description": "P과제 32 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-033",
-            "description": "P課題33達成で解放"
+            "description": "P과제 33 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-034",
-            "description": "P課題34達成で解放"
+            "description": "P과제 34 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-035",
-            "description": "P課題35達成で解放"
+            "description": "P과제 35 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-036",
-            "description": "P課題36達成で解放"
+            "description": "P과제 36 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-037",
-            "description": "P課題37達成で解放"
+            "description": "P과제 37 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-038",
-            "description": "P課題38達成で解放"
+            "description": "P과제 38 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-039",
-            "description": "P課題39達成で解放"
+            "description": "P과제 39 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-040",
-            "description": "P課題40達成で解放"
+            "description": "P과제 40 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-070",
-            "description": "P課題70達成で解放"
+            "description": "P과제 70 달성으로 해금"
         },
         {
             "id": "cd-task_clear-02-01-075",
-            "description": "P課題75達成で解放"
+            "description": "P과제 75 달성으로 해금"
         },
         {
             "id": "cd-task_clear-03-01-020",
-            "description": "P課題2-20達成で解放"
+            "description": "P과제 2-20 달성으로 해금"
         },
         {
             "id": "cd-task_clear-03-01-025",
-            "description": "P課題2-25達成で解放"
+            "description": "P과제 2-25 달성으로 해금"
         },
         {
             "id": "cd-task_clear-03-01-070",
-            "description": "P課題70達成で解放"
+            "description": "P과제 70 달성으로 해금"
         },
         {
             "id": "cd-task_clear-03-01-075",
-            "description": "P課題75達成で解放"
+            "description": "P과제 75 달성으로 해금"
         },
         {
             "id": "cd-task_clear-04-01-020",
-            "description": "P課題04-20達成で解放"
+            "description": "P과제 04-20 달성으로 해금"
         },
         {
             "id": "cd-task_clear-04-01-025",
-            "description": "P課題04-25達成で解放"
+            "description": "P과제 04-25 달성으로 해금"
         },
         {
             "id": "cd-task_clear-panel_mission-event-006",
@@ -13999,7 +13999,7 @@
         },
         {
             "id": "cd-time-view_open-producer_ranking-1006_1100",
-            "description": "2025/010/06 11:00:00に解放"
+            "description": "2025/010/06 11:00:00에 해금"
         },
         {
             "id": "cd-tips-produce-first-audition-failure_kcna_initial-card",
@@ -14479,11 +14479,11 @@
         },
         {
             "id": "cd-view-panel_mission-event-006",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "cd-view-panel_mission-event-006",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "cd-view-shop_jewel_item-0008-0009",
@@ -14799,31 +14799,31 @@
         },
         {
             "id": "pannel-mission-event-007_time",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "pannel-mission-event-007_time",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "pannel-mission-event-007_time",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "pannel-mission-event-007_time",
-            "description": "P課題35達成かつ「N.I.A」に挑戦できる\nいずれかのアイドルの親愛度Lv10で解放"
+            "description": "P과제 35 달성 또는 「N.I.A」에 도전 할 수 있음\n어떤 아이돌의 친애도 Lv10 으로 해금"
         },
         {
             "id": "pannel-mission-event-008_time",
-            "description": "いずれかのアイドルの親愛度Lv20で解放"
+            "description": "어떤 아이돌의 친애도 Lv20 에서 해금"
         },
         {
             "id": "pannel-mission-event-008_time",
-            "description": "いずれかのアイドルの親愛度Lv20で解放"
+            "description": "어떤 아이돌의 친애도 Lv20 에서 해금"
         },
         {
             "id": "pannel-mission-event-008_time",
-            "description": "いずれかのアイドルの親愛度Lv20で解放"
+            "description": "어떤 아이돌의 친애도 Lv20 에서 해금"
         },
         {
             "id": "pannel-mission-event-halfaniv_time",
@@ -15011,7 +15011,7 @@
         },
         {
             "id": "view-homecaharacterrandom-time",
-            "description": "準備中です"
+            "description": "준비 중 입니다"
         },
         {
             "id": "view-startup_notification_shop_pack_item-0002",
@@ -15023,1239 +15023,1239 @@
         },
         {
             "id": "main_task_group-01-01#2",
-            "description": "初星課題1達成で解放"
+            "description": "하츠보시 과제 1 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#3",
-            "description": "初星課題2達成で解放"
+            "description": "하츠보시 과제 2 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#4",
-            "description": "初星課題3達成で解放"
+            "description": "하츠보시 과제 3 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#5",
-            "description": "初星課題4達成で解放"
+            "description": "하츠보시 과제 4 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#6",
-            "description": "初星課題5達成で解放"
+            "description": "하츠보시 과제 5 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#7",
-            "description": "初星課題6達成で解放"
+            "description": "하츠보시 과제 6 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#8",
-            "description": "初星課題7達成で解放"
+            "description": "하츠보시 과제 7 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#9",
-            "description": "初星課題8達成で解放"
+            "description": "하츠보시 과제 8 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#10",
-            "description": "初星課題9達成で解放"
+            "description": "하츠보시 과제 9 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#11",
-            "description": "初星課題10達成で解放"
+            "description": "하츠보시 과제 10 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#12",
-            "description": "初星課題11達成で解放"
+            "description": "하츠보시 과제 11 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#13",
-            "description": "初星課題12達成で解放"
+            "description": "하츠보시 과제 12 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#14",
-            "description": "初星課題13達成で解放"
+            "description": "하츠보시 과제 13 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#15",
-            "description": "初星課題14達成で解放"
+            "description": "하츠보시 과제 14 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#16",
-            "description": "初星課題15達成で解放"
+            "description": "하츠보시 과제 15 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#17",
-            "description": "初星課題16達成で解放"
+            "description": "하츠보시 과제 16 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#18",
-            "description": "初星課題17達成で解放"
+            "description": "하츠보시 과제 17 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#19",
-            "description": "初星課題18達成で解放"
+            "description": "하츠보시 과제 18 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#20",
-            "description": "初星課題19達成で解放"
+            "description": "하츠보시 과제 19 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#21",
-            "description": "初星課題20達成で解放"
+            "description": "하츠보시 과제 20 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#22",
-            "description": "初星課題21達成で解放"
+            "description": "하츠보시 과제 21 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#23",
-            "description": "初星課題22達成で解放"
+            "description": "하츠보시 과제 22 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#24",
-            "description": "初星課題23達成で解放"
+            "description": "하츠보시 과제 23 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#25",
-            "description": "初星課題24達成で解放"
+            "description": "하츠보시 과제 24 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#26",
-            "description": "初星課題25達成で解放"
+            "description": "하츠보시 과제 25 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#27",
-            "description": "初星課題26達成で解放"
+            "description": "하츠보시 과제 26 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#28",
-            "description": "初星課題27達成で解放"
+            "description": "하츠보시 과제 27 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#29",
-            "description": "初星課題28達成で解放"
+            "description": "하츠보시 과제 28 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#30",
-            "description": "初星課題29達成で解放"
+            "description": "하츠보시 과제 29 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#31",
-            "description": "初星課題30達成で解放"
+            "description": "하츠보시 과제 30 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#32",
-            "description": "初星課題31達成で解放"
+            "description": "하츠보시 과제 31 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#33",
-            "description": "初星課題32達成で解放"
+            "description": "하츠보시 과제 32 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#34",
-            "description": "初星課題33達成で解放"
+            "description": "하츠보시 과제 33 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#35",
-            "description": "初星課題34達成で解放"
+            "description": "하츠보시 과제 34 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#36",
-            "description": "初星課題35達成で解放"
+            "description": "하츠보시 과제 35 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#37",
-            "description": "初星課題36達成で解放"
+            "description": "하츠보시 과제 36 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#38",
-            "description": "初星課題37達成で解放"
+            "description": "하츠보시 과제 37 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#39",
-            "description": "初星課題38達成で解放"
+            "description": "하츠보시 과제 38 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#40",
-            "description": "初星課題39達成で解放"
+            "description": "하츠보시 과제 39 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#41",
-            "description": "初星課題40達成で解放"
+            "description": "하츠보시 과제 40 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#42",
-            "description": "初星課題41達成で解放"
+            "description": "하츠보시 과제 41 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#43",
-            "description": "初星課題42達成で解放"
+            "description": "하츠보시 과제 42 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#44",
-            "description": "初星課題43達成で解放"
+            "description": "하츠보시 과제 43 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#45",
-            "description": "初星課題44達成で解放"
+            "description": "하츠보시 과제 44 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#46",
-            "description": "初星課題45達成で解放"
+            "description": "하츠보시 과제 45 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#47",
-            "description": "初星課題46達成で解放"
+            "description": "하츠보시 과제 46 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#48",
-            "description": "初星課題47達成で解放"
+            "description": "하츠보시 과제 47 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#49",
-            "description": "初星課題48達成で解放"
+            "description": "하츠보시 과제 48 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#50",
-            "description": "初星課題49達成で解放"
+            "description": "하츠보시 과제 49 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#51",
-            "description": "初星課題50達成で解放"
+            "description": "하츠보시 과제 50 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#52",
-            "description": "初星課題51達成で解放"
+            "description": "하츠보시 과제 51 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#53",
-            "description": "初星課題52達成で解放"
+            "description": "하츠보시 과제 52 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#54",
-            "description": "初星課題53達成で解放"
+            "description": "하츠보시 과제 53 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#55",
-            "description": "初星課題54達成で解放"
+            "description": "하츠보시 과제 54 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#56",
-            "description": "初星課題55達成で解放"
+            "description": "하츠보시 과제 55 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#57",
-            "description": "初星課題56達成で解放"
+            "description": "하츠보시 과제 56 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#58",
-            "description": "初星課題57達成で解放"
+            "description": "하츠보시 과제 57 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#59",
-            "description": "初星課題58達成で解放"
+            "description": "하츠보시 과제 58 달성으로 해금"
         },
         {
             "id": "main_task_group-01-01#60",
-            "description": "初星課題59達成で解放"
+            "description": "하츠보시 과제 59 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#1",
-            "description": "初星課題60達成で解放"
+            "description": "하츠보시 과제 60 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#2",
-            "description": "P課題1達成で解放"
+            "description": "P과제 1 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#3",
-            "description": "P課題2達成で解放"
+            "description": "P과제 2 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#4",
-            "description": "P課題3達成で解放"
+            "description": "P과제 3 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#5",
-            "description": "P課題4達成で解放"
+            "description": "P과제 4 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#6",
-            "description": "P課題5達成で解放"
+            "description": "P과제 5 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#7",
-            "description": "P課題6達成で解放"
+            "description": "P과제 6 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#8",
-            "description": "P課題7達成で解放"
+            "description": "P과제 7 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#9",
-            "description": "P課題8達成で解放"
+            "description": "P과제 8 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#10",
-            "description": "P課題9達成で解放"
+            "description": "P과제 9 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#11",
-            "description": "P課題10達成で解放"
+            "description": "P과제 10 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#12",
-            "description": "P課題11達成で解放"
+            "description": "P과제 11 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#13",
-            "description": "P課題12達成で解放"
+            "description": "P과제 12 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#14",
-            "description": "P課題13達成で解放"
+            "description": "P과제 13 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#15",
-            "description": "P課題14達成で解放"
+            "description": "P과제 14 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#16",
-            "description": "P課題15達成で解放"
+            "description": "P과제 15 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#17",
-            "description": "P課題16達成で解放"
+            "description": "P과제 16 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#18",
-            "description": "P課題17達成で解放"
+            "description": "P과제 17 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#19",
-            "description": "P課題18達成で解放"
+            "description": "P과제 18 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#20",
-            "description": "P課題19達成で解放"
+            "description": "P과제 19 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#21",
-            "description": "P課題20達成で解放"
+            "description": "P과제 20 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#22",
-            "description": "P課題21達成で解放"
+            "description": "P과제 21 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#23",
-            "description": "P課題22達成で解放"
+            "description": "P과제 22 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#24",
-            "description": "P課題23達成で解放"
+            "description": "P과제 23 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#25",
-            "description": "P課題24達成で解放"
+            "description": "P과제 24 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#26",
-            "description": "P課題25達成で解放"
+            "description": "P과제 25 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#27",
-            "description": "P課題26達成で解放"
+            "description": "P과제 26 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#28",
-            "description": "P課題27達成で解放"
+            "description": "P과제 27 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#29",
-            "description": "P課題28達成で解放"
+            "description": "P과제 28 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#30",
-            "description": "P課題29達成で解放"
+            "description": "P과제 29 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#31",
-            "description": "P課題30達成で解放"
+            "description": "P과제 30 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#32",
-            "description": "P課題31達成で解放"
+            "description": "P과제 31 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#33",
-            "description": "P課題32達成で解放"
+            "description": "P과제 32 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#34",
-            "description": "P課題33達成で解放"
+            "description": "P과제 33 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#35",
-            "description": "P課題34達成で解放"
+            "description": "P과제 34 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#36",
-            "description": "P課題35達成で解放"
+            "description": "P과제 35 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#37",
-            "description": "P課題36達成で解放"
+            "description": "P과제 36 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#38",
-            "description": "P課題37達成で解放"
+            "description": "P과제 37 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#39",
-            "description": "P課題38達成で解放"
+            "description": "P과제 38 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#40",
-            "description": "P課題39達成で解放"
+            "description": "P과제 39 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#41",
-            "description": "P課題40達成で解放"
+            "description": "P과제 40 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#42",
-            "description": "P課題41達成で解放"
+            "description": "P과제 41 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#43",
-            "description": "P課題42達成で解放"
+            "description": "P과제 42 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#44",
-            "description": "P課題43達成で解放"
+            "description": "P과제 43 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#45",
-            "description": "P課題44達成で解放"
+            "description": "P과제 44 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#46",
-            "description": "P課題45達成で解放"
+            "description": "P과제 45 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#47",
-            "description": "P課題46達成で解放"
+            "description": "P과제 46 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#48",
-            "description": "P課題47達成で解放"
+            "description": "P과제 47 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#49",
-            "description": "P課題48達成で解放"
+            "description": "P과제 48 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#50",
-            "description": "P課題49達成で解放"
+            "description": "P과제 49 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#51",
-            "description": "P課題50達成で解放"
+            "description": "P과제 50 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#52",
-            "description": "P課題51達成で解放"
+            "description": "P과제 51 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#53",
-            "description": "P課題52達成で解放"
+            "description": "P과제 52 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#54",
-            "description": "P課題53達成で解放"
+            "description": "P과제 53 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#55",
-            "description": "P課題54達成で解放"
+            "description": "P과제 54 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#56",
-            "description": "P課題55達成で解放"
+            "description": "P과제 55 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#57",
-            "description": "P課題56達成で解放"
+            "description": "P과제 56 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#58",
-            "description": "P課題57達成で解放"
+            "description": "P과제 57 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#59",
-            "description": "P課題58達成で解放"
+            "description": "P과제 58 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#60",
-            "description": "P課題59達成で解放"
+            "description": "P과제 59 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#61",
-            "description": "P課題60達成で解放"
+            "description": "P과제 60 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#62",
-            "description": "P課題61達成で解放"
+            "description": "P과제 61 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#63",
-            "description": "P課題62達成で解放"
+            "description": "P과제 62 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#64",
-            "description": "P課題63達成で解放"
+            "description": "P과제 63 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#65",
-            "description": "P課題64達成で解放"
+            "description": "P과제 64 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#66",
-            "description": "P課題65達成で解放"
+            "description": "P과제 65 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#67",
-            "description": "P課題66達成で解放"
+            "description": "P과제 66 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#68",
-            "description": "P課題67達成で解放"
+            "description": "P과제 67 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#69",
-            "description": "P課題68達成で解放"
+            "description": "P과제 68 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#70",
-            "description": "P課題69達成で解放"
+            "description": "P과제 69 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#71",
-            "description": "P課題70達成で解放"
+            "description": "P과제 70 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#72",
-            "description": "P課題71達成で解放"
+            "description": "P과제 71 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#73",
-            "description": "P課題72達成で解放"
+            "description": "P과제 72 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#74",
-            "description": "P課題73達成で解放"
+            "description": "P과제 73 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#75",
-            "description": "P課題74達成で解放"
+            "description": "P과제 74 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#76",
-            "description": "P課題75達成で解放"
+            "description": "P과제 75 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#77",
-            "description": "P課題76達成で解放"
+            "description": "P과제 76 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#78",
-            "description": "P課題77達成で解放"
+            "description": "P과제 77 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#79",
-            "description": "P課題78達成で解放"
+            "description": "P과제 78 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#80",
-            "description": "P課題79達成で解放"
+            "description": "P과제 79 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#81",
-            "description": "P課題80達成で解放"
+            "description": "P과제 80 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#82",
-            "description": "P課題81達成で解放"
+            "description": "P과제 81 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#83",
-            "description": "P課題82達成で解放"
+            "description": "P과제 82 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#84",
-            "description": "P課題83達成で解放"
+            "description": "P과제 83 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#85",
-            "description": "P課題84達成で解放"
+            "description": "P과제 84 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#86",
-            "description": "P課題85達成で解放"
+            "description": "P과제 85 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#87",
-            "description": "P課題86達成で解放"
+            "description": "P과제 86 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#88",
-            "description": "P課題87達成で解放"
+            "description": "P과제 87 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#89",
-            "description": "P課題88達成で解放"
+            "description": "P과제 88 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#90",
-            "description": "P課題89達成で解放"
+            "description": "P과제 89 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#91",
-            "description": "P課題90達成で解放"
+            "description": "P과제 90 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#92",
-            "description": "P課題91達成で解放"
+            "description": "P과제 91 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#93",
-            "description": "P課題92達成で解放"
+            "description": "P과제 92 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#94",
-            "description": "P課題93達成で解放"
+            "description": "P과제 93 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#95",
-            "description": "P課題94達成で解放"
+            "description": "P과제 94 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#96",
-            "description": "P課題95達成で解放"
+            "description": "P과제 95 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#97",
-            "description": "P課題96達成で解放"
+            "description": "P과제 96 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#98",
-            "description": "P課題97達成で解放"
+            "description": "P과제 97 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#99",
-            "description": "P課題98達成で解放"
+            "description": "P과제 98 달성으로 해금"
         },
         {
             "id": "main_task_group-02-01#100",
-            "description": "P課題99達成で解放"
+            "description": "P과제 99 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#1",
-            "description": "P課題100達成で解放"
+            "description": "P과제 100 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#2",
-            "description": "P課題2-1達成で解放"
+            "description": "P과제 2-1 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#3",
-            "description": "P課題2-2達成で解放"
+            "description": "P과제 2-2 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#4",
-            "description": "P課題2-3達成で解放"
+            "description": "P과제 2-3 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#5",
-            "description": "P課題2-4達成で解放"
+            "description": "P과제 2-4 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#6",
-            "description": "P課題2-5達成で解放"
+            "description": "P과제 2-5 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#7",
-            "description": "P課題2-6達成で解放"
+            "description": "P과제 2-6 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#8",
-            "description": "P課題2-7達成で解放"
+            "description": "P과제 2-7 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#9",
-            "description": "P課題2-8達成で解放"
+            "description": "P과제 2-8 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#10",
-            "description": "P課題2-9達成で解放"
+            "description": "P과제 2-9 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#11",
-            "description": "P課題2-10達成で解放"
+            "description": "P과제 2-10 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#12",
-            "description": "P課題2-11達成で解放"
+            "description": "P과제 2-11 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#13",
-            "description": "P課題2-12達成で解放"
+            "description": "P과제 2-12 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#14",
-            "description": "P課題2-13達成で解放"
+            "description": "P과제 2-13 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#15",
-            "description": "P課題2-14達成で解放"
+            "description": "P과제 2-14 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#16",
-            "description": "P課題2-15達成で解放"
+            "description": "P과제 2-15 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#17",
-            "description": "P課題2-16達成で解放"
+            "description": "P과제 2-16 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#18",
-            "description": "P課題2-17達成で解放"
+            "description": "P과제 2-17 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#19",
-            "description": "P課題2-18達成で解放"
+            "description": "P과제 2-18 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#20",
-            "description": "P課題2-19達成で解放"
+            "description": "P과제 2-19 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#21",
-            "description": "P課題2-20達成で解放"
+            "description": "P과제 2-20 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#22",
-            "description": "P課題2-21達成で解放"
+            "description": "P과제 2-21 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#23",
-            "description": "P課題2-22達成で解放"
+            "description": "P과제 2-22 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#24",
-            "description": "P課題2-23達成で解放"
+            "description": "P과제 2-23 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#25",
-            "description": "P課題2-24達成で解放"
+            "description": "P과제 2-24 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#26",
-            "description": "P課題2-25達成で解放"
+            "description": "P과제 2-25 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#27",
-            "description": "P課題2-26達成で解放"
+            "description": "P과제 2-26 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#28",
-            "description": "P課題2-27達成で解放"
+            "description": "P과제 2-27 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#29",
-            "description": "P課題2-28達成で解放"
+            "description": "P과제 2-28 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#30",
-            "description": "P課題2-29達成で解放"
+            "description": "P과제 2-29 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#31",
-            "description": "P課題2-30達成で解放"
+            "description": "P과제 2-30 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#32",
-            "description": "P課題2-31達成で解放"
+            "description": "P과제 2-31 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#33",
-            "description": "P課題2-32達成で解放"
+            "description": "P과제 2-32 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#34",
-            "description": "P課題2-33達成で解放"
+            "description": "P과제 2-33 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#35",
-            "description": "P課題2-34達成で解放"
+            "description": "P과제 2-34 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#36",
-            "description": "P課題2-35達成で解放"
+            "description": "P과제 2-35 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#37",
-            "description": "P課題2-36達成で解放"
+            "description": "P과제 2-36 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#38",
-            "description": "P課題2-37達成で解放"
+            "description": "P과제 2-37 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#39",
-            "description": "P課題2-38達成で解放"
+            "description": "P과제 2-38 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#40",
-            "description": "P課題2-39達成で解放"
+            "description": "P과제 2-39 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#41",
-            "description": "P課題2-40達成で解放"
+            "description": "P과제 2-40 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#42",
-            "description": "P課題2-41達成で解放"
+            "description": "P과제 2-41 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#43",
-            "description": "P課題2-42達成で解放"
+            "description": "P과제 2-42 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#44",
-            "description": "P課題2-43達成で解放"
+            "description": "P과제 2-43 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#45",
-            "description": "P課題2-44達成で解放"
+            "description": "P과제 2-44 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#46",
-            "description": "P課題2-45達成で解放"
+            "description": "P과제 2-45 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#47",
-            "description": "P課題2-46達成で解放"
+            "description": "P과제 2-46 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#48",
-            "description": "P課題2-47達成で解放"
+            "description": "P과제 2-47 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#49",
-            "description": "P課題2-48達成で解放"
+            "description": "P과제 2-48 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#50",
-            "description": "P課題2-49達成で解放"
+            "description": "P과제 2-49 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#51",
-            "description": "P課題2-50達成で解放"
+            "description": "P과제 2-50 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#52",
-            "description": "P課題51達成で解放"
+            "description": "P과제 51 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#53",
-            "description": "P課題52達成で解放"
+            "description": "P과제 52 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#54",
-            "description": "P課題53達成で解放"
+            "description": "P과제 53 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#55",
-            "description": "P課題54達成で解放"
+            "description": "P과제 54 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#56",
-            "description": "P課題55達成で解放"
+            "description": "P과제 55 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#57",
-            "description": "P課題56達成で解放"
+            "description": "P과제 56 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#58",
-            "description": "P課題57達成で解放"
+            "description": "P과제 57 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#59",
-            "description": "P課題58達成で解放"
+            "description": "P과제 58 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#60",
-            "description": "P課題59達成で解放"
+            "description": "P과제 59 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#61",
-            "description": "P課題60達成で解放"
+            "description": "P과제 60 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#62",
-            "description": "P課題61達成で解放"
+            "description": "P과제 61 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#63",
-            "description": "P課題62達成で解放"
+            "description": "P과제 62 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#64",
-            "description": "P課題63達成で解放"
+            "description": "P과제 63 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#65",
-            "description": "P課題64達成で解放"
+            "description": "P과제 64 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#66",
-            "description": "P課題65達成で解放"
+            "description": "P과제 65 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#67",
-            "description": "P課題66達成で解放"
+            "description": "P과제 66 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#68",
-            "description": "P課題67達成で解放"
+            "description": "P과제 67 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#69",
-            "description": "P課題68達成で解放"
+            "description": "P과제 68 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#70",
-            "description": "P課題69達成で解放"
+            "description": "P과제 69 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#71",
-            "description": "P課題70達成で解放"
+            "description": "P과제 70 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#72",
-            "description": "P課題71達成で解放"
+            "description": "P과제 71 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#73",
-            "description": "P課題72達成で解放"
+            "description": "P과제 72 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#74",
-            "description": "P課題73達成で解放"
+            "description": "P과제 73 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#75",
-            "description": "P課題74達成で解放"
+            "description": "P과제 74 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#76",
-            "description": "P課題75達成で解放"
+            "description": "P과제 75 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#77",
-            "description": "P課題76達成で解放"
+            "description": "P과제 76 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#78",
-            "description": "P課題77達成で解放"
+            "description": "P과제 77 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#79",
-            "description": "P課題78達成で解放"
+            "description": "P과제 78 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#80",
-            "description": "P課題79達成で解放"
+            "description": "P과제 79 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#81",
-            "description": "P課題80達成で解放"
+            "description": "P과제 80 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#82",
-            "description": "P課題81達成で解放"
+            "description": "P과제 81 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#83",
-            "description": "P課題82達成で解放"
+            "description": "P과제 82 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#84",
-            "description": "P課題83達成で解放"
+            "description": "P과제 83 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#85",
-            "description": "P課題84達成で解放"
+            "description": "P과제 84 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#86",
-            "description": "P課題85達成で解放"
+            "description": "P과제 85 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#87",
-            "description": "P課題86達成で解放"
+            "description": "P과제 86 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#88",
-            "description": "P課題87達成で解放"
+            "description": "P과제 87 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#89",
-            "description": "P課題88達成で解放"
+            "description": "P과제 88 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#90",
-            "description": "P課題89達成で解放"
+            "description": "P과제 89 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#91",
-            "description": "P課題90達成で解放"
+            "description": "P과제 90 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#92",
-            "description": "P課題91達成で解放"
+            "description": "P과제 91 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#93",
-            "description": "P課題92達成で解放"
+            "description": "P과제 92 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#94",
-            "description": "P課題93達成で解放"
+            "description": "P과제 93 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#95",
-            "description": "P課題94達成で解放"
+            "description": "P과제 94 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#96",
-            "description": "P課題95達成で解放"
+            "description": "P과제 95 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#97",
-            "description": "P課題96達成で解放"
+            "description": "P과제 96 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#98",
-            "description": "P課題97達成で解放"
+            "description": "P과제 97 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#99",
-            "description": "P課題98達成で解放"
+            "description": "P과제 98 달성으로 해금"
         },
         {
             "id": "main_task_group-03-01#100",
-            "description": "P課題99達成で解放"
+            "description": "P과제 99 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#1",
-            "description": "P課題100達成で解放"
+            "description": "P과제 100 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#2",
-            "description": "P課題04-1達成で解放"
+            "description": "P과제 04-1 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#3",
-            "description": "P課題04-2達成で解放"
+            "description": "P과제 04-2 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#4",
-            "description": "P課題04-3達成で解放"
+            "description": "P과제 04-3 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#5",
-            "description": "P課題04-4達成で解放"
+            "description": "P과제 04-4 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#6",
-            "description": "P課題04-5達成で解放"
+            "description": "P과제 04-5 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#7",
-            "description": "P課題04-6達成で解放"
+            "description": "P과제 04-6 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#8",
-            "description": "P課題04-7達成で解放"
+            "description": "P과제 04-7 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#9",
-            "description": "P課題04-8達成で解放"
+            "description": "P과제 04-8 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#10",
-            "description": "P課題04-9達成で解放"
+            "description": "P과제 04-9 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#11",
-            "description": "P課題04-10達成で解放"
+            "description": "P과제 04-10 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#12",
-            "description": "P課題04-11達成で解放"
+            "description": "P과제 04-11 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#13",
-            "description": "P課題04-12達成で解放"
+            "description": "P과제 04-12 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#14",
-            "description": "P課題04-13達成で解放"
+            "description": "P과제 04-13 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#15",
-            "description": "P課題04-14達成で解放"
+            "description": "P과제 04-14 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#16",
-            "description": "P課題04-15達成で解放"
+            "description": "P과제 04-15 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#17",
-            "description": "P課題04-16達成で解放"
+            "description": "P과제 04-16 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#18",
-            "description": "P課題04-17達成で解放"
+            "description": "P과제 04-17 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#19",
-            "description": "P課題04-18達成で解放"
+            "description": "P과제 04-18 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#20",
-            "description": "P課題04-19達成で解放"
+            "description": "P과제 04-19 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#21",
-            "description": "P課題04-20達成で解放"
+            "description": "P과제 04-20 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#22",
-            "description": "P課題04-21達成で解放"
+            "description": "P과제 04-21 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#23",
-            "description": "P課題04-22達成で解放"
+            "description": "P과제 04-22 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#24",
-            "description": "P課題04-23達成で解放"
+            "description": "P과제 04-23 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#25",
-            "description": "P課題04-24達成で解放"
+            "description": "P과제 04-24 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#26",
-            "description": "P課題04-25達成で解放"
+            "description": "P과제 04-25 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#27",
-            "description": "P課題04-26達成で解放"
+            "description": "P과제 04-26 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#28",
-            "description": "P課題04-27達成で解放"
+            "description": "P과제 04-27 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#29",
-            "description": "P課題04-28達成で解放"
+            "description": "P과제 04-28 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#30",
-            "description": "P課題04-29達成で解放"
+            "description": "P과제 04-29 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#31",
-            "description": "P課題04-30達成で解放"
+            "description": "P과제 04-30 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#32",
-            "description": "P課題04-31達成で解放"
+            "description": "P과제 04-31 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#33",
-            "description": "P課題04-32達成で解放"
+            "description": "P과제 04-32 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#34",
-            "description": "P課題04-33達成で解放"
+            "description": "P과제 04-33 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#35",
-            "description": "P課題04-34達成で解放"
+            "description": "P과제 04-34 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#36",
-            "description": "P課題04-35達成で解放"
+            "description": "P과제 04-35 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#37",
-            "description": "P課題04-36達成で解放"
+            "description": "P과제 04-36 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#38",
-            "description": "P課題04-37達成で解放"
+            "description": "P과제 04-37 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#39",
-            "description": "P課題04-38達成で解放"
+            "description": "P과제 04-38 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#40",
-            "description": "P課題04-39達成で解放"
+            "description": "P과제 04-39 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#41",
-            "description": "P課題04-40達成で解放"
+            "description": "P과제 04-40 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#42",
-            "description": "P課題04-41達成で解放"
+            "description": "P과제 04-41 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#43",
-            "description": "P課題04-42達成で解放"
+            "description": "P과제 04-42 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#44",
-            "description": "P課題04-43達成で解放"
+            "description": "P과제 04-43 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#45",
-            "description": "P課題04-44達成で解放"
+            "description": "P과제 04-44 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#46",
-            "description": "P課題04-45達成で解放"
+            "description": "P과제 04-45 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#47",
-            "description": "P課題04-46達成で解放"
+            "description": "P과제 04-46 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#48",
-            "description": "P課題04-47達成で解放"
+            "description": "P과제 04-47 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#49",
-            "description": "P課題04-48達成で解放"
+            "description": "P과제 04-48 달성으로 해금"
         },
         {
             "id": "main_task_group-04-01#50",
-            "description": "P課題04-49達成で解放"
+            "description": "P과제 04-49 달성으로 해금"
         }
     ]
 }

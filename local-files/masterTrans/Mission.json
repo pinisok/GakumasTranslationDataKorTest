@@ -2931,7 +2931,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_22",
-            "name": "雨夜 燕のダンスを1000以上に育成してプロデュースを完了"
+            "name": "아마야 츠바메의 댄스를 1000 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "mission-highscorerush-event-010-mission_23",
@@ -2939,7 +2939,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_24",
-            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+            "name": "아마야 츠바메의 프로듀스 평가를 총 {threshold} 획득하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_26",
@@ -2951,7 +2951,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_32",
-            "name": "十王 星南または雨夜 燕のプロデュースで最終試験に{threshold}回合格しよう"
+            "name": "주오 세나 또는 아마야 츠바메의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_33",
@@ -2959,7 +2959,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_34",
-            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+            "name": "아마야 츠바메의 프로듀스 평가를 총 {threshold} 획득하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_36",
@@ -2971,7 +2971,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_42",
-            "name": "十王 星南または雨夜 燕のプロデュースで最終試験に{threshold}回合格しよう"
+            "name": "주오 세나 또는 아마야 츠바메의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_43",
@@ -2979,7 +2979,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_44",
-            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+            "name": "아마야 츠바메의 프로듀스 평가를 총 {threshold} 획득하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_46",
@@ -2991,7 +2991,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_52",
-            "name": "十王 星南または雨夜 燕のプロデュースで最終試験に{threshold}回合格しよう"
+            "name": "주오 세나 또는 아마야 츠바메의 프로듀스로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_53",
@@ -2999,7 +2999,7 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_54",
-            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+            "name": "아마야 츠바메의 프로듀스 평가를 총 {threshold} 획득하자"
         },
         {
             "id": "mission-highscorerush-event-010-mission_56",
@@ -6907,27 +6907,27 @@
         },
         {
             "id": "achieve-i_card-jsna-3-015-01",
-            "name": "【赤裸々】十王 星南のプロデュースで最終試験に合格"
+            "name": "【적나라】주오 세나의 프로듀스로 최종 시험에 합격"
         },
         {
             "id": "achieve-i_card-jsna-3-015-02",
-            "name": "【赤裸々】十王 星南の特訓段階を{threshold}にする"
+            "name": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-015-03",
-            "name": "【赤裸々】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【적나라】주오 세나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
         },
         {
             "id": "achieve-i_card-jsna-3-015-04",
-            "name": "【赤裸々】十王 星南の特訓段階を{threshold}にする"
+            "name": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-015-05",
-            "name": "【赤裸々】十王 星南の特訓段階を{threshold}にする"
+            "name": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-015-06",
-            "name": "【赤裸々】十王 星南の特訓段階を{threshold}にする"
+            "name": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-kcna-2-000-04",
