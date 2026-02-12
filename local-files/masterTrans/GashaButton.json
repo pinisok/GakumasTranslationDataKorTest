@@ -181,6 +181,12 @@
             "description": "유료 10회 가챠"
         },
         {
+            "id": "gasha_marge_button-ssr-00750",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
             "id": "gasha_ticket_christmas-001",
             "order": 3,
             "name": "크리스마스 로그인 보너스 가챠 티켓으로 뽑기",
@@ -245,6 +251,12 @@
             "order": 1,
             "name": "MOIW2025 기념 SSR P아이돌 확정 가챠 티켓으로 뽑기",
             "description": "SSR 아이돌 확정 1연차"
+        },
+        {
+            "id": "gasha_ticket_valentine-001",
+            "order": 3,
+            "name": "발렌타인 로그인 보너스 가챠 티켓으로 뽑기",
+            "description": "10회 가챠"
         },
         {
             "id": "gasha-ticket-ssr-idol-seasons_button-01",

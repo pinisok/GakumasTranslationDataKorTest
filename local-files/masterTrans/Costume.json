@@ -506,6 +506,11 @@
             "description": "하타야 미스즈의 아이돌 길 스테이지 15 클리어"
         },
         {
+            "id": "hmsz-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【달 거북이】'26 발렌타인 하타야 미스즈 입수"
+        },
+        {
             "id": "hmsz-cstm-0110",
             "name": "칠흑의 반짝임",
             "description": "하타야 미스즈의 아이돌 길 스테이지 25를 클리어"
@@ -659,6 +664,11 @@
             "id": "hrnm-cstm-0073",
             "name": "백금의 빛",
             "description": "히메사키 리나미의 아이돌 길 스테이지 15 클리어"
+        },
+        {
+            "id": "hrnm-cstm-0075",
+            "name": "하트 앞치마",
+            "description": "하트 앞치마 (히메사키 리나미)를 입수"
         },
         {
             "id": "hrnm-cstm-0076",
@@ -991,6 +1001,11 @@
             "description": "하나미 우메의 아이돌 길 스테이지 15 클리어"
         },
         {
+            "id": "hume-cstm-0075",
+            "name": "해피 밀푀유",
+            "description": "【The Rolling Riceball】'26 발렌타인 하나미 우메 입수"
+        },
+        {
             "id": "hume-cstm-0110",
             "name": "칠흑의 반짝임",
             "description": "하나미 우메의 아이돌 길 스테이지 25 클리어"
@@ -1136,6 +1151,11 @@
             "description": "주오 세나의 아이돌 길 스테이지 15 클리어"
         },
         {
+            "id": "jsna-cstm-0075",
+            "name": "하트 앞치마",
+            "description": "하트 앞치마 (주오 세나)를 입수"
+        },
+        {
             "id": "jsna-cstm-0076",
             "name": "눈이 녹을 때에",
             "description": "【작은 야망】'25 하나마츠리 주오 세나를 입수"
@@ -1154,6 +1174,16 @@
             "id": "jsna-cstm-0081",
             "name": "벚꽃 포토그래프",
             "description": "【작은 야망】'25 벚꽃 주오 세나를 입수"
+        },
+        {
+            "id": "jsna-cstm-0104",
+            "name": "적나라",
+            "description": "【적나라】주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0105",
+            "name": "적나라",
+            "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
         },
         {
             "id": "jsna-cstm-0110",
