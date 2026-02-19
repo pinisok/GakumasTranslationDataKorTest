@@ -702,6 +702,42 @@
             "description": ""
         },
         {
+            "id": "cd_dis-costume_head_fktn-hair-0032",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_fktn-hair-0032",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_fktn-hair-0032",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_shro-hair-0031",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_shro-hair-0031",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_shro-hair-0031",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_ssmk-hair-0030",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_ssmk-hair-0030",
+            "description": ""
+        },
+        {
+            "id": "cd_dis-costume_head_ssmk-hair-0030",
+            "description": ""
+        },
+        {
             "id": "cd_draw_gasha-000240-ssr-idol-1",
             "description": ""
         },
@@ -807,6 +843,18 @@
         },
         {
             "id": "cd_gasha_not_have_ticket_10",
+            "description": ""
+        },
+        {
+            "id": "cd_have_costume_head_fktn-hair-0032",
+            "description": ""
+        },
+        {
+            "id": "cd_have_costume_head_shro-hair-0031",
+            "description": ""
+        },
+        {
+            "id": "cd_have_costume_head_ssmk-hair-0030",
             "description": ""
         },
         {
@@ -1358,11 +1406,23 @@
             "description": ""
         },
         {
+            "id": "cd_login_bonus_wednesday-26-02018",
+            "description": ""
+        },
+        {
             "id": "cd_login_bonus_wednesday-26-0204",
             "description": ""
         },
         {
             "id": "cd_login_bonus_wednesday-26-0211",
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0219",
+            "description": ""
+        },
+        {
+            "id": "cd_login_bonus_wednesday-26-0225",
             "description": ""
         },
         {
@@ -2178,6 +2238,10 @@
             "description": ""
         },
         {
+            "id": "cd_memory-dearness-unlock-jsna-release_open",
+            "description": ""
+        },
+        {
             "id": "cd_memory-dearness-unlock-kcna-release_open",
             "description": ""
         },
@@ -2884,6 +2948,10 @@
         {
             "id": "cd_producer_level-058",
             "description": "프로듀서 Lv58 이상에서 해금"
+        },
+        {
+            "id": "cd_producer_level-075",
+            "description": "프로듀서 Lv75 이상에서 해금"
         },
         {
             "id": "cd_producerlevel-10",
@@ -7630,6 +7698,42 @@
             "description": "츠키무라 테마리의 친밀도 Lv 27 도달"
         },
         {
+            "id": "cd-dearness_level10over-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level10over-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level10over-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level20-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level20-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level20-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level27under-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level27under-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-dearness_level27under-ssmk-shro-fktn",
+            "description": ""
+        },
+        {
             "id": "cd-dearness_normal-mission_amao-0001",
             "description": "친밀도 Lv 20 도달시"
         },
@@ -7655,7 +7759,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_jsna-0001",
-            "description": "친애도 부스트 캠페인 종료 후"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_jsna-0001",
@@ -11438,6 +11542,10 @@
             "description": ""
         },
         {
+            "id": "cd-ralease_dearness-story-jsna",
+            "description": ""
+        },
+        {
             "id": "cd-ralease_dearness-story-kcna",
             "description": ""
         },
@@ -13311,6 +13419,22 @@
         },
         {
             "id": "cd-shop_pack_item-item-first-live_003",
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_gasha-00760-pickup-000",
+            "description": ""
+        },
+        {
+            "id": "cd-startup_notification_gasha-00760-pickup-000",
             "description": ""
         },
         {

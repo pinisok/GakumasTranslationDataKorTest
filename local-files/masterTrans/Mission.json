@@ -198,6 +198,54 @@
             "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
+            "id": "dearness_event_relaunch_fktn-001",
+            "name": "후지타 코토네의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_fktn-002",
+            "name": "후지타 코토네의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_fktn-003",
+            "name": "후지타 코토네로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_fktn-004",
+            "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_relaunch_shro-001",
+            "name": "시노사와 히로의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_shro-002",
+            "name": "시노사와 히로의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_shro-003",
+            "name": "시노사와 히로로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_shro-004",
+            "name": "시노사와 히로로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_relaunch_ssmk-001",
+            "name": "시운 스미카의 댄스을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_ssmk-002",
+            "name": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_ssmk-003",
+            "name": "시운 스미카로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_ssmk-004",
+            "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_event_shro-001",
             "name": "시노사와 히로의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
         },
@@ -4896,6 +4944,38 @@
         {
             "id": "mission-research-event-003-mission_9",
             "name": "스킬 카드 「레인보우 드리머」을 소지하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_10",
+            "name": "스킬 카드 「천진난만」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_11",
+            "name": "스킬 카드 「존재감」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_2",
+            "name": "플랜 : 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_8",
+            "name": "스킬 카드 「국민적 아이돌」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-004-mission_9",
+            "name": "스킬 카드 「멈추지 않는 박수소리」을 소지하고 프로듀스를 클리어 하자"
         },
         {
             "id": "mission-story-event-001-mission_1",

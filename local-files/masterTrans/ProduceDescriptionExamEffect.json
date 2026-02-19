@@ -47,7 +47,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-            "name": "집중 효과 일시 증가"
+            "name": "집중 강화"
         },
         {
             "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",

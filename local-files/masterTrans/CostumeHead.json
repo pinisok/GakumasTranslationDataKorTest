@@ -366,6 +366,11 @@
             "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
         },
         {
+            "id": "costume_head_fktn-hair-0032",
+            "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 (포인트 컬러 어레인지)",
+            "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
             "id": "costume_head_hmsz-cstm-0011",
             "name": "달 거북이",
             "description": "【달 거북이】하타야 미스즈 입수"
@@ -1356,6 +1361,11 @@
             "description": "【선 페이디드】시노사와 히로 입수"
         },
         {
+            "id": "costume_head_shro-hair-0031",
+            "name": "선 페이디드 (포인트 컬러 어레인지)",
+            "description": "【선 페이디드】시노사와 히로를 입수"
+        },
+        {
             "id": "costume_head_ssmk-cstm-0009",
             "name": "Tame-Lie-One-Step",
             "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
@@ -1453,6 +1463,11 @@
         {
             "id": "costume_head_ssmk-hair-0010",
             "name": "Love & Joy (평소의 메이크업)",
+            "description": "【Love & Joy】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0030",
+            "name": "Love & Joy (포인트 컬러 어레인지)",
             "description": "【Love & Joy】시운 스미카 입수"
         },
         {

@@ -66,6 +66,18 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_relaunch_fktn_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_shro_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_ssmk_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_shro_01",
             "name": "친애도 부스트 캠페인"
         },
@@ -688,6 +700,10 @@
         {
             "id": "mission-group-research-event-003",
             "name": "아사리 세미나 003"
+        },
+        {
+            "id": "mission-group-research-event-004",
+            "name": "아사리 세미나 004"
         },
         {
             "id": "mission-group-story-event-001",
