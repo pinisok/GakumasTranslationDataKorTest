@@ -1293,6 +1293,22 @@
             "name": "샛별과 왕자님"
         },
         {
+            "id": "s_card-2-0070",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 중"
+                }
+            ],
+            "name": "세탁물 밸런스 타워"
+        },
+        {
             "id": "s_card-3-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2123,6 +2139,22 @@
                 }
             ],
             "name": "새로운 생활의 시작이네"
+        },
+        {
+            "id": "s_card-3-0052",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "합격 축하해!"
         },
         {
             "id": "s_card-3-0053",

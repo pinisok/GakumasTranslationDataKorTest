@@ -696,6 +696,36 @@
             "description": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hmsz-3-015-01",
+            "name": "포로가 되어라",
+            "description": "【ENDLESS DANCE】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-02",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-03",
+            "name": "사실상, 약속했습니다",
+            "description": "【ENDLESS DANCE】하타야 미스즈로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-04",
+            "name": "ENDLESS DANCE +",
+            "description": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-05",
+            "name": "ENDLESS DANCE ++",
+            "description": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-06",
+            "name": "ENDLESS DANCE +++",
+            "description": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hrnm-2-000-04",
             "name": "『나 다움』의 시작+",
             "description": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
@@ -1354,6 +1384,36 @@
             "id": "achieve-i_card-hume-3-012-06",
             "name": "Star-mine +++",
             "description": "【Star-mine】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-01",
+            "name": "미친 듯이 피어라!",
+            "description": "【ENDLESS DANCE】하나미 우메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-02",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-03",
+            "name": "서로 경쟁해 나가자!",
+            "description": "【ENDLESS DANCE】하나미 우메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-04",
+            "name": "ENDLESS DANCE +",
+            "description": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-05",
+            "name": "ENDLESS DANCE ++",
+            "description": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-06",
+            "name": "ENDLESS DANCE +++",
+            "description": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",

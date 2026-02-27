@@ -5294,6 +5294,34 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-tour-event-002-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-tour-event-002-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-tour-event-002-mission_3",
+            "name": "라이브 투어 이벤트를 {threshold}번 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-002-mission_4",
+            "name": "라이브 투어 이벤트에서 하코유레 Lv1 이상의 무대에 {threshold}번 도전해 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-002-mission_5",
+            "name": "라이브 투어 이벤트에서 하코유레 Lv2 이상의 무대에 {threshold}번 도전해 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-002-mission_6",
+            "name": "라이브 투어 이벤트에서 하코유레 Lv3 이상의 무대에 {threshold}번 도전해 클리어하자"
+        },
+        {
+            "id": "mission-tour-event-002-mission_7",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-weekly-competitionplaycount-1",
             "name": "링크 콘테스트에 {threshold}번 도전하자"
         },
@@ -6314,6 +6342,30 @@
             "name": "【Superlative】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hmsz-3-015-01",
+            "name": "【ENDLESS DANCE】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-02",
+            "name": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-03",
+            "name": "【ENDLESS DANCE】하타야 미스즈로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-04",
+            "name": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-05",
+            "name": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-015-06",
+            "name": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hrnm-2-000-04",
             "name": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"
         },
@@ -6840,6 +6892,30 @@
         {
             "id": "achieve-i_card-hume-3-012-06",
             "name": "【Star-mine】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-01",
+            "name": "【ENDLESS DANCE】하나미 우메의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-02",
+            "name": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-03",
+            "name": "【ENDLESS DANCE】하나미 우메로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-04",
+            "name": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-05",
+            "name": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hume-3-016-06",
+            "name": "【ENDLESS DANCE】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",

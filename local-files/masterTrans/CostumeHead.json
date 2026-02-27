@@ -88,7 +88,7 @@
         {
             "id": "costume_head_amao-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_amao-hair-0002",
@@ -118,7 +118,7 @@
         {
             "id": "costume_head_amao-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_amao-hair-0009",
@@ -323,7 +323,7 @@
         {
             "id": "costume_head_fktn-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_fktn-hair-0002",
@@ -333,22 +333,22 @@
         {
             "id": "costume_head_fktn-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 2월에서 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_fktn-hair-0008",
@@ -364,6 +364,11 @@
             "id": "costume_head_fktn-hair-0012",
             "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 (심플 어레인지)",
             "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 3월에서 획득 가능"
         },
         {
             "id": "costume_head_fktn-hair-0032",
@@ -448,7 +453,7 @@
         {
             "id": "costume_head_hmsz-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_hmsz-hair-0008",
@@ -553,7 +558,7 @@
         {
             "id": "costume_head_hrnm-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 7월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
         },
         {
             "id": "costume_head_hrnm-hair-0002",
@@ -563,7 +568,7 @@
         {
             "id": "costume_head_hrnm-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hrnm-hair-0004",
@@ -583,7 +588,7 @@
         {
             "id": "costume_head_hrnm-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hrnm-hair-0009",
@@ -678,7 +683,7 @@
         {
             "id": "costume_head_hski-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_hski-hair-0002",
@@ -693,17 +698,17 @@
         {
             "id": "costume_head_hski-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hski-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 2월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hski-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_hski-hair-0008",
@@ -714,6 +719,11 @@
             "id": "costume_head_hski-hair-0009",
             "name": "큼직한 리본",
             "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+        },
+        {
+            "id": "costume_head_hski-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 3월에서 획득 가능"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -801,6 +811,16 @@
             "description": "【Star-mine】하나미 우메의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_hume-cstm-0126",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메 입수"
+        },
+        {
+            "id": "costume_head_hume-cstm-0127",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】하나미 우메의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_hume-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(하나미 우메)을 구매"
@@ -813,22 +833,22 @@
         {
             "id": "costume_head_hume-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hume-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hume-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hume-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_hume-hair-0008",
@@ -838,7 +858,7 @@
         {
             "id": "costume_head_hume-hair-0009",
             "name": "큼직한 리본",
-            "description": "프리미엄 미션 패스 2025년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hume-schl-0000",
@@ -928,17 +948,17 @@
         {
             "id": "costume_head_jsna-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_jsna-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
         },
         {
             "id": "costume_head_jsna-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_jsna-hair-0008",
@@ -1053,7 +1073,7 @@
         {
             "id": "costume_head_kcna-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 7월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
         },
         {
             "id": "costume_head_kcna-hair-0002",
@@ -1063,22 +1083,22 @@
         {
             "id": "costume_head_kcna-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_kcna-hair-0008",
@@ -1088,7 +1108,7 @@
         {
             "id": "costume_head_kcna-hair-0009",
             "name": "큼직한 리본",
-            "description": "프리미엄 미션 패스 2025년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_kcna-hair-0013",
@@ -1173,7 +1193,7 @@
         {
             "id": "costume_head_kllj-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 7월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
         },
         {
             "id": "costume_head_kllj-hair-0002",
@@ -1183,7 +1203,7 @@
         {
             "id": "costume_head_kllj-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 9월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 9월에서 획득 가능"
         },
         {
             "id": "costume_head_kllj-hair-0004",
@@ -1203,7 +1223,7 @@
         {
             "id": "costume_head_kllj-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_kllj-hair-0009",
@@ -1318,7 +1338,7 @@
         {
             "id": "costume_head_shro-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_shro-hair-0002",
@@ -1333,17 +1353,17 @@
         {
             "id": "costume_head_shro-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_shro-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 3월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 3월에서 획득 가능 등"
         },
         {
             "id": "costume_head_shro-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_shro-hair-0008",
@@ -1353,7 +1373,7 @@
         {
             "id": "costume_head_shro-hair-0009",
             "name": "큼직한 리본",
-            "description": "프리미엄 미션 패스 2025년 12월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
         },
         {
             "id": "costume_head_shro-hair-0011",
@@ -1423,7 +1443,7 @@
         {
             "id": "costume_head_ssmk-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 6월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
         },
         {
             "id": "costume_head_ssmk-hair-0002",
@@ -1453,7 +1473,7 @@
         {
             "id": "costume_head_ssmk-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 10월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 10월에서 획득 가능 등"
         },
         {
             "id": "costume_head_ssmk-hair-0009",
@@ -1563,7 +1583,7 @@
         {
             "id": "costume_head_ttmr-hair-0001",
             "name": "수국 머리 장식",
-            "description": "프리미엄 미션 패스 2024년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_ttmr-hair-0002",
@@ -1573,22 +1593,22 @@
         {
             "id": "costume_head_ttmr-hair-0003",
             "name": "둥근 안경",
-            "description": "프리미엄 미션 패스 2024년 9월에 획득 가능"
+            "description": "프리미엄 미션 패스 2024년 9월에서 획득 가능"
         },
         {
             "id": "costume_head_ttmr-hair-0004",
             "name": "고양이 귀",
-            "description": "프리미엄 미션 패스 2024년 11월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2024년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_ttmr-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 2월에 획득 가능 등"
+            "description": "프리미엄 미션 패스 2025년 2월에서 획득 가능 등"
         },
         {
             "id": "costume_head_ttmr-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 5월에 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 5월에서 획득 가능"
         },
         {
             "id": "costume_head_ttmr-hair-0008",
@@ -1599,6 +1619,11 @@
             "id": "costume_head_ttmr-hair-0009",
             "name": "큼직한 리본",
             "description": "프리미엄 미션 패스 2025년 11월 에서 획득"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 3월에서 획득 가능"
         },
         {
             "id": "costume_head_ttmr-hair-0025",

@@ -594,6 +594,12 @@
             "acquisitionRouteDescription": "시즌 이벤트"
         },
         {
+            "id": "item-medal-tour-event-002",
+            "name": "시부야 투어 메달",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "라이브 투어 이벤트, 프로듀스"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "센스 코인",
             "description": "센스 가챠에 사용하는 코인",
@@ -816,6 +822,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_hmsz-3-015",
+            "name": "[ENDLESS DANCE]하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 교환소 등"
+        },
+        {
             "id": "item-piece-idol_hrnm-1-000",
             "name": "[학원생활] 히메사키 리나미의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -992,6 +1004,12 @@
         {
             "id": "item-piece-idol_hume-3-012",
             "name": "[Star-mine]하나미 우메의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_hume-3-016",
+            "name": "[ENDLESS DANCE]하나미 우메의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -1382,6 +1400,12 @@
         {
             "id": "item-play-ticket_tour-event-001",
             "name": "라이브 도전권 (오사카)",
+            "description": "라이브 투어 이벤트에서 스테이지에 도전할 수 있는 아이템",
+            "acquisitionRouteDescription": "시즌 이벤트"
+        },
+        {
+            "id": "item-play-ticket_tour-event-002",
+            "name": "라이브 도전권 (시부야)",
             "description": "라이브 투어 이벤트에서 스테이지에 도전할 수 있는 아이템",
             "acquisitionRouteDescription": "시즌 이벤트"
         },

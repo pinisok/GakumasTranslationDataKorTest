@@ -602,6 +602,14 @@
             "name": "미행의 달인"
         },
         {
+            "id": "comic4_0126",
+            "name": "옥상의 대화"
+        },
+        {
+            "id": "comic4_0127",
+            "name": "오늘의 깨달음"
+        },
+        {
             "id": "comic4_radio-0000",
             "name": "제 0화"
         },
@@ -656,6 +664,54 @@
         {
             "id": "movie-0011",
             "name": "하타야 미스즈 생일 미니 라이브 2026"
+        },
+        {
+            "id": "movie-0012",
+            "name": "Story of Re;IRIS 제1화"
+        },
+        {
+            "id": "movie-0013",
+            "name": "Story of Re;IRIS 제2화"
+        },
+        {
+            "id": "movie-0014",
+            "name": "Story of Re;IRIS 제3화"
+        },
+        {
+            "id": "movie-0015",
+            "name": "Story of Re;IRIS 제4화"
+        },
+        {
+            "id": "movie-0016",
+            "name": "Story of Re;IRIS 제5화"
+        },
+        {
+            "id": "movie-0017",
+            "name": "Story of Re;IRIS 제6화"
+        },
+        {
+            "id": "movie-0018",
+            "name": "Story of Re;IRIS 제7화"
+        },
+        {
+            "id": "movie-0019",
+            "name": "Story of Re;IRIS 제8화"
+        },
+        {
+            "id": "movie-0020",
+            "name": "Story of Re;IRIS 제9화"
+        },
+        {
+            "id": "movie-0021",
+            "name": "Story of Re;IRIS 제10화"
+        },
+        {
+            "id": "movie-0022",
+            "name": "Story of Re;IRIS 제11화"
+        },
+        {
+            "id": "movie-0023",
+            "name": "히메사키 리나미 생일 미니 라이브 2026"
         }
     ]
 }
