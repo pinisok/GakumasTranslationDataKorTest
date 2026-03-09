@@ -4978,6 +4978,38 @@
             "name": "스킬 카드 「멈추지 않는 박수소리」을 소지하고 프로듀스를 클리어 하자"
         },
         {
+            "id": "mission-research-event-005-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_10",
+            "name": "스킬 카드 「매혹적인 시선」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_11",
+            "name": "스킬 카드 「천진난만」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_2",
+            "name": "플랜：아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_8",
+            "name": "스킬 카드 「성취」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
+            "id": "mission-research-event-005-mission_9",
+            "name": "스킬 카드 「국민적 아이돌」을 소지하고 프로듀스를 클리어 하자"
+        },
+        {
             "id": "mission-story-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -7084,6 +7116,30 @@
         {
             "id": "achieve-i_card-jsna-3-015-06",
             "name": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-01",
+            "name": "【ENDLESS DANCE】주오 세나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-02",
+            "name": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-03",
+            "name": "【ENDLESS DANCE】주오 세나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-04",
+            "name": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-05",
+            "name": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-06",
+            "name": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-kcna-2-000-04",

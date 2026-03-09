@@ -282,6 +282,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-aniv-001",
+            "name": "곧 1주년 기념 가챠 10연 티켓",
+            "description": "곧 1주년 기념 10연 무료 티켓 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-christmas-001",
             "name": "크리스마스 가챠 10연 티켓",
             "description": "크리스마스 로그인 보너스 티켓 가챠에서 사용하는 티켓",
@@ -1068,6 +1074,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_jsna-3-016",
+            "name": "[ENDLESS DANCE]주오 세나의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_kcna-1-000",
             "name": "[학원생활] 쿠라모토 치나의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1459,6 +1471,12 @@
         },
         {
             "id": "item-research-event-004",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-005",
             "name": "아사리 선생님 인감",
             "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"

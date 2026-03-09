@@ -1626,6 +1626,36 @@
             "description": "【적나라】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-jsna-3-016-01",
+            "name": "미친 듯이 춤춰라!",
+            "description": "【ENDLESS DANCE】주오 세나의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-02",
+            "name": "ENDLESS DANCE",
+            "description": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-03",
+            "name": "각오해 둬……!",
+            "description": "【ENDLESS DANCE】주오 세나로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-04",
+            "name": "ENDLESS DANCE +",
+            "description": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-05",
+            "name": "ENDLESS DANCE ++",
+            "description": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-016-06",
+            "name": "ENDLESS DANCE +++",
+            "description": "【ENDLESS DANCE】주오 세나의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-kcna-2-000-04",
             "name": "가슴을 펴고 한 발자국씩+",
             "description": "【가슴을 펴고 한 걸음씩】쿠라모토 치나의 특훈 단계 {threshold} 달성"

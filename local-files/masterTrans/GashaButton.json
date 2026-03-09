@@ -37,6 +37,12 @@
             "description": "유료 10회 가챠"
         },
         {
+            "id": "gasha_button_merge-ssr-00770",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
             "id": "gasha_button-001-01",
             "order": 2,
             "name": "1회 가챠",
@@ -185,6 +191,12 @@
             "order": 1,
             "name": "유료 10회 가챠",
             "description": "유료 10회 가챠"
+        },
+        {
+            "id": "gasha_ticket_aniv-001",
+            "order": 3,
+            "name": "곧 1주년 기념 가챠 10연 티켓으로 뽑기",
+            "description": "10회 가챠"
         },
         {
             "id": "gasha_ticket_christmas-001",
