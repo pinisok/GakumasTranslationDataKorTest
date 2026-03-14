@@ -131,6 +131,11 @@
             "description": "【봐줘】아리무라 마오 입수"
         },
         {
+            "id": "costume_head_amao-hair-0035",
+            "name": "봐줘 (포인트 컬러 어레인지)",
+            "description": "【봐줘】아리무라 마오 입수"
+        },
+        {
             "id": "costume_head_atbm-cstm-0000",
             "name": "하지메",
             "description": "처음부터 소지"
@@ -594,6 +599,11 @@
             "id": "costume_head_hrnm-hair-0009",
             "name": "큼직한 리본",
             "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0033",
+            "name": "36℃ U･B･U (포인트 컬러 어레인지)",
+            "description": "【36℃ U･B･U】히메사키 리나미 입수"
         },
         {
             "id": "costume_head_hrnm-schl-0000",
@@ -1123,6 +1133,11 @@
         {
             "id": "costume_head_kcna-hair-0013",
             "name": "하늘과 약속 (심플 어레인지)",
+            "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-hair-0034",
+            "name": "하늘과 약속 (포인트 컬러 어레인지)",
             "description": "【하늘과 약속】쿠라모토 치나 입수"
         },
         {

@@ -344,6 +344,10 @@
         {
             "type": "ProduceEffectType_ProduceCardExcludeCountUp",
             "name": "스킬 카드 제거"
+        },
+        {
+            "type": 128,
+            "name": "라이벌 스코어"
         }
     ]
 }

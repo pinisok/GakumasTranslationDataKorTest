@@ -78,6 +78,34 @@
             "description": "획득 할 수 있는 주간 Pt가 최대에 도달했습니다"
         },
         {
+            "id": "produce_prepare.easy_mode_apply",
+            "description": "어시스트 모드 적용 중"
+        },
+        {
+            "id": "produce_prepare.easy_mode.continue_sheet.message",
+            "description": "어시스트 모드 설정을 해제하시겠습니까?"
+        },
+        {
+            "id": "produce_prepare.easy_mode.continue_sheet.title",
+            "description": "어시스트 모드 설정 확인"
+        },
+        {
+            "id": "produce_prepare.easy_mode.setting_sheet.confirm",
+            "description": "어시스트\\n모드 적용"
+        },
+        {
+            "id": "produce_prepare.easy_mode.setting_sheet.message",
+            "description": "다음 번 플레이할 {0} 난이도: {1}에 어시스트 모드를 적용하여 프로듀스를 시작할 수 있습니다."
+        },
+        {
+            "id": "produce_prepare.easy_mode.setting_sheet.title",
+            "description": "어시스트 모드 설정"
+        },
+        {
+            "id": "produce_prepare.easy_mode.start_produce_sheet.message",
+            "description": "어시스트 모드로 프로듀스 시작합니다\\n진행하시겠습니까?"
+        },
+        {
             "id": "produce_prepare.edit.warning",
             "description": "편성은 프로듀스마다 설정 가능합니다. 다른 프로듀스에서 설정하는 경우, 다른 프로듀스에는 적용되지 않습니다."
         },
@@ -124,6 +152,26 @@
         {
             "id": "research_event.target_idol_sheet.description",
             "description": "이벤트 모드 대상인 P아이돌만 이벤트 모드의 프로듀스에 도전할 수 있습니다"
+        },
+        {
+            "id": "setting.produce.easy_mode_confirm",
+            "description": "어시스트 모드 표시"
+        },
+        {
+            "id": "setting.produce.easy_mode_confirm.description",
+            "description": "이 항목을 ON으로 하면 조건을 보았을 때 어시스트 모드를 적용하기 위한 메시지가 표시됩니다."
+        },
+        {
+            "id": "setting.produce.easy_mode_setting",
+            "description": "어시스트 모드 설정"
+        },
+        {
+            "id": "setting.produce.easy_mode_setting.description",
+            "description": "이 항목을 ON으로 하면, \\nNEXT IDOL AUDITION의 난이도: 프로에 도전할 때 어시스트 모드가 됩니다."
+        },
+        {
+            "id": "setting.produce.easy_mode.title",
+            "description": "【프로듀스】어시스트 모드"
         },
         {
             "id": "shop.web_store.confirm.description",
