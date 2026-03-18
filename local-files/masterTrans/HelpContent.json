@@ -639,8 +639,14 @@
         },
         {
             "helpCategoryId": "help-livetour-event",
+            "id": "tour-event-bonus",
+            "order": 2,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
             "id": "tour-exchange",
-            "order": 7,
+            "order": 8,
             "name": "이벤트 교환소용 아이템"
         },
         {
@@ -652,31 +658,31 @@
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-idol",
-            "order": 4,
+            "order": 5,
             "name": "이벤트 보상 프로듀스 아이돌"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-play-ticket",
-            "order": 3,
+            "order": 4,
             "name": "라이브 도전권"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-reward",
-            "order": 6,
+            "order": 7,
             "name": "이벤트 보상"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-stage",
-            "order": 2,
+            "order": 3,
             "name": "이벤트 스테이지"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-story",
-            "order": 5,
+            "order": 6,
             "name": "이벤트 커뮤"
         },
         {
@@ -978,6 +984,12 @@
             "id": "produce-customize-customize",
             "order": 43,
             "name": "스킬 카드 커스터마이징"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-easy-mode",
+            "order": 54,
+            "name": "어시스트 모드"
         },
         {
             "helpCategoryId": "help-produce",
