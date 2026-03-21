@@ -997,6 +997,51 @@
             "text": "맞아.\n마음이 담긴 초콜릿은 기쁘네."
         },
         {
+            "supportCardId": "s_card-2-0070",
+            "number": 1,
+            "text": "そんなにいっぺんに運んで\nだいじょーぶか？"
+        },
+        {
+            "supportCardId": "s_card-2-0070",
+            "number": 2,
+            "text": "ふっふ～ん♪　よっと！"
+        },
+        {
+            "supportCardId": "s_card-2-0070",
+            "number": 3,
+            "text": "おぉ～～～崩れてない！　すげぇ～！"
+        },
+        {
+            "supportCardId": "s_card-2-0071",
+            "number": 1,
+            "text": "月村さん、奇遇ね。"
+        },
+        {
+            "supportCardId": "s_card-2-0071",
+            "number": 2,
+            "text": "よかったら一緒に\nハンバーガーを食べましょう。"
+        },
+        {
+            "supportCardId": "s_card-2-0071",
+            "number": 3,
+            "text": "ハ、ハンバーガー……？\n遠慮しますッ！！"
+        },
+        {
+            "supportCardId": "s_card-2-0072",
+            "number": 1,
+            "text": "姫、ここの敵はボクに任せて、\nお下がりください！"
+        },
+        {
+            "supportCardId": "s_card-2-0072",
+            "number": 2,
+            "text": "いいえ、\nあなたを見捨てるわけにはいかないわ！"
+        },
+        {
+            "supportCardId": "s_card-2-0072",
+            "number": 3,
+            "text": "はあああああっ！"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "자, 한 입 줄게!"
@@ -1782,6 +1827,21 @@
             "text": "우리들도, 분명――"
         },
         {
+            "supportCardId": "s_card-3-0052",
+            "number": 1,
+            "text": "さあっ、撮るわよ～！"
+        },
+        {
+            "supportCardId": "s_card-3-0052",
+            "number": 2,
+            "text": "合格おめでとう、佑芽！"
+        },
+        {
+            "supportCardId": "s_card-3-0052",
+            "number": 3,
+            "text": "よぉ～し補欠合格！\nこれでお姉ちゃんと一緒にいられるね！"
+        },
+        {
             "supportCardId": "s_card-3-0053",
             "number": 1,
             "text": "다, 다음 번엔 절대 안 질거야!"
@@ -2350,6 +2410,36 @@
             "supportCardId": "s_card-3-0090",
             "number": 3,
             "text": "……거기서, 뭐 해?"
+        },
+        {
+            "supportCardId": "s_card-3-0091",
+            "number": 1,
+            "text": "あれれ～？\nふたりとも苦しんでますね～？"
+        },
+        {
+            "supportCardId": "s_card-3-0091",
+            "number": 2,
+            "text": "こんなの、す、すっぱくないわよ！"
+        },
+        {
+            "supportCardId": "s_card-3-0091",
+            "number": 3,
+            "text": "わたしも……か、からくないです。"
+        },
+        {
+            "supportCardId": "s_card-3-0092",
+            "number": 1,
+            "text": "いっただっきまーす♪"
+        },
+        {
+            "supportCardId": "s_card-3-0092",
+            "number": 2,
+            "text": "あ。ペーストじゃ、なくなってる。"
+        },
+        {
+            "supportCardId": "s_card-3-0092",
+            "number": 3,
+            "text": "ひゃっ！　急に声をかけられたら\nびっくりするじゃない！"
         },
         {
             "supportCardId": "s_card-3-0098",

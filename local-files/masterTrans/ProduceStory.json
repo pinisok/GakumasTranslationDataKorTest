@@ -9,7 +9,7 @@
             "id": "p_story_002_amao_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -21,7 +21,7 @@
             "id": "p_story_002_amao_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -43,7 +43,7 @@
             "id": "p_story_002_amao_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -60,7 +60,7 @@
             "id": "p_story_002_amao_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -72,7 +72,7 @@
             "id": "p_story_002_atbm_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -84,7 +84,7 @@
             "id": "p_story_002_atbm_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -106,7 +106,7 @@
             "id": "p_story_002_atbm_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -123,7 +123,7 @@
             "id": "p_story_002_atbm_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -135,7 +135,7 @@
             "id": "p_story_002_fktn_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -147,7 +147,7 @@
             "id": "p_story_002_fktn_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -169,7 +169,7 @@
             "id": "p_story_002_fktn_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -186,7 +186,7 @@
             "id": "p_story_002_fktn_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -198,7 +198,7 @@
             "id": "p_story_002_hmsz_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -210,7 +210,7 @@
             "id": "p_story_002_hmsz_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -232,7 +232,7 @@
             "id": "p_story_002_hmsz_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -249,7 +249,7 @@
             "id": "p_story_002_hmsz_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -261,7 +261,7 @@
             "id": "p_story_002_hrnm_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -273,7 +273,7 @@
             "id": "p_story_002_hrnm_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -295,7 +295,7 @@
             "id": "p_story_002_hrnm_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -312,7 +312,7 @@
             "id": "p_story_002_hrnm_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -324,7 +324,7 @@
             "id": "p_story_002_hski_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -336,7 +336,7 @@
             "id": "p_story_002_hski_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -358,7 +358,7 @@
             "id": "p_story_002_hski_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -375,7 +375,7 @@
             "id": "p_story_002_hski_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -387,7 +387,7 @@
             "id": "p_story_002_hume_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -399,7 +399,7 @@
             "id": "p_story_002_hume_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -421,7 +421,7 @@
             "id": "p_story_002_hume_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -438,7 +438,7 @@
             "id": "p_story_002_hume_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -450,7 +450,7 @@
             "id": "p_story_002_jsna_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -462,7 +462,7 @@
             "id": "p_story_002_jsna_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -484,7 +484,7 @@
             "id": "p_story_002_jsna_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -501,7 +501,7 @@
             "id": "p_story_002_jsna_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -513,7 +513,7 @@
             "id": "p_story_002_kcna_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -525,7 +525,7 @@
             "id": "p_story_002_kcna_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -547,7 +547,7 @@
             "id": "p_story_002_kcna_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -564,7 +564,7 @@
             "id": "p_story_002_kcna_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -576,7 +576,7 @@
             "id": "p_story_002_kllj_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -588,7 +588,7 @@
             "id": "p_story_002_kllj_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -610,7 +610,7 @@
             "id": "p_story_002_kllj_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -627,7 +627,7 @@
             "id": "p_story_002_kllj_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -639,7 +639,7 @@
             "id": "p_story_002_shro_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -651,7 +651,7 @@
             "id": "p_story_002_shro_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -673,7 +673,7 @@
             "id": "p_story_002_shro_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -690,7 +690,7 @@
             "id": "p_story_002_shro_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -702,7 +702,7 @@
             "id": "p_story_002_ssmk_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -714,7 +714,7 @@
             "id": "p_story_002_ssmk_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -736,7 +736,7 @@
             "id": "p_story_002_ssmk_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -753,7 +753,7 @@
             "id": "p_story_002_ssmk_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -765,7 +765,7 @@
             "id": "p_story_002_ttmr_after-audition-a-normal-02",
             "title": "아직 여기서부터",
             "produceEventHintProduceConditionDescriptions": [
-                "１次オーディションで「メロBang!」を選択し合格する"
+                "1차 오디션에서 「멜로 Bang!」을 선택해 합격한다"
             ]
         },
         {
@@ -777,7 +777,7 @@
             "id": "p_story_002_ttmr_after-audition-b-normal-02",
             "title": "더 더 앞으로!",
             "produceEventHintProduceConditionDescriptions": [
-                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+                "2차 오디션에서 「GALAXY 뮤직」을 선택해 합격한다"
             ]
         },
         {
@@ -799,7 +799,7 @@
             "id": "p_story_002_ttmr_after-audition-mid-failure-01",
             "title": "다음 번에는 반드시",
             "produceEventHintProduceConditionDescriptions": [
-                "１次/２次オーディションで不合格になる"
+                "1차/2차 오디션에서 불합격한다"
             ]
         },
         {
@@ -816,7 +816,7 @@
             "id": "p_story_002_ttmr_ending-normal-02",
             "title": "Normal End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終オーディションに合格する"
+                "최종 오디션을 통과한다"
             ]
         },
         {
@@ -828,31 +828,31 @@
             "id": "p_story-001-amao-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-amao-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-amao-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-amao-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -869,24 +869,24 @@
             "id": "p_story-001-amao-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-amao-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-amao-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -898,16 +898,16 @@
             "id": "p_story-001-amao-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-amao-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -919,16 +919,16 @@
             "id": "p_story-001-amao-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-amao-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -950,47 +950,47 @@
             "id": "p_story-001-amao-ending-normal-01",
             "title": "【A End】진화된 나에게",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-amao-ending-normal-02",
             "title": "【B End】다음 스테이지를 향해",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-amao-ending-normal-03",
             "title": "【C End】믿고 나아가다",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-amao-ending-normal-04",
             "title": "【D End】꿈의 불을 계속 밝혀라!",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-amao-ending-normal-05",
             "title": "【E End】실패를 자양분으로",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-amao-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「可愛さとカッコよさ」を獲得する",
-                "アチーブメント「キミのおかげです」を獲得する",
-                "アチーブメント「カッコよさだけじゃない」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「멋짐과 귀여움」를 획득한다",
+                "업적 「당신 덕입니다」를 획득한다",
+                "업적 「멋있기만 한게 아니야」를 획득한다"
             ]
         },
         {
@@ -1017,73 +1017,73 @@
             "id": "p_story-001-amao-opening-normal-02",
             "title": "아리무라 마오 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-amao-opening-normal-03",
             "title": "아리무라 마오 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-amao-opening-normal-04",
             "title": "아리무라 마오 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-amao-opening-normal-05",
             "title": "아리무라 마오 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-amao-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "有村麻央のTrue Endをみる"
+                "아리무라 마오의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-amao-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "有村麻央のTrue Endをみる"
+                "아리무라 마오의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-atbm-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-atbm-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-atbm-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-atbm-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -1100,24 +1100,24 @@
             "id": "p_story-001-atbm-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-atbm-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-atbm-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -1129,16 +1129,16 @@
             "id": "p_story-001-atbm-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-atbm-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1150,16 +1150,16 @@
             "id": "p_story-001-atbm-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-atbm-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1181,47 +1181,47 @@
             "id": "p_story-001-atbm-ending-normal-01",
             "title": "【A End】지극히 자연스러운 욕구",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-atbm-ending-normal-02",
             "title": "【B End】너무나 무거운 기대",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-atbm-ending-normal-03",
             "title": "【C End】명운을 맡길 각오 ",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-atbm-ending-normal-04",
             "title": "【D End】절대 놓치지 않아",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-atbm-ending-normal-05",
             "title": "【E End】목숨을 건 약속",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-atbm-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「すべて一級品」を獲得する",
-                "アチーブメント「貴様は私を支えろ」を獲得する",
-                "アチーブメント「学園No.2の実力」を獲得する"
+                "최종 시험을 1위로 합격하기 ",
+                "업적 「모든 것이 일급품」을 획득하기 ",
+                "업적 「네놈은 나를 지탱해라」를 획득하기 ",
+                "업적 「학원 No.2의 실력」을 획득하기"
             ]
         },
         {
@@ -1248,73 +1248,73 @@
             "id": "p_story-001-atbm-opening-normal-02",
             "title": "아마야 츠바메 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-atbm-opening-normal-03",
             "title": "아마야 츠바메 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-atbm-opening-normal-04",
             "title": "아마야 츠바메 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-atbm-opening-normal-05",
             "title": "아마야 츠바메 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-atbm-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "雨夜燕のTrue Endをみる"
+                "아마야 츠바메의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-atbm-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "雨夜燕のTrue Endをみる"
+                "아마야 츠바메의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-fktn-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-fktn-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-fktn-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-fktn-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -1331,24 +1331,24 @@
             "id": "p_story-001-fktn-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-fktn-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-fktn-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -1360,16 +1360,16 @@
             "id": "p_story-001-fktn-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-fktn-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1381,16 +1381,16 @@
             "id": "p_story-001-fktn-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-fktn-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1412,47 +1412,47 @@
             "id": "p_story-001-fktn-ending-normal-01",
             "title": "【A End】보답은 손수 만든 요리로",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-fktn-ending-normal-02",
             "title": "【B End】빚은 갚아야 한다",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-fktn-ending-normal-03",
             "title": "【C End】돈을 위해서라면！",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-fktn-ending-normal-04",
             "title": "【D End】아쉬움을 발판삼아",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-fktn-ending-normal-05",
             "title": "【E End】양은 다시 떠오른다",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-fktn-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「軽快ステップ」を獲得する",
-                "アチーブメント「ぷろでゅ～さぁ～♡」を獲得する",
-                "アチーブメント「アイドル適正S」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「경쾌한 스텝」를 획득한다",
+                "업적 「프로듀우~서~♡」를 획득한다",
+                "업적 「아이돌 적성S」를 획득한다"
             ]
         },
         {
@@ -1479,73 +1479,73 @@
             "id": "p_story-001-fktn-opening-normal-02",
             "title": "후지타 코토네 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-fktn-opening-normal-03",
             "title": "후지타 코토네 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-fktn-opening-normal-04",
             "title": "후지타 코토네 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-fktn-opening-normal-05",
             "title": "후지타 코토네 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-fktn-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "藤田ことねのTrue Endをみる"
+                "후지타 코토네의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-fktn-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "藤田ことねのTrue Endをみる"
+                "후지타 코토네의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -1562,24 +1562,24 @@
             "id": "p_story-001-hmsz-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -1591,16 +1591,16 @@
             "id": "p_story-001-hmsz-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1612,16 +1612,16 @@
             "id": "p_story-001-hmsz-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hmsz-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1643,47 +1643,48 @@
             "id": "p_story-001-hmsz-ending-normal-01",
             "title": "【A End】함께, 꾸벅꾸벅",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-ending-normal-02",
             "title": "【B End】설령 타락할지라도",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hmsz-ending-normal-03",
             "title": "【C End】바라는 대로의 나날",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-hmsz-ending-normal-04",
             "title": "【D End】앞으로도 오래도록",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-hmsz-ending-normal-05",
             "title": "【E End】차 한잔 하세요",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-hmsz-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「高いところで」を獲得する",
-                "アチーブメント「さすがです、プロデューサー」を獲得する",
-                "アチーブメント「今日は曇り空」を獲得する"
+                " 최종 시험을 1위로 합격",
+                " 미정의 패턴 (Type: LatestAuditionRank, ResourceID1: , ResourceID2: , MinMaxType: MIN_MAX, Min: 1, Max: 1)",
+                " 업적 「높은 곳에서」를 획득하다",
+                " 업적 「역시 프로듀서네요」를 획득하다",
+                " 업적 「오늘은 흐린 하늘」을 획득하다"
             ]
         },
         {
@@ -1710,73 +1711,73 @@
             "id": "p_story-001-hmsz-opening-normal-02",
             "title": "하타야 미스즈, 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hmsz-opening-normal-03",
             "title": "하타야 미스즈, 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hmsz-opening-normal-04",
             "title": "하타야 미스즈, 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hmsz-opening-normal-05",
             "title": "하타야 미스즈, 시동!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hmsz-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "秦谷美鈴のTrue Endをみる"
+                "하타야 미스즈의 True End를 보기"
             ]
         },
         {
             "id": "p_story-001-hmsz-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "秦谷美鈴のTrue Endをみる"
+                "하타야 미스즈의 True End를 보기"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -1793,24 +1794,24 @@
             "id": "p_story-001-hrnm-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -1822,16 +1823,16 @@
             "id": "p_story-001-hrnm-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1843,16 +1844,16 @@
             "id": "p_story-001-hrnm-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hrnm-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -1874,47 +1875,47 @@
             "id": "p_story-001-hrnm-ending-normal-01",
             "title": "【A End】황금빛으로 빛나는 풍경",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-ending-normal-02",
             "title": "【B End】자연스러울 수 있도록",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hrnm-ending-normal-03",
             "title": "【C End】큰 무대를 향해",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-hrnm-ending-normal-04",
             "title": "【D End】내일부터 다시",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-hrnm-ending-normal-05",
             "title": "【E End】또 일어서서",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-hrnm-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「優しい笑顔」を獲得する",
-                "アチーブメント「私はきみの……」を獲得する",
-                "アチーブメント「心に潤いを」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「상냥한 미소」를 획득한다",
+                "업적 「나는 너의……」를 획득한다",
+                "업적 「마음에 여유를」를 획득한다"
             ]
         },
         {
@@ -1941,73 +1942,73 @@
             "id": "p_story-001-hrnm-opening-normal-02",
             "title": "히메사키 리나미 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hrnm-opening-normal-03",
             "title": "히메사키 리나미 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hrnm-opening-normal-04",
             "title": "히메사키 리나미 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hrnm-opening-normal-05",
             "title": "히메사키 리나미 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hrnm-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "姫崎莉波のTrue Endをみる"
+                "히메사키 리나미의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hrnm-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "姫崎莉波のTrue Endをみる"
+                "히메사키 리나미의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hski-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-hski-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hski-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hski-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -2024,24 +2025,24 @@
             "id": "p_story-001-hski-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hski-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hski-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -2053,16 +2054,16 @@
             "id": "p_story-001-hski-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hski-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2074,16 +2075,16 @@
             "id": "p_story-001-hski-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hski-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2105,47 +2106,47 @@
             "id": "p_story-001-hski-ending-normal-01",
             "title": "【A End】내일을 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hski-ending-normal-02",
             "title": "【B End】믿고 진행하세요!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hski-ending-normal-03",
             "title": "【C End】당신이라서 다행이야",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-hski-ending-normal-04",
             "title": "【D End】즐거운 프로듀싱",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-hski-ending-normal-05",
             "title": "【E End】회개 반성회",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-hski-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「オールラウンダー」を獲得する",
-                "アチーブメント「期待してるからっ！」を獲得する",
-                "アチーブメント「合格は当たり前」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「올 라운더」를 획득한다",
+                "업적 「기대하고 있으니까!」를 획득한다",
+                "업적 「합격은 당연한 것」를 획득한다"
             ]
         },
         {
@@ -2172,73 +2173,73 @@
             "id": "p_story-001-hski-opening-normal-02",
             "title": "하나미 사키 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hski-opening-normal-03",
             "title": "하나미 사키 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hski-opening-normal-04",
             "title": "하나미 사키 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hski-opening-normal-05",
             "title": "하나미 사키 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hski-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "花海咲季のTrue Endをみる"
+                "하나미 사키의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hski-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "花海咲季のTrue Endをみる"
+                "하나미 사키의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hume-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-hume-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hume-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hume-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -2255,24 +2256,24 @@
             "id": "p_story-001-hume-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hume-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hume-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -2284,16 +2285,16 @@
             "id": "p_story-001-hume-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hume-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2305,16 +2306,16 @@
             "id": "p_story-001-hume-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hume-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2336,47 +2337,47 @@
             "id": "p_story-001-hume-ending-normal-01",
             "title": "【A End】즐거운 휴일의 시작",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-hume-ending-normal-02",
             "title": "【B End】이상한 아이돌",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-hume-ending-normal-03",
             "title": "【C End】역시 직감은 맞는다",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-hume-ending-normal-04",
             "title": "【D End】함께 리벤지",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-hume-ending-normal-05",
             "title": "【E End】다음을 향해",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-hume-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「着実な進歩」を獲得する",
-                "アチーブメント「プロデューサーさんっ！」を獲得する",
-                "アチーブメント「溢れ出る元気」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「착실한 진보」를 획득한다",
+                "업적 「프로듀서님!」를 획득한다",
+                "업적 「넘치는 활력」를 획득한다"
             ]
         },
         {
@@ -2403,73 +2404,73 @@
             "id": "p_story-001-hume-opening-normal-02",
             "title": "하나미 우메, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hume-opening-normal-03",
             "title": "하나미 우메, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-hume-opening-normal-04",
             "title": "하나미 우메, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hume-opening-normal-05",
             "title": "하나미 우메, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-hume-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "花海佑芽のTrue Endをみる"
+                "하나미 우메의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-hume-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "花海佑芽のTrue Endをみる"
+                "하나미 우메의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-jsna-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-jsna-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-jsna-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-jsna-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -2486,24 +2487,24 @@
             "id": "p_story-001-jsna-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-jsna-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-jsna-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -2515,16 +2516,16 @@
             "id": "p_story-001-jsna-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-jsna-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2536,16 +2537,16 @@
             "id": "p_story-001-jsna-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-jsna-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2567,47 +2568,47 @@
             "id": "p_story-001-jsna-ending-normal-01",
             "title": "【A End】주오 세나에 대한 소망",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-jsna-ending-normal-02",
             "title": "【B End】멋진 조언",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-jsna-ending-normal-03",
             "title": "【C End】세나 전용 플랜",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-jsna-ending-normal-04",
             "title": "【D End】자신의 가치",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-jsna-ending-normal-05",
             "title": "【E End】끝까지 함께",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-jsna-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「完全無欠」を獲得する",
-                "アチーブメント「見ていて、先輩」を獲得する",
-                "アチーブメント「積み上げてきたもの」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「완전무결」 달성하기",
+                "업적 「보고 있어줘, 선배」 달성하기",
+                "업적 「쌓아온 것들」 달성하기"
             ]
         },
         {
@@ -2634,73 +2635,73 @@
             "id": "p_story-001-jsna-opening-normal-02",
             "title": "주오 세나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-jsna-opening-normal-03",
             "title": "주오 세나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-jsna-opening-normal-04",
             "title": "주오 세나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-jsna-opening-normal-05",
             "title": "주오 세나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-jsna-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "十王星南のTrue Endをみる"
+                "주오 세나의 True End 보기"
             ]
         },
         {
             "id": "p_story-001-jsna-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "十王星南のTrue Endをみる"
+                "주오 세나의 True End 보기"
             ]
         },
         {
             "id": "p_story-001-kcna-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-kcna-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-kcna-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-kcna-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -2717,24 +2718,24 @@
             "id": "p_story-001-kcna-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-kcna-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-kcna-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -2746,16 +2747,16 @@
             "id": "p_story-001-kcna-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kcna-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2767,16 +2768,16 @@
             "id": "p_story-001-kcna-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kcna-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2798,47 +2799,47 @@
             "id": "p_story-001-kcna-ending-normal-01",
             "title": "【A End】꿈을 이루기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-kcna-ending-normal-02",
             "title": "【B End】아주 좋은 결과",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-kcna-ending-normal-03",
             "title": "【C End】반드시 좋은 아이돌이 될 거야!",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-kcna-ending-normal-04",
             "title": "【D End】공부도 중요합니다",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-kcna-ending-normal-05",
             "title": "【E End】성장의 증표",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-kcna-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「ダメダメだって頑張ってる」を獲得する",
-                "アチーブメント「先生っ！！」を獲得する",
-                "アチーブメント「元気一点突破」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「잘 안되더라도 힘내고 있어」를 획득한다",
+                "업적 「선생님!!」를 획득한다",
+                "업적 「활기차게 일점 돌파」를 획득한다"
             ]
         },
         {
@@ -2865,73 +2866,73 @@
             "id": "p_story-001-kcna-opening-normal-02",
             "title": "쿠라모토 치나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-kcna-opening-normal-03",
             "title": "쿠라모토 치나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-kcna-opening-normal-04",
             "title": "쿠라모토 치나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kcna-opening-normal-05",
             "title": "쿠라모토 치나, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kcna-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "倉本千奈のTrue Endをみる"
+                "쿠라모토 치나의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-kcna-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "倉本千奈のTrue Endをみる"
+                "쿠라모토 치나의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-kllj-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-kllj-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-kllj-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-kllj-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -2948,24 +2949,24 @@
             "id": "p_story-001-kllj-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-kllj-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-kllj-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -2977,16 +2978,16 @@
             "id": "p_story-001-kllj-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kllj-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -2998,16 +2999,16 @@
             "id": "p_story-001-kllj-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kllj-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3029,47 +3030,47 @@
             "id": "p_story-001-kllj-ending-normal-01",
             "title": "【A End】축하는 성대하게!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-kllj-ending-normal-02",
             "title": "【B End】돌아오는 길의 반성회",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-kllj-ending-normal-03",
             "title": "【C End】릴리야식 스트레스 해소법",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-kllj-ending-normal-04",
             "title": "【D End】성장에 필요한 것",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-kllj-ending-normal-05",
             "title": "【E End】다시 한번, 함께",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-kllj-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「楽しませる喜び」を獲得する",
-                "アチーブメント「センパイと一緒なら……」を獲得する",
-                "アチーブメント「アイドル初心者」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「즐거움을 주는 기쁨」를 획득한다",
+                "업적 「선배와 함께라면……」를 획득한다",
+                "업적 「아이돌 초보자」를 획득한다"
             ]
         },
         {
@@ -3096,73 +3097,73 @@
             "id": "p_story-001-kllj-opening-normal-02",
             "title": "카츠라기 릴리야, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-kllj-opening-normal-03",
             "title": "카츠라기 릴리야, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-kllj-opening-normal-04",
             "title": "카츠라기 릴리야, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kllj-opening-normal-05",
             "title": "카츠라기 릴리야, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-kllj-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "葛城リーリヤのTrue Endをみる"
+                "카츠라기 릴리야의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-kllj-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "葛城リーリヤのTrue Endをみる"
+                "카츠라기 릴리야의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-shro-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-shro-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-shro-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-shro-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -3179,24 +3180,24 @@
             "id": "p_story-001-shro-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-shro-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-shro-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -3208,16 +3209,16 @@
             "id": "p_story-001-shro-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-shro-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3229,16 +3230,16 @@
             "id": "p_story-001-shro-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-shro-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3260,47 +3261,47 @@
             "id": "p_story-001-shro-ending-normal-01",
             "title": "【A End】프로듀서는 오니",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-shro-ending-normal-02",
             "title": "【B End】무서운 것은...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-shro-ending-normal-03",
             "title": "【C End】최고의 결과",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-shro-ending-normal-04",
             "title": "【D End】쫄깃쫄깃한 프로듀스",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-shro-ending-normal-05",
             "title": "【E End】원하던 것",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-shro-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「ミステリアスガール」を獲得する",
-                "アチーブメント「まだ見捨てない？」を獲得する",
-                "アチーブメント「才能なしでもやれること」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「미스테리어스 걸」를 획득한다",
+                "업적 「아직 안 버리는 거야?」를 획득한다",
+                "업적 「재능 없이도 할 수 있는 것」를 획득한다"
             ]
         },
         {
@@ -3327,73 +3328,73 @@
             "id": "p_story-001-shro-opening-normal-02",
             "title": "시노사와 히로, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-shro-opening-normal-03",
             "title": "시노사와 히로, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-shro-opening-normal-04",
             "title": "시노사와 히로, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-shro-opening-normal-05",
             "title": "시노사와 히로, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-shro-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "篠澤広のTrue Endをみる"
+                "시노사와 히로의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-shro-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "篠澤広のTrue Endをみる"
+                "시노사와 히로의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -3410,24 +3411,24 @@
             "id": "p_story-001-ssmk-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -3439,16 +3440,16 @@
             "id": "p_story-001-ssmk-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3460,16 +3461,16 @@
             "id": "p_story-001-ssmk-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ssmk-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3491,47 +3492,47 @@
             "id": "p_story-001-ssmk-ending-normal-01",
             "title": "【A End】다음 목표 장소",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-ending-normal-02",
             "title": "【B End】아무리 높은 벽도",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-ssmk-ending-normal-03",
             "title": "【C End】정상에 오를 때까지 기다리세요",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-ssmk-ending-normal-04",
             "title": "【D End】잠깐, 다시 한 번",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-ssmk-ending-normal-05",
             "title": "【E End】포기할 때까지",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-ssmk-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「未来へのステップ」を獲得する",
-                "アチーブメント「ありがと、Pっち」を獲得する",
-                "アチーブメント「本気を出せば」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「미래를 향한 스텝」를 획득한다",
+                "업적 「고마워, 핏치」를 획득한다",
+                "업적 「진심으로 임하면」를 획득한다"
             ]
         },
         {
@@ -3558,73 +3559,73 @@
             "id": "p_story-001-ssmk-opening-normal-02",
             "title": "시운 스미카, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-ssmk-opening-normal-03",
             "title": "시운 스미카, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-ssmk-opening-normal-04",
             "title": "시운 스미카, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ssmk-opening-normal-05",
             "title": "시운 스미카, 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ssmk-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "紫雲清夏のTrue Endをみる"
+                "시운 스미카의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-ssmk-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "紫雲清夏のTrue Endをみる"
+                "시운 스미카의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-audition-final-failure-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で不合格"
+                "최종 시험에서 불합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-audition-final-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-audition-final-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-audition-final-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 3위로 합격"
             ]
         },
         {
@@ -3641,24 +3642,24 @@
             "id": "p_story-001-ttmr-after-audition-mid-normal-01",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-audition-mid-normal-02",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-audition-mid-normal-03",
             "title": "시험 결과는...",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "中間試験を3位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "중간시험을 3위로 합격"
             ]
         },
         {
@@ -3670,16 +3671,16 @@
             "id": "p_story-001-ttmr-after-step-1-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-step-1-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3691,16 +3692,16 @@
             "id": "p_story-001-ttmr-after-step-2-normal-01",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度7以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+                "친애도를 7 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 80%이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ttmr-after-step-2-normal-02",
             "title": "신경쓰이는 모습",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+                "친애도를 4 이상으로 만든다",
+                "프로듀스의 시험 전 파라미터를 심사 기준의 50%이상으로 만든다"
             ]
         },
         {
@@ -3722,47 +3723,47 @@
             "id": "p_story-001-ttmr-ending-normal-01",
             "title": "【A End】맛있는 라면",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を1位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 1위로 합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-ending-normal-02",
             "title": "【B End】과일 파르페",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする",
-                "最終試験を2位で合格する"
+                "친애도를 4 이상으로 만든다",
+                "최종시험을 2위로 합격"
             ]
         },
         {
             "id": "p_story-001-ttmr-ending-normal-03",
             "title": "【C End】딸기 쇼트케이크",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に合格する"
+                "최종 시험 통과"
             ]
         },
         {
             "id": "p_story-001-ttmr-ending-normal-04",
             "title": "【D End】당근 케이크",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で4位または5位になる"
+                "최종시험에서 4위 또는 5위가 된다"
             ]
         },
         {
             "id": "p_story-001-ttmr-ending-normal-05",
             "title": "【E End】다음에는 좋아하는 것을",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験で6位になる"
+                "최종시험에서 6위가 된다"
             ]
         },
         {
             "id": "p_story-001-ttmr-ending-true-01",
             "title": "True End",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験を1位で合格する",
-                "アチーブメント「歌姫」を獲得する",
-                "アチーブメント「そんなに私がいいんだ？」を獲得する",
-                "アチーブメント「妥協はナシ」を獲得する"
+                "최종시험을 1위로 합격",
+                "업적 「가희」를 획득한다",
+                "업적 「그렇게나 내가 좋구나?」를 획득한다",
+                "업적 「타협은 없어」를 획득한다"
             ]
         },
         {
@@ -3789,42 +3790,42 @@
             "id": "p_story-001-ttmr-opening-normal-02",
             "title": "츠키무라 테마리 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-ttmr-opening-normal-03",
             "title": "츠키무라 테마리 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "プロデュースを開始する"
+                "프로듀스를 개시한다"
             ]
         },
         {
             "id": "p_story-001-ttmr-opening-normal-04",
             "title": "츠키무라 테마리 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ttmr-opening-normal-05",
             "title": "츠키무라 테마리 시작!",
             "produceEventHintProduceConditionDescriptions": [
-                "親愛度4以上にする"
+                "친애도를 4 이상으로 만든다"
             ]
         },
         {
             "id": "p_story-001-ttmr-opening-true-01",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "月村手毬のTrue Endをみる"
+                "츠키무라 테마리의 True End를 본다"
             ]
         },
         {
             "id": "p_story-001-ttmr-opening-true-02",
             "title": "꿈에 더 가까워지기 위해",
             "produceEventHintProduceConditionDescriptions": [
-                "月村手毬のTrue Endをみる"
+                "츠키무라 테마리의 True End를 본다"
             ]
         },
         {
@@ -11223,6 +11224,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hski-3-017-01",
+            "title": "Wildest Flower 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-017-02",
+            "title": "Wildest Flower 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hski-3-017-03",
+            "title": "Wildest Flower 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hume-3-000-01",
             "title": "The Rolling Riceball 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -12838,6 +12854,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0072-01",
+            "title": "배우로서는 대성공",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0072-02",
+            "title": "있는 그대로의 너로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『친구』런치",
             "produceEventHintProduceConditionDescriptions": []
@@ -14215,6 +14241,21 @@
         {
             "id": "p_story-s_card-3-0091-03",
             "title": "졸업해도 도와주기",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0092-01",
+            "title": "또 한 명의 여동생?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0092-02",
+            "title": "인사해도 돼?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0092-03",
+            "title": "요리를 맛있게 만드는 것",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

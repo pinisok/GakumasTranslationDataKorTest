@@ -134,6 +134,16 @@
             "id": "highscorerush-event-009_box_01_button",
             "name": "뽑기",
             "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-010_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-011_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
         }
     ]
 }

@@ -18,6 +18,10 @@
             "name": "아이돌 미션 리나미"
         },
         {
+            "id": "dearness_normal-mission_hski_01",
+            "name": "아이돌 미션 사키"
+        },
+        {
             "id": "dearness_normal-mission_jsna_01",
             "name": "아이돌 미션 세나"
         },
@@ -54,6 +58,10 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_hski_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_jsna_01",
             "name": "친애도 부스트 캠페인"
         },
@@ -66,7 +74,19 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_relaunch_amao_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_relaunch_fktn_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_hrnm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_kcna_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -196,6 +216,34 @@
         {
             "id": "mission-group-comeback_daily_release_mission_001_7",
             "name": "복귀 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_1",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_2",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_3",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_4",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_5",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_6",
+            "name": "컴백 데일리 미션 미션"
+        },
+        {
+            "id": "mission-group-comeback_daily_release_mission_003_7",
+            "name": "컴백 데일리 미션 미션"
         },
         {
             "id": "mission-group-daily_mission_NIA_clear_1",
@@ -479,6 +527,26 @@
         },
         {
             "id": "mission-group-highscorerush-event-010_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_5",
             "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
         },
         {

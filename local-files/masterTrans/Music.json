@@ -118,6 +118,30 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-022-teama",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-022-teamb",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
+            "id": "music-all-022-teamc",
+            "title": "SEARCH RIGHT",
+            "displayTitle": "SEARCH RIGHT",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "스즈키 신지",
+            "arranger": "스즈키 신지"
+        },
+        {
             "id": "music-all-amao-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -876,6 +900,14 @@
             "lyrics": "SHOW (Digz, Inc. Group)",
             "composer": "SHOW (Digz, Inc. Group), Mitsu.J (Digz, Inc. Group)",
             "arranger": "Mitsu.J (Digz, Inc. Group)"
+        },
+        {
+            "id": "music-all-jsna-014",
+            "title": "ENDLESS DANCE",
+            "displayTitle": "ENDLESS DANCE",
+            "lyrics": "슈토 요시카츠",
+            "composer": "슈토 요시카츠",
+            "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
             "id": "music-all-kcna-001",
@@ -2100,6 +2132,22 @@
             "lyrics": "Kijibato(Dream Monster)",
             "composer": "Kijibato(Dream Monster)",
             "arranger": "Kijibato(Dream Monster)"
+        },
+        {
+            "id": "music-char-hski-004",
+            "title": "Wildest Flower",
+            "displayTitle": "Wildest Flower",
+            "lyrics": "HIROMI",
+            "composer": "Giga",
+            "arranger": "Giga"
+        },
+        {
+            "id": "music-char-hski-004-inst",
+            "title": "Wildest Flower [Instrumental]",
+            "displayTitle": "Wildest Flower [Instrumental]",
+            "lyrics": "HIROMI",
+            "composer": "Giga",
+            "arranger": "Giga"
         },
         {
             "id": "music-char-hume-001",

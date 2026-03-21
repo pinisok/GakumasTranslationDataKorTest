@@ -1206,6 +1206,36 @@
             "description": "【전력을 다해 가자!】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hski-3-017-01",
+            "name": "선명하게 피어나는 꽃",
+            "description": "【Wildest Flower】하나미 사키의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-02",
+            "name": "Wildest Flower",
+            "description": "【Wildest Flower】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-03",
+            "name": "이건 내 거야!",
+            "description": "【Wildest Flower】하나미 사키로 최종 시험에서 평가 A+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-04",
+            "name": "Wildest Flower +",
+            "description": "【Wildest Flower】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-05",
+            "name": "Wildest Flower ++",
+            "description": "【Wildest Flower】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-06",
+            "name": "Wildest Flower +++",
+            "description": "【Wildest Flower】하나미 사키의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hume-2-000-01",
             "name": "타도 언니",
             "description": "【아이돌, 시작!】하나미 우메의 프로듀스로 최종 시험에 합격"
@@ -4469,6 +4499,11 @@
             "id": "achieve-p_idol-jsna-021",
             "name": "함께 나아가자",
             "description": "주오 세나로 최종 시험에서 평가 SS+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-jsna-022",
+            "name": "샛별의 품격",
+            "description": "주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-p_idol-jsna-023",

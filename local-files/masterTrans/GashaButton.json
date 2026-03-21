@@ -79,6 +79,18 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00800-free-10-06",
+            "order": 3,
+            "name": "10연 무료, 최대 100연 무료 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-00810-ticket-001",
+            "order": 3,
+            "name": "티켓으로 10회 뽑기",
+            "description": "10회 가챠"
+        },
+        {
             "id": "gasha_button-010-item_01",
             "order": 3,
             "name": "10회 아이템 가챠",

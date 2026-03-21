@@ -295,7 +295,7 @@
         },
         {
             "type": "ProduceEffectType_AuditionNpcEnhance",
-            "name": "라이벌 점수 증가"
+            "name": "라이벌 스코어"
         },
         {
             "type": "ProduceEffectType_ShopPriceUpMultiple",

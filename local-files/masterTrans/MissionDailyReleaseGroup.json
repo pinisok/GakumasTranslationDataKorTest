@@ -10,6 +10,10 @@
             "name": "복귀 미션"
         },
         {
+            "id": "mission-group-comeback_daily_release_mission_003_daily",
+            "name": "컴백 데일리 미션"
+        },
+        {
             "id": "mission-group-daily_mission_NIA_clear_daily",
             "name": "프로듀스 「N.I.A」 챌린지 미션"
         },
@@ -55,6 +59,14 @@
         },
         {
             "id": "mission-group-highscorerush-event-009_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-010_daily",
+            "name": "이벤트 미션"
+        },
+        {
+            "id": "mission-group-highscorerush-event-011_daily",
             "name": "이벤트 미션"
         },
         {

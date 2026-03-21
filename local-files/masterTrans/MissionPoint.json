@@ -10,6 +10,10 @@
             "name": "복귀 미션 포인트"
         },
         {
+            "id": "comeback_daily_release_mission_003_point",
+            "name": "컴백 데일리 미션 포인트 (제2탄)"
+        },
+        {
             "id": "daily_mission_NIA_clear_point",
             "name": "N.I.A 챌린지 Pt"
         },
@@ -63,6 +67,14 @@
         },
         {
             "id": "highscorerush-event-009_point",
+            "name": "이벤트 포인트"
+        },
+        {
+            "id": "highscorerush-event-010_point",
+            "name": "이벤트 포인트"
+        },
+        {
+            "id": "highscorerush-event-011_point",
             "name": "이벤트 포인트"
         },
         {
