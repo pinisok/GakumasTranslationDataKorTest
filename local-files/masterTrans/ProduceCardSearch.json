@@ -423,7 +423,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-0_032",
-                    "text": "팬 서비스의 기본"
+                    "text": "팬서비스의 기본"
                 }
             ]
         },
@@ -458,7 +458,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-0_032",
-                    "text": "팬 서비스의 기본"
+                    "text": "팬서비스의 기본"
                 }
             ]
         },
@@ -528,7 +528,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-0_043",
-                    "text": "매력 표현의 기본"
+                    "text": "매력 어필의 기본"
                 }
             ]
         },
@@ -2218,7 +2218,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-1_058",
-                    "text": "첫 번째 보상"
+                    "text": "처음의 포상"
                 }
             ]
         },

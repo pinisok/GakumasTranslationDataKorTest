@@ -3971,7 +3971,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "의욕 "
+                    "text": "의욕"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4223,7 +4223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경하면,"
+                    "text": "으로 변경하면,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -4539,7 +4539,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경하면,"
+                    "text": "으로 변경하면,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -7352,7 +7352,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "로 변경하면, 패로 이동한다\n"
+                    "text": "으로 변경하면, 패로 이동한다\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
