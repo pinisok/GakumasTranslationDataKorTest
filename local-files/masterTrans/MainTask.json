@@ -115,8 +115,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 16,
             "title": "하츠보시 도전16",
-            "description": "프로듀스에 도전해 보자\n 【조건】플랜：센스의 프로듀스 아이돌",
-            "homeDescription": "프로듀스에 도전해 보자\n 【조건】플랜：센스의 프로듀스 아이돌"
+            "description": "프로듀스에 도전해 보자\n 【조건】플랜:센스의 프로듀스 아이돌",
+            "homeDescription": "프로듀스에 도전해 보자\n 【조건】플랜:센스의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -150,8 +150,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 21,
             "title": "하츠보시 도전21",
-            "description": "프로듀스에 도전해 보자\n 【조건】플랜：로직의 프로듀스 아이돌",
-            "homeDescription": "프로듀스에 도전해 보자\n 【조건】플랜：로직의 프로듀스 아이돌"
+            "description": "프로듀스에 도전해 보자\n 【조건】플랜:로직의 프로듀스 아이돌",
+            "homeDescription": "프로듀스에 도전해 보자\n 【조건】플랜:로직의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -234,8 +234,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 33,
             "title": "하츠보시 도전33",
-            "description": "훈련에서 【응용1】플랜：센스를 클리어하자",
-            "homeDescription": "훈련에서 【응용1】플랜：센스를 클리어하자"
+            "description": "훈련에서 【응용1】플랜:센스를 클리어하자",
+            "homeDescription": "훈련에서 【응용1】플랜:센스를 클리어하자"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -255,8 +255,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 36,
             "title": "하츠보시 도전36",
-            "description": "훈련에서 【응용 2】플랜：로직을 클리어하자",
-            "homeDescription": "훈련에서 【응용 2】플랜：로직을 클리어하자"
+            "description": "훈련에서 【응용 2】플랜:로직을 클리어하자",
+            "homeDescription": "훈련에서 【응용 2】플랜:로직을 클리어하자"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -290,8 +290,8 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 41,
             "title": "하츠보시 도전41",
-            "description": "프로듀스로 난이도 프로에 도전하자!",
-            "homeDescription": "프로듀스로 난이도 프로에 도전하자!"
+            "description": "정기 공연 「하지메」: 프로에 {threshold}회 도전",
+            "homeDescription": "정기 공연 「하지메」: 프로에 {threshold}회 도전"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -346,15 +346,15 @@
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 49,
             "title": "하츠보시 도전49",
-            "description": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌",
-            "homeDescription": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌"
+            "description": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜:센스의 프로듀스 아이돌",
+            "homeDescription": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜:센스의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
             "number": 50,
             "title": "하츠보시 도전50",
-            "description": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌",
-            "homeDescription": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌"
+            "description": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜:로직의 프로듀스 아이돌",
+            "homeDescription": "프로듀싱에 도전하여 평가 B 이상을 획득하자\n 【조건】플랜:로직의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-01-01",
@@ -633,8 +633,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 30,
             "title": "P과제30",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：하나미 사키",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：하나미 사키"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:하나미 사키",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:하나미 사키"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -647,8 +647,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 32,
             "title": "P과제32",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：츠키무라 테마리",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：츠키무라 테마리"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:츠키무라 테마리",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:츠키무라 테마리"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -661,8 +661,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 34,
             "title": "P과제34",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：후지타 코토네",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：후지타 코토네"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:후지타 코토네",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:후지타 코토네"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -682,8 +682,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 37,
             "title": "P과제37",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：아리무라 마오",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：아리무라 마오"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:아리무라 마오",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:아리무라 마오"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -696,8 +696,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 39,
             "title": "P과제39",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：히메사키 리나미",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：히메사키 리나미"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:히메사키 리나미",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:히메사키 리나미"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -710,8 +710,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 41,
             "title": "P과제41",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：카츠라기 릴리야",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：카츠라기 릴리야"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:카츠라기 릴리야",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:카츠라기 릴리야"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -731,8 +731,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 44,
             "title": "P과제44",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：시운 스미카",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：시운 스미카"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:시운 스미카",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:시운 스미카"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -745,8 +745,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 46,
             "title": "P과제46",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：시노사와 히로",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：시노사와 히로"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:시노사와 히로",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:시노사와 히로"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -759,8 +759,8 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 48,
             "title": "P과제48",
-            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】：쿠라모토 치나",
-            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】：쿠라모토 치나"
+            "description": "프로듀스로 최종 시험에 합격하자!\n 【조건】:쿠라모토 치나",
+            "homeDescription": "프로듀스로 최종 시험에 합격하자!\n 【조건】:쿠라모토 치나"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -801,15 +801,15 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 54,
             "title": "P과제54",
-            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌",
-            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌"
+            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:센스의 프로듀스 아이돌",
+            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:센스의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 55,
             "title": "P과제55",
-            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌",
-            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌"
+            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:로직의 프로듀스 아이돌",
+            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:로직의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -885,15 +885,15 @@
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 66,
             "title": "P과제66",
-            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌",
-            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：센스의 프로듀스 아이돌"
+            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:센스의 프로듀스 아이돌",
+            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:센스의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
             "number": 67,
             "title": "P과제67",
-            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌",
-            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜：로직의 프로듀스 아이돌"
+            "description": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:로직의 프로듀스 아이돌",
+            "homeDescription": "프로듀스에 도전하여 평가 A 이상을 획득하자\n 【조건】플랜:로직의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-02-01",
@@ -1144,8 +1144,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 3,
             "title": "P과제2-3",
-            "description": "플랜：아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자",
-            "homeDescription": "플랜：아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+            "description": "플랜:아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자",
+            "homeDescription": "플랜:아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1158,8 +1158,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 5,
             "title": "P과제2-5",
-            "description": "훈련에서 【응용 5】플랜：어노말리를 클리어하자",
-            "homeDescription": "훈련에서 【응용 5】플랜：어노말리를 클리어하자"
+            "description": "훈련에서 【응용 5】플랜:어노말리를 클리어하자",
+            "homeDescription": "훈련에서 【응용 5】플랜:어노말리를 클리어하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1221,8 +1221,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 14,
             "title": "P과제2-14",
-            "description": "프로듀스로 난이도 마스터에 도전하자",
-            "homeDescription": "프로듀스로 난이도 마스터에 도전하자"
+            "description": "정기 공연 「하지메」: 마스터에 {threshold}회 도전",
+            "homeDescription": "정기 공연 「하지메」: 마스터에 {threshold}회 도전"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1249,8 +1249,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 18,
             "title": "P과제2-18",
-            "description": "플랜：아노말리의 프로듀스 아이돌로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자",
-            "homeDescription": "플랜：아노말리의 프로듀스 아이돌로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
+            "description": "플랜:아노말리의 프로듀스 아이돌로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자",
+            "homeDescription": "플랜:아노말리의 프로듀스 아이돌로 최종 시험에 합격하여 평가 A 이상을 {threshold}회 획득하자"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1326,8 +1326,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 29,
             "title": "P과제2-29",
-            "description": "정기공연 『하지메』 : 마스터 에서 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌",
-            "homeDescription": "정기공연 『하지메』 : 마스터 에서 최종 시험에 {threshold}회 합격하자\n 【조건】플랜：아노말리 프로듀스 아이돌"
+            "description": "정기공연 『하지메』 : 마스터 에서 최종 시험에 {threshold}회 합격하자\n 【조건】플랜:아노말리 프로듀스 아이돌",
+            "homeDescription": "정기공연 『하지메』 : 마스터 에서 최종 시험에 {threshold}회 합격하자\n 【조건】플랜:아노말리 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1585,8 +1585,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 66,
             "title": "P과제66",
-            "description": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜：센스의 프로듀스 아이돌",
-            "homeDescription": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜：센스의 프로듀스 아이돌"
+            "description": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜:센스의 프로듀스 아이돌",
+            "homeDescription": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜:센스의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1690,8 +1690,8 @@
             "mainTaskGroupId": "main_task_group-03-01",
             "number": 81,
             "title": "P과제81",
-            "description": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜：어노말리의 프로듀스 아이돌",
-            "homeDescription": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜：어노말리의 프로듀스 아이돌"
+            "description": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜:어노말리의 프로듀스 아이돌",
+            "homeDescription": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜:어노말리의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-03-01",
@@ -1977,22 +1977,22 @@
             "mainTaskGroupId": "main_task_group-04-01",
             "number": 22,
             "title": "P과제04-22",
-            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：센스의 프로듀스 아이돌",
-            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：센스의 프로듀스 아이돌"
+            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜:센스의 프로듀스 아이돌",
+            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜:센스의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-04-01",
             "number": 23,
             "title": "P과제04-23",
-            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：로직의 프로듀스 아이돌",
-            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：로직의 프로듀스 아이돌"
+            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜:로직의 프로듀스 아이돌",
+            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜:로직의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-04-01",
             "number": 24,
             "title": "P과제04-24",
-            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：어노말리의 프로듀스 아이돌",
-            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜：어노말리의 프로듀스 아이돌"
+            "description": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜:어노말리의 프로듀스 아이돌",
+            "homeDescription": "「N.I.A」 : 마스터에서 최종 오디션을 통과하자\n【조건】플랜:어노말리의 프로듀스 아이돌"
         },
         {
             "mainTaskGroupId": "main_task_group-04-01",

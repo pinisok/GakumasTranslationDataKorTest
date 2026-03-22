@@ -935,7 +935,7 @@
             "helpCategoryId": "help-produce",
             "id": "produce-003-add",
             "order": 37,
-            "name": "난이도：마스터(정기공연 『하지메』)"
+            "name": "난이도:마스터(정기공연 『하지메』)"
         },
         {
             "helpCategoryId": "help-produce",
@@ -947,7 +947,7 @@
             "helpCategoryId": "help-produce",
             "id": "produce-005-add",
             "order": 47,
-            "name": "난이도：마스터(NEXT IDOL AUDITION)"
+            "name": "난이도:마스터(NEXT IDOL AUDITION)"
         },
         {
             "helpCategoryId": "help-produce",
@@ -1043,7 +1043,7 @@
             "helpCategoryId": "help-produce",
             "id": "produce-hard-lesson",
             "order": 26,
-            "name": "막판 스퍼트 레슨"
+            "name": "집중 강화 레슨"
         },
         {
             "helpCategoryId": "help-produce",
@@ -1223,13 +1223,13 @@
             "helpCategoryId": "help-produce",
             "id": "produce-true-end",
             "order": 30,
-            "name": "True End：『하지메』"
+            "name": "True End:『하지메』"
         },
         {
             "helpCategoryId": "help-produce",
             "id": "produce-true-end-2",
             "order": 46,
-            "name": "True End： N.I.A"
+            "name": "True End: N.I.A"
         },
         {
             "helpCategoryId": "help-produce",

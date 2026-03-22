@@ -61,7 +61,7 @@
         {
             "id": "Convert_ConditionThreshold",
             "produceDescriptions": [],
-            "name": "레슨 CLEAR의 "
+            "name": "레슨 CLEAR의"
         },
         {
             "id": "Convert_ConditionThreshold_NotClear",
@@ -320,7 +320,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -406,7 +406,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -584,7 +584,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "코스트에 영향을 미치지 않음"
+                    "text": "비용에 영향을 미치지 않음"
                 }
             ],
             "name": "비용값 증가"
@@ -620,7 +620,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "을 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "의욕 비용 증가"
@@ -656,7 +656,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "을 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "의욕 비용 감소"
@@ -672,7 +672,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한 강화 상태 코스트 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "스킬 카드 사용에 필요한 강화 상태 비용 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "강화 상태 비용 증가"
@@ -688,7 +688,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한 강화 상태 코스트 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "스킬 카드 사용에 필요한 강화 상태 비용 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "강화 상태 비용 감소"
@@ -724,7 +724,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "를 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "전력 비용 증가"
@@ -760,7 +760,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "를 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "전력 비용 감소"
@@ -796,7 +796,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": " 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "집중 비용 증가"
@@ -832,7 +832,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "을 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "집중 비용 감소"
@@ -868,7 +868,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "를 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "호조 비용 증가"
@@ -904,7 +904,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "를 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "절호조 비용 증가"
@@ -940,7 +940,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "를 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "절호조 비용 감소"
@@ -976,7 +976,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "를 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "를 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "호조 비용 감소"
@@ -1012,7 +1012,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "코스트 증가"
+                    "text": "비용 증가"
                 }
             ],
             "name": "체력 소비 비용 증가"
@@ -1048,7 +1048,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "코스트 감소"
+                    "text": "비용 감소"
                 }
             ],
             "name": "체력 소비 비용 감소"
@@ -1084,7 +1084,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "코스트에 영향을 미치지 않음"
+                    "text": "비용에 영향을 미치지 않음"
                 }
             ],
             "name": "소비 체력 감소"
@@ -1120,7 +1120,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 증가\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "을 증가\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "호인상 비용 증가"
@@ -1156,7 +1156,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 감소\n다른 강화 상태 코스트에는 영향을 미치지 않음"
+                    "text": "을 감소\n다른 강화 상태 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "호인상 비용 감소"
@@ -1223,7 +1223,7 @@
                     "text": "강화 상태나 저하 상태의 영향을 받지 않고, 대상의 효과를 증가"
                 }
             ],
-            "name": "배 "
+            "name": "배"
         },
         {
             "id": "Label_ExamAddGrowEffect",
@@ -1367,7 +1367,7 @@
                     "text": ""
                 }
             ],
-            "name": "저하 상태 비활성화 "
+            "name": "저하 상태 비활성화"
         },
         {
             "id": "Label_ExamBlock",
@@ -1517,7 +1517,7 @@
                     "text": ""
                 }
             ],
-            "name": "원기 증가 무효 "
+            "name": "원기 증가 무효"
         },
         {
             "id": "Label_ExamCardCreateId",
@@ -1763,7 +1763,7 @@
                     "text": ""
                 }
             ],
-            "name": "스킬 카드 추가 발동 "
+            "name": "스킬 카드 추가 발동"
         },
         {
             "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
@@ -1779,7 +1779,7 @@
                     "text": "다음에 사용할 대상 스킬 카드의 효과를 여러 번 발동"
                 }
             ],
-            "name": "스킬 카드 추가 발동 "
+            "name": "스킬 카드 추가 발동"
         },
         {
             "id": "Label_ExamCardStaminaConsumptionChange",
@@ -1956,7 +1956,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승량을 150% 증가・소비 체력이 100% 증가\n스킬 카드를 사용할 때마다, "
+                    "text": "상승량을 150% 증가·소비 체력이 100% 증가\n스킬 카드를 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2072,7 +2072,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "상승량을 150% 증가・소비 체력이 100% 증가\n스킬 카드를 사용할 때마다, "
+                    "text": "상승량을 150% 증가·소비 체력이 100% 증가\n스킬 카드를 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2147,7 +2147,7 @@
                     "text": ""
                 }
             ],
-            "name": "발동예약"
+            "name": "발동 예약"
         },
         {
             "id": "Label_ExamEnthusiasticAdditive",
@@ -2285,7 +2285,7 @@
                     "text": "의 남은 턴 증가"
                 }
             ],
-            "name": "턴 추가 "
+            "name": "턴 추가"
         },
         {
             "id": "Label_ExamFullPower",
@@ -2328,7 +2328,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": " +1・"
+                    "text": " +1·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2675,7 +2675,7 @@
                     "text": "감소"
                 }
             ],
-            "name": "전력 감소"
+            "name": "전력치 감소"
         },
         {
             "id": "Label_ExamGetCardUpgrade",
@@ -3011,7 +3011,7 @@
                     "text": ""
                 }
             ],
-            "name": "부조화 "
+            "name": "부조화"
         },
         {
             "id": "Label_ExamGimmickPlayCardLimit",
@@ -3420,10 +3420,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "패를 바꾼다"
+                    "text": "패를 교체한다"
                 }
             ],
-            "name": "패를 바꾼다"
+            "name": "패를 교체한다"
         },
         {
             "id": "Label_ExamHandHold",
@@ -5818,7 +5818,7 @@
                     "text": ""
                 }
             ],
-            "name": "소비 체력 증가 "
+            "name": "소비 체력 증가"
         },
         {
             "id": "Label_ExamStaminaConsumptionAddDown",
@@ -5916,7 +5916,7 @@
                     "text": ""
                 }
             ],
-            "name": "소비 체력 경감 "
+            "name": "소비 체력 경감"
         },
         {
             "id": "Label_ExamStaminaConsumptionDownAdd",
@@ -5988,7 +5988,7 @@
                     "text": ""
                 }
             ],
-            "name": "소비 체력 감소 "
+            "name": "소비 체력 감소"
         },
         {
             "id": "Label_ExamStaminaDamage",
@@ -6266,7 +6266,7 @@
                     "text": "증가. 체력 감소시, 고양이 1 감소"
                 }
             ],
-            "name": "고양 "
+            "name": "고양"
         },
         {
             "id": "Label_ExamUplifting_Produce",
@@ -6355,7 +6355,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6441,7 +6441,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6474,7 +6474,7 @@
                     "text": "에는 영향을 미치지 않음"
                 }
             ],
-            "name": "전력 감소"
+            "name": "전력치 감소"
         },
         {
             "id": "Label_HighScoreRushGold",
@@ -6487,7 +6487,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "「주오 쿠니오의 아이돌 강화의 달・개」에서 획득 할 수 있는 아이템. 이벤트 가챠에서 사용할 수 있습니다."
+                    "text": "「주오 쿠니오의 아이돌 강화의 달·개」에서 획득 할 수 있는 아이템. 이벤트 가챠에서 사용할 수 있습니다."
                 }
             ],
             "name": "별의 반짝임"
@@ -6559,7 +6559,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6605,7 +6605,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "레슨・자율 레슨・오디션으로 인한 파라미터 상승을 증가시킨다"
+                    "text": "레슨·자율 레슨·오디션으로 인한 파라미터 상승을 증가시킨다"
                 }
             ],
             "name": "파라미터 보너스"
@@ -6693,7 +6693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6779,7 +6779,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6913,7 +6913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7721,7 +7721,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "학원 활동은, 다음 일정을 포함\n수업・영업"
+                    "text": "학원 활동은, 다음 일정을 포함\n수업·영업"
                 }
             ],
             "name": "학원 활동"
@@ -7737,7 +7737,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "선물은, 다음 일정을 포함\n활동 지급・선물"
+                    "text": "선물은, 다음 일정을 포함\n활동 지급·선물"
                 }
             ],
             "name": "선물"
@@ -7793,7 +7793,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7879,7 +7879,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "발동예약"
+                    "text": "발동 예약"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7964,7 +7964,7 @@
                     "text": "소비 체력이 증가 상승치가 감소"
                 }
             ],
-            "name": "소비체력 증가 감소"
+            "name": "소비 체력 증가량 감소"
         },
         {
             "id": "Label_StaminaConsumptionAddTurnReduce",
@@ -7980,7 +7980,7 @@
                     "text": "소비 체력의 증가 상승치를 증가"
                 }
             ],
-            "name": "소비체력 증가 증가"
+            "name": "소비 체력 증가량 증가"
         },
         {
             "id": "Label_StaminaConsumptionDownTurnAdd",
@@ -7996,7 +7996,7 @@
                     "text": "소비 체력이 감소 상승치를 증가"
                 }
             ],
-            "name": "소비체력 감소 증가"
+            "name": "소비 체력 감소량 증가"
         },
         {
             "id": "Label_StaminaConsumptionDownTurnReduce",
@@ -8012,7 +8012,7 @@
                     "text": "소비 체력이 감소 상승치가 감소"
                 }
             ],
-            "name": "소비체력 감소 감소"
+            "name": "소비 체력 감소량 감소"
         },
         {
             "id": "Label_Stance",

@@ -24,7 +24,7 @@
         {
             "id": "Swap_Convert_002",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "시험・스테이지"
+            "text": "시험·스테이지"
         },
         {
             "id": "Swap_Convert_ConditionThreshold",
@@ -129,12 +129,12 @@
         {
             "id": "Swap_Label_Audition",
             "swapType": "ProduceDescriptionSwapType_Lesson",
-            "text": "시험・오디션"
+            "text": "시험·오디션"
         },
         {
             "id": "Swap_Label_Audition",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "시험・오디션"
+            "text": "시험·오디션"
         },
         {
             "id": "Swap_Label_ExamCardUpgrade",
@@ -144,7 +144,7 @@
         {
             "id": "Swap_Label_ExamCardUpgrade",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "시험・스테이지 중 강화"
+            "text": "시험·스테이지 중 강화"
         },
         {
             "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
@@ -274,7 +274,7 @@
         {
             "id": "Swap_Label_ProduceCardMovePositionType_Lost",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "시험・스테이지 중 1회 "
+            "text": "시험·스테이지 중 1회 "
         },
         {
             "id": "Swap_Label_ProduceCardPositionType_DeckFirst",

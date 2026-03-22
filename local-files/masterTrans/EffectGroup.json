@@ -27,11 +27,11 @@
         },
         {
             "id": "effect_group-visible-event_activity_produce_point_down-000",
-            "name": "외출 소비 P 포인트 감소"
+            "name": "외출 소비 P포인트 감소"
         },
         {
             "id": "effect_group-visible-event_activity_produce_point_up-000",
-            "name": "외출 소비 P 포인트 증가"
+            "name": "외출 소비 P포인트 증가"
         },
         {
             "id": "effect_group-visible-event_school_stamina_down-000",
@@ -103,7 +103,7 @@
         },
         {
             "id": "effect_group-visible-exam_hand_grave_count_card_draw-000",
-            "name": "손패를 새로 생성"
+            "name": "패를 교체한다"
         },
         {
             "id": "effect_group-visible-exam_lesson_buff_reduce-000",
@@ -203,11 +203,11 @@
         },
         {
             "id": "effect_group-visible-produce_point_addition-000",
-            "name": "P 포인트 획득"
+            "name": "P포인트 획득"
         },
         {
             "id": "effect_group-visible-produce_point_reduce_fix-000",
-            "name": "P 포인트 감소"
+            "name": "P포인트 감소"
         },
         {
             "id": "effect_group-visible-shop_price_discount_multiple-000",
