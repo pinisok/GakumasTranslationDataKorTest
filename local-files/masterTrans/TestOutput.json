@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "x",
+            "name": "translated"
+        }
+    ]
+}
