@@ -2196,6 +2196,36 @@
             "description": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kllj-3-017-01",
+            "name": "언젠가 너의 곁에서",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 프로듀스에서 최종 시험 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-02",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-03",
+            "name": "선배, 귀여워요",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 프로듀스에서 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-04",
+            "name": "두근두근 이모션+",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-05",
+            "name": "두근두근 이모션++",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-06",
+            "name": "두근두근 이모션+++",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-shro-2-000-04",
             "name": "가장 어울리지 않는 것+",
             "description": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
@@ -2644,6 +2674,36 @@
             "id": "achieve-i_card-ssmk-3-014-06",
             "name": "미라쿠루나나우(˚∀˚)!+++",
             "description": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-01",
+            "name": "언제나 너의 곁에서",
+            "description": "【두근두근 이모션】시운 스미카의 프로듀스에서 최종 시험 합격"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-02",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-03",
+            "name": "귀여운 데가 있잖아♪",
+            "description": "【두근두근 이모션】시운 스미카의 프로듀스에서 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-04",
+            "name": "두근두근 이모션+",
+            "description": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-05",
+            "name": "두근두근 이모션++",
+            "description": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-06",
+            "name": "두근두근 이모션+++",
+            "description": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",

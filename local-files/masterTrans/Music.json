@@ -1134,6 +1134,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-nasr-008",
+            "title": "고금동서 식은 죽 먹기",
+            "displayTitle": "고금동서 식은 죽 먹기",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-nasr-010",
             "title": "벚꽃 포토그래프",
             "displayTitle": "벚꽃 포토그래프",
@@ -2150,6 +2158,22 @@
             "arranger": "Giga"
         },
         {
+            "id": "music-char-hski-005",
+            "title": "EGO",
+            "displayTitle": "EGO",
+            "lyrics": "Kijibato (Dream Monster)",
+            "composer": "Kijibato (Dream Monster)",
+            "arranger": "Kijibato (Dream Monster)"
+        },
+        {
+            "id": "music-char-hski-005-inst",
+            "title": "EGO [Instrumental]",
+            "displayTitle": "EGO [Instrumental]",
+            "lyrics": "Kijibato (Dream Monster)",
+            "composer": "Kijibato (Dream Monster)",
+            "arranger": "Kijibato (Dream Monster)"
+        },
+        {
             "id": "music-char-hume-001",
             "title": "The Rolling Riceball",
             "displayTitle": "",
@@ -2196,6 +2220,22 @@
             "lyrics": "츠보이 리히토 (Bandai Namco Studio Inc.)",
             "composer": "츠보이 리히토·사토 타카후미 (Bandai Namco Studio Inc.)",
             "arranger": "츠보이 리히토 (Bandai Namco Studio Inc.)"
+        },
+        {
+            "id": "music-char-hume-005",
+            "title": "금도끼, 은도끼, 에메랄드도끼",
+            "displayTitle": "금도끼, 은도끼, 에메랄드도끼",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-char-hume-005-inst",
+            "title": "금도끼, 은도끼, 에메랄드도끼 [Instrumental]",
+            "displayTitle": "금도끼, 은도끼, 에메랄드도끼 [Instrumental]",
+            "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
+            "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-char-jsna-001",
@@ -2708,6 +2748,22 @@
             "lyrics": "이요와",
             "composer": "이요와",
             "arranger": "이요와"
+        },
+        {
+            "id": "music-unit-klljssmk-005",
+            "title": "두근두근 이모션",
+            "displayTitle": "두근두근 이모션",
+            "lyrics": "카미야마 요우",
+            "composer": "카미야마 요우",
+            "arranger": "카미야마 요우"
+        },
+        {
+            "id": "music-unit-klljssmk-005-inst",
+            "title": "두근두근 이모션 [Instrumental]",
+            "displayTitle": "두근두근 이모션 [Instrumental]",
+            "lyrics": "카미야마 요우",
+            "composer": "카미야마 요우",
+            "arranger": "카미야마 요우"
         },
         {
             "id": "music-unit-reiris-001",

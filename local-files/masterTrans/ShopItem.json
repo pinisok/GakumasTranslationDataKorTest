@@ -54,6 +54,10 @@
             "name": "고양이 귀(아리무라 마오)"
         },
         {
+            "id": "shop_costume_costume_head_amao-hair-0006",
+            "name": "하츠미☆악세서리(아리무라 마오)"
+        },
+        {
             "id": "shop_costume_costume_head_atbm-hair-0001",
             "name": "수국 머리 꽃 장식(아마야 츠바메)"
         },
@@ -120,6 +124,10 @@
         {
             "id": "shop_costume_costume_head_hrnm-hair-0004",
             "name": "고양이 귀(히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0006",
+            "name": "하츠미☆악세서리(히메사키 리나미)"
         },
         {
             "id": "shop_costume_costume_head_hski-hair-0001",
@@ -198,6 +206,22 @@
             "name": "고양이 귀(카츠라기 릴리야)"
         },
         {
+            "id": "shop_costume_costume_head_kllj-hair-0006",
+            "name": "하츠미☆악세서리(카츠라기 릴리야)"
+        },
+        {
+            "id": "shop_costume_costume_head_nasr-hair-0004",
+            "name": "고양이귀(네오 아사리)"
+        },
+        {
+            "id": "shop_costume_costume_head_nasr-hair-0005_revival-1",
+            "name": "스퀘어 안경 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_costume_head_nasr-hair-0007",
+            "name": "티어드롭 글라스(네오 아사리)"
+        },
+        {
             "id": "shop_costume_costume_head_shro-hair-0001",
             "name": "수국 꽃 머리 장식 (시노사와 히로)"
         },
@@ -224,6 +248,10 @@
         {
             "id": "shop_costume_costume_head_ssmk-hair-0004",
             "name": "고양이 귀(시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0006",
+            "name": "하츠미☆악세서리(시운 스미카)"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -438,7 +466,19 @@
             "name": "차일드 스모크 (네오 아사리)"
         },
         {
+            "id": "shop_costume_nasr-cstm-0069_revival-1",
+            "name": "차일드 스모크 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0111",
+            "name": "세일러 수영복(네오 아사리)"
+        },
+        {
             "id": "shop_costume_nasr-cstm-0135",
+            "name": "티셔츠 수영복 (네오 아사리)"
+        },
+        {
+            "id": "shop_costume_nasr-cstm-0135_revival-1",
             "name": "티셔츠 수영복 (네오 아사리)"
         },
         {
@@ -916,6 +956,10 @@
         {
             "id": "shop_pass_item-0023",
             "name": "프리미엄 미션 패스 2026년 3월"
+        },
+        {
+            "id": "shop_pass_item-0024",
+            "name": "프리미엄 미션 패스 2026년 4월"
         }
     ]
 }

@@ -86,7 +86,19 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_relaunch_hski_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_jsna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_relaunch_kcna_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_kllj_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -95,6 +107,10 @@
         },
         {
             "id": "dearness_panel-mission_relaunch_ssmk_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_relaunch_ttmr_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -148,6 +164,10 @@
         {
             "id": "mission-continuous-gasha-mission_001",
             "name": "TVCM 방영 기념 미션 (~2026/2/1 4:59)"
+        },
+        {
+            "id": "mission-group-april-event-001",
+            "name": "스페셜 이벤트 미션 001"
         },
         {
             "id": "mission-group-box-gasha-event-001",
@@ -824,6 +844,10 @@
         {
             "id": "mission-group-story-event-013",
             "name": "스토리 이벤트 미션 013"
+        },
+        {
+            "id": "mission-group-story-event-014",
+            "name": "스토리 이벤트 미션 014"
         },
         {
             "id": "mission-group-tour-event-001",

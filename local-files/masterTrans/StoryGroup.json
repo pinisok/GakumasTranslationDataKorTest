@@ -6,6 +6,14 @@
     },
     "data": [
         {
+            "id": "april_event_group-001",
+            "title": "4월 1일의 드림 스테이지"
+        },
+        {
+            "id": "april_event_group-002",
+            "title": "4월 1일의 드림 스테이지"
+        },
+        {
             "id": "box_gasha_event-01-01",
             "title": "한여름의 서머 라이브 페스티벌"
         },
@@ -296,6 +304,10 @@
         {
             "id": "story_event_group-23-01",
             "title": "테마리와 히로의 일상"
+        },
+        {
+            "id": "story_event_group-24-01",
+            "title": "학생회 1학년반의 일상"
         },
         {
             "id": "story_gvg_group-01-01",

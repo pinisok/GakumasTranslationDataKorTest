@@ -999,47 +999,62 @@
         {
             "supportCardId": "s_card-2-0070",
             "number": 1,
-            "text": "そんなにいっぺんに運んで\nだいじょーぶか？"
+            "text": "그렇게 한꺼번에 들고\n괜찮아?"
         },
         {
             "supportCardId": "s_card-2-0070",
             "number": 2,
-            "text": "ふっふ～ん♪　よっと！"
+            "text": "흐흐~ㅎ♪ 얍!"
         },
         {
             "supportCardId": "s_card-2-0070",
             "number": 3,
-            "text": "おぉ～～～崩れてない！　すげぇ～！"
+            "text": "오오~~~ 안 무너졌어! 대박~!"
         },
         {
             "supportCardId": "s_card-2-0071",
             "number": 1,
-            "text": "月村さん、奇遇ね。"
+            "text": "츠키무라 씨, 기연이네."
         },
         {
             "supportCardId": "s_card-2-0071",
             "number": 2,
-            "text": "よかったら一緒に\nハンバーガーを食べましょう。"
+            "text": "괜찮으면 같이\n햄버거를 먹죠."
         },
         {
             "supportCardId": "s_card-2-0071",
             "number": 3,
-            "text": "ハ、ハンバーガー……？\n遠慮しますッ！！"
+            "text": "하, 햄버거……?\n사양할게요!!"
         },
         {
             "supportCardId": "s_card-2-0072",
             "number": 1,
-            "text": "姫、ここの敵はボクに任せて、\nお下がりください！"
+            "text": "공주님, 여기 적은 저한테 맡기고,\n물러나 주세요!"
         },
         {
             "supportCardId": "s_card-2-0072",
             "number": 2,
-            "text": "いいえ、\nあなたを見捨てるわけにはいかないわ！"
+            "text": "아니,\n당신을 버릴 수는 없어!"
         },
         {
             "supportCardId": "s_card-2-0072",
             "number": 3,
-            "text": "はあああああっ！"
+            "text": "하아아아아앗!"
+        },
+        {
+            "supportCardId": "s_card-2-0073",
+            "number": 1,
+            "text": "아, 아야야야……"
+        },
+        {
+            "supportCardId": "s_card-2-0073",
+            "number": 2,
+            "text": "10초만 더 힘내자!\n하아나……두우울……"
+        },
+        {
+            "supportCardId": "s_card-2-0073",
+            "number": 3,
+            "text": "1초가 길어!?"
         },
         {
             "supportCardId": "s_card-3-0000",
@@ -1829,17 +1844,17 @@
         {
             "supportCardId": "s_card-3-0052",
             "number": 1,
-            "text": "さあっ、撮るわよ～！"
+            "text": "자, 찍을 거야~!"
         },
         {
             "supportCardId": "s_card-3-0052",
             "number": 2,
-            "text": "合格おめでとう、佑芽！"
+            "text": "합격 축하해, 우메!"
         },
         {
             "supportCardId": "s_card-3-0052",
             "number": 3,
-            "text": "よぉ～し補欠合格！\nこれでお姉ちゃんと一緒にいられるね！"
+            "text": "좋아~ 보결 합격!\n이제 언니랑 같이 있을 수 있어!"
         },
         {
             "supportCardId": "s_card-3-0053",
@@ -2414,32 +2429,62 @@
         {
             "supportCardId": "s_card-3-0091",
             "number": 1,
-            "text": "あれれ～？\nふたりとも苦しんでますね～？"
+            "text": "어라라~?\n둘 다 고통스러워하고 있네요~?"
         },
         {
             "supportCardId": "s_card-3-0091",
             "number": 2,
-            "text": "こんなの、す、すっぱくないわよ！"
+            "text": "이 정도, 시, 시지 않거든!"
         },
         {
             "supportCardId": "s_card-3-0091",
             "number": 3,
-            "text": "わたしも……か、からくないです。"
+            "text": "저도……맵, 맵지 않아요."
         },
         {
             "supportCardId": "s_card-3-0092",
             "number": 1,
-            "text": "いっただっきまーす♪"
+            "text": "잘 먹겠습니다아♪"
         },
         {
             "supportCardId": "s_card-3-0092",
             "number": 2,
-            "text": "あ。ペーストじゃ、なくなってる。"
+            "text": "아. 페이스트가, 없어졌어."
         },
         {
             "supportCardId": "s_card-3-0092",
             "number": 3,
-            "text": "ひゃっ！　急に声をかけられたら\nびっくりするじゃない！"
+            "text": "꺅! 갑자기 말 걸면\n깜짝 놀라잖아!"
+        },
+        {
+            "supportCardId": "s_card-3-0093",
+            "number": 1,
+            "text": "릴리야!\n긴 여행 수고했어!"
+        },
+        {
+            "supportCardId": "s_card-3-0093",
+            "number": 2,
+            "text": "스미카 짱!\n수험, 열심히 하자!"
+        },
+        {
+            "supportCardId": "s_card-3-0093",
+            "number": 3,
+            "text": "응!\n반드시 합격할 거야~!"
+        },
+        {
+            "supportCardId": "s_card-3-0095",
+            "number": 1,
+            "text": "치나 짱, 뭐 들고 있는 거야!?"
+        },
+        {
+            "supportCardId": "s_card-3-0095",
+            "number": 2,
+            "text": "타코야키 재료예요!"
+        },
+        {
+            "supportCardId": "s_card-3-0095",
+            "number": 3,
+            "text": "뭐……\n멋진 타코야키가 될 것 같네요."
         },
         {
             "supportCardId": "s_card-3-0098",

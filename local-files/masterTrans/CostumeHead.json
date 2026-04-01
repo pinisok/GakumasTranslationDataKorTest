@@ -108,7 +108,7 @@
         {
             "id": "costume_head_amao-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 4월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
         },
         {
             "id": "costume_head_amao-hair-0007",
@@ -583,7 +583,7 @@
         {
             "id": "costume_head_hrnm-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 4월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
         },
         {
             "id": "costume_head_hrnm-hair-0007",
@@ -886,6 +886,11 @@
             "description": "프리미엄 미션 패스 2025년 12월에서 획득 가능 등"
         },
         {
+            "id": "costume_head_hume-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 4월에서 획득"
+        },
+        {
             "id": "costume_head_hume-schl-0000",
             "name": "평소의 헤어스타일",
             "description": "처음부터 소지"
@@ -1151,6 +1156,11 @@
             "description": "【하늘과 약속】쿠라모토 치나 입수"
         },
         {
+            "id": "costume_head_kcna-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 4월에서 획득"
+        },
+        {
             "id": "costume_head_kcna-hair-0034",
             "name": "하늘과 약속 (포인트 컬러 어레인지)",
             "description": "【하늘과 약속】쿠라모토 치나 입수"
@@ -1231,6 +1241,16 @@
             "description": "【Howling over the World】카츠라기 릴리야의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_kllj-cstm-0133",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야 입수"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0134",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_kllj-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
@@ -1253,7 +1273,7 @@
         {
             "id": "costume_head_kllj-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 4월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
         },
         {
             "id": "costume_head_kllj-hair-0007",
@@ -1296,9 +1316,19 @@
             "description": ""
         },
         {
+            "id": "costume_head_nasr-hair-0004",
+            "name": "고양이 귀",
+            "description": "고양이귀(네오 아사리)를 구매"
+        },
+        {
             "id": "costume_head_nasr-hair-0005",
             "name": "스퀘어 안경",
             "description": "스퀘어 안경(네오 아사리)를 입수"
+        },
+        {
+            "id": "costume_head_nasr-hair-0007",
+            "name": "티어드롭 글래스",
+            "description": "티어드롭 글라스(네오 아사리)를 구매"
         },
         {
             "id": "costume_head_shro-casl-0000",
@@ -1421,6 +1451,11 @@
             "description": "【선 페이디드】시노사와 히로 입수"
         },
         {
+            "id": "costume_head_shro-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 4월에서 획득"
+        },
+        {
             "id": "costume_head_shro-hair-0031",
             "name": "선 페이디드 (포인트 컬러 어레인지)",
             "description": "【선 페이디드】시노사와 히로를 입수"
@@ -1481,6 +1516,16 @@
             "description": "【Love & Joy】시운 스미카의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_ssmk-cstm-0133",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카 입수"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0134",
+            "name": "두근두근 이모션",
+            "description": "【두근두근 이모션】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_ssmk-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
@@ -1503,7 +1548,7 @@
         {
             "id": "costume_head_ssmk-hair-0006",
             "name": "하츠미☆액세서리",
-            "description": "프리미엄 미션 패스 2025년 4월 에서 획득"
+            "description": "프리미엄 미션 패스 2025년 4월에서 획득 가능"
         },
         {
             "id": "costume_head_ssmk-hair-0007",

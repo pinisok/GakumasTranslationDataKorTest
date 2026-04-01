@@ -278,6 +278,38 @@
             "name": "히메사키 리나미로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
+            "id": "dearness_event_relaunch_hski-001",
+            "name": "하나미 사키의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_hski-002",
+            "name": "하나미 사키의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_hski-003",
+            "name": "하나미 사키로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_hski-004",
+            "name": "하나미 사키로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-001",
+            "name": "주오 세나의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-002",
+            "name": "주오 세나의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-003",
+            "name": "주오 세나로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-004",
+            "name": "주오 세나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_event_relaunch_kcna-001",
             "name": "쿠라모토 치나의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
         },
@@ -292,6 +324,22 @@
         {
             "id": "dearness_event_relaunch_kcna-004",
             "name": "쿠라모토 치나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-001",
+            "name": "카츠라기 릴리야의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-002",
+            "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-003",
+            "name": "카츠라기 릴리야로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-004",
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_relaunch_shro-001",
@@ -324,6 +372,22 @@
         {
             "id": "dearness_event_relaunch_ssmk-004",
             "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-001",
+            "name": "츠키무라 테마리의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-002",
+            "name": "츠키무라 테마리의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-003",
+            "name": "츠키무라 테마리로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-004",
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_shro-001",
@@ -1204,6 +1268,14 @@
         {
             "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
             "name": "Story of Re;IRIS 방영 기념 SSR1.5배 셀렉트 픽업 가챠를 {threshold}번 뽑자"
+        },
+        {
+            "id": "mission-april-event-001-mission_1",
+            "name": "스페셜 이벤트에서 스테이지에 {threshold}회 도전하여 클리어하자"
+        },
+        {
+            "id": "mission-april-event-001-mission_2",
+            "name": "스페셜 이벤트에서 이벤트 커뮤를 모두 해방하자"
         },
         {
             "id": "mission-box-gasha-event-001-mission_1",
@@ -5674,6 +5746,30 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-story-event-014-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-story-event-014-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-story-event-014-mission_3",
+            "name": "프로듀스 등급을 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "mission-story-event-014-mission_4",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+        },
+        {
+            "id": "mission-story-event-014-mission_5",
+            "name": "P드링크를 {threshold}번 사용하자"
+        },
+        {
+            "id": "mission-story-event-014-mission_6",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-tour-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -7950,6 +8046,30 @@
             "name": "【Atmosphere】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kllj-3-017-01",
+            "name": "【두근두근 이모션】카츠라기 릴리야의 프로듀스에서 최종 시험 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-02",
+            "name": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-03",
+            "name": "【두근두근 이모션】카츠라기 릴리야의 프로듀스에서 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-04",
+            "name": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-05",
+            "name": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-06",
+            "name": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-shro-2-000-04",
             "name": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
@@ -8308,6 +8428,30 @@
         {
             "id": "achieve-i_card-ssmk-3-014-06",
             "name": "【미라쿠루나나우(˚∀˚)!】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-01",
+            "name": "【두근두근 이모션】시운 스미카의 프로듀스에서 최종 시험 합격"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-02",
+            "name": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-03",
+            "name": "【두근두근 이모션】시운 스미카의 프로듀스에서 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-04",
+            "name": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-05",
+            "name": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-06",
+            "name": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",

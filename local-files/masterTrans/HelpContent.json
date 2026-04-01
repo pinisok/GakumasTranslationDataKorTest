@@ -639,36 +639,6 @@
         },
         {
             "helpCategoryId": "help-livetour-event",
-            "id": "tour-event-bonus",
-            "order": 2,
-            "name": "이벤트 보너스"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-exchange",
-            "order": 8,
-            "name": "이벤트 교환소용 아이템"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-finish",
-            "order": 9,
-            "name": "이벤트 종료 후"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-idol",
-            "order": 5,
-            "name": "이벤트 보상 프로듀스 아이돌"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
-            "id": "tour-play-ticket",
-            "order": 4,
-            "name": "라이브 도전권"
-        },
-        {
-            "helpCategoryId": "help-livetour-event",
             "id": "tour-reward",
             "order": 7,
             "name": "이벤트 보상"
@@ -689,7 +659,7 @@
             "helpCategoryId": "help-livetour-event",
             "id": "tour-tour",
             "order": 1,
-            "name": "시즌 이벤트"
+            "name": "스페셜 이벤트"
         },
         {
             "helpCategoryId": "help-main-story-event",
