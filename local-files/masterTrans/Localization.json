@@ -74,6 +74,10 @@
             "description": "{0}으로 해제"
         },
         {
+            "id": "memory.inherit.select_produce_card.before_select.message",
+            "description": "교체할 스킬 카드를 선택해 주세요"
+        },
+        {
             "id": "mission.mission_list.max_point_text.event",
             "description": "획득 할 수 있는 주간 Pt가 최대에 도달했습니다"
         },
