@@ -2222,6 +2222,22 @@
             "arranger": "츠보이 리히토 (Bandai Namco Studio Inc.)"
         },
         {
+            "id": "music-char-hume-004",
+            "title": "새하얀 페이지와 수채화의 주인공",
+            "displayTitle": "새하얀 페이지와 수채화의 주인공",
+            "lyrics": "사토 타카후미",
+            "composer": "사토 타카후미",
+            "arranger": "한다 츠바사"
+        },
+        {
+            "id": "music-char-hume-004-inst",
+            "title": "새하얀 페이지와 수채화의 주인공 [Instrumental]",
+            "displayTitle": "새하얀 페이지와 수채화의 주인공 [Instrumental]",
+            "lyrics": "사토 타카후미",
+            "composer": "사토 타카후미",
+            "arranger": "한다 츠바사"
+        },
+        {
             "id": "music-char-hume-005",
             "title": "금도끼, 은도끼, 에메랄드도끼",
             "displayTitle": "금도끼, 은도끼, 에메랄드도끼",

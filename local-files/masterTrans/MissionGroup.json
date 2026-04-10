@@ -22,6 +22,10 @@
             "name": "아이돌 미션 사키"
         },
         {
+            "id": "dearness_normal-mission_hume_01",
+            "name": "아이돌 미션 우메"
+        },
+        {
             "id": "dearness_normal-mission_jsna_01",
             "name": "아이돌 미션 세나"
         },
@@ -59,6 +63,10 @@
         },
         {
             "id": "dearness_panel-mission_hski_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_hume_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -567,6 +575,26 @@
         },
         {
             "id": "mission-group-highscorerush-event-011_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-012_5",
             "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
         },
         {
