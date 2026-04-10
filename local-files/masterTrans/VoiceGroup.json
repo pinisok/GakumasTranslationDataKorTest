@@ -5407,6 +5407,66 @@
             "title": "프로듀스④"
         },
         {
+            "id": "voice_group-cidol-hume-3-017_home",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017_home",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017_home",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-detail",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0100_01",
+            "title": "옷 갈아입기①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-detail",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0100_02",
+            "title": "옷 갈아입기②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hume-3-017-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hume-3-017_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-jsna-1-000-detail",
             "voiceAssetId": "sud_vo_system_jsna-schl-0000_01",
             "title": "옷 갈아입기①"
@@ -11925,6 +11985,16 @@
             "id": "voice_group-hume-cstm-0075-cmmn",
             "voiceAssetId": "sud_vo_system_hume-cstm-0075_02",
             "title": "해피 밀푀유"
+        },
+        {
+            "id": "voice_group-hume-cstm-0100-cmmn",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0100_01",
+            "title": "새하얀 페이지와 수채화 주인공"
+        },
+        {
+            "id": "voice_group-hume-cstm-0100-cmmn",
+            "voiceAssetId": "sud_vo_system_hume-cstm-0100_02",
+            "title": "새하얀 페이지와 수채화 주인공"
         },
         {
             "id": "voice_group-hume-cstm-0110-cmmn",
