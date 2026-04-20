@@ -226,6 +226,11 @@
             "description": "【이론무장하고】'26 하나마츠리 아마야 츠바메 입수"
         },
         {
+            "id": "atbm-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【이론무장하고】'26 벚꽃 아마야 츠바메 입수"
+        },
+        {
             "id": "atbm-cstm-0106",
             "name": "이론무장하고",
             "description": "【이론무장하고】아마야 츠바메 입수"
@@ -544,6 +549,11 @@
             "id": "hmsz-cstm-0076",
             "name": "눈이 녹을 때에",
             "description": "【츠키노카메】'26 하나마츠리 하타야 미스즈 입수"
+        },
+        {
+            "id": "hmsz-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【츠키노카메】'26 벚꽃 하타야 미스즈 입수"
         },
         {
             "id": "hmsz-cstm-0110",
@@ -906,6 +916,11 @@
             "description": "【벚꽃 포토그래프】하나미사키의 재능 개화 4단계 달성"
         },
         {
+            "id": "hski-cstm-0081",
+            "name": "벚꽃 세일러",
+            "description": "벚꽃 세일러 (하나미 사키) 구매"
+        },
+        {
             "id": "hski-cstm-0082",
             "name": "Wildest Flower",
             "description": "【Wildest Flower】하나미 사키 입수"
@@ -1074,6 +1089,11 @@
             "id": "hume-cstm-0076",
             "name": "눈이 녹을 때에",
             "description": "【The Rolling Riceball】'26 하나마츠리 하나미 우메 입수"
+        },
+        {
+            "id": "hume-cstm-0081",
+            "name": "벚꽃 포토그래프",
+            "description": "【The Rolling Riceball】'26 벚꽃 하나미 우메 입수"
         },
         {
             "id": "hume-cstm-0100",
@@ -2054,6 +2074,11 @@
             "id": "ssmk-cstm-0080",
             "name": "벚꽃 포토그래프",
             "description": "【벚꽃 포토그래프】시운 스미카의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "ssmk-cstm-0081",
+            "name": "벚꽃 세일러",
+            "description": "벚꽃 세일러 (시운 스미카) 구매"
         },
         {
             "id": "ssmk-cstm-0096",
