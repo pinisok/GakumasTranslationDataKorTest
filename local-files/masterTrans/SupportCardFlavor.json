@@ -1072,6 +1072,21 @@
             "text": "1초가 길어!?"
         },
         {
+            "supportCardId": "s_card-2-0074",
+            "number": 1,
+            "text": "콜록. 제가\n건배 구호를, 해도 괜찮을까요?"
+        },
+        {
+            "supportCardId": "s_card-2-0074",
+            "number": 2,
+            "text": "어머. 부탁해도 될까요?"
+        },
+        {
+            "supportCardId": "s_card-2-0074",
+            "number": 3,
+            "text": "이 평온하고 기분 좋은 멋진\n한때를 위하여――건배, 에요~!"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "자, 한 입 줄게!"
@@ -2515,6 +2530,21 @@
             "supportCardId": "s_card-3-0095",
             "number": 3,
             "text": "뭐……\n멋진 타코야키가 될 것 같네요."
+        },
+        {
+            "supportCardId": "s_card-3-0096",
+            "number": 1,
+            "text": "이렇게 나들이하는 건,\n오랜만이네요."
+        },
+        {
+            "supportCardId": "s_card-3-0096",
+            "number": 2,
+            "text": "미스즈, 평소보다 텐션 높은 거야?"
+        },
+        {
+            "supportCardId": "s_card-3-0096",
+            "number": 3,
+            "text": "정말, 기대하고 있었거든요."
         },
         {
             "supportCardId": "s_card-3-0098",

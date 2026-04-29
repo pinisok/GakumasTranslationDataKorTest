@@ -10984,6 +10984,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-hmsz-3-016-01",
+            "title": "VEIL 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-016-02",
+            "title": "VEIL 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-hmsz-3-016-03",
+            "title": "VEIL 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-hrnm-3-000-01",
             "title": "clumsy trick 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -12929,6 +12944,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0074-01",
+            "title": "느긋한 티타임",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0074-02",
+            "title": "절품 레몬 케이크",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『친구』런치",
             "produceEventHintProduceConditionDescriptions": []
@@ -14366,6 +14391,21 @@
         {
             "id": "p_story-s_card-3-0095-03",
             "title": "첫 심부름은?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0096-01",
+            "title": "새로운 추억",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0096-02",
+            "title": "감사와 원망의 먹자골목 투어",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0096-03",
+            "title": "둘이서 보는 바다의 기억",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

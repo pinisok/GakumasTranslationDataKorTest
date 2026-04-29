@@ -19365,7 +19365,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "효과의 스킬 카드 사용 후 3회마다, "
+                    "text": " 스킬 카드 사용 후 3회마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -19506,7 +19506,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "효과의 스킬 카드 사용 후 4회마다, "
+                    "text": " 스킬 카드 사용 후 4회마다, "
                 }
             ],
             "playProduceDescriptions": [
