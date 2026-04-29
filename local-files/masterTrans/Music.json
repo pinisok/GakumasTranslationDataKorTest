@@ -270,6 +270,22 @@
             "arranger": "타키자와 슌스케 (TRYTONELABO)"
         },
         {
+            "id": "music-all-atbm-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-atbm-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
+        },
+        {
             "id": "music-all-atbm-014",
             "title": "ENDLESS DANCE",
             "displayTitle": "ENDLESS DANCE",
@@ -452,6 +468,22 @@
             "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
             "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
             "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hmsz-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hmsz-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
         },
         {
             "id": "music-all-hmsz-012",
@@ -764,6 +796,22 @@
             "lyrics": "오오사와 메이 (Bandai Namco Studios Inc.)",
             "composer": "오오사와 메이 (Bandai Namco Studios Inc.)",
             "arranger": "오오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
+            "id": "music-all-hume-009",
+            "title": "눈이 녹을 때에",
+            "displayTitle": "눈이 녹을 때에",
+            "lyrics": "오야마 쿄코 (Rebrast)",
+            "composer": "카와하라 레오 (Rebrast)",
+            "arranger": "카와하라 레오 (Rebrast)"
+        },
+        {
+            "id": "music-all-hume-010",
+            "title": "벚꽃 포토그래프",
+            "displayTitle": "벚꽃 포토그래프",
+            "lyrics": "Safari Natsukawa",
+            "composer": "하루카와 히토시(sixth floor)",
+            "arranger": "하루카와 히토시(sixth floor)"
         },
         {
             "id": "music-all-hume-011",
@@ -1950,6 +1998,22 @@
             "arranger": "히게드라이버"
         },
         {
+            "id": "music-char-fktn-005",
+            "title": "후와후와",
+            "displayTitle": "후와후와",
+            "lyrics": "시나가와 이츠키",
+            "composer": "카토 히로야",
+            "arranger": "스도 유겐, 카토 히로야"
+        },
+        {
+            "id": "music-char-fktn-005-inst",
+            "title": "후와후와 [Instrumental]",
+            "displayTitle": "후와후와 [Instrumental]",
+            "lyrics": "시나가와 이츠키",
+            "composer": "카토 히로야",
+            "arranger": "스도 유겐, 카토 히로야"
+        },
+        {
             "id": "music-char-hmsz-001",
             "title": "달 거북이",
             "displayTitle": "달 거북이",
@@ -1996,6 +2060,22 @@
             "lyrics": "후와리 (Dream Monster)",
             "composer": "후와리 (Dream Monster)",
             "arranger": "후와리 (Dream Monster)"
+        },
+        {
+            "id": "music-char-hmsz-004",
+            "title": "VEIL",
+            "displayTitle": "VEIL",
+            "lyrics": "GUCCHO",
+            "composer": "GUCCHO, Dubscribe",
+            "arranger": "Dubscribe, GUCCHO"
+        },
+        {
+            "id": "music-char-hmsz-004-inst",
+            "title": "VEIL [Instrumental]",
+            "displayTitle": "VEIL [Instrumental]",
+            "lyrics": "GUCCHO",
+            "composer": "GUCCHO, Dubscribe",
+            "arranger": "Dubscribe, GUCCHO"
         },
         {
             "id": "music-char-hmsz-005",

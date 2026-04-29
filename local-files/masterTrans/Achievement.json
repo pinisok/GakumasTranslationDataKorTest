@@ -726,6 +726,36 @@
             "description": "【ENDLESS DANCE】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hmsz-3-016-01",
+            "name": "가르쳐 줄게요",
+            "description": "【VEIL】하타야 미스즈의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-016-02",
+            "name": "VEIL",
+            "description": "【VEIL】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-016-03",
+            "name": "베일을 벗겨 나가요",
+            "description": "【VEIL】하타야 미스즈의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-016-04",
+            "name": "VEIL +",
+            "description": "【VEIL】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-016-05",
+            "name": "VEIL ++",
+            "description": "【VEIL】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hmsz-3-016-06",
+            "name": "VEIL +++",
+            "description": "【VEIL】하타야 미스즈의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hrnm-2-000-04",
             "name": "『나 다움』의 시작+",
             "description": "【『나 다움』의 시작】히메사키 리나미의 특훈 단계 {threshold} 달성"

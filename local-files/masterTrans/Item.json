@@ -138,6 +138,12 @@
             "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
         },
         {
+            "id": "item-coin-highscorerush-event-013",
+            "name": "별의 반짝임",
+            "description": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~ (하타야 미스즈/시노사와 히로) 이벤트 가챠에서 사용하는 아이템",
+            "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
+        },
+        {
             "id": "item-common-idol_card-piece-r",
             "name": "R 아이돌 피스",
             "description": "R 프로듀스 아이돌의 재능 개화에 사용할 수 있는 아이템",
@@ -262,6 +268,12 @@
             "name": "하츠미 짱 코인",
             "description": "1st 애니버서리 코인 가챠에서 사용하는 코인",
             "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-gacha-coin-hif-001",
+            "name": "H.I.F 직전 캠페인 코인",
+            "description": "H.I.F 직전 캠페인 코인 가챠에서 사용하는 코인",
+            "acquisitionRouteDescription": "프로듀스"
         },
         {
             "id": "item-gacha-coin-newyear-001",
@@ -984,6 +996,12 @@
             "acquisitionRouteDescription": "이벤트 교환소 등"
         },
         {
+            "id": "item-piece-idol_hmsz-3-016",
+            "name": "[VEIL] 하타야 미스즈의 조각",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_hrnm-1-000",
             "name": "[학원생활] 히메사키 리나미의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1690,6 +1708,12 @@
             "name": "1.5th 애니버서리 셀렉션 티켓",
             "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
             "acquisitionRouteDescription": "상점 등"
+        },
+        {
+            "id": "item-selection-ticket-005",
+            "name": "서포트 카드 셀렉션 티켓",
+            "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "H.I.F 직전 캠페인 코인 가챠"
         },
         {
             "id": "item-staminaregen-1",

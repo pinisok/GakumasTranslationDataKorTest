@@ -1070,6 +1070,10 @@
             "description": ""
         },
         {
+            "id": "cd_highscorerush-event-013-release",
+            "description": ""
+        },
+        {
             "id": "cd_hume_have_onsen_1",
             "description": ""
         },
@@ -2534,6 +2538,10 @@
             "description": ""
         },
         {
+            "id": "cd_memory-dearness-unlock-hume-release_open",
+            "description": ""
+        },
+        {
             "id": "cd_memory-dearness-unlock-jsna-release_open",
             "description": ""
         },
@@ -3311,6 +3319,82 @@
         },
         {
             "id": "cd_purchase_shop_pack_item-newyearpack-02",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-a-1",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-a-2",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-a-3",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-b-1",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-b-2",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-b-3",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-c-1",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-c-2",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-2-c-3",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-limitovermaterial-3",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-medal-event-all-001",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-memory_exchange-class1",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-memory_exchange-class2",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-memory_exchange-class3",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-money",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-produce_continue-1",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-research-event-006",
+            "description": ""
+        },
+        {
+            "id": "cd_research-event-006-exchange_item-support_card_enhance_point",
             "description": ""
         },
         {
@@ -5070,6 +5154,34 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_0413-1100",
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0415-1100",
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0416-1900",
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0420_1100",
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0428-1100",
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0429-0000",
+            "description": ""
+        },
+        {
+            "id": "cd_time_26_0429-1100_0516-0959",
+            "description": ""
+        },
+        {
             "id": "cd_time_26_0501-1100",
             "description": ""
         },
@@ -5211,6 +5323,10 @@
         },
         {
             "id": "cd_time-view_open-i_card-hmsz-3-015",
+            "description": ""
+        },
+        {
+            "id": "cd_time-view_open-i_card-hmsz-3-016",
             "description": ""
         },
         {
@@ -6026,6 +6142,22 @@
             "description": ""
         },
         {
+            "id": "cd_view_shop_costume_item-0072",
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-0072",
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-0076",
+            "description": ""
+        },
+        {
+            "id": "cd_view_shop_costume_item-0076",
+            "description": ""
+        },
+        {
             "id": "cd_view_shop_costume_othr-0002",
             "description": ""
         },
@@ -6395,6 +6527,10 @@
         },
         {
             "id": "cd-birthday-fktn-2025",
+            "description": ""
+        },
+        {
+            "id": "cd-birthday-fktn-2026",
             "description": ""
         },
         {
@@ -7038,6 +7174,10 @@
             "description": ""
         },
         {
+            "id": "cd-clear-hidden_mission-view-gasha-00870-free-10-007",
+            "description": ""
+        },
+        {
             "id": "cd-clear-hidden_mission-view-gasha-200limit-select-pickup-001",
             "description": ""
         },
@@ -7204,6 +7344,10 @@
         {
             "id": "cd-dearness_fktn-20",
             "description": "후지타 코토네의 친밀도 Lv 20 달성"
+        },
+        {
+            "id": "cd-dearness_hmsz-20",
+            "description": "하타야 미스즈의 친밀도 Lv 20 달성"
         },
         {
             "id": "cd-dearness_hrnm-20",
@@ -7676,6 +7820,34 @@
         {
             "id": "cd-dearness_level-hmsz-20",
             "description": "하타야 미스즈의 친밀도 Lv 20 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-21",
+            "description": "하타야 미스즈의 친밀도 Lv 21 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-22",
+            "description": "하타야 미스즈의 친밀도 Lv 22 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-23",
+            "description": "하타야 미스즈의 친밀도 Lv 23 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-24",
+            "description": "하타야 미스즈의 친밀도 Lv 24 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-25",
+            "description": "하타야 미스즈의 친밀도 Lv 25 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-26",
+            "description": "하타야 미스즈의 친밀도 Lv 26 도달"
+        },
+        {
+            "id": "cd-dearness_level-hmsz-27",
+            "description": "하타야 미스즈의 친밀도 Lv 27 도달"
         },
         {
             "id": "cd-dearness_level-hrnm-01",
@@ -8726,6 +8898,14 @@
             "description": ""
         },
         {
+            "id": "cd-dearness_normal-mission_hmsz-0001",
+            "description": "친애도 부스트 캠페인 종료 후"
+        },
+        {
+            "id": "cd-dearness_normal-mission_hmsz-0001",
+            "description": ""
+        },
+        {
             "id": "cd-dearness_normal-mission_hrnm-0001",
             "description": "친밀도 Lv 20 도달시"
         },
@@ -8743,7 +8923,7 @@
         },
         {
             "id": "cd-dearness_normal-mission_hume-0001",
-            "description": "친애도 부스트 캠페인 종료 후"
+            "description": "친밀도 Lv 20 도달시"
         },
         {
             "id": "cd-dearness_normal-mission_hume-0001",
@@ -9034,6 +9214,14 @@
             "description": ""
         },
         {
+            "id": "cd-gasha-00870-free-10-007",
+            "description": ""
+        },
+        {
+            "id": "cd-gasha-00870-free-10-007",
+            "description": ""
+        },
+        {
             "id": "cd-hajime_legend_produce-unlock_open",
             "description": "어떤 아이돌의 친애도 Lv10 및 PLv50 이상에서 해금"
         },
@@ -9063,6 +9251,10 @@
         },
         {
             "id": "cd-have_costume_amao-cstm-0069",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_amao-cstm-0076",
             "description": ""
         },
         {
@@ -9214,6 +9406,10 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_head_fktn-hair-0007",
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_head_hrnm-hair-0001",
             "description": ""
         },
@@ -9246,6 +9442,10 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_head_hski-hair-0007",
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_head_hume-hair-0003",
             "description": ""
         },
@@ -9263,6 +9463,10 @@
         },
         {
             "id": "cd-have_costume_head_jsna-hair-0006",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_head_jsna-hair-0007",
             "description": ""
         },
         {
@@ -9358,6 +9562,10 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_head_ttmr-hair-0007",
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_hmsz-cstm-0111",
             "description": ""
         },
@@ -9398,6 +9606,10 @@
             "description": ""
         },
         {
+            "id": "cd-have_costume_hski-cstm-0081",
+            "description": ""
+        },
+        {
             "id": "cd-have_costume_hski-cstm-0111",
             "description": ""
         },
@@ -9427,6 +9639,18 @@
         },
         {
             "id": "cd-have_costume_kcna-cstm-0069",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_kcna-cstm-0076",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_kcna-cstm-0076-amao-cstm-0076",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_kcna-cstm-0076-amao-cstm-0076",
             "description": ""
         },
         {
@@ -9551,6 +9775,18 @@
         },
         {
             "id": "cd-have_costume_ssmk-cstm-0069",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_ssmk-cstm-0081",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_ssmk-cstm-0081-hski-cstm-0081",
+            "description": ""
+        },
+        {
+            "id": "cd-have_costume_ssmk-cstm-0081-hski-cstm-0081",
             "description": ""
         },
         {
@@ -9723,6 +9959,10 @@
         },
         {
             "id": "cd-home_background-birthday-amao-2026",
+            "description": ""
+        },
+        {
+            "id": "cd-home_background-birthday-fktn-2026",
             "description": ""
         },
         {
@@ -10302,6 +10542,10 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-1-20-hmsz",
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-1-20-hrnm",
             "description": ""
         },
@@ -10354,6 +10598,10 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-21-hmsz",
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-21-hrnm",
             "description": ""
         },
@@ -10395,6 +10643,10 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-22-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-22-hmsz",
             "description": ""
         },
         {
@@ -10442,6 +10694,10 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-23-hmsz",
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-23-hrnm",
             "description": ""
         },
@@ -10483,6 +10739,10 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-24-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-24-hmsz",
             "description": ""
         },
         {
@@ -10530,6 +10790,10 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-25-hmsz",
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-25-hrnm",
             "description": ""
         },
@@ -10574,6 +10838,10 @@
             "description": ""
         },
         {
+            "id": "cd-home_motion-cd-dearness_level-26-hmsz",
+            "description": ""
+        },
+        {
             "id": "cd-home_motion-cd-dearness_level-26-hrnm",
             "description": ""
         },
@@ -10615,6 +10883,10 @@
         },
         {
             "id": "cd-home_motion-cd-dearness_level-27-fktn",
+            "description": ""
+        },
+        {
+            "id": "cd-home_motion-cd-dearness_level-27-hmsz",
             "description": ""
         },
         {
@@ -11990,6 +12262,10 @@
             "description": ""
         },
         {
+            "id": "cd-purchase_costume_head_fktn-hair-0007",
+            "description": ""
+        },
+        {
             "id": "cd-purchase_costume_head_hrnm-hair-0004",
             "description": ""
         },
@@ -12006,6 +12282,10 @@
             "description": ""
         },
         {
+            "id": "cd-purchase_costume_head_hski-hair-0007",
+            "description": ""
+        },
+        {
             "id": "cd-purchase_costume_head_hume-hair-0004",
             "description": ""
         },
@@ -12019,6 +12299,10 @@
         },
         {
             "id": "cd-purchase_costume_head_jsna-hair-0006",
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_costume_head_jsna-hair-0007",
             "description": ""
         },
         {
@@ -12083,6 +12367,10 @@
         },
         {
             "id": "cd-purchase_costume_head_ttmr-hair-0006",
+            "description": ""
+        },
+        {
+            "id": "cd-purchase_costume_head_ttmr-hair-0007",
             "description": ""
         },
         {
@@ -12450,6 +12738,10 @@
             "description": ""
         },
         {
+            "id": "cd-purchase_shop_jewel_item-0030",
+            "description": ""
+        },
+        {
             "id": "cd-purchase_shop_jewel_item-0063-0064",
             "description": ""
         },
@@ -12799,6 +13091,10 @@
         },
         {
             "id": "cd-ralease_dearness-story-hski",
+            "description": ""
+        },
+        {
+            "id": "cd-ralease_dearness-story-hume",
             "description": ""
         },
         {
@@ -13754,6 +14050,30 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-all-009",
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-009",
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-009",
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-010",
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-010",
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-all-010",
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-all-010",
             "description": ""
         },
@@ -14014,6 +14334,10 @@
             "description": ""
         },
         {
+            "id": "cd-release-music-inst-fktn-005",
+            "description": ""
+        },
+        {
             "id": "cd-release-music-inst-fktn-01",
             "description": ""
         },
@@ -14043,6 +14367,10 @@
         },
         {
             "id": "cd-release-music-inst-hmsz-03",
+            "description": ""
+        },
+        {
+            "id": "cd-release-music-inst-hmsz-04",
             "description": ""
         },
         {
@@ -14442,6 +14770,14 @@
             "description": ""
         },
         {
+            "id": "cd-shop_costume_amao-cstm-0076",
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_amao-cstm-0076",
+            "description": ""
+        },
+        {
             "id": "cd-shop_costume_amao-cstm-0111",
             "description": ""
         },
@@ -14522,6 +14858,14 @@
             "description": ""
         },
         {
+            "id": "cd-shop_costume_hski-cstm-0081",
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_hski-cstm-0081",
+            "description": ""
+        },
+        {
             "id": "cd-shop_costume_hski-cstm-0111",
             "description": ""
         },
@@ -14583,6 +14927,14 @@
         },
         {
             "id": "cd-shop_costume_kcna-cstm-0069_revival-1",
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_kcna-cstm-0076",
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_kcna-cstm-0076",
             "description": ""
         },
         {
@@ -14663,6 +15015,14 @@
         },
         {
             "id": "cd-shop_costume_ssmk-cstm-0069_revival-1",
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_ssmk-cstm-0081",
+            "description": ""
+        },
+        {
+            "id": "cd-shop_costume_ssmk-cstm-0081",
             "description": ""
         },
         {
@@ -15726,6 +16086,14 @@
             "description": ""
         },
         {
+            "id": "cd-view_home-banner-shop_jewel_item-0030",
+            "description": ""
+        },
+        {
+            "id": "cd-view_home-banner-shop_jewel_item-0030",
+            "description": ""
+        },
+        {
             "id": "cd-view_home-banner-shop_jewel_item-0063",
             "description": ""
         },
@@ -16170,6 +16538,14 @@
             "description": ""
         },
         {
+            "id": "cd-view-start-up-notification-panel_mission-event-009",
+            "description": ""
+        },
+        {
+            "id": "cd-view-start-up-notification-panel_mission-event-009",
+            "description": ""
+        },
+        {
             "id": "cd-view-startup_notification_box-gasha-event-007",
             "description": ""
         },
@@ -16416,6 +16792,18 @@
         {
             "id": "pannel-mission-event-008_time",
             "description": "어떤 아이돌의 친애도 Lv20 에서 해금"
+        },
+        {
+            "id": "pannel-mission-event-009_time",
+            "description": "어떤 아이돌의 친애도 Lv27에서 해금"
+        },
+        {
+            "id": "pannel-mission-event-009_time",
+            "description": "어떤 아이돌의 친애도 Lv27에서 해금"
+        },
+        {
+            "id": "pannel-mission-event-009_time",
+            "description": "어떤 아이돌의 친애도 Lv27에서 해금"
         },
         {
             "id": "pannel-mission-event-halfaniv_time",
