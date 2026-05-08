@@ -1716,6 +1716,12 @@
             "acquisitionRouteDescription": "H.I.F 직전 캠페인 코인 가챠"
         },
         {
+            "id": "item-selection-ticket-006",
+            "name": "2nd 애니버서리 셀렉션 티켓",
+            "description": "티켓 교환소에서 프로듀스 아이돌이나 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "상점 등"
+        },
+        {
             "id": "item-staminaregen-1",
             "name": "AP 드링크",
             "description": "AP가 20회 회복되는 음료",
