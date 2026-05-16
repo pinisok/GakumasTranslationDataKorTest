@@ -2941,6 +2941,22 @@
             "name": "당신과 둘이서, 전철에서"
         },
         {
+            "id": "s_card-3-0097",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": " / 확률 대"
+                }
+            ],
+            "name": "……시끄러운 축제네"
+        },
+        {
             "id": "s_card-3-0098",
             "upgradeProduceCardProduceDescriptions": [
                 {
