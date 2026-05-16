@@ -327,19 +327,19 @@
         },
         {
             "id": "dearness_event_relaunch_hmsz-001",
-            "name": "秦谷 美鈴のボーカルを1800以上に育成してプロデュースをクリア"
+            "name": "하타야 미스즈의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
         },
         {
             "id": "dearness_event_relaunch_hmsz-002",
-            "name": "秦谷 美鈴のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+            "name": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
         },
         {
             "id": "dearness_event_relaunch_hmsz-003",
-            "name": "秦谷 美鈴でボーカルレッスンを{threshold}回クリアしよう"
+            "name": "하타야 미스즈로 보컬 레슨을 {threshold}회 클리어하자"
         },
         {
             "id": "dearness_event_relaunch_hmsz-004",
-            "name": "秦谷 美鈴で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "하타야 미스즈로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
             "id": "dearness_event_relaunch_hrnm-001",
@@ -1127,19 +1127,19 @@
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-amao",
-            "name": "麻央でA-End達成"
+            "name": "마오로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-hmsz",
-            "name": "美鈴でA-End達成"
+            "name": "미스즈로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-hrnm",
-            "name": "莉波でA-End達成"
+            "name": "리나미로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
-            "name": "手毬でA-End達成"
+            "name": "테마리로 A-End 달성"
         },
         {
             "id": "hidden_mission-view-ending-normal-a-amao",
@@ -2031,19 +2031,19 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_25",
-            "name": "有村 麻央の親愛度Lvを{threshold}にしよう"
+            "name": "아리무라 마오의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_28",
-            "name": "秦谷 美鈴の親愛度Lvを{threshold}にしよう"
+            "name": "하타야 미스즈의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_29",
-            "name": "姫崎 莉波の親愛度Lvを{threshold}にしよう"
+            "name": "히메사키 리나미의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_37",
-            "name": "月村 手毬の親愛度Lvを{threshold}にしよう"
+            "name": "츠키무라 테마리의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_11",
@@ -2063,7 +2063,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_15",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_16",
@@ -2087,7 +2087,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_25",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_26",
@@ -2131,7 +2131,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_44",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_45",
@@ -2155,7 +2155,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_54",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_55",
@@ -5115,7 +5115,7 @@
         },
         {
             "id": "mission-normal-absolutedearnesslevel-1",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "mission-normal-absolutefancount-1",
@@ -6587,11 +6587,11 @@
         },
         {
             "id": "panel_mission-event-007-mission_17",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-007-mission_18",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-007-mission_19",
@@ -6619,15 +6619,15 @@
         },
         {
             "id": "panel_mission-event-007-mission_7",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-007-mission_8",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-007-mission_9",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_1",
@@ -6655,19 +6655,19 @@
         },
         {
             "id": "panel_mission-event-008-mission_16",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_17",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_18",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_19",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_2",
@@ -6691,15 +6691,15 @@
         },
         {
             "id": "panel_mission-event-008-mission_7",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_8",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-008-mission_9",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-009-mission_1",
@@ -6719,27 +6719,27 @@
         },
         {
             "id": "panel_mission-event-009-mission_14",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_15",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_16",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_17",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_18",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_19",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_2",
@@ -6751,27 +6751,27 @@
         },
         {
             "id": "panel_mission-event-009-mission_4",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_5",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_6",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_7",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_8",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-009-mission_9",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "panel_mission-event-niv-mission_1",
@@ -6791,7 +6791,7 @@
         },
         {
             "id": "panel_mission-event-niv-mission_5",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "panel_mission-event-niv-mission_6",
@@ -9391,15 +9391,15 @@
         },
         {
             "id": "achieve-o_023",
-            "name": "콘테스트 에서 스코어 10,000 점 이상 획득"
+            "name": "콘테스트에서 스코어 10,000점 이상 획득"
         },
         {
             "id": "achieve-o_024",
-            "name": "콘테스트 에서 스코어 30,000 점 이상 획득"
+            "name": "콘테스트에서 스코어 30,000점 이상 획득"
         },
         {
             "id": "achieve-o_025",
-            "name": "콘테스트 에서 스코어 60,000 점 이상 획득"
+            "name": "콘테스트에서 스코어 60,000점 이상 획득"
         },
         {
             "id": "achieve-o_026",
@@ -9595,7 +9595,7 @@
         },
         {
             "id": "achieve-p_idol-amao-011",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-amao-012",
@@ -9711,7 +9711,7 @@
         },
         {
             "id": "achieve-p_idol-atbm-011",
-            "name": "아마야 츠바메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아마야 츠바메의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-atbm-012",
@@ -10031,7 +10031,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-011",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-fktn-012",
@@ -10143,7 +10143,7 @@
         },
         {
             "id": "achieve-p_idol-hmsz-011",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hmsz-012",
@@ -10259,7 +10259,7 @@
         },
         {
             "id": "achieve-p_idol-hrnm-011",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hrnm-012",
@@ -10375,7 +10375,7 @@
         },
         {
             "id": "achieve-p_idol-hski-011",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hski-012",
@@ -10483,7 +10483,7 @@
         },
         {
             "id": "achieve-p_idol-hume-011",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-hume-012",
@@ -10559,15 +10559,15 @@
         },
         {
             "id": "achieve-p_idol-jsna-004",
-            "name": "주오 세나로 최종시험에 합격하여 평가 B 이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종시험에 합격하여 평가 B 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-005",
-            "name": "주오 세나로 최종시험에 합격하고 평가 A 이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종시험에 합격하고 평가 A 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-006",
-            "name": "주오 세나로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종 시험에 합격하고 평가 S 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-007",
@@ -10587,7 +10587,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-011",
-            "name": "주오 세나의 친애도 Lv을 {threshold}로 설정"
+            "name": "주오 세나의 친밀도 Lv를 {threshold}로 설정"
         },
         {
             "id": "achieve-p_idol-jsna-012",
@@ -10607,7 +10607,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-016",
-            "name": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득 "
+            "name": "주오 세나로 최종 시험에 합격해 평가 S+이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-017",
@@ -10695,7 +10695,7 @@
         },
         {
             "id": "achieve-p_idol-kcna-011",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-kcna-012",
@@ -10799,7 +10799,7 @@
         },
         {
             "id": "achieve-p_idol-kllj-011",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-kllj-012",
@@ -10903,7 +10903,7 @@
         },
         {
             "id": "achieve-p_idol-shro-011",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-shro-012",
@@ -11011,7 +11011,7 @@
         },
         {
             "id": "achieve-p_idol-ssmk-011",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-ssmk-012",
@@ -11119,7 +11119,7 @@
         },
         {
             "id": "achieve-p_idol-ttmr-011",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "achieve-p_idol-ttmr-012",
@@ -11307,7 +11307,7 @@
         },
         {
             "id": "main_task_group-01-01#27",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "main_task_group-01-01#28",
@@ -11375,7 +11375,7 @@
         },
         {
             "id": "main_task_group-01-01#44",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "main_task_group-01-01#45",
@@ -11435,7 +11435,7 @@
         },
         {
             "id": "main_task_group-01-01#59",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "main_task_group-01-01#60",
@@ -11679,7 +11679,7 @@
         },
         {
             "id": "main_task_group-02-01#60",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "main_task_group-02-01#61",
@@ -11867,7 +11867,7 @@
         },
         {
             "id": "main_task_group-03-01#7",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#8",
@@ -11879,7 +11879,7 @@
         },
         {
             "id": "main_task_group-03-01#10",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#11",
@@ -11887,7 +11887,7 @@
         },
         {
             "id": "main_task_group-03-01#12",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#13",
@@ -11995,47 +11995,47 @@
         },
         {
             "id": "main_task_group-03-01#39",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#40",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#41",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#42",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#43",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#44",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#45",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#46",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#47",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#48",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#49",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#50",
@@ -12127,7 +12127,7 @@
         },
         {
             "id": "main_task_group-03-01#72",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "main_task_group-03-01#73",
@@ -12151,7 +12151,7 @@
         },
         {
             "id": "main_task_group-03-01#78",
-            "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜 : 로직 프로듀스 아이돌 "
+            "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜 : 로직 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-03-01#79",
@@ -12167,47 +12167,47 @@
         },
         {
             "id": "main_task_group-03-01#82",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#83",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#84",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#85",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#86",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#87",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#88",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#89",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#90",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#91",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#92",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-03-01#93",
@@ -12251,7 +12251,7 @@
         },
         {
             "id": "main_task_group-04-01#3",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#4",
@@ -12271,7 +12271,7 @@
         },
         {
             "id": "main_task_group-04-01#8",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#9",
@@ -12279,51 +12279,51 @@
         },
         {
             "id": "main_task_group-04-01#10",
-            "name": "하나미 사키의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 사키의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#11",
-            "name": "츠키무라 테마리의 친애도 Lv을 {threshold} 달성하자"
+            "name": "츠키무라 테마리의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#12",
-            "name": "후지타 코토네의 친애도 Lv을 {threshold} 달성하자"
+            "name": "후지타 코토네의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#13",
-            "name": "아리무라 마오의 친애도 Lv을 {threshold} 달성하자"
+            "name": "아리무라 마오의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#14",
-            "name": "카츠라기 릴리야의 친애도 Lv을 {threshold} 달성하자"
+            "name": "카츠라기 릴리야의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#15",
-            "name": "쿠라모토 치나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "쿠라모토 치나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#16",
-            "name": "시운 스미카의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시운 스미카의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#17",
-            "name": "시노사와 히로의 친애도 Lv을 {threshold} 달성하자"
+            "name": "시노사와 히로의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#18",
-            "name": "하나미 우메의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하나미 우메의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#19",
-            "name": "히메사키 리나미의 친애도 Lv을 {threshold} 달성하자"
+            "name": "히메사키 리나미의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#20",
-            "name": "주오 세나의 친애도 Lv을 {threshold} 달성하자"
+            "name": "주오 세나의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#21",
-            "name": "하타야 미스즈의 친애도 Lv을 {threshold} 달성하자"
+            "name": "하타야 미스즈의 친밀도 Lv를 {threshold} 달성하자"
         },
         {
             "id": "main_task_group-04-01#22",
@@ -12415,7 +12415,7 @@
         },
         {
             "id": "main_task_group-04-01#44",
-            "name": "아이돌 한 명의 친애도 Lv를 {threshold}로 하자"
+            "name": "아이돌 한 명의 친밀도 Lv를 {threshold}로 하자"
         },
         {
             "id": "main_task_group-04-01#45",
