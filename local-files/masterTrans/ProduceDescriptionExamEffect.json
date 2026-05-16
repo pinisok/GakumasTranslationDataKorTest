@@ -7,15 +7,15 @@
     "data": [
         {
             "type": "ProduceExamEffectType_ExamLesson",
-            "name": "파라미터"
+            "name": "파라미터 "
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuff",
-            "name": "호조"
+            "name": "호조 "
         },
         {
             "type": "ProduceExamEffectType_ExamBlock",
-            "name": "원기"
+            "name": "원기 "
         },
         {
             "type": "ProduceExamEffectType_ExamCardDraw",
@@ -35,7 +35,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamLessonBuff",
-            "name": "집중"
+            "name": "집중 "
         },
         {
             "type": "ProduceExamEffectType_ExamCardUpgrade",
@@ -83,7 +83,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamReview",
-            "name": "호인상"
+            "name": "호인상 "
         },
         {
             "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
@@ -95,19 +95,19 @@
         },
         {
             "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-            "name": "의욕"
+            "name": "의욕 "
         },
         {
             "type": "ProduceExamEffectType_ExamConcentration",
-            "name": "강기"
+            "name": "강기 "
         },
         {
             "type": "ProduceExamEffectType_ExamPreservation",
-            "name": "온존"
+            "name": "온존 "
         },
         {
             "type": "ProduceExamEffectType_ExamFullPower",
-            "name": "전력"
+            "name": "전력 "
         },
         {
             "type": "ProduceExamEffectType_ExamStanceReset",
@@ -239,7 +239,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-            "name": "절호조"
+            "name": "절호조 "
         },
         {
             "type": "ProduceExamEffectType_StanceLock",
