@@ -23,7 +23,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-            "name": "소비 체력 경감"
+            "name": "소비 체력 감소"
         },
         {
             "type": "ProduceExamEffectType_ExamCardCreateId",

@@ -2179,7 +2179,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_64",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_65",
@@ -2203,7 +2203,7 @@
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_74",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "mission-daily_mission_NIA_clear-mission_75",
@@ -5759,7 +5759,7 @@
         },
         {
             "id": "mission-research-event-002-mission_2",
-            "name": "플랜 : 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+            "name": "플랜: 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-research-event-002-mission_3",
@@ -5823,7 +5823,7 @@
         },
         {
             "id": "mission-research-event-004-mission_2",
-            "name": "플랜 : 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+            "name": "플랜: 로직 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-research-event-004-mission_3",
@@ -6595,7 +6595,7 @@
         },
         {
             "id": "panel_mission-event-007-mission_19",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "panel_mission-event-007-mission_2",
@@ -9547,11 +9547,11 @@
         },
         {
             "id": "achieve-p_idol-amao-000-1",
-            "name": "아리무라 마오로 True End : N.I.A 보기"
+            "name": "아리무라 마오로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-amao-000-2",
-            "name": "아리무라 마오로 True End : H.I.F 보기"
+            "name": "아리무라 마오로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-amao-001",
@@ -9987,7 +9987,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-000-1",
-            "name": "후지타 코토네로 True End  : N.I.A 보기"
+            "name": "후지타 코토네로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-fktn-001",
@@ -10095,11 +10095,11 @@
         },
         {
             "id": "achieve-p_idol-hmsz-000-1",
-            "name": "하타야 미스즈로 True End  : N.I.A 보기"
+            "name": "하타야 미스즈로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-hmsz-000-2",
-            "name": "하타야 미스즈로 True End : H.I.F 보기"
+            "name": "하타야 미스즈로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hmsz-001",
@@ -10211,11 +10211,11 @@
         },
         {
             "id": "achieve-p_idol-hrnm-000-1",
-            "name": "히메사키 리나미로 True End  : N.I.A 보기"
+            "name": "히메사키 리나미로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-hrnm-000-2",
-            "name": "히메사키 리나미로 True End : H.I.F 보기"
+            "name": "히메사키 리나미로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hrnm-001",
@@ -10331,7 +10331,7 @@
         },
         {
             "id": "achieve-p_idol-hski-000-1",
-            "name": "하나미 사키로 True End  : N.I.A 보기"
+            "name": "하나미 사키로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-hski-001",
@@ -10439,7 +10439,7 @@
         },
         {
             "id": "achieve-p_idol-hume-000-1",
-            "name": "하나미 우메로 True End  : N.I.A 보기"
+            "name": "하나미 우메로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-hume-001",
@@ -10543,7 +10543,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-000-1",
-            "name": "주오 세나로 True End  : N.I.A 보기"
+            "name": "주오 세나로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-jsna-001",
@@ -10651,7 +10651,7 @@
         },
         {
             "id": "achieve-p_idol-kcna-000-1",
-            "name": "쿠라모토 치나로 True End  : N.I.A 보기"
+            "name": "쿠라모토 치나로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-kcna-001",
@@ -10755,7 +10755,7 @@
         },
         {
             "id": "achieve-p_idol-kllj-000-1",
-            "name": "카츠라기 릴리야로 True End  : N.I.A 보기"
+            "name": "카츠라기 릴리야로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-kllj-001",
@@ -10859,7 +10859,7 @@
         },
         {
             "id": "achieve-p_idol-shro-000-1",
-            "name": "시노사와 히로로 True End  : N.I.A 보기"
+            "name": "시노사와 히로로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-shro-001",
@@ -10967,7 +10967,7 @@
         },
         {
             "id": "achieve-p_idol-ssmk-000-1",
-            "name": "시운 스미카로 True End  : N.I.A 보기"
+            "name": "시운 스미카로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-ssmk-001",
@@ -11071,11 +11071,11 @@
         },
         {
             "id": "achieve-p_idol-ttmr-000-1",
-            "name": "츠키무라 테마리로 True End  : N.I.A 보기"
+            "name": "츠키무라 테마리로 True End: N.I.A 보기"
         },
         {
             "id": "achieve-p_idol-ttmr-000-2",
-            "name": "츠키무라 테마리로 True End : H.I.F 보기"
+            "name": "츠키무라 테마리로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-ttmr-001",
@@ -12151,7 +12151,7 @@
         },
         {
             "id": "main_task_group-03-01#78",
-            "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜 : 로직 프로듀스 아이돌"
+            "name": "N.I.A의 프로듀스로 평가 S 이상 달성하자\n【조건】플랜: 로직 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-03-01#79",
@@ -12219,7 +12219,7 @@
         },
         {
             "id": "main_task_group-03-01#95",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "main_task_group-03-01#96",
@@ -12239,7 +12239,7 @@
         },
         {
             "id": "main_task_group-03-01#100",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "main_task_group-04-01#1",
@@ -12259,7 +12259,7 @@
         },
         {
             "id": "main_task_group-04-01#5",
-            "name": "True End : N.I.A를 {threshold} 명 보자"
+            "name": "True End: N.I.A를 {threshold} 명 보자"
         },
         {
             "id": "main_task_group-04-01#6",
@@ -12327,15 +12327,15 @@
         },
         {
             "id": "main_task_group-04-01#22",
-            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 센스의 프로듀스 아이돌"
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜: 센스의 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-04-01#23",
-            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 로직의 프로듀스 아이돌"
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜: 로직의 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-04-01#24",
-            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜 : 어노말리의 프로듀스 아이돌"
+            "name": "「N.I.A」:마스터에서 최종 오디션에 합격하자\n【조건】 플랜: 어노말리의 프로듀스 아이돌"
         },
         {
             "id": "main_task_group-04-01#25",

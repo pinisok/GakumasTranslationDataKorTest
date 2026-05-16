@@ -2032,7 +2032,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "인 경우, 2단계로 변경\n\n▼1단계째\n"
+                    "text": "일 때, 2단계로 변경\n\n▼1단계째\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5225,7 +5225,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "인 경우, 2단계로 변경\n\n▼1단계째\n"
+                    "text": "일 때, 2단계로 변경\n\n▼1단계째\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5903,7 +5903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "소비 체력을 50% 경감"
+                    "text": "소비 체력을 50% 감소"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5916,7 +5916,7 @@
                     "text": ""
                 }
             ],
-            "name": "소비 체력 경감"
+            "name": "소비 체력 감소"
         },
         {
             "id": "Label_ExamStaminaConsumptionDownAdd",
