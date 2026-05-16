@@ -14826,7 +14826,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이하일 때,"
+                    "text": "이하</nobr>일 때,"
                 }
             ],
             "playProduceDescriptions": [
@@ -14876,7 +14876,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이하일 때, 사용 가능"
+                    "text": "이하</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -14926,7 +14926,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이하일 때,"
+                    "text": "이하</nobr>일 때,"
                 }
             ]
         },
@@ -14991,7 +14991,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이상일 때,"
+                    "text": "이상</nobr>일 때,"
                 }
             ],
             "playProduceDescriptions": [
@@ -15041,7 +15041,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이상일 때, 사용 가능"
+                    "text": "이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -15091,7 +15091,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이상일 때,"
+                    "text": "이상</nobr>일 때,"
                 }
             ]
         },
@@ -33143,7 +33143,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이하일 때,"
+                    "text": "이하</nobr>일 때,"
                 }
             ],
             "playProduceDescriptions": [
@@ -33193,7 +33193,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이하일 때, 사용 가능"
+                    "text": "이하</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -33243,7 +33243,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "이하일 때,"
+                    "text": "이하</nobr>일 때,"
                 }
             ]
         },
