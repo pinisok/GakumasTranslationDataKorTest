@@ -1200,7 +1200,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1305,7 +1305,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2319,7 +2319,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2424,7 +2424,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2832,7 +2832,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3147,7 +3147,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3345,7 +3345,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3741,7 +3741,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3810,7 +3810,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3867,7 +3867,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5764,7 +5764,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -5821,7 +5821,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -5878,7 +5878,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -5935,7 +5935,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -5992,7 +5992,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6049,7 +6049,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6106,7 +6106,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6163,7 +6163,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6220,7 +6220,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6277,7 +6277,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6334,7 +6334,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6351,7 +6351,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-act-2_001",
-                    "text": "슈프레히콜"
+                    "text": "슈프레히콜 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6391,7 +6391,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6408,7 +6408,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-act-2_002",
-                    "text": "스타트 대시"
+                    "text": "스타트 대시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6448,7 +6448,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6505,7 +6505,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6562,7 +6562,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6619,7 +6619,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6676,7 +6676,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6733,7 +6733,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6790,7 +6790,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6847,7 +6847,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6864,7 +6864,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-act-2_061",
-                    "text": "파죽지세"
+                    "text": "파죽지세 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6904,7 +6904,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -6961,7 +6961,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7018,7 +7018,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7075,7 +7075,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7132,7 +7132,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7149,7 +7149,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_011",
-                    "text": "스포트라이트"
+                    "text": "스포트라이트 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7189,7 +7189,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7206,7 +7206,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_034",
-                    "text": "연출 계획"
+                    "text": "연출 계획 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7246,7 +7246,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7263,7 +7263,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_035",
-                    "text": "조용한 의지"
+                    "text": "조용한 의지 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7303,7 +7303,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7360,7 +7360,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7377,7 +7377,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_037",
-                    "text": "존재감"
+                    "text": "존재감 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7417,7 +7417,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7434,7 +7434,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_038",
-                    "text": "소원의 힘"
+                    "text": "소원의 힘 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7474,7 +7474,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7531,7 +7531,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7588,7 +7588,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7645,7 +7645,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7702,7 +7702,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7719,7 +7719,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_104",
-                    "text": "정신 통일"
+                    "text": "정신 통일 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7759,7 +7759,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7816,7 +7816,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7873,7 +7873,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7930,7 +7930,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -7987,7 +7987,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8044,7 +8044,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8061,7 +8061,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-1_037",
-                    "text": "데이드리밍"
+                    "text": "데이드리밍 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8101,7 +8101,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8158,7 +8158,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8215,7 +8215,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8272,7 +8272,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8329,7 +8329,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8386,7 +8386,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8403,7 +8403,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_048",
-                    "text": "반짝임"
+                    "text": "반짝임 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8443,7 +8443,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8460,7 +8460,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_049",
-                    "text": "모두 너무 좋아"
+                    "text": "모두 너무 좋아 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8500,7 +8500,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8557,7 +8557,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8614,7 +8614,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8671,7 +8671,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8728,7 +8728,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8785,7 +8785,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8842,7 +8842,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8899,7 +8899,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -8956,7 +8956,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9013,7 +9013,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9070,7 +9070,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9127,7 +9127,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9144,7 +9144,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_004",
-                    "text": "두근거림이 멈추지 않아"
+                    "text": "두근거림이 멈추지 않아 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9184,7 +9184,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9241,7 +9241,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9298,7 +9298,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9355,7 +9355,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9372,7 +9372,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_052",
-                    "text": "볕 쬐기"
+                    "text": "볕 쬐기 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9412,7 +9412,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9469,7 +9469,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9486,7 +9486,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_054",
-                    "text": "공연 전 날"
+                    "text": "공연 전 날 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9526,7 +9526,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9583,7 +9583,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9600,7 +9600,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_056",
-                    "text": "멈출 수 없는 마음"
+                    "text": "멈출 수 없는 마음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9640,7 +9640,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9657,7 +9657,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_057",
-                    "text": "꿈 같은 기분"
+                    "text": "꿈 같은 기분 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9697,7 +9697,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9714,7 +9714,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_058",
-                    "text": "팬시 챰"
+                    "text": "팬시 챰 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9754,7 +9754,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9771,7 +9771,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_060",
-                    "text": "소녀의 마음"
+                    "text": "소녀의 마음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9811,7 +9811,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9868,7 +9868,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9925,7 +9925,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -9982,7 +9982,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10039,7 +10039,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10096,7 +10096,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10153,7 +10153,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10210,7 +10210,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10227,7 +10227,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-1_072",
-                    "text": "형세역전"
+                    "text": "형세역전 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10267,7 +10267,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10324,7 +10324,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10381,7 +10381,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10438,7 +10438,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10495,7 +10495,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10552,7 +10552,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10609,7 +10609,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10626,7 +10626,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_070",
-                    "text": "시작의 미소"
+                    "text": "시작의 미소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10666,7 +10666,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10723,7 +10723,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10780,7 +10780,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10837,7 +10837,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10854,7 +10854,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_081",
-                    "text": "첫인상"
+                    "text": "첫인상 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10894,7 +10894,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -10911,7 +10911,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_082",
-                    "text": "트렌드 리더"
+                    "text": "트렌드 리더 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10951,7 +10951,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11008,7 +11008,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11065,7 +11065,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11122,7 +11122,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11236,7 +11236,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11293,7 +11293,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11310,7 +11310,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-1_051",
-                    "text": "세팅"
+                    "text": "세팅 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11350,7 +11350,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11407,7 +11407,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11464,7 +11464,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11481,7 +11481,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-2_074",
-                    "text": "강인함"
+                    "text": "강인함 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11521,7 +11521,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11538,7 +11538,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-2_075",
-                    "text": "모티베이션"
+                    "text": "모티베이션 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11578,7 +11578,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11595,7 +11595,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-2_076",
-                    "text": "분위기 타기 솜씨"
+                    "text": "분위기 타기 솜씨 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11635,7 +11635,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11692,7 +11692,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11709,7 +11709,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-2_078",
-                    "text": "성취감"
+                    "text": "성취감 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11749,7 +11749,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11766,7 +11766,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-2_079",
-                    "text": "절차탁마"
+                    "text": "절차탁마 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11806,7 +11806,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11823,7 +11823,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-men-2_080",
-                    "text": "인플루언서"
+                    "text": "인플루언서 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11863,7 +11863,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -11880,7 +11880,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11985,7 +11985,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12639,7 +12639,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -12691,7 +12691,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -12708,7 +12708,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13221,7 +13221,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13278,7 +13278,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13545,7 +13545,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13836,7 +13836,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14232,7 +14232,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14430,7 +14430,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16191,7 +16191,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16260,7 +16260,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16329,7 +16329,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16398,7 +16398,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17217,7 +17217,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-2_034",
-                    "text": "연출 계획"
+                    "text": "연출 계획 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17331,7 +17331,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-2_052",
-                    "text": "볕 쬐기"
+                    "text": "볕 쬐기 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17724,7 +17724,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18237,7 +18237,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18261,7 +18261,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18299,7 +18299,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18337,7 +18337,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18366,7 +18366,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19425,7 +19425,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19527,7 +19527,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19686,7 +19686,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20008,7 +20008,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -25734,7 +25734,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "어느 하나의 "
+                    "text": "어느 하나 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -25758,7 +25758,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -25796,7 +25796,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "어느 하나의 "
+                    "text": "어느 하나 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -25834,7 +25834,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "어느 하나의 "
+                    "text": "어느 하나 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -25858,7 +25858,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -25875,7 +25875,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "어느 하나의 "
+                    "text": "어느 하나 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -25899,7 +25899,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -25937,7 +25937,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "어느 하나의 "
+                    "text": "어느 하나 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -25975,7 +25975,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "어느 하나의 "
+                    "text": "어느 하나 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -25999,7 +25999,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -26085,7 +26085,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26328,7 +26328,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26577,7 +26577,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26878,7 +26878,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -26992,7 +26992,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "인 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -27841,7 +27841,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -27886,7 +27886,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -29293,7 +29293,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -29370,7 +29370,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -29422,7 +29422,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -30568,7 +30568,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -30613,7 +30613,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -30658,7 +30658,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -30703,7 +30703,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -30748,7 +30748,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -41447,7 +41447,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -41499,7 +41499,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -43350,7 +43350,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "의 경우, "
+                    "text": "일 때, "
                 }
             ]
         },
@@ -50752,7 +50752,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50790,7 +50790,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -50828,7 +50828,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ActiveSkillCard",
-                    "text": "액티브 스킬 카드"
+                    "text": "액티브 스킬 카드 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
