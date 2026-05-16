@@ -1168,7 +1168,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱이나 버림 패에 있는 스킬 카드"
+                    "text": "덱이나 버린 패에 있는 스킬 카드"
                 }
             ]
         },
@@ -1183,7 +1183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱이나 버림 패에 "
+                    "text": "덱이나 버린 패에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -1218,7 +1218,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱 또는 버림 패의 "
+                    "text": "덱 또는 버린 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1253,7 +1253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱이나 버림 패에 있는 아이돌 고유 스킬 카드1장 "
+                    "text": "덱이나 버린 패에 있는 아이돌 고유 스킬 카드1장 "
                 }
             ]
         },
@@ -1268,7 +1268,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱 또는 버림 패의 "
+                    "text": "덱 또는 버린 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -2798,7 +2798,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "랜덤한 손 패나 버림 패에 있는 스킬 카드(SSR) 3장"
+                    "text": "랜덤한 손 패나 버린 패에 있는 스킬 카드(SSR) 3장"
                 }
             ]
         },
@@ -4898,7 +4898,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "덱이나 버림 패에 "
+                    "text": "덱이나 버린 패에 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",

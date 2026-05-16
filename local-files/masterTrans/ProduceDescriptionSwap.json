@@ -319,12 +319,12 @@
         {
             "id": "Swap_Label_ProduceCardPositionType_Grave",
             "swapType": "ProduceDescriptionSwapType_Lesson",
-            "text": "버림 패"
+            "text": "버린 패"
         },
         {
             "id": "Swap_Label_ProduceCardPositionType_Grave",
             "swapType": "ProduceDescriptionSwapType_Audition",
-            "text": "버림 패"
+            "text": "버린 패"
         },
         {
             "id": "Swap_Label_ProduceCardPositionType_Hand",

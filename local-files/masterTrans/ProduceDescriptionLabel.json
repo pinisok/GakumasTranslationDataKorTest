@@ -7411,7 +7411,7 @@
         {
             "id": "Label_ProduceCardPositionType_Grave",
             "produceDescriptions": [],
-            "name": "버림 패"
+            "name": "버린 패"
         },
         {
             "id": "Label_ProduceCardPositionType_Hand",
@@ -7449,7 +7449,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드를 2장까지 저장할 수 있으며, 2장을 넘으면 오래된 순서로 버림 패로 보낸다"
+                    "text": "스킬 카드를 2장까지 저장할 수 있으며, 2장을 넘으면 오래된 순서로 버린 패로 보낸다"
                 }
             ],
             "name": "보류"
