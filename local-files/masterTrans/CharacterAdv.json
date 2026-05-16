@@ -66,6 +66,16 @@
             "regexp": "릴리야$"
         },
         {
+            "characterId": "krnh",
+            "name": "카야 린하",
+            "regexp": "린바$"
+        },
+        {
+            "characterId": "ktko",
+            "name": "쿠로이 타카오",
+            "regexp": "타카오"
+        },
+        {
             "characterId": "myu0",
             "name": "마시로 유우",
             "regexp": "유우"

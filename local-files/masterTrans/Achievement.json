@@ -996,6 +996,36 @@
             "description": "【36℃ U･B･U】히메사키 리나미의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hrnm-3-017-01",
+            "name": "누나의 감각",
+            "description": "【가라쿠타로드】히메사키 리나미의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-02",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-03",
+            "name": "누나는 조금만 더",
+            "description": "【가라쿠타로드】히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-04",
+            "name": "가라쿠타로드 +",
+            "description": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-05",
+            "name": "가라쿠타로드 ++",
+            "description": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-017-06",
+            "name": "가라쿠타로드 +++",
+            "description": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-hski-2-000-04",
             "name": "내가 제일!+",
             "description": "【내가 최고!】 하나미 사키의 특훈 단계 {threshold} 달성"
@@ -3006,6 +3036,36 @@
             "description": "【대체 언제부터】츠키무라 테마리의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-ttmr-3-018-01",
+            "name": "너무 쿨한 아이돌",
+            "description": "【가라쿠타로드】츠키무라 테마리의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-02",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-03",
+            "name": "쿨 아이돌의 대명사",
+            "description": "【가라쿠타로드】츠키무라 테마리의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-04",
+            "name": "가라쿠타로드 +",
+            "description": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-05",
+            "name": "가라쿠타로드 ++",
+            "description": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-018-06",
+            "name": "가라쿠타로드 +++",
+            "description": "【가라쿠타로드】츠키무라 테마리의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-m_amao-001",
             "name": "마스터 업적",
             "description": "아리무라 마오의 업적의 ★을 {threshold}개 획득"
@@ -3196,6 +3256,11 @@
             "description": "콘테스트 7등급에서 100위 안에 들자"
         },
         {
+            "id": "achieve-o_028",
+            "name": "H.I.F로 가는 길",
+            "description": "H.I.F 보너스로 보너스 패널 진척도 {threshold} 달성"
+        },
+        {
             "id": "achieve-p_common-001",
             "name": "숨겨진 공로자",
             "description": "총 {threshold} P포인트 획득"
@@ -3341,6 +3406,21 @@
             "description": "최종 시험을 스코어 SSS+ 이상으로 {threshold}회 합격"
         },
         {
+            "id": "achieve-p_common-030",
+            "name": "꿈에 다가서는 자",
+            "description": "최종 시험을 스코어 S4 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_common-031",
+            "name": "빛으로 인도하는 자",
+            "description": "최종 시험을 스코어 S4+ 이상으로 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_common-032",
+            "name": "P학과 수석",
+            "description": "『샛별』 해방을 {threshold}명 달성"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "진정한 나",
             "description": "아리무라 마오로 True End를 보기"
@@ -3349,6 +3429,11 @@
             "id": "achieve-p_idol-amao-000-1",
             "name": "The Little Prince",
             "description": "아리무라 마오로 True End : N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-amao-000-2",
+            "name": "저를, 봐주세요",
+            "description": "아리무라 마오로 True End : H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-amao-001",
@@ -3469,6 +3554,21 @@
             "id": "achieve-p_idol-amao-024",
             "name": "같은 꿈을 향해 날다",
             "description": "아리무라 마오로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-amao-025",
+            "name": "『0번』의 입지",
+            "description": "아리무라 마오로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-amao-026",
+            "name": "함께 꿈으로 비상한 나날",
+            "description": "아리무라 마오로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-amao-027",
+            "name": "나다운 선택",
+            "description": "아리무라 마오로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-atbm-000",
@@ -3594,6 +3694,11 @@
             "id": "achieve-p_idol-atbm-024",
             "name": "마음에 불을 밝히고",
             "description": "아마야 츠바메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-atbm-027",
+            "name": "가장 오래된 팬",
+            "description": "아마야 츠바메로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -3996,6 +4101,11 @@
             "description": "후지타 코토네로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-fktn-027",
+            "name": "빚, 전액 완납!",
+            "description": "후지타 코토네로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "인생 최고의 날",
             "description": "하타야 미스즈로 True End를 보기"
@@ -4004,6 +4114,11 @@
             "id": "achieve-p_idol-hmsz-000-1",
             "name": "함께 하품할 준비",
             "description": "하타야 미스즈로 True End  : N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-000-2",
+            "name": "후와아~……아",
+            "description": "하타야 미스즈로 True End : H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hmsz-001",
@@ -4121,6 +4236,21 @@
             "description": "하타야 미스즈로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hmsz-025",
+            "name": "우리의 꿈의 시작",
+            "description": "하타야 미스즈로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-026",
+            "name": "행복한 여정",
+            "description": "하타야 미스즈로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-027",
+            "name": "한 발 다가선 관계",
+            "description": "하타야 미스즈로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hrnm-000",
             "name": "진정한 마음",
             "description": "히메사키 리나미로 True End를 보기"
@@ -4129,6 +4259,11 @@
             "id": "achieve-p_idol-hrnm-000-1",
             "name": "네가 손을 잡아줬어",
             "description": "히메사키 리나미로 True End  : N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-000-2",
+            "name": "아플 때나, 건강할 때나",
+            "description": "히메사키 리나미로 True End : H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hrnm-001",
@@ -4249,6 +4384,21 @@
             "id": "achieve-p_idol-hrnm-024",
             "name": "원점을 다시 바라보며",
             "description": "히메사키 리나미로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-025",
+            "name": "샛별이 보이는 풍경",
+            "description": "히메사키 리나미로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-026",
+            "name": "너와 달려온 시간",
+            "description": "히메사키 리나미로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-027",
+            "name": "나의 진심",
+            "description": "히메사키 리나미로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-hski-000",
@@ -4381,6 +4531,11 @@
             "description": "하나미 사키로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hski-027",
+            "name": "새로운 하나미 사키",
+            "description": "하나미 사키로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "인생 최고의 파인 플레이",
             "description": "하나미 우메로 True End를 보기"
@@ -4504,6 +4659,11 @@
             "id": "achieve-p_idol-hume-024",
             "name": "언니의 목표로",
             "description": "하나미 우메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hume-027",
+            "name": "겉모습이 아닌, 본질",
+            "description": "하나미 우메로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -4636,6 +4796,11 @@
             "description": "주오 세나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-jsna-027",
+            "name": "이루어진 야망",
+            "description": "주오 세나로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "레벨 1의 신인 아이돌",
             "description": "쿠라모토 치나로 True End를 보기"
@@ -4761,6 +4926,11 @@
             "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-kcna-027",
+            "name": "차기 학생회장, 내정!",
+            "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "빛",
             "description": "카츠라기 릴리야로 True End를 보기"
@@ -4884,6 +5054,11 @@
             "id": "achieve-p_idol-kllj-024",
             "name": "불타오르는 시추에이션",
             "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-kllj-027",
+            "name": "결계계 아이돌의 탄생",
+            "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -5016,6 +5191,11 @@
             "description": "시노사와 히로로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-shro-027",
+            "name": "우상으로서의 신격",
+            "description": "시노사와 히로로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "내딛은 한걸음",
             "description": "시운 스미카로 True End를 보기"
@@ -5141,6 +5321,11 @@
             "description": "시운 스미카로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-ssmk-027",
+            "name": "첫 응석",
+            "description": "시운 스미카로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
+        },
+        {
             "id": "achieve-p_idol-ttmr-000",
             "name": "나만을 위한 프로듀서",
             "description": "츠키무라 테마리로 True End를 보기"
@@ -5149,6 +5334,11 @@
             "id": "achieve-p_idol-ttmr-000-1",
             "name": "진짜보다 높이 날 수 있어",
             "description": "츠키무라 테마리로 True End  : N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-000-2",
+            "name": "오늘의 내가 가장 좋아",
+            "description": "츠키무라 테마리로 True End : H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-ttmr-001",
@@ -5269,6 +5459,21 @@
             "id": "achieve-p_idol-ttmr-024",
             "name": "따라잡아 주겠어!",
             "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-025",
+            "name": "언젠가 동경한 보물",
+            "description": "츠키무라 테마리로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-026",
+            "name": "목표를 향해 달리는 매일",
+            "description": "츠키무라 테마리로 H.I.F 최종 시험에 {threshold}회 합격"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-027",
+            "name": "동경을 뛰어넘어",
+            "description": "츠키무라 테마리로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
         },
         {
             "id": "achievement_char_hume-024",

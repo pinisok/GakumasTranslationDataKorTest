@@ -1169,7 +1169,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "Pドリンク所持上限+"
+                    "text": "P드링크 보유 상한+"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1221,7 +1221,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1257,7 +1257,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1293,7 +1293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1329,7 +1329,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1365,7 +1365,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1401,7 +1401,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1437,7 +1437,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1473,7 +1473,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -1509,7 +1509,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "獲得するスター性を"
+                    "text": "획득하는 스타성을"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -3177,7 +3177,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3297,7 +3297,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3307,7 +3307,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -3323,7 +3323,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3443,7 +3443,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3453,7 +3453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -3469,7 +3469,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3589,7 +3589,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3599,7 +3599,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -3615,7 +3615,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3735,7 +3735,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3745,7 +3745,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -3761,7 +3761,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3881,7 +3881,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -3891,7 +3891,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -3907,7 +3907,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4027,7 +4027,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4037,7 +4037,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4053,7 +4053,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4173,7 +4173,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4183,7 +4183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4199,7 +4199,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4319,7 +4319,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4329,7 +4329,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4345,7 +4345,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4465,7 +4465,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4475,7 +4475,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4491,7 +4491,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4611,7 +4611,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4621,7 +4621,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4637,7 +4637,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4757,7 +4757,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4767,7 +4767,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4783,7 +4783,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4903,7 +4903,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -4913,7 +4913,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -4929,7 +4929,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5049,7 +5049,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5059,7 +5059,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5075,7 +5075,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5195,7 +5195,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5205,7 +5205,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5221,7 +5221,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5341,7 +5341,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5351,7 +5351,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5367,7 +5367,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5487,7 +5487,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5497,7 +5497,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5513,7 +5513,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5633,7 +5633,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5643,7 +5643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5659,7 +5659,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5779,7 +5779,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5789,7 +5789,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5805,7 +5805,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5925,7 +5925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -5935,7 +5935,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -5951,7 +5951,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6071,7 +6071,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6081,7 +6081,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6097,7 +6097,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6217,7 +6217,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6227,7 +6227,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6243,7 +6243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6363,7 +6363,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6373,7 +6373,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6389,7 +6389,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6509,7 +6509,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6519,7 +6519,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6535,7 +6535,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6655,7 +6655,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6665,7 +6665,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6681,7 +6681,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6801,7 +6801,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6811,7 +6811,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6827,7 +6827,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6947,7 +6947,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6957,7 +6957,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -6973,7 +6973,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7093,7 +7093,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7103,7 +7103,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7119,7 +7119,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7239,7 +7239,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7249,7 +7249,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7265,7 +7265,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7385,7 +7385,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7395,7 +7395,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7411,7 +7411,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7531,7 +7531,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7541,7 +7541,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7557,7 +7557,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7677,7 +7677,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7687,7 +7687,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7703,7 +7703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7823,7 +7823,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7833,7 +7833,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7849,7 +7849,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7969,7 +7969,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -7979,7 +7979,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -7995,7 +7995,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8115,7 +8115,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8125,7 +8125,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8141,7 +8141,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8251,7 +8251,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8261,7 +8261,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8277,7 +8277,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8387,7 +8387,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8397,7 +8397,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8413,7 +8413,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8523,7 +8523,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8533,7 +8533,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8549,7 +8549,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8659,7 +8659,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8669,7 +8669,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8685,7 +8685,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8795,7 +8795,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8805,7 +8805,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8821,7 +8821,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8931,7 +8931,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -8941,7 +8941,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -8957,7 +8957,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9067,7 +9067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9077,7 +9077,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9093,7 +9093,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9203,7 +9203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9213,7 +9213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9229,7 +9229,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9339,7 +9339,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9349,7 +9349,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9365,7 +9365,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9475,7 +9475,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9485,7 +9485,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9501,7 +9501,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9611,7 +9611,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9621,7 +9621,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9637,7 +9637,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9747,7 +9747,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9757,7 +9757,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9773,7 +9773,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9883,7 +9883,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -9893,7 +9893,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -9909,7 +9909,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10019,7 +10019,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10029,7 +10029,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10045,7 +10045,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10155,7 +10155,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10165,7 +10165,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10181,7 +10181,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10291,7 +10291,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10301,7 +10301,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10317,7 +10317,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10427,7 +10427,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10437,7 +10437,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10453,7 +10453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10563,7 +10563,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10573,7 +10573,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10589,7 +10589,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10699,7 +10699,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10709,7 +10709,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10725,7 +10725,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10835,7 +10835,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10845,7 +10845,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10861,7 +10861,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10971,7 +10971,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -10981,7 +10981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -10997,7 +10997,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11107,7 +11107,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11117,7 +11117,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11133,7 +11133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11243,7 +11243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11253,7 +11253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11269,7 +11269,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11379,7 +11379,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11389,7 +11389,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11405,7 +11405,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11515,7 +11515,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11525,7 +11525,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11541,7 +11541,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11651,7 +11651,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11661,7 +11661,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11677,7 +11677,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11807,7 +11807,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11817,7 +11817,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11833,7 +11833,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11963,7 +11963,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -11973,7 +11973,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -11989,7 +11989,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12119,7 +12119,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12129,7 +12129,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -12145,7 +12145,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12275,7 +12275,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12285,7 +12285,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -12301,7 +12301,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12431,7 +12431,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12441,7 +12441,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -12457,7 +12457,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12587,7 +12587,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12597,7 +12597,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -12613,7 +12613,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12743,7 +12743,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12753,7 +12753,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -12769,7 +12769,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -12899,7 +12899,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -12909,7 +12909,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -12925,7 +12925,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13055,7 +13055,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -13065,7 +13065,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -13081,7 +13081,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13211,7 +13211,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -13221,7 +13221,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -13237,7 +13237,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13367,7 +13367,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -13377,7 +13377,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -13393,7 +13393,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13523,7 +13523,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -13533,7 +13533,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -13549,7 +13549,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13679,7 +13679,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -13689,7 +13689,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -13705,7 +13705,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13835,7 +13835,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -13845,7 +13845,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -13861,7 +13861,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -13991,7 +13991,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14001,7 +14001,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14017,7 +14017,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14147,7 +14147,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14157,7 +14157,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14173,7 +14173,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14303,7 +14303,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14313,7 +14313,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14329,7 +14329,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14459,7 +14459,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14469,7 +14469,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14485,7 +14485,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14615,7 +14615,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14625,7 +14625,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14641,7 +14641,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14771,7 +14771,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14781,7 +14781,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14797,7 +14797,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14927,7 +14927,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -14937,7 +14937,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -14953,7 +14953,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15083,7 +15083,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -15093,7 +15093,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -15109,7 +15109,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15239,7 +15239,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -15249,7 +15249,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -15265,7 +15265,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15395,7 +15395,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -15405,7 +15405,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -15421,7 +15421,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15551,7 +15551,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -15561,7 +15561,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -15577,7 +15577,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15707,7 +15707,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -15717,7 +15717,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -15733,7 +15733,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15863,7 +15863,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -15873,7 +15873,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -15889,7 +15889,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16019,7 +16019,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16029,7 +16029,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16045,7 +16045,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16175,7 +16175,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16185,7 +16185,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16201,7 +16201,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16331,7 +16331,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16341,7 +16341,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16357,7 +16357,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16487,7 +16487,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16497,7 +16497,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16513,7 +16513,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16643,7 +16643,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16653,7 +16653,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16669,7 +16669,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16799,7 +16799,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16809,7 +16809,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16825,7 +16825,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16955,7 +16955,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -16965,7 +16965,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -16981,7 +16981,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17111,7 +17111,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -17121,7 +17121,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -17137,7 +17137,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17267,7 +17267,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -17277,7 +17277,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -17293,7 +17293,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17423,7 +17423,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -17433,7 +17433,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -17449,7 +17449,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17579,7 +17579,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -17589,7 +17589,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -17605,7 +17605,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17735,7 +17735,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -17745,7 +17745,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -17761,7 +17761,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -17891,7 +17891,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -17901,7 +17901,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -17917,7 +17917,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18047,7 +18047,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -18057,7 +18057,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -18073,7 +18073,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18203,7 +18203,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -18213,7 +18213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -18229,7 +18229,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18359,7 +18359,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -18369,7 +18369,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -18385,7 +18385,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18515,7 +18515,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -18525,7 +18525,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -18541,7 +18541,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "試験ごとに、"
+                    "text": "시험마다,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18671,7 +18671,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival",
-                    "text": "H.I.F専用　"
+                    "text": "H.I.F 전용　"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -18681,7 +18681,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_MemoryAbilityIsUniqueActivation",
-                    "text": "重複発動不可"
+                    "text": "중복 발동 불가"
                 }
             ]
         },
@@ -36057,7 +36057,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "プロデュース開始時、"
+                    "text": "프로듀스 시작 시,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -36067,7 +36067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-100_040",
-                    "text": "舞台で輝く一番星"
+                    "text": "무대에서 빛나는 샛별"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36077,7 +36077,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\n"
+                    "text": "획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36087,7 +36087,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival_Final",
-                    "text": "H.I.F本戦専用　"
+                    "text": "H.I.F 본선 전용　"
                 }
             ]
         },
@@ -36103,7 +36103,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "プロデュース開始時、"
+                    "text": "프로듀스 시작 시,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -36113,7 +36113,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-ido-100_041",
-                    "text": "笑顔を生み出す一番星"
+                    "text": "미소를 만드는 샛별"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36123,7 +36123,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\n"
+                    "text": "획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36133,7 +36133,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival_Final",
-                    "text": "H.I.F本戦専用　"
+                    "text": "H.I.F 본선 전용　"
                 }
             ]
         },
@@ -36149,7 +36149,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "プロデュース開始時、"
+                    "text": "프로듀스 시작 시,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -36159,7 +36159,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-100_038",
-                    "text": "高みへ羽ばたく一番星"
+                    "text": "정상으로 비상하는 샛별"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36169,7 +36169,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\n"
+                    "text": "획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36179,7 +36179,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival_Final",
-                    "text": "H.I.F本戦専用　"
+                    "text": "H.I.F 본선 전용　"
                 }
             ]
         },
@@ -36195,7 +36195,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "プロデュース開始時、"
+                    "text": "프로듀스 시작 시,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -36205,7 +36205,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-100_047",
-                    "text": "星々を見下ろす一番星"
+                    "text": "별들을 내려다보는 샛별"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36215,7 +36215,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を獲得\n"
+                    "text": "획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -36225,7 +36225,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ProduceType_HatsuboshiIdolFestival_Final",
-                    "text": "H.I.F本戦専用　"
+                    "text": "H.I.F 본선 전용　"
                 }
             ]
         },

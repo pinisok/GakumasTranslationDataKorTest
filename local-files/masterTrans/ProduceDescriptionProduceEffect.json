@@ -31,27 +31,27 @@
         },
         {
             "type": "ProduceEffectType_VocalGrowthRateAddition",
-            "name": "보컬 레슨 보너스 +"
+            "name": "보컬 파라미터 보너스+"
         },
         {
             "type": "ProduceEffectType_DanceGrowthRateAddition",
-            "name": "댄스 레슨 보너스 +"
+            "name": "댄스 파라미터 보너스+"
         },
         {
             "type": "ProduceEffectType_VisualGrowthRateAddition",
-            "name": "비주얼 레슨 보너스 +"
+            "name": "비주얼 파라미터 보너스+"
         },
         {
             "type": "ProduceEffectType_VocalGrowthRateDown",
-            "name": "보컬 레슨 보너스 -"
+            "name": "보컬 파라미터 보너스-"
         },
         {
             "type": "ProduceEffectType_DanceGrowthRateDown",
-            "name": "댄스 레슨 보너스 -"
+            "name": "댄스 파라미터 보너스-"
         },
         {
             "type": "ProduceEffectType_VisualGrowthRateDown",
-            "name": "비주얼 레슨 보너스 -"
+            "name": "비주얼 파라미터 보너스-"
         },
         {
             "type": "ProduceEffectType_StaminaRecoverFix",
@@ -286,6 +286,10 @@
             "name": "초기 P포인트 증가"
         },
         {
+            "type": "ProduceEffectType_ParameterLimitUp",
+            "name": "파라미터 상한 증가"
+        },
+        {
             "type": "ProduceEffectType_ExamTurnUp",
             "name": "턴 수 증가"
         },
@@ -346,8 +350,28 @@
             "name": "스킬 카드 제거"
         },
         {
-            "type": 128,
+            "type": "ProduceEffectType_AuditionNpcWeaken",
             "name": "라이벌 스코어"
+        },
+        {
+            "type": "ProduceEffectType_StarPermilUp",
+            "name": "스타성 획득량 증가"
+        },
+        {
+            "type": "ProduceEffectType_StarAddition",
+            "name": "스타성 획득"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardChangeSelect",
+            "name": "셀렉트 체인지"
+        },
+        {
+            "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+            "name": "P드링크 보유 상한 증가"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+            "name": "상담에서 스킬 카드 할인"
         }
     ]
 }

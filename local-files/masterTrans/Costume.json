@@ -786,6 +786,16 @@
             "description": "【clumsy trick】'26ENDLESS DANCE 히메사키 리나미 입수"
         },
         {
+            "id": "hrnm-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미 입수"
+        },
+        {
+            "id": "hrnm-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미의 재능 개화 4단계째에서 입수"
+        },
+        {
             "id": "hrnm-othr-0000",
             "name": "온천 목욕 타올",
             "description": "입수 불가"
@@ -2334,6 +2344,16 @@
             "id": "ttmr-cstm-0128",
             "name": "ENDLESS DANCE",
             "description": "【Luna say maybe】'26ENDLESS DANCE 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리의 재능 개화 4단계째에서 입수"
         },
         {
             "id": "ttmr-othr-0002",

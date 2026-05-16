@@ -586,6 +586,11 @@
             "description": "히메사키 리나미의 아이돌 길 스테이지 25 클리어"
         },
         {
+            "id": "costume_head_hrnm-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】히메사키 리나미 입수"
+        },
+        {
             "id": "costume_head_hrnm-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 7월에서 획득 가능"
@@ -1719,6 +1724,16 @@
             "id": "costume_head_ttmr-cstm-0124",
             "name": "전력을 다해 가자!",
             "description": "【전력을 다해 가자!】츠키무라 테마리의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타로드】츠키무라 테마리의 재능 개화 4단계째에서 입수"
         },
         {
             "id": "costume_head_ttmr-hair-0001",

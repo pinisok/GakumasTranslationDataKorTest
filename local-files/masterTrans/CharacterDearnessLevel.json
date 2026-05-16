@@ -142,6 +142,56 @@
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
+            "characterId": "amao",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "amao",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "프리마스텔라가 되다"
+        },
+        {
             "characterId": "atbm",
             "dearnessLevel": 1,
             "produceConditionDescription": ""
@@ -512,6 +562,56 @@
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
+            "characterId": "hmsz",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hmsz",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "프리마스텔라가 되다"
+        },
+        {
             "characterId": "hrnm",
             "dearnessLevel": 1,
             "produceConditionDescription": ""
@@ -645,6 +745,56 @@
             "characterId": "hrnm",
             "dearnessLevel": 27,
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hrnm",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "프리마스텔라가 되다"
         },
         {
             "characterId": "hski",
@@ -1725,6 +1875,56 @@
             "characterId": "ttmr",
             "dearnessLevel": 27,
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "ttmr",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "프리마스텔라가 되다"
         }
     ]
 }

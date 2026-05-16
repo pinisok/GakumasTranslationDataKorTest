@@ -13,8 +13,8 @@
         },
         {
             "id": "item_gacha-coin-continuous-002",
-            "name": "H.I.F開幕記念引き放題ガシャコイン",
-            "description": "H.I.F開幕記念引き放題ガシャで使用するコイン",
+            "name": "H.I.F 개막 기념 무제한 가챠 코인",
+            "description": "H.I.F 개막 기념 무제한 가챠에서 사용하는 코인",
             "acquisitionRouteDescription": ""
         },
         {
@@ -205,8 +205,8 @@
         },
         {
             "id": "item-dearness-unlock-hmsz",
-            "name": "美鈴との記録の鍵",
-            "description": "秦谷美鈴のSTEP3の親愛度コミュを解放するアイテム",
+            "name": "미스즈와의 기록의 열쇠",
+            "description": "하타야 미스즈의 STEP3 친애도 커뮤를 해방하는 아이템",
             "acquisitionRouteDescription": "교환소 등"
         },
         {
@@ -301,14 +301,14 @@
         },
         {
             "id": "item-gachaticket-2nd-anniv-10-001",
-            "name": "2nd アニバーサリー10連ガシャチケット",
-            "description": "2nd アニバーサリー10連チケットガシャで使用するチケット",
+            "name": "2nd 애니버서리 10연 가챠 티켓",
+            "description": "2nd 애니버서리 10연 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
             "id": "item-gachaticket-ssr-8",
-            "name": "2nd アニバーサリーライブツアー限定SSR Pアイドル確定10連ガシャチケット",
-            "description": "2nd アニバーサリー ライブツアー限定SSR Pアイドル確定10連チケットガシャで使用するチケット",
+            "name": "2nd 애니버서리 라이브 투어 한정 SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "2nd 애니버서리 라이브 투어 한정 SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -343,9 +343,9 @@
         },
         {
             "id": "item-gashaticket-200limit-10-2026-01",
-            "name": "2nd アニバーサリー交換券",
-            "description": "20枚集めるとアイテム交換所でサポートカードを交換できるチケット",
-            "acquisitionRouteDescription": "200連限定サポートカードセレクトピックアップガシャ"
+            "name": "2nd 애니버서리 교환권",
+            "description": "20장 모으면 아이템 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "200연 한정 서포트 카드 셀렉트 픽업 가챠"
         },
         {
             "id": "item-gashaticket-aniv-001",
@@ -409,14 +409,14 @@
         },
         {
             "id": "item-gashaticket-ssr-idol-fix_4",
-            "name": "2nd アニバーサリー SSR Pアイドル確定ガシャチケット",
-            "description": "2nd アニバーサリー SSR Pアイドル確定チケットガシャで使用するチケット",
+            "name": "2nd 애니버서리 SSR P아이돌 확정 가챠 티켓",
+            "description": "2nd 애니버서리 SSR P아이돌 확정 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
             "id": "item-gashaticket-ssr-idol-fix_5",
-            "name": "The 2nd Period シーズン限定SSR Pアイドル確定10連ガシャチケット",
-            "description": "The 2nd Period シーズン限定SSR Pアイドル確定10連チケットガシャで使用するチケット",
+            "name": "The 2nd Period 시즌 한정 SSR P아이돌 확정 10연 가챠 티켓",
+            "description": "The 2nd Period 시즌 한정 SSR P아이돌 확정 10연 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -451,8 +451,8 @@
         },
         {
             "id": "item-gashaticket-wednesday-260520",
-            "name": "学マ水曜日ガシャチケット",
-            "description": "学マ水曜日ガシャで使用するチケット",
+            "name": "학마스 수요일 가챠 티켓",
+            "description": "학마스 수요일 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -1117,7 +1117,7 @@
         },
         {
             "id": "item-piece-idol_hrnm-3-017",
-            "name": "[ガラクタロード]姫崎莉波のピース",
+            "name": "[가라쿠타로드]히메사키 리나미의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -1657,7 +1657,7 @@
         },
         {
             "id": "item-piece-idol_ttmr-3-018",
-            "name": "[ガラクタロード]月村手毬のピース",
+            "name": "[가라쿠타로드]츠키무라 테마리의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -1681,33 +1681,33 @@
         },
         {
             "id": "item-primastellamaterial-common-001",
-            "name": "プリマステラノート",
-            "description": "プロデュースアイドルの『一番星』解放で使用するアイテム",
+            "name": "프리마스텔라 노트",
+            "description": "프로듀스 아이돌의 『샛별』 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "아이템 교환소 등"
         },
         {
             "id": "item-primastellamaterial-idol_amao-001",
-            "name": "麻央の一番星の光",
-            "description": "有村麻央の『一番星』解放で使用するアイテム",
-            "acquisitionRouteDescription": "アチーブメントなど"
+            "name": "마오의 샛별의 빛",
+            "description": "아리무라 마오의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
         },
         {
             "id": "item-primastellamaterial-idol_hmsz-001",
-            "name": "美鈴の一番星の光",
-            "description": "秦谷美鈴の『一番星』解放で使用するアイテム",
-            "acquisitionRouteDescription": "アチーブメントなど"
+            "name": "미스즈의 샛별의 빛",
+            "description": "하타야 미스즈의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
         },
         {
             "id": "item-primastellamaterial-idol_hrnm-001",
-            "name": "莉波の一番星の光",
-            "description": "姫崎莉波の『一番星』解放で使用するアイテム",
-            "acquisitionRouteDescription": "アチーブメントなど"
+            "name": "리나미의 샛별의 빛",
+            "description": "히메사키 리나미의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
         },
         {
             "id": "item-primastellamaterial-idol_ttmr-001",
-            "name": "手毬の一番星の光",
-            "description": "月村手毬の『一番星』解放で使用するアイテム",
-            "acquisitionRouteDescription": "アチーブメントなど"
+            "name": "테마리의 샛별의 빛",
+            "description": "츠키무라 테마리의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
         },
         {
             "id": "item-produce_continue-1",
@@ -1717,8 +1717,8 @@
         },
         {
             "id": "item-produce-produce_growth_panel_sheet_point-hif",
-            "name": "H.I.FボーナスPt",
-            "description": "H.I.Fボーナスの解放や強化に使用するPt",
+            "name": "H.I.F 보너스 Pt",
+            "description": "H.I.F 보너스 해방·강화에 사용하는 Pt",
             "acquisitionRouteDescription": "프로듀스 등"
         },
         {

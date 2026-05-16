@@ -219,6 +219,12 @@
         },
         {
             "helpCategoryId": "help-contest",
+            "id": "contest-myunit",
+            "order": 6,
+            "name": "마이 유닛"
+        },
+        {
+            "helpCategoryId": "help-contest",
             "id": "contest-preparation-period",
             "order": 7,
             "name": "개최 준비 기간"
@@ -525,6 +531,12 @@
         },
         {
             "helpCategoryId": "help-idol",
+            "id": "idol-primastella",
+            "order": 60,
+            "name": "『샛별』"
+        },
+        {
+            "helpCategoryId": "help-idol",
             "id": "idol-true-end-bonus",
             "order": 58,
             "name": "True End 보너스"
@@ -615,9 +627,21 @@
         },
         {
             "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card-conditions",
+            "order": 18,
+            "name": "스킬 카드 사용·효과 조건에 대해"
+        },
+        {
+            "helpCategoryId": "help-lesson",
             "id": "lesson-produce-card-powerup",
             "order": 6,
             "name": "스킬 카드 강화"
+        },
+        {
+            "helpCategoryId": "help-lesson",
+            "id": "lesson-produce-card-replay",
+            "order": 19,
+            "name": "재연"
         },
         {
             "helpCategoryId": "help-lesson",
@@ -732,6 +756,18 @@
             "id": "help-main-story-event-story",
             "order": 1,
             "name": "하츠보시 커뮤 이벤트"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "help-hif-produce-memory-ability",
+            "order": 9,
+            "name": "H.I.F 전용 어빌리티"
+        },
+        {
+            "helpCategoryId": "help-memory",
+            "id": "help-selection-memory",
+            "order": 8,
+            "name": "선발시험 메모리"
         },
         {
             "helpCategoryId": "help-memory",
@@ -930,6 +966,66 @@
             "id": "panel-mission-panel-mission",
             "order": 1,
             "name": "패널 미션"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-bonus",
+            "order": 64,
+            "name": "H.I.F 보너스"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce",
+            "order": 54,
+            "name": "Hatsuboshi IDOL FESTIVAL"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-finals",
+            "order": 60,
+            "name": "본선"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-item-customize",
+            "order": 57,
+            "name": "커스텀 P아이템"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-memory-ability",
+            "order": 63,
+            "name": "H.I.F 전용 어빌리티"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-open-lesson",
+            "order": 56,
+            "name": "공개 레슨"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-schedule-interval",
+            "order": 61,
+            "name": "인터벌"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-selection",
+            "order": 58,
+            "name": "선발시험"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-hif-produce-star",
+            "order": 55,
+            "name": "스타성"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "help-selection-memory",
+            "order": 59,
+            "name": "선발시험 메모리"
         },
         {
             "helpCategoryId": "help-produce",
@@ -1233,6 +1329,12 @@
         },
         {
             "helpCategoryId": "help-produce",
+            "id": "produce-true-end-3",
+            "order": 62,
+            "name": "True End:H.I.F"
+        },
+        {
+            "helpCategoryId": "help-produce",
             "id": "ProduceCardConvert",
             "order": 51,
             "name": "스킬 카드 스위치"
@@ -1260,6 +1362,24 @@
             "id": "producer-ranking-season",
             "order": 2,
             "name": "시즌"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-bonus",
+            "order": 6,
+            "name": "이벤트 보너스"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-coin",
+            "order": 5,
+            "name": "이벤트 교환소용 아이템"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-point",
+            "order": 4,
+            "name": "합계 이벤트 Pt 보상"
         },
         {
             "helpCategoryId": "help-research-event",

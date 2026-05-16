@@ -14,6 +14,10 @@
             "name": "아마야 츠바메"
         },
         {
+            "id": "npc_hif_border",
+            "name": "border"
+        },
+        {
             "id": "npc_krnh",
             "name": "카야 린하"
         },
@@ -38,6 +42,10 @@
             "name": "츠루비 유미"
         },
         {
+            "id": "npc_mob-da-6",
+            "name": "카자미야 스즈나"
+        },
+        {
             "id": "npc_mob-vi-1",
             "name": "아카바네 카오리"
         },
@@ -58,6 +66,10 @@
             "name": "하스다 나나"
         },
         {
+            "id": "npc_mob-vi-6",
+            "name": "미야가와 에나"
+        },
+        {
             "id": "npc_mob-vo-1",
             "name": "요츠야 릴리"
         },
@@ -76,6 +88,18 @@
         {
             "id": "npc_mob-vo-5",
             "name": "미야지 코하루"
+        },
+        {
+            "id": "npc_mob-vo-6",
+            "name": "히가시다 유우미"
+        },
+        {
+            "id": "npc_mob-vo-7",
+            "name": "오기노 나노카"
+        },
+        {
+            "id": "npc_mob-vo-8",
+            "name": "나가모토 히나노"
         },
         {
             "id": "npc_nia_01",
@@ -208,6 +232,26 @@
         {
             "id": "npc_sson",
             "name": "시라쿠사 시온"
+        },
+        {
+            "id": "npc_unite-mob_01",
+            "name": "PRINCESS DOMINION"
+        },
+        {
+            "id": "npc_unite-mob_02",
+            "name": "루미나리벨"
+        },
+        {
+            "id": "npc_unite-mob_03",
+            "name": "Nebula Note"
+        },
+        {
+            "id": "npc_unite-mob_04",
+            "name": "스위트♡루체"
+        },
+        {
+            "id": "npc_unite-mob_05",
+            "name": "캔디·리즈미카"
         }
     ]
 }

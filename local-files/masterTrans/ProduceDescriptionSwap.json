@@ -267,6 +267,16 @@
             "text": "점수 감소"
         },
         {
+            "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "중복 발동 불가"
+        },
+        {
+            "id": "Swap_Label_MemoryAbilityIsUniqueActivation",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "중복 발동 불가"
+        },
+        {
             "id": "Swap_Label_ProduceCardMovePositionType_Lost",
             "swapType": "ProduceDescriptionSwapType_Lesson",
             "text": "레슨 중 1회"
@@ -335,6 +345,56 @@
             "id": "Swap_Label_ProduceCardPositionType_Lost",
             "swapType": "ProduceDescriptionSwapType_Audition",
             "text": "제외"
+        },
+        {
+            "id": "Swap_Label_ProduceType_FirstStar",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "하지메 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_FirstStar",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "하지메 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "H.I.F 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "H.I.F 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "H.I.F 본선 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "H.I.F 본선 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "H.I.F 선발시험 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "H.I.F 선발시험 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_NextIdolAudition",
+            "swapType": "ProduceDescriptionSwapType_Lesson",
+            "text": "N.I.A 전용　"
+        },
+        {
+            "id": "Swap_Label_ProduceType_NextIdolAudition",
+            "swapType": "ProduceDescriptionSwapType_Audition",
+            "text": "N.I.A 전용　"
         }
     ]
 }

@@ -7593,7 +7593,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>13以上</nobr>の場合、"
+                    "text": "이 <nobr>13 이상</nobr>일 때,"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

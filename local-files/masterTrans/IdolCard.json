@@ -138,6 +138,10 @@
             "name": "ENDLESS DANCE"
         },
         {
+            "id": "i_card-hmsz-3-016",
+            "name": "VEIL"
+        },
+        {
             "id": "i_card-hrnm-1-000",
             "name": "학교생활"
         },
@@ -180,6 +184,10 @@
         {
             "id": "i_card-hrnm-3-013",
             "name": "36℃ U･B･U"
+        },
+        {
+            "id": "i_card-hrnm-3-017",
+            "name": "가라쿠타로드"
         },
         {
             "id": "i_card-hski-1-000",
@@ -536,6 +544,10 @@
         {
             "id": "i_card-ttmr-3-016",
             "name": "도대체 언제부터"
+        },
+        {
+            "id": "i_card-ttmr-3-018",
+            "name": "가라쿠타로드"
         }
     ]
 }

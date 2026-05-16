@@ -6223,7 +6223,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "再演"
+                    "text": "재연"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6233,7 +6233,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "は、"
+                    "text": "은(는),"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6253,7 +6253,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中、初めて自身を使用した時にのみ発動する\n以降の"
+                    "text": "중, 처음 자신을 사용했을 때만 발동하는\n이후의"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -6273,10 +6273,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "中、指定の条件を満たした時、ターン内に1回まで、自身を再使用（スキルカードコストは消費はしない）"
+                    "text": "중, 지정된 조건을 충족했을 때, 턴 내에 1회까지, 자신을 재사용 (스킬 카드 비용은 소비하지 않음)"
                 }
             ],
-            "name": "再演"
+            "name": "재연"
         },
         {
             "id": "Label_ExamUplifting_Exam",
@@ -7033,7 +7033,7 @@
         {
             "id": "Label_MemoryAbilityIsUniqueActivation",
             "produceDescriptions": [],
-            "name": "重複発動不可"
+            "name": "중복 발동 불가"
         },
         {
             "id": "Label_MentalSkillCard",
@@ -7072,10 +7072,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "このスキルカードが指定の場所に移動した場合に発動\n（同一ターン中に1回まで発動）"
+                    "text": "이 스킬 카드가 지정된 위치로 이동했을 때 발동\n(같은 턴 중에 1회까지 발동)"
                 }
             ],
-            "name": "移動時効果"
+            "name": "이동 시 효과"
         },
         {
             "id": "Label_NoDeckDuplication",
@@ -7268,10 +7268,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードを選択した異なるスキルカードに変え、プロデュース終了までデッキに追加（強化段階を引き継ぐ）"
+                    "text": "스킬 카드를 선택해 다른 스킬 카드로 바꾸고, 프로듀스 종료까지 덱에 추가 (강화 단계 유지)"
                 }
             ],
-            "name": "セレクトチェンジ"
+            "name": "셀렉트 체인지"
         },
         {
             "id": "Label_ProduceCardDelete",
@@ -7832,27 +7832,27 @@
         {
             "id": "Label_ProduceType_FirstStar",
             "produceDescriptions": [],
-            "name": "初専用　"
+            "name": "하지메 전용　"
         },
         {
             "id": "Label_ProduceType_HatsuboshiIdolFestival",
             "produceDescriptions": [],
-            "name": "H.I.F専用　"
+            "name": "H.I.F 전용　"
         },
         {
             "id": "Label_ProduceType_HatsuboshiIdolFestival_Final",
             "produceDescriptions": [],
-            "name": "H.I.F本戦専用　"
+            "name": "H.I.F 본선 전용　"
         },
         {
             "id": "Label_ProduceType_HatsuboshiIdolFestival_Selection",
             "produceDescriptions": [],
-            "name": "H.I.F選抜試験専用　"
+            "name": "H.I.F 선발시험 전용　"
         },
         {
             "id": "Label_ProduceType_NextIdolAudition",
             "produceDescriptions": [],
-            "name": "N.I.A専用　"
+            "name": "N.I.A 전용　"
         },
         {
             "id": "Label_ReviewAdd",

@@ -98,6 +98,10 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_relaunch_hmsz_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_relaunch_hrnm_01",
             "name": "친애도 부스트 캠페인"
         },
@@ -140,6 +144,10 @@
         {
             "id": "dearness_panel-mission_ttmr_01",
             "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "limited-time-mission-001-group_1",
+            "name": "H.I.F 개막 기념! 기간 한정 미션 (~2026/6/15 10:59)"
         },
         {
             "id": "mission_group-daily-001",
@@ -824,6 +832,10 @@
         {
             "id": "mission-group-main-story-event-010_5",
             "name": "하츠보시 커뮤 이벤트 미션"
+        },
+        {
+            "id": "mission-group-mission_HIF_clear_1",
+            "name": "HIF 클리어 미션"
         },
         {
             "id": "mission-group-panel-mission-01",
