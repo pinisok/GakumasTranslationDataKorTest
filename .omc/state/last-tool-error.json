@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"python3 << 'EOF'\\nimport openpyxl\\n\\n# Check the original JP source for \\\"전력이 됐을 때, 자신 파라미터 값 증가+30\\\"\\n# This is p_card-03-act-3_057, which is 翔び立て！(날아올라라!)\\nfp = 'res/drive/masterDB2/Prod...",
-  "error": "Exit code 1\nTraceback (most recent call last):\n  File \"<stdin>\", line 6, in <module>\n  File \"/usr/local/lib/python3.12/dist-packages/openpyxl/reader/excel.py\", line 346, in load_workbook\n    reader = ExcelReader(filename, read_only, keep_vba,\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/openpyxl/reader/excel.py\", line 123, in __init__\n    self.archive = _validate_archive(fn)\n                   ^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib...",
-  "timestamp": "2026-05-16T19:11:45.624Z",
-  "retry_count": 1
+  "tool_name": "mcp__plugin_discord_discord__reply",
+  "tool_input_preview": "{\"chat_id\":\"1484853215101980765\",\"text\":\"✅ dear kcna 검토 + 수정 완료\\n\\ncritic: 78/100 (D1 22/30, D2 18/25, D3 18/25, D4 12/15, D5 4/5). 기술 무결성 Pass.\\n\\n자동 수정 18건 / 10파일 — CRITICAL 4종 (`내장하신`→`와주신`, `치나 짱`...",
+  "error": "reply failed: channel 1484853215101980765 is not allowlisted — add via /discord:access",
+  "timestamp": "2026-05-25T13:18:40.096Z",
+  "retry_count": 2
 }
