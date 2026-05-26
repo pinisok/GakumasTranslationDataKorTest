@@ -12,13 +12,15 @@
     {
       "agent_id": "a55c09873d9c6194b",
       "agent_type": "oh-my-claudecode:executor",
-      "started_at": "2026-05-26T02:43:17.145Z",
+      "started_at": "2026-05-26T02:44:02.873Z",
       "parent_mode": "none",
-      "status": "running"
+      "status": "completed",
+      "completed_at": "2026-05-26T02:44:28.330Z",
+      "duration_ms": 25457
     }
   ],
-  "total_spawned": 2,
-  "total_completed": 1,
+  "total_spawned": 3,
+  "total_completed": 3,
   "total_failed": 0,
-  "last_updated": "2026-05-26T02:43:17.247Z"
+  "last_updated": "2026-05-26T02:45:07.839Z"
 }

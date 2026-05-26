@@ -1,7 +1,7 @@
 {
-  "tool_name": "mcp__plugin_discord_discord__reply",
-  "tool_input_preview": "{\"chat_id\":\"1484853215101980765\",\"text\":\"✅ dear kcna 검토 + 수정 완료\\n\\ncritic: 78/100 (D1 22/30, D2 18/25, D3 18/25, D4 12/15, D5 4/5). 기술 무결성 Pass.\\n\\n자동 수정 18건 / 10파일 — CRITICAL 4종 (`내장하신`→`와주신`, `치나 짱`...",
-  "error": "reply failed: channel 1484853215101980765 is not allowlisted — add via /discord:access",
-  "timestamp": "2026-05-25T13:18:40.096Z",
-  "retry_count": 2
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd output && git log --oneline -5 && echo \\\"---STATUS---\\\" && git status -s | grep -v \\\".omc\\\" | head\",\"description\":\"Check final repo state\"}",
+  "error": "Exit code 1\n/usr/bin/bash: line 5: cd: output: No such file or directory",
+  "timestamp": "2026-05-26T02:44:47.872Z",
+  "retry_count": 1
 }
