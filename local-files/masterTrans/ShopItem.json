@@ -122,6 +122,10 @@
             "name": "하츠미☆액세서리 (하타야 미스즈)"
         },
         {
+            "id": "shop_costume_costume_head_hmsz-hair-0007",
+            "name": "티어드롭 글래스 (하타야 미스즈)"
+        },
+        {
             "id": "shop_costume_costume_head_hrnm-hair-0001",
             "name": "수국 꽃 머리 장식 (히메사키 리나미)"
         },
@@ -174,6 +178,10 @@
             "name": "하츠미☆액세서리(하나미 우메)"
         },
         {
+            "id": "shop_costume_costume_head_hume-hair-0007",
+            "name": "티어드롭 글래스 (하나미 우메)"
+        },
+        {
             "id": "shop_costume_costume_head_jsna-hair-0001",
             "name": "수국 꽃 머리 장식 (주오 세나)"
         },
@@ -208,6 +216,10 @@
         {
             "id": "shop_costume_costume_head_kcna-hair-0006",
             "name": "하츠미☆액세서리(쿠라모토 치나)"
+        },
+        {
+            "id": "shop_costume_costume_head_kcna-hair-0007",
+            "name": "티어드롭 글래스 (쿠라모토 치나)"
         },
         {
             "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -252,6 +264,10 @@
         {
             "id": "shop_costume_costume_head_shro-hair-0006",
             "name": "하츠미☆액세서리(시노사와 히로)"
+        },
+        {
+            "id": "shop_costume_costume_head_shro-hair-0007",
+            "name": "티어드롭 글래스 (시노사와 히로)"
         },
         {
             "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -1028,6 +1044,10 @@
         {
             "id": "shop_pass_item-0025",
             "name": "프리미엄 미션 패스 2026년 5월"
+        },
+        {
+            "id": "shop_pass_item-0026",
+            "name": "프리미엄 미션 패스 2026년 6월"
         }
     ]
 }
