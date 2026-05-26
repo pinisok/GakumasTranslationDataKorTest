@@ -205,6 +205,12 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00900-wednesday-001",
+            "order": 1,
+            "name": "학원마스 수요일 가챠 티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-010-item_01",
             "order": 3,
             "name": "10회 아이템 가챠",

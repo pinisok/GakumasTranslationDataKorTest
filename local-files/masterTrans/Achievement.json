@@ -2556,6 +2556,36 @@
             "description": "【미지의 펼쳐지는】시노사와 히로의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-shro-3-018-01",
+            "name": "나만의 추억",
+            "description": "【가라쿠타 로드】시노사와 히로의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-02",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-03",
+            "name": "가장 멋진 프로듀스",
+            "description": "【가라쿠타 로드】시노사와 히로의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-04",
+            "name": "가라쿠타로드 +",
+            "description": "【가라쿠타 로드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-05",
+            "name": "가라쿠타로드 ++",
+            "description": "【가라쿠타 로드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-06",
+            "name": "가라쿠타로드 +++",
+            "description": "【가라쿠타 로드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-ssmk-2-000-04",
             "name": "꿈으로의 리스타트+",
             "description": "【꿈으로의 리스타트】시운 스미카의 특훈 단계 {threshold} 달성"
@@ -4811,6 +4841,11 @@
             "description": "쿠라모토 치나로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-kcna-000-2",
+            "name": "나만의 최고 프로듀서",
+            "description": "쿠라모토 치나로 True End : H.I.F 보기"
+        },
+        {
             "id": "achieve-p_idol-kcna-001",
             "name": "연습, 연습, 또 연습",
             "description": "쿠라모토 치나의 프로듀스로 스킬 카드를 {threshold}회 사용"
@@ -4924,6 +4959,16 @@
             "id": "achieve-p_idol-kcna-024",
             "name": "입후보하겠어요!",
             "description": "쿠라모토 치나로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-kcna-025",
+            "name": "커진 꿈 ",
+            "description": "쿠라모토 치나로 H.I.F 최종 시험에 합격해 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-kcna-026",
+            "name": "등을 떠밀리며 나아가는 발걸음",
+            "description": "쿠라모토 치나로 H.I.F 최종 시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-kcna-027",
@@ -5071,6 +5116,11 @@
             "description": "시노사와 히로로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-shro-000-2",
+            "name": "끝까지, 함께야",
+            "description": "시노사와 히로로 True End : H.I.F 보기"
+        },
+        {
             "id": "achieve-p_idol-shro-001",
             "name": "과제 달성",
             "description": "시노사와 히로의 프로듀스로 스킬 카드를 {threshold}회 사용"
@@ -5189,6 +5239,16 @@
             "id": "achieve-p_idol-shro-024",
             "name": "몇 번째인가의 기적을",
             "description": "시노사와 히로로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-shro-025",
+            "name": "하룻밤만의 기적",
+            "description": "시노사와 히로로 H.I.F 최종 시험에 합격해 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-shro-026",
+            "name": "힘들고, 행복하고, 즐거운 매일",
+            "description": "시노사와 히로로 H.I.F 최종 시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-shro-027",

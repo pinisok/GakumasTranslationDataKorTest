@@ -131,6 +131,11 @@
             "description": "【봐줘】아리무라 마오 입수"
         },
         {
+            "id": "costume_head_amao-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
             "id": "costume_head_amao-hair-0035",
             "name": "봐줘 (포인트 컬러 어레인지)",
             "description": "【봐줘】아리무라 마오 입수"
@@ -214,6 +219,11 @@
             "id": "costume_head_atbm-hair-0009",
             "name": "큼직한 리본",
             "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_atbm-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
         },
         {
             "id": "costume_head_atbm-schl-0000",
@@ -468,7 +478,7 @@
         {
             "id": "costume_head_hmsz-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
         },
         {
             "id": "costume_head_hmsz-hair-0008",
@@ -629,6 +639,11 @@
             "id": "costume_head_hrnm-hair-0009",
             "name": "큼직한 리본",
             "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
         },
         {
             "id": "costume_head_hrnm-hair-0033",
@@ -913,7 +928,7 @@
         {
             "id": "costume_head_hume-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
         },
         {
             "id": "costume_head_hume-hair-0008",
@@ -1071,6 +1086,11 @@
             "description": "【적나라】주오 세나의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_jsna-hair-0023",
+            "name": "토끼 귀",
+            "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
             "id": "costume_head_jsna-hair-0026",
             "name": "적나라 (포인트 컬러 어레인지)",
             "description": "【적나라】주오 세나 입수"
@@ -1188,7 +1208,7 @@
         {
             "id": "costume_head_kcna-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
         },
         {
             "id": "costume_head_kcna-hair-0008",
@@ -1461,6 +1481,16 @@
             "description": "【미지의 펼쳐지는】시노사와 히로의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_shro-cstm-0136",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로 입수"
+        },
+        {
+            "id": "costume_head_shro-cstm-0137",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】시노사와 히로의 재능 개화 4단계 달성"
+        },
+        {
             "id": "costume_head_shro-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 6월에서 획득 가능"
@@ -1488,7 +1518,7 @@
         {
             "id": "costume_head_shro-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 6월에서 획득 가능"
+            "description": "프리미엄 미션 패스 2025년 6월에서 획득 등"
         },
         {
             "id": "costume_head_shro-hair-0008",

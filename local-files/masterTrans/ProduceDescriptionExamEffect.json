@@ -334,6 +334,26 @@
             "name": "호인상 추가 발동"
         },
         {
+            "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
+            "name": "호조 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffAdditiveFix",
+            "name": "집중 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAggressiveAdditiveFix",
+            "name": "의욕 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewAdditiveFix",
+            "name": "호인상 증가량 추가"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPointAdditiveFix",
+            "name": "전력 값 증가량 추가"
+        },
+        {
             "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
             "name": "재연"
         }
