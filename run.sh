@@ -3,14 +3,19 @@ set -e
 
 echo $(date "+%Y-%m-%d %H:%M:%S")
 
-# 잠금 파일 — 동시 실행 방지
+# 잠금 — 동시 실행 방지 (flock 기반: 프로세스가 죽으면 커널이 자동 해제)
+# 파일 자체는 webhook_server.py / submodule_watcher.py 가 PID 검증용으로 읽으므로
+# 정상 종료 시에만 trap 으로 정리. 비정상 종료 시에도 flock 은 자동 해제되며,
+# webhook/watcher 가 dead PID 감지 후 stale 락 정리.
 LOCKFILE="/tmp/gakutoolkit.lock"
-if [ -f "$LOCKFILE" ]; then
-    echo "Already running (lockfile exists: $LOCKFILE)"
-    exit 1
+LOCK_FD=200
+eval "exec ${LOCK_FD}>\"\$LOCKFILE\""
+if ! flock -n "$LOCK_FD"; then
+    echo "$(date '+%Y-%m-%d %H:%M:%S') Already running (lock held by another process) — skipping"
+    exit 0
 fi
+echo "$$" > "$LOCKFILE"
 trap 'rm -f "$LOCKFILE"' EXIT
-touch "$LOCKFILE"
 
 # 서브모듈 업데이트
 git submodule update --init --remote --recursive
