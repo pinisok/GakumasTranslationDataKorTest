@@ -47,13 +47,12 @@ CAMPUS_CONFIG = CAMPUS_DIR / "config.yaml"
 # Logging
 # ---------------------------------------------------------------------------
 
+# FileHandler만 — nohup stdout redirect 와 중복되지 않도록.
+# foreground 디버깅 시에는 `tail -f watcher.log` 사용.
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler(LOGFILE),
-        logging.StreamHandler(sys.stdout),
-    ],
+    handlers=[logging.FileHandler(LOGFILE)],
 )
 log = logging.getLogger("watcher")
 
