@@ -17,10 +17,14 @@ fi
 echo "$$" > "$LOCKFILE"
 trap 'rm -f "$LOCKFILE"' EXIT
 
-# 데이터 동기화 (campus → res/adv, res/masterdb/gakumasu-diff/orig)
-# campus 실패 시 campus_sync 내부에서 git submodule 로 자동 회귀
-python3 scripts/campus_sync.py sync masterdb || { echo "❌ masterdb sync 실패"; exit 1; }
-python3 scripts/campus_sync.py sync adv     || { echo "❌ adv sync 실패";     exit 1; }
+# 데이터 동기화 — campus 호출은 /root/worker/GakuToolkit/campus-cron.sh 가 단일
+# 소유자. 여기서는 단순 reader (campus 미호출). cache 가 비어있거나 너무 옛 데이터면
+# campus_sync 가 "source empty" 로 abort 하므로 다음 campus-cron tick 후 재시도.
+# campus-cron 이 실패해 cache 가 stale 상태이면 fallback 으로 git submodule 사용 가능:
+#   python3 scripts/campus_sync.py fallback masterdb
+#   python3 scripts/campus_sync.py fallback adv
+python3 scripts/campus_sync.py sync masterdb --skip-campus || { echo "❌ masterdb sync 실패"; exit 1; }
+python3 scripts/campus_sync.py sync adv     --skip-campus || { echo "❌ adv sync 실패";     exit 1; }
 
 # output 서브모듈은 여전히 git (push 대상이므로 git 워크플로우 유지)
 git submodule update --init --remote -- output
