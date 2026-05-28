@@ -16,6 +16,7 @@ backup_*/
 .omc/
 .coverage
 .submodule_hashes
+res/.manifest/
 
 # 로그
 *.log

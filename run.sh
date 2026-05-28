@@ -17,10 +17,15 @@ fi
 echo "$$" > "$LOCKFILE"
 trap 'rm -f "$LOCKFILE"' EXIT
 
-# 서브모듈 업데이트
-git submodule update --init --remote --recursive
+# 데이터 동기화 (campus → res/adv, res/masterdb/gakumasu-diff/orig)
+# campus 실패 시 campus_sync 내부에서 git submodule 로 자동 회귀
+python3 scripts/campus_sync.py sync masterdb || { echo "❌ masterdb sync 실패"; exit 1; }
+python3 scripts/campus_sync.py sync adv     || { echo "❌ adv sync 실패";     exit 1; }
 
-# masterdb 캐시 정리
+# output 서브모듈은 여전히 git (push 대상이므로 git 워크플로우 유지)
+git submodule update --init --remote -- output
+
+# masterdb 변환 결과 정리 (campus의 orig 이외 산출물)
 rm -f ./res/masterdb/data/*
 rm -rf ./res/masterdb/gakumasu-diff/json
 rm -rf ./res/masterdb/pretranslate_todo/
