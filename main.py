@@ -72,7 +72,7 @@ def getDriveLink(rel_path, remote_path=""):
             "https://drive.google.com/open?id=",
             "https://docs.google.com/spreadsheets/d/"
         )
-        return f"{rel_path} ({sheets_link})", link
+        return f"{rel_path} ({sheets_link})", sheets_link
     except Exception as e:
         LOG_DEBUG(1, f"Failed to get drive link: {e}")
         return rel_path, None
@@ -171,14 +171,14 @@ def main(ADV=True, MASTERDB=True, GENERIC=True, LOCALIZATION=True):
         else:
             LOG_INFO(0, "No files converted")
     log_content = logStream.getvalue()
-    logHandler.close()
-    logStream.close()
     if has_changes:
         try:
             import scripts.gspread
             scripts.gspread.log(log_content, new_file_urls)
         except Exception as e:
             LOG_ERROR(0, f"Failed to log to Google Sheets: {e}")
+    logHandler.close()
+    logStream.close()
 
     # Exit with error if any conversion failures occurred
     if CONVERT:

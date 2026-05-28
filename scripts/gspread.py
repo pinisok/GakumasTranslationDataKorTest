@@ -83,29 +83,34 @@ def log(logs, new_file_urls=None):
     })
 
     # Write file chip rows (A4+) via batchUpdate with chipRuns
+    # Drive chip requests are limited to 10 per batchUpdate call
     if new_file_urls:
         chip_rows = []
         for url in new_file_urls:
             chip_rows.append({"values": [_build_file_chip_cell(url, date_str)]})
 
+        CHIP_BATCH_SIZE = 10
         start_row = 3  # 0-indexed row 3 = A4
-        SHEET.batch_update({
-            "requests": [
-                {
-                    "updateCells": {
-                        "rows": chip_rows,
-                        "fields": "userEnteredValue,chipRuns",
-                        "range": {
-                            "sheetId": sheet_id,
-                            "startRowIndex": start_row,
-                            "endRowIndex": start_row + len(chip_rows),
-                            "startColumnIndex": 0,
-                            "endColumnIndex": 1,
-                        },
+        for i in range(0, len(chip_rows), CHIP_BATCH_SIZE):
+            batch = chip_rows[i:i + CHIP_BATCH_SIZE]
+            batch_start = start_row + i
+            SHEET.batch_update({
+                "requests": [
+                    {
+                        "updateCells": {
+                            "rows": batch,
+                            "fields": "userEnteredValue,chipRuns",
+                            "range": {
+                                "sheetId": sheet_id,
+                                "startRowIndex": batch_start,
+                                "endRowIndex": batch_start + len(batch),
+                                "startColumnIndex": 0,
+                                "endColumnIndex": 1,
+                            },
+                        }
                     }
-                }
-            ]
-        })
+                ]
+            })
 
         # Format chip rows
         last_row = 4 + len(new_file_urls) - 1

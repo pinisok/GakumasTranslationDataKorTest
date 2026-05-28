@@ -102,29 +102,6 @@ class TestLocalizationNumericTranslation:
 
 
 # ============================================================
-# Conversion correctness tests (merged from test_conversion_correctness.py)
-# ============================================================
-
-class TestLocalizationNumericTranslation:
-    """Numeric value in 번역 column should be skipped."""
-
-    def test_numeric_translation_skipped(self, tmp_path):
-        xlsx_path = str(tmp_path / "localization.xlsx")
-        create_localization_xlsx(xlsx_path, [
-            {0: "ref1", "ID": "key.valid", "번역": "정상번역"},
-            {0: "ref2", "ID": "key.numeric", "번역": 12345},
-        ])
-        output_path = str(tmp_path / "localization.json")
-
-        LocXlsxToJson(xlsx_path, output_path)
-
-        with open(output_path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        assert "key.valid" in data
-        assert "key.numeric" not in data  # Numeric translation skipped
-
-
-# ============================================================
 # P3: load_cache_date multi-line file (P3-20)
 # ============================================================
 

@@ -11,3 +11,22 @@ api.json
 output_*.log
 test_output_*.log
 backup_*/
+
+# 작업 상태
+.omc/
+.coverage
+.submodule_hashes
+
+# 로그
+*.log
+
+# 대용량 데이터 / 캐시
+res/db.json
+res/db.json.bak
+output_*.tar.gz
+
+# 일회성 작업 산출물
+name_replacement_log.txt
+particle_correction_log.txt
+namuwiki_card_item_names.txt
+translations_review.md

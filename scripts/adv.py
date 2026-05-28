@@ -6,7 +6,7 @@ Submodules:
 - adv_merge: merge/diff/conversion logic
 """
 
-import os
+import os, fnmatch
 from io import StringIO
 
 from .helper import (
@@ -16,7 +16,7 @@ from .helper import (
 from .log import LOG_DEBUG, LOG_INFO, LOG_ERROR, logger
 
 # Re-export submodule functions for backward compatibility
-from .adv_encode import _encode, _processEMtag, START_EM_LENGTH, END_EM_LENGTH
+from .adv_encode import _encode, _processEMtag, END_EM_LENGTH
 from .adv_record import (
     _internalOverrideXlsxColumn,
     _internalReadXlsx,
@@ -85,6 +85,10 @@ def TxtToXlsx(input_path: str, output_path: str, file_name: str) -> list[str]:
         original_fp.close()
 
     LOG_DEBUG(4, "Write result to file")
+    dir_path = os.path.dirname(output_path)
+    if dir_path and not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+        
     write_fp = open(output_path, "wb")
     _internalDataFrameToXlsx(dataframe, write_fp)
     write_fp.close()
@@ -132,7 +136,10 @@ def TxtToXlsx_parallels(obj):
 ADV_BLACKLIST_FILE = [
     "musics.txt",
     "adv_warmup.txt",
+    "adv_produce_lesson_*",
+    "adv_produce-lesson_*"
 ]
+
 ADV_BLACKLIST_FOLDER = [
     "pstep",
     "pweek",
@@ -153,7 +160,7 @@ def _filter_adv_files(file_paths):
     """Apply blacklist and map to (input_path, output_xlsx_path, filename)."""
     file_list = []
     for abs_path, rel_path, filename in file_paths:
-        if filename in ADV_BLACKLIST_FILE:
+        if any(fnmatch.fnmatch(filename, rule) for rule in ADV_BLACKLIST_FILE):
             continue
         foldername = _internalGetOutputPath(filename)
         if foldername in ADV_BLACKLIST_FOLDER:

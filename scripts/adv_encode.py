@@ -22,26 +22,32 @@ def _encode(string: str) -> str:
     return string
 
 
-START_EM_LENGTH = 4
 END_EM_LENGTH = 5
+
+_EM_PATTERN = re.compile(r'<em(?:\\?=)?>')
 
 
 def _processEMtag(string: str) -> str:
-    """Split multi-word <em> tags into per-word <em> tags.
+    """Split multi-word <em> / <em\\=> tags into per-word tags.
 
-    Example: <em>hello world</em> → <em>hello</em> <em>world</em>
+    Example: <em>hello world</em>     → <em>hello</em> <em>world</em>
+             <em\\=>hello world</em>  → <em\\=>hello</em> <em\\=>world</em>
     """
     if len(string) < 1:
         return string
-    start_idx = string.find("<em>")
-    if start_idx == -1:
+    match = _EM_PATTERN.search(string)
+    if match is None:
         return string
+    start_idx = match.start()
+    open_tag = match.group()  # "<em>" or "<em\=>" or "<em=>"
+    open_len = len(open_tag)
     end_idx = string[start_idx:].find("</em>")
     if end_idx == -1:
         return string
-    result = string[start_idx + START_EM_LENGTH:start_idx + end_idx].replace(" ", "</em> <em>")
+    inner = string[start_idx + open_len:start_idx + end_idx]
+    result = inner.replace(" ", f"</em> {open_tag}")
     return (
         string[:start_idx]
-        + "<em>" + result + "</em>"
+        + open_tag + result + "</em>"
         + _processEMtag(string[start_idx + end_idx + END_EM_LENGTH:])
     )
