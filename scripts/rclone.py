@@ -77,18 +77,18 @@ def generatePbar():
 def copy(source, destination):
     recorder = Recorder()
     LOG_INFO(2, f"Rclone copy from '{source}' to '{destination}'")
-    rclone.copy(source, destination, listener=recorder.update, args=["--drive-shared-with-me", "--fast-list", "--transfers=32"], pbar=generatePbar())
+    rclone.copy(source, destination, listener=recorder.update, args=["--drive-shared-with-me", "--fast-list", "--transfers=32", "--no-check-certificate"], pbar=generatePbar())
     return recorder
 
 def sync(source, destination):
     recorder = Recorder()
     LOG_INFO(2, f"Rclone sync from '{source}' to '{destination}'")
-    rclone.sync(source, destination, listener=recorder.update, args=["--drive-shared-with-me", "--fast-list", "--transfers=32"], pbar=generatePbar())
+    rclone.sync(source, destination, listener=recorder.update, args=["--drive-shared-with-me", "--fast-list", "--transfers=32", "--no-check-certificate"], pbar=generatePbar())
     return recorder
 
 def check(source, destination):
     LOG_INFO(2, f"Rclone check from '{source}' to '{destination}'")
-    returncode, result = rclone.check(source, destination, args=["--drive-shared-with-me", "--fast-list"])
+    returncode, result = rclone.check(source, destination, args=["--drive-shared-with-me", "--fast-list", "--no-check-certificate"])
     return_result = []
     for obj in result:
         if obj[0] != '=':
@@ -96,7 +96,7 @@ def check(source, destination):
     return return_result
 
 def link(dest):
-    result = rclone.link(dest, args=["--drive-shared-with-me"])
+    result = rclone.link(dest, args=["--drive-shared-with-me", "--no-check-certificate"])
     return result
 
 def init():

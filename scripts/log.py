@@ -1,5 +1,6 @@
 import logging
-from rich.logging import RichHandler, Console
+from rich.logging import RichHandler
+from rich.console import Console
 
 
 FORMAT = "%(message)s"

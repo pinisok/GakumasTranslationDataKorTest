@@ -2,6 +2,20 @@ from .log import *
 import gspread
 import gspread_formatting as gfmt
 import datetime
+import requests
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+
+def _disable_requests_tls_verification():
+    original_request = requests.sessions.Session.request
+
+    def patched_request(self, method, url, *args, **kwargs):
+        kwargs.setdefault("verify", False)
+        return original_request(self, method, url, *args, **kwargs)
+
+    requests.sessions.Session.request = patched_request
 
 TARGET_SHEET = "1gjYXr-aFrDLLXUfmsA-tN_Tc5rgovtIfeDqoJM-78jM"
 
@@ -30,6 +44,7 @@ def _build_file_chip_cell(url, date_str):
 def log(logs, new_file_urls=None):
     if new_file_urls is None:
         new_file_urls = []
+    _disable_requests_tls_verification()
     account = gspread.service_account(r"api.json")
     SHEET = account.open_by_key(TARGET_SHEET)
     worksheet = SHEET.worksheet("업데이트 로그")

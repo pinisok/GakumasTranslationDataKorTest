@@ -26,6 +26,7 @@ CAMPUS_LOCK_TIMEOUT="${CAMPUS_LOCK_TIMEOUT:-1800}"
 CAMPUS_FLAGS="${CAMPUS_FLAGS:--ab --webab -db}"
 CAMPUS_AUTO_UPDATE="${CAMPUS_AUTO_UPDATE:-1}"
 CAMPUS_BRANCH="${CAMPUS_BRANCH:-main}"
+CAMPUS_RUN_CMD="${CAMPUS_RUN_CMD:-env CGO_ENABLED=1 /usr/local/go/bin/go run .}"
 
 echo "[$(date '+%F %T')] campus-cron start"
 
@@ -40,7 +41,7 @@ if [ "$CAMPUS_AUTO_UPDATE" = "1" ] && [ -d "$CAMPUS_DIR/.git" ]; then
     if [ "$old" != "$new" ]; then
       echo "  $old → $new (fast-forward)"
       git pull --ff-only --quiet origin "$CAMPUS_BRANCH"
-      go mod download
+      /usr/local/go/bin/go mod download
     else
       echo "  already at $new"
     fi
@@ -55,7 +56,7 @@ fi
     exit 1
   }
   echo "$$" >&9
-  cd "$CAMPUS_DIR" && eval "env CGO_ENABLED=1 go run . $CAMPUS_FLAGS"
+  cd "$CAMPUS_DIR" && eval "$CAMPUS_RUN_CMD $CAMPUS_FLAGS"
 ) 9>"$CAMPUS_LOCK"
 
 echo "[$(date '+%F %T')] campus-cron done"
