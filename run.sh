@@ -26,6 +26,10 @@ trap 'rm -f "$LOCKFILE"' EXIT
 python3 scripts/campus_sync.py sync masterdb --skip-campus || { echo "❌ masterdb sync 실패"; exit 1; }
 python3 scripts/campus_sync.py sync adv     --skip-campus || { echo "❌ adv sync 실패";     exit 1; }
 
+# campus diff 알림 — 변경이 있으면 NanoClaw Discord DM으로 요약 전송
+# (best-effort: Discord가 죽어도 번역 파이프라인은 계속 진행)
+node scripts/notify_campus_diff.mjs || echo "⚠ campus diff notification failed"
+
 # output 서브모듈은 여전히 git (push 대상이므로 git 워크플로우 유지)
 git submodule update --init --remote -- output
 

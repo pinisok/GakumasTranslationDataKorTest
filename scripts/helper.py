@@ -119,6 +119,44 @@ def Helper_GetFilesFromDirByDate(target_date:str, path:str, suffix:str = None, p
             result[key] = True
     LOG_DEBUG(3, f"Updated file list : {result}")
 
+    # Also include working-tree changes that are not captured by git history.
+    # Campus sync writes updated source files directly into the submodule working tree,
+    # so relying on commit history alone can miss real updates that were never committed.
+    try:
+        target_ts = target_date.timestamp()
+        for abs_path, relate_path, file_name in Helper_GetFilesFromDir(path, suffix, prefix):
+            try:
+                if os.path.getmtime(abs_path) <= target_ts:
+                    continue
+            except FileNotFoundError:
+                continue
+            result[relate_path] = True
+    except Exception as e:
+        LOG_DEBUG(3, f"mtime scan skipped: {e}")
+
+    # Working-tree scan: campus sync often leaves updates as uncommitted changes
+    # in the submodule. Those will not appear in git history, so include them
+    # explicitly.
+    try:
+        status_lines = subprocess.check_output(
+            ["git", "status", "--porcelain"],
+            text=True,
+            cwd=path,
+        ).splitlines()
+        for line in status_lines:
+            if not line or len(line) < 4:
+                continue
+            rel = line[3:]
+            if rel == "" or rel == "revision":
+                continue
+            if rel.startswith("?? "):
+                rel = rel[3:]
+            if rel.endswith("/"):
+                continue
+            result[rel] = True
+    except Exception as e:
+        LOG_DEBUG(3, f"working-tree scan skipped: {e}")
+
     finds : list[str] = []
     for relate_path in result.keys():
         if relate_path == "" or relate_path == "revision": continue
