@@ -8,7 +8,7 @@ Download (Phase 0) and Upload (Phase 3) run independently.
 from . import rclone
 from .helper import Helper_GetFilesFromDir, Helper_GetFilesFromDirByCheck
 from .paths import (
-    DRIVE_PATH,
+    DRIVE_PATH, REMOTE_PATH,
     ADV_REMOTE_PATH, ADV_DRIVE_PATH,
     MASTERDB2_REMOTE_PATH, MASTERDB2_DRIVE_PATH,
     GENERIC_REMOTE_PATH, GENERIC_DRIVE_PATH,
@@ -51,14 +51,15 @@ def download_all(bFullUpdate=False, ADV=True, MASTERDB=True, GENERIC=True, LOCAL
     return result
 
 
-def upload_all(ADV=True, MASTERDB=True):
+def upload_all(ADV=True, MASTERDB=True, LOCALIZATION=True):
     """Phase 3: Upload local → remote for pipelines that support Update.
 
-    Returns (adv_result, masterdb_result) where each result is
+    Returns (adv_result, masterdb_result, localization_result) where each result is
     {"files": [...], "remote_path": "..."} or {"files": [], "remote_path": ""}.
     """
     adv_result = {"files": [], "remote_path": ADV_REMOTE_PATH}
     masterdb_result = {"files": [], "remote_path": MASTERDB2_REMOTE_PATH}
+    localization_result = {"files": [], "remote_path": REMOTE_PATH}
 
     if ADV:
         LOG_INFO(1, "Upload ADV")
@@ -68,7 +69,11 @@ def upload_all(ADV=True, MASTERDB=True):
         LOG_INFO(1, "Upload MasterDB")
         masterdb_result["files"] = _upload_pipeline(MASTERDB2_DRIVE_PATH, MASTERDB2_REMOTE_PATH)
 
-    return adv_result, masterdb_result
+    if LOCALIZATION:
+        LOG_INFO(1, "Upload Localization")
+        localization_result["files"] = _upload_localization()
+
+    return adv_result, masterdb_result, localization_result
 
 
 # ============================================================
@@ -152,3 +157,17 @@ def _upload_pipeline(drive_path, remote_path):
     if len(file_list) > 0:
         rclone.sync(drive_path, remote_path)
     return file_list
+
+
+def _upload_localization():
+    """Single-file upload of localization.xlsx — uses copy (not sync) so the
+    parent dir's other files are not touched."""
+    import os
+    file_list = rclone.check(LOCALIZATION_DRIVE_PATH, LOCALIZATION_REMOTE_PATH)
+    LOG_DEBUG(2, f"localization check_result : {file_list}")
+    if len(file_list) > 0:
+        # copy the single file into the remote parent dir.
+        rclone.copy(LOCALIZATION_DRIVE_PATH, REMOTE_PATH)
+        # Normalize entries so _update_summary can display them.
+        return [(entry[0], os.path.basename(LOCALIZATION_FILE)) for entry in file_list]
+    return []

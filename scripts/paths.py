@@ -54,3 +54,12 @@ LOCALIZATION_FILE = "/localization.xlsx"
 LOCALIZATION_REMOTE_PATH = REMOTE_PATH + LOCALIZATION_FILE
 LOCALIZATION_DRIVE_PATH = DRIVE_PATH + LOCALIZATION_FILE
 LOCALIZATION_OUTPUT_PATH = OUTPUT_PATH + "/local-files" + LOCALIZATION_FILE[:-5] + ".json"
+
+# Localization — release-driven update (pinisok/gaku-patcher GitHub Releases)
+# The latest release publishes a `localization.json` asset (JP source-of-truth).
+# We gate updates on the release tag so we don't re-fetch the same release.
+LOCALIZATION_RELEASE_API_URL = "https://api.github.com/repos/pinisok/gaku-patcher/releases/latest"
+LOCALIZATION_RELEASE_ASSET_NAME = "localization.json"
+LOCALIZATION_RELEASE_CACHE_FILE = "./cache/localization_release_tag.txt"
+LOCALIZATION_SOURCE_JSON_PATH = TEMP_PATH + "/localization_source.json"
+LOCALIZATION_RELEASE_NOTES_PATH = OUTPUT_PATH + "/RELEASE_NOTES.md"

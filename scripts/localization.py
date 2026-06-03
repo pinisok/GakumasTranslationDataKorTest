@@ -50,13 +50,74 @@ from .paths import (
     LOCALIZATION_FILE, LOCALIZATION_REMOTE_PATH,
     LOCALIZATION_DRIVE_PATH, LOCALIZATION_OUTPUT_PATH,
 )
+from . import localization_release
 
 
 # 업데이트 반영
-# Gakumas > Google Drive
-def UpdateOriginalToDrive(bFullUpdate = False):
-    LOG_WARN(2, "Update generic files is not supportted")
-    return []
+# pinisok/gaku-patcher 의 최신 release 에 첨부된 localization.json 을 기준으로
+# Google Drive 의 localization.xlsx 에 새 키를 추가하고, JP 원문이 바뀐 키는 갱신,
+# release 에서 사라진 키는 OBSOLETE 마커로 표시한다.
+#
+# 반환 시그니처는 adv.UpdateOriginalToDrive 와 동일: (file_list, warnings)
+#   - file_list: [(input_path, output_path, filename)] — main.Update() 가 무시하므로
+#                실제로 변경된 경우에만 한 항목을 채워 넣는다.
+#   - warnings: {filename: [str, ...]} — main 의 _update_summary 가 파일별 경고로 출력.
+def UpdateOriginalToDrive(bFullUpdate=False):
+    release = localization_release.fetch_latest_release()
+    if release is None:
+        LOG_WARN(2, "Localization release fetch failed — skipping update")
+        return [], {}
+
+    last_tag = localization_release.load_last_release_tag()
+    if not bFullUpdate and last_tag == release.tag:
+        LOG_INFO(2, f"Localization release {release.tag} already processed — skip")
+        return [], {}
+
+    LOG_INFO(2, f"Localization release {release.tag} detected "
+                f"(previous: {last_tag or 'none'})")
+
+    release_json = localization_release.download_release_json(release.asset_url)
+    if release_json is None:
+        return [], {}
+
+    if not os.path.exists(LOCALIZATION_DRIVE_PATH):
+        LOG_WARN(2, f"{LOCALIZATION_DRIVE_PATH} not found locally — "
+                    f"download from Drive (Phase 0) before Update")
+        return [], {}
+
+    diff = localization_release.diff_release_against_xlsx(
+        release_json, LOCALIZATION_DRIVE_PATH
+    )
+
+    if diff.empty:
+        LOG_INFO(2, f"Localization release {release.tag} has no diff vs drive xlsx — "
+                    f"only the tag cache is advanced")
+        localization_release.save_release_tag(release.tag)
+        return [], {}
+
+    localization_release.apply_diff_to_xlsx(release_json, diff, LOCALIZATION_DRIVE_PATH)
+    localization_release.append_release_notes(release, diff)
+    localization_release.save_release_tag(release.tag)
+
+    warnings = _diff_warnings(release, diff)
+    filename = os.path.basename(LOCALIZATION_DRIVE_PATH)
+    file_list = [(LOCALIZATION_DRIVE_PATH, LOCALIZATION_DRIVE_PATH, filename)]
+    return file_list, warnings
+
+
+def _diff_warnings(release, diff) -> dict:
+    """Convert a diff into per-file warnings for the gspread / log summary."""
+    filename = os.path.basename(LOCALIZATION_DRIVE_PATH)
+    messages = [localization_release.summarize_diff(release, diff)]
+    if diff.removed:
+        sample = ", ".join(diff.removed[:5])
+        suffix = "" if len(diff.removed) <= 5 else f" (외 {len(diff.removed) - 5}건)"
+        messages.append(f"제거된 키는 OBSOLETE 처리: {sample}{suffix}")
+    if diff.changed_jp:
+        sample = ", ".join(list(diff.changed_jp.keys())[:5])
+        suffix = "" if len(diff.changed_jp) <= 5 else f" (외 {len(diff.changed_jp) - 5}건)"
+        messages.append(f"JP 변경된 키 재검수 필요: {sample}{suffix}")
+    return {filename: messages}
 
 
 # 번역 수정사항 반영

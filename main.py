@@ -45,9 +45,10 @@ def Convert(ADV=True, MASTERDB=True, GENERIC=True, LOCALIZATION=True, bFullUpdat
         LOG_INFO(1, "No files updated")
     return (ERR_ADV_FILE, ADV_FILE), (ERR_MASTERDB_FILE, MASTERDB_FILE), (ERR_GENERIC_FILE, GENERIC_FILE), (ERR_LOCALIZATION_FILE, LOCALIZATION_FILE)
 
-def Update(ADV=True, MASTERDB=True, bFullUpdate=False):
+def Update(ADV=True, MASTERDB=True, LOCALIZATION=True, bFullUpdate=False):
     ADV_FILE = []
     MASTERDB_FILE = []
+    LOCALIZATION_FILE = []
     all_warnings = {}
     if ADV:
         LOG_INFO(1, "Updating ADV")
@@ -57,8 +58,12 @@ def Update(ADV=True, MASTERDB=True, bFullUpdate=False):
         LOG_INFO(1, "Updating MasterDB")
         MASTERDB_FILE, mdb_warnings = masterdb2.UpdateOriginalToDrive()
         all_warnings.update(mdb_warnings)
+    if LOCALIZATION:
+        LOG_INFO(1, "Updating Localization")
+        LOCALIZATION_FILE, loc_warnings = localization.UpdateOriginalToDrive(bFullUpdate)
+        all_warnings.update(loc_warnings)
 
-    return ADV_FILE, MASTERDB_FILE, all_warnings
+    return ADV_FILE, MASTERDB_FILE, LOCALIZATION_FILE, all_warnings
     
 def getDriveLink(rel_path, remote_path=""):
     """Get Google Drive open URL for a file.
@@ -133,13 +138,16 @@ def main(ADV=True, MASTERDB=True, GENERIC=True, LOCALIZATION=True):
     # Phase 3: Upload to Google Drive
     U_UPLOAD_ADV = {"files": [], "remote_path": ""}
     U_UPLOAD_MASTERDB = {"files": [], "remote_path": ""}
+    U_UPLOAD_LOCALIZATION = {"files": [], "remote_path": ""}
     update_warnings = {}
     if UPDATE:
         LOG_INFO(0, "Phase 2: Update")
-        _, _, update_warnings = Update(ADV, MASTERDB, full_update)
+        _, _, _, update_warnings = Update(ADV, MASTERDB, LOCALIZATION, full_update)
 
         LOG_INFO(0, "Phase 3: Upload to Drive")
-        U_UPLOAD_ADV, U_UPLOAD_MASTERDB = sync.upload_all(ADV, MASTERDB)
+        U_UPLOAD_ADV, U_UPLOAD_MASTERDB, U_UPLOAD_LOCALIZATION = sync.upload_all(
+            ADV, MASTERDB, LOCALIZATION
+        )
 
     has_changes = False
     logStream = io.StringIO()
@@ -147,12 +155,15 @@ def main(ADV=True, MASTERDB=True, GENERIC=True, LOCALIZATION=True):
     AddLogHandler(logHandler)
     new_file_urls = []
     if UPDATE:
-        if len(U_UPLOAD_ADV["files"]) + len(U_UPLOAD_MASTERDB["files"]) > 0:
+        if (len(U_UPLOAD_ADV["files"])
+                + len(U_UPLOAD_MASTERDB["files"])
+                + len(U_UPLOAD_LOCALIZATION["files"])) > 0:
             has_changes = True
             LOG_INFO(0, "---------------- 업데이트된 파일 요약 ----------------")
 
             _update_summary("ADV", U_UPLOAD_ADV, update_warnings, new_file_urls)
             _update_summary("MASTERDB", U_UPLOAD_MASTERDB, update_warnings, new_file_urls)
+            _update_summary("LOCALIZATION", U_UPLOAD_LOCALIZATION, update_warnings, new_file_urls)
 
             LOG_INFO(0, "----------------------------------------------------------")
         else:
