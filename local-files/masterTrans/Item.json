@@ -1464,6 +1464,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_kllj-3-018",
+            "name": "[가라쿠타 로드]카츠라기 릴리야의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_shro-1-000",
             "name": "[학원생활] 시노사와 히로의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1722,9 +1728,21 @@
             "acquisitionRouteDescription": "도전 과제 등"
         },
         {
+            "id": "item-primastellamaterial-idol_kllj-001",
+            "name": "릴리야의 샛별의 빛",
+            "description": "카츠라기 릴리야의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
             "id": "item-primastellamaterial-idol_shro-001",
             "name": "히로의 샛별의 빛",
             "description": "시노사와 히로의 '샛별' 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_ssmk-001",
+            "name": "스미카의 샛별의 빛",
+            "description": "시운 스미카의 『샛별』 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "도전 과제 등"
         },
         {

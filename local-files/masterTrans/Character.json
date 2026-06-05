@@ -11,6 +11,11 @@
             "firstName": "마오"
         },
         {
+            "id": "andk",
+            "lastName": "아오이",
+            "firstName": "나데시코"
+        },
+        {
             "id": "atbm",
             "lastName": "아마야",
             "firstName": "츠바메"
@@ -81,6 +86,11 @@
             "firstName": "아사리"
         },
         {
+            "id": "sgka",
+            "lastName": "시라쿠사",
+            "firstName": "겟카"
+        },
+        {
             "id": "shro",
             "lastName": "시노사와",
             "firstName": "히로"
@@ -89,6 +99,11 @@
             "id": "ssmk",
             "lastName": "시운",
             "firstName": "스미카"
+        },
+        {
+            "id": "sson",
+            "lastName": "시라쿠사",
+            "firstName": "시온"
         },
         {
             "id": "trda",

@@ -4109,6 +4109,76 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-003-kllj-after_step_before_audition_mid1-1",
+            "title": "당일",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-before-selection-01-01",
+            "title": "제1회 『선발시험』으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-before-selection-02-01",
+            "title": "제2회 『선발시험』으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-before-selection-03-01",
+            "title": "제3회 『선발시험』으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-final-failure-01",
+            "title": "아직, 끝내고 싶지 않아",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-main_match-opening-01",
+            "title": "드디어 『H.I.F 본선』!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-produce-007-after-selection-01-01",
+            "title": "『H.I.F 선발시험』 1회 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-produce-007-after-selection-02-01",
+            "title": "『H.I.F 선발시험』 2회 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-produce-007-after-selection-03-01",
+            "title": "『H.I.F 선발시험』 3회 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-produce-007-selection-ending-a-01",
+            "title": "『H.I.F 선발시험』 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-produce-008-after-final-01-01",
+            "title": "『H.I.F 본선』 라운드1 종료!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-produce-008-final-ending-a-01",
+            "title": "『H.I.F 본선』 우승!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-selection-failure-01",
+            "title": "아직, 끝낼 수 없어",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-kllj-selection-opening-02",
+            "title": "목표는 『선발시험』 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-003-shro-after_step_before_audition_mid1-1",
             "title": "당일",
             "produceEventHintProduceConditionDescriptions": []
@@ -4175,6 +4245,76 @@
         },
         {
             "id": "p_story-003-shro-selection-opening-02",
+            "title": "목표는 『선발시험』 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-after_step_before_audition_mid1-1",
+            "title": "당일",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-before-selection-01-01",
+            "title": "제1회 『선발시험』으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-before-selection-02-01",
+            "title": "제2회 『선발시험』으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-before-selection-03-01",
+            "title": "제3회 『선발시험』으로",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-final-failure-01",
+            "title": "아직, 끝내고 싶지 않아",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-main_match-opening-01",
+            "title": "드디어 『H.I.F 본선』!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-produce-007-after-selection-01-01",
+            "title": "『H.I.F 선발시험』 1회 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-produce-007-after-selection-02-01",
+            "title": "『H.I.F 선발시험』 2회 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-produce-007-after-selection-03-01",
+            "title": "『H.I.F 선발시험』 3회 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-produce-007-selection-ending-a-01",
+            "title": "『H.I.F 선발시험』 돌파!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-produce-008-after-final-01-01",
+            "title": "『H.I.F 본선』 라운드1 종료!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-produce-008-final-ending-a-01",
+            "title": "『H.I.F 본선』 우승!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-selection-failure-01",
+            "title": "아직, 끝낼 수 없어",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-003-ssmk-selection-opening-02",
             "title": "목표는 『선발시험』 돌파!",
             "produceEventHintProduceConditionDescriptions": []
         },
@@ -11594,6 +11734,136 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-event-003_kllj_activity_021",
+            "title": "컴프를 목표로!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_activity_022",
+            "title": "수족관에서 보고 싶은 건?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_012",
+            "title": "평가받는 노래",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_013",
+            "title": "의식해야 할 노래",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_014",
+            "title": "오늘의 보컬 수업",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_015",
+            "title": "『H.I.F』에서 필요한 힘",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_016",
+            "title": "프로듀서에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_017",
+            "title": "담당 아이돌은 『샛별』",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_018",
+            "title": "평가받는 댄스",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_019",
+            "title": "의식해야 할 댄스",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_020",
+            "title": "오늘의 댄스 수업",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_021",
+            "title": "『샛별』에 어울리는 인물",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_022",
+            "title": "솔로와 유닛에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_023",
+            "title": "『H.I.F』에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_024",
+            "title": "평가받는 비주얼",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_025",
+            "title": "의식해야 할 비주얼",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_026",
+            "title": "오늘의 비주얼 수업",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_027",
+            "title": "프로듀스에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_028",
+            "title": "『샛별』이 되면",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_029",
+            "title": "100프로에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_030",
+            "title": "컨디션 체크~",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_031",
+            "title": "지금 심경은 어떠세요~?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_032",
+            "title": "컨디션 체크!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_033",
+            "title": "지금 심경은 어때?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_034",
+            "title": "컨디션 체크♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_kllj_school_035",
+            "title": "지금 심경은 어때?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-event-003_shro_activity_021",
             "title": "몸 만들기는 식사부터……?",
             "produceEventHintProduceConditionDescriptions": []
@@ -11720,6 +11990,136 @@
         },
         {
             "id": "p_story-event-003_shro_school_035",
+            "title": "지금 심경은 어때?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_activity_021",
+            "title": "가볍게 운세 보기♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_activity_022",
+            "title": "함께 헤엄치고 싶은 건?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_012",
+            "title": "평가받는 노래",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_013",
+            "title": "의식해야 할 노래",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_014",
+            "title": "오늘의 보컬 수업",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_015",
+            "title": "『H.I.F』에서 필요한 힘",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_016",
+            "title": "프로듀서에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_017",
+            "title": "담당 아이돌은 『샛별』",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_018",
+            "title": "평가받는 댄스",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_019",
+            "title": "의식해야 할 댄스",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_020",
+            "title": "오늘의 댄스 수업",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_021",
+            "title": "『샛별』에 어울리는 인물",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_022",
+            "title": "솔로와 유닛에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_023",
+            "title": "『H.I.F』에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_024",
+            "title": "평가받는 비주얼",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_025",
+            "title": "의식해야 할 비주얼",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_026",
+            "title": "오늘의 비주얼 수업",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_027",
+            "title": "프로듀스에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_028",
+            "title": "『샛별』이 되면",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_029",
+            "title": "100프로에 대하여",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_030",
+            "title": "컨디션 체크~",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_031",
+            "title": "지금 심경은 어떠세요~?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_032",
+            "title": "컨디션 체크!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_033",
+            "title": "지금 심경은 어때?",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_034",
+            "title": "컨디션 체크♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-003_ssmk_school_035",
             "title": "지금 심경은 어때?",
             "produceEventHintProduceConditionDescriptions": []
         },
@@ -12946,6 +13346,21 @@
         {
             "id": "p_story-i_card-kllj-3-017-03",
             "title": "두근두근 이모션 3화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-018-01",
+            "title": "가라쿠타로드 1화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-018-02",
+            "title": "가라쿠타로드 2화",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-kllj-3-018-03",
+            "title": "가라쿠타로드 3화",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -15696,6 +16111,21 @@
         {
             "id": "p_story-s_card-3-0100-03",
             "title": "지금이야말로 영하게!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0105-01",
+            "title": "습격, 극월학원!",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0105-02",
+            "title": "아오이 나데시코의 갈등",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0105-03",
+            "title": "복잡한 자매 관계",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

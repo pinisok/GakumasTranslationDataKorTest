@@ -11,6 +11,11 @@
             "regexp": "아마야$"
         },
         {
+            "characterId": "andk",
+            "name": "아오이 나데시코",
+            "regexp": "나데시코"
+        },
+        {
             "characterId": "atbm",
             "name": "아마야 츠바메",
             "regexp": "츠바메$"
@@ -86,6 +91,11 @@
             "regexp": "아사리 선생"
         },
         {
+            "characterId": "sgka",
+            "name": "시라쿠사 겟카",
+            "regexp": "겟카"
+        },
+        {
             "characterId": "shro",
             "name": "시노사와 히로",
             "regexp": "히로$"
@@ -94,6 +104,11 @@
             "characterId": "ssmk",
             "name": "시운 스미카",
             "regexp": "스미카$ "
+        },
+        {
+            "characterId": "sson",
+            "name": "시라쿠사 시온",
+            "regexp": "시온"
         },
         {
             "characterId": "trda",

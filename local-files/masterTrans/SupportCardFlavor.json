@@ -2590,6 +2590,21 @@
             "supportCardId": "s_card-3-0100",
             "number": 3,
             "text": "그렇죠.\n학생들을 잘 뒷받침할 수 있도록요!"
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 1,
+            "text": "이게 하츠보시의 『H.I.F』인가.\n보기 힘든 라이브가 아니면 좋겠군."
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 2,
+            "text": "후후…… 실력 좀 보죠."
+        },
+        {
+            "supportCardId": "s_card-3-0105",
+            "number": 3,
+            "text": "호오…… 재미있는 병아리들이 많군."
         }
     ]
 }

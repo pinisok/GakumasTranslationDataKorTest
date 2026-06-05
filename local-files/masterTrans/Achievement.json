@@ -2316,6 +2316,36 @@
             "description": "【두근두근 이모션】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kllj-3-018-01",
+            "name": "나를 지탱해 주는 말",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 프로듀스로 최종 시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-02",
+            "name": "가라쿠타로드",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-03",
+            "name": "나의 원점",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-04",
+            "name": "가라쿠타로드 +",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-05",
+            "name": "가라쿠타로드 ++",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-06",
+            "name": "가라쿠타로드 +++",
+            "description": "【가라쿠타 로드】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
+        },
+        {
             "id": "achieve-i_card-shro-2-000-04",
             "name": "가장 어울리지 않는 것+",
             "description": "【가장 안 맞는 것】시노사와 히로의 특훈 단계 {threshold} 달성"
@@ -4986,6 +5016,11 @@
             "description": "카츠라기 릴리야로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-kllj-000-2",
+            "name": "계속 함께 있어 줄래?",
+            "description": "카츠라기 릴리야로 True End: H.I.F 보기"
+        },
+        {
             "id": "achieve-p_idol-kllj-001",
             "name": "미소 짓는 연습",
             "description": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 사용함"
@@ -5099,6 +5134,16 @@
             "id": "achieve-p_idol-kllj-024",
             "name": "불타오르는 시추에이션",
             "description": "카츠라기 릴리야로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-kllj-025",
+            "name": "그날 동경했던 아이돌",
+            "description": "카츠라기 릴리야로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-kllj-026",
+            "name": "즐거운 여정",
+            "description": "카츠라기 릴리야로 H.I.F 최종 시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-kllj-027",
@@ -5266,6 +5311,11 @@
             "description": "시운 스미카로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-ssmk-000-2",
+            "name": "행복한 아이돌",
+            "description": "시운 스미카로 True End: H.I.F 보기"
+        },
+        {
             "id": "achieve-p_idol-ssmk-001",
             "name": "일단은 놀기부터",
             "description": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 사용"
@@ -5379,6 +5429,16 @@
             "id": "achieve-p_idol-ssmk-024",
             "name": "되고 싶은 나로",
             "description": "시운 스미카로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-025",
+            "name": "되고 싶은 나",
+            "description": "시운 스미카로 H.I.F 최종 시험에 합격하여 평가 S4+ 이상 획득"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-026",
+            "name": "둘이서 내디딘 한 걸음 한 걸음",
+            "description": "시운 스미카로 H.I.F 최종 시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-ssmk-027",
