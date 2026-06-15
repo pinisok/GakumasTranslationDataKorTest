@@ -211,6 +211,12 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00920-wednesday-001",
+            "order": 1,
+            "name": "학원마스 수요일 가챠 티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-010-item_01",
             "order": 3,
             "name": "10회 아이템 가챠",
@@ -338,6 +344,18 @@
         },
         {
             "id": "gasha_marge_button-ssr-00875",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
+            "id": "gasha_marge_button-ssr-hif-day1-00912",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
+            "id": "gasha_marge_button-ssr-hif-day2-00914",
             "order": 1,
             "name": "유료 10회 가챠",
             "description": "유료 10회 가챠"

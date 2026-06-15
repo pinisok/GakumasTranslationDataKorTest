@@ -1618,6 +1618,22 @@
             "name": "강화의 달 ~별들의 반짝임~ 아리무라 마오 【동】"
         },
         {
+            "id": "highscore-rush-amao-002-ranking-001",
+            "name": "강화의 달 ~별들의 반짝임~ 아리무라 마오 【무지개】"
+        },
+        {
+            "id": "highscore-rush-amao-002-ranking-002",
+            "name": "강화의 달 ~별들의 반짝임~ 아리무라 마오 【금】"
+        },
+        {
+            "id": "highscore-rush-amao-002-ranking-003",
+            "name": "강화의 달 ~별들의 반짝임~ 아리무라 마오 【은】"
+        },
+        {
+            "id": "highscore-rush-amao-002-ranking-004",
+            "name": "강화의 달 ~별들의 반짝임~ 아리무라 마오 【동】"
+        },
+        {
             "id": "highscore-rush-fktn-001-ranking-001",
             "name": "강화의 달 ~별들의 반짝임~ 후지타 코토네 【무지개】"
         },
@@ -1663,6 +1679,22 @@
         },
         {
             "id": "highscore-rush-hrnm-001-ranking-004",
+            "name": "강화의 달 ~별들의 반짝임~ 히메사키 리나미【동】"
+        },
+        {
+            "id": "highscore-rush-hrnm-002-ranking-001",
+            "name": "강화의 달 ~별들의 반짝임~ 히메사키 리나미【무지개】"
+        },
+        {
+            "id": "highscore-rush-hrnm-002-ranking-002",
+            "name": "강화의 달 ~별들의 반짝임~ 히메사키 리나미【금】"
+        },
+        {
+            "id": "highscore-rush-hrnm-002-ranking-003",
+            "name": "강화의 달 ~별들의 반짝임~ 히메사키 리나미【은】"
+        },
+        {
+            "id": "highscore-rush-hrnm-002-ranking-004",
             "name": "강화의 달 ~별들의 반짝임~ 히메사키 리나미【동】"
         },
         {
@@ -2486,6 +2518,10 @@
             "name": "REVERSI 두근두근 이모션"
         },
         {
+            "id": "sd-ripplesign-01",
+            "name": "SUGAR FLAVOR RippleSign"
+        },
+        {
             "id": "sd-shro-01",
             "name": "시노사와 히로"
         },
@@ -2735,6 +2771,10 @@
         },
         {
             "id": "stamp-ttmr-03",
+            "name": ""
+        },
+        {
+            "id": "ttmr-birthday-stream-logo-001",
             "name": ""
         }
     ]

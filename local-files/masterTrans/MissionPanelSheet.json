@@ -17,6 +17,11 @@
             "name": "친애도 미션"
         },
         {
+            "missionPanelSheetGroupId": "dearness_panel-mission_hmsz_01",
+            "number": 1,
+            "name": "친애도 미션"
+        },
+        {
             "missionPanelSheetGroupId": "dearness_panel-mission_hrnm_01",
             "number": 1,
             "name": "친애도 미션"
@@ -57,12 +62,22 @@
             "name": "친애도 미션"
         },
         {
+            "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_hmsz_01",
+            "number": 1,
+            "name": "친애도 미션"
+        },
+        {
             "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_hrnm_01",
             "number": 1,
             "name": "친애도 미션"
         },
         {
             "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_hski_01",
+            "number": 1,
+            "name": "친애도 미션"
+        },
+        {
+            "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_hume_01",
             "number": 1,
             "name": "친애도 미션"
         },
@@ -163,6 +178,16 @@
         },
         {
             "missionPanelSheetGroupId": "panel_mission-event-008",
+            "number": 2,
+            "name": "2번째"
+        },
+        {
+            "missionPanelSheetGroupId": "panel_mission-event-009",
+            "number": 1,
+            "name": "1번째"
+        },
+        {
+            "missionPanelSheetGroupId": "panel_mission-event-009",
             "number": 2,
             "name": "2번째"
         },

@@ -1087,6 +1087,21 @@
             "text": "이 평온하고 기분 좋은 멋진\n한때를 위하여――건배, 에요~!"
         },
         {
+            "supportCardId": "s_card-2-0075",
+            "number": 1,
+            "text": "파티하면 역시 타코파티지.\n이건 양보 못해."
+        },
+        {
+            "supportCardId": "s_card-2-0075",
+            "number": 2,
+            "text": "치즈 퐁듀도 재밌잖아!\n프랑스어잖아? 프랑스어!"
+        },
+        {
+            "supportCardId": "s_card-2-0075",
+            "number": 3,
+            "text": "흠, 프랑스어구나.\n확실히 멋있긴 한데……"
+        },
+        {
             "supportCardId": "s_card-3-0000",
             "number": 1,
             "text": "자, 한 입 줄게!"
@@ -2590,6 +2605,21 @@
             "supportCardId": "s_card-3-0100",
             "number": 3,
             "text": "그렇죠.\n학생들을 잘 뒷받침할 수 있도록요!"
+        },
+        {
+            "supportCardId": "s_card-3-0101",
+            "number": 1,
+            "text": "（어머~? 말도 안 돼,\n저 애도 같은 사람을 좋아하는 거야!?）"
+        },
+        {
+            "supportCardId": "s_card-3-0101",
+            "number": 2,
+            "text": "（우와, 뒷내용이 궁금해~!）"
+        },
+        {
+            "supportCardId": "s_card-3-0101",
+            "number": 3,
+            "text": "（저 배우 씨,\n예전에 함께 출연한 적 있는 분이야……）"
         },
         {
             "supportCardId": "s_card-3-0105",

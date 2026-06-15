@@ -216,6 +216,36 @@
             "description": "【봐줘】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-amao-3-017-01",
+            "name": "빼앗긴 마음",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-02",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-03",
+            "name": "진짜 사랑에도 지지 않는 마음",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-04",
+            "name": "SUGAR FLAVOR +",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-05",
+            "name": "SUGAR FLAVOR ++",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-06",
+            "name": "SUGAR FLAVOR +++",
+            "description": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
             "id": "achieve-i_card-atbm-2-000-01",
             "name": "자전일섬",
             "description": "【초지일관】아마야 츠바메의 프로듀스로 최종 시험에 합격"
@@ -1024,6 +1054,36 @@
             "id": "achieve-i_card-hrnm-3-017-06",
             "name": "가라쿠타로드 +++",
             "description": "【가라쿠타로드】히메사키 리나미의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-01",
+            "name": "달콤하게 녹는 마음",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 프로듀스로 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-02",
+            "name": "SUGAR FLAVOR",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-03",
+            "name": "큰 파도를 만들어낼 조짐",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-04",
+            "name": "SUGAR FLAVOR +",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-05",
+            "name": "SUGAR FLAVOR ++",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-06",
+            "name": "SUGAR FLAVOR +++",
+            "description": "【SUGAR FLAVOR】히메사키 리나미의 특훈 단계를 {threshold}로 만들기"
         },
         {
             "id": "achieve-i_card-hski-2-000-04",

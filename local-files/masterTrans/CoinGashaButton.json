@@ -81,6 +81,11 @@
             "description": "1회 뽑기"
         },
         {
+            "id": "coin_gasha_button-hif-001",
+            "name": "1회 뽑기",
+            "description": "1회 뽑기"
+        },
+        {
             "id": "coin_gasha_button-newyear-001",
             "name": "1회 뽑기",
             "description": "1회 뽑기"
@@ -147,6 +152,16 @@
         },
         {
             "id": "highscorerush-event-012_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-013_box_01_button",
+            "name": "뽑기",
+            "description": "뽑기"
+        },
+        {
+            "id": "highscorerush-event-014_box_01_button",
             "name": "뽑기",
             "description": "뽑기"
         }

@@ -1102,6 +1102,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-kcna-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-kllj-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1212,6 +1220,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-kllj-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-nasr-008",
@@ -1342,6 +1358,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-shro-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-ssmk-001",
             "title": "하지메",
             "displayTitle": "하지메",
@@ -1452,6 +1476,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-ssmk-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-studentcouncil-022",
@@ -2868,6 +2900,22 @@
             "lyrics": "Aira (Dream Monster)",
             "composer": "Aira (Dream Monster)",
             "arranger": "Aira (Dream Monster)"
+        },
+        {
+            "id": "music-unit-amaohrnm-004",
+            "title": "SUGAR FLAVOR",
+            "displayTitle": "SUGAR FLAVOR",
+            "lyrics": "Kai Takahashi",
+            "composer": "Kai Takahashi",
+            "arranger": "Kai Takahashi"
+        },
+        {
+            "id": "music-unit-amaohrnm-004-inst",
+            "title": "SUGAR FLAVOR [Instrumental]",
+            "displayTitle": "SUGAR FLAVOR [Instrumental]",
+            "lyrics": "Kai Takahashi",
+            "composer": "Kai Takahashi",
+            "arranger": "Kai Takahashi"
         },
         {
             "id": "music-unit-begrazia-002",

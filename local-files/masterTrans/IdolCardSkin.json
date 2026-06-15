@@ -82,6 +82,10 @@
             "name": "'26ENDLESS DANCE"
         },
         {
+            "id": "i_card-skin-amao-3-017",
+            "name": ""
+        },
+        {
             "id": "i_card-skin-atbm-1-000",
             "name": ""
         },
@@ -262,6 +266,10 @@
             "name": ""
         },
         {
+            "id": "i_card-skin-hmsz-3-016",
+            "name": ""
+        },
+        {
             "id": "i_card-skin-hrnm-1-000",
             "name": ""
         },
@@ -340,6 +348,14 @@
         {
             "id": "i_card-skin-hrnm-3-016",
             "name": "'26ENDLESS DANCE"
+        },
+        {
+            "id": "i_card-skin-hrnm-3-017",
+            "name": ""
+        },
+        {
+            "id": "i_card-skin-hrnm-3-018",
+            "name": ""
         },
         {
             "id": "i_card-skin-hski-1-000",
@@ -746,6 +762,10 @@
             "name": ""
         },
         {
+            "id": "i_card-skin-kllj-3-018",
+            "name": ""
+        },
+        {
             "id": "i_card-skin-shro-1-000",
             "name": ""
         },
@@ -824,6 +844,10 @@
         {
             "id": "i_card-skin-shro-3-017",
             "name": "'26ENDLESS DANCE"
+        },
+        {
+            "id": "i_card-skin-shro-3-018",
+            "name": ""
         },
         {
             "id": "i_card-skin-ssmk-1-000",
@@ -984,6 +1008,10 @@
         {
             "id": "i_card-skin-ttmr-3-017",
             "name": "'26ENDLESS DANCE"
+        },
+        {
+            "id": "i_card-skin-ttmr-3-018",
+            "name": ""
         }
     ]
 }

@@ -110,6 +110,10 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_relaunch_hume_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_relaunch_jsna_01",
             "name": "친애도 부스트 캠페인"
         },
@@ -632,6 +636,26 @@
         {
             "id": "mission-group-highscorerush-event-013_5",
             "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_1",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_2",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_3",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_4",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
+        },
+        {
+            "id": "mission-group-highscorerush-event-014_5",
+            "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
         },
         {
             "id": "mission-group-main-story-event-001_1",
