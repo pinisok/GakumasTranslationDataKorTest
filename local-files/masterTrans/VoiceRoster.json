@@ -2027,6 +2027,21 @@
             "title": "친애도 TOP (친애도 Lv27) ③"
         },
         {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_dear_kcna_037-01",
+            "title": "친애도 TOP (친애도 Lv37) ①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_dear_kcna_037-02",
+            "title": "친애도 TOP (친애도 Lv37) ②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_dear_kcna_037-03",
+            "title": "친애도 TOP (친애도 Lv37) ③"
+        },
+        {
             "characterId": "kllj",
             "assetId": "sud_vo_system_dear_kllj_021-01",
             "title": "친애도 TOP (친애도 Lv21) ①"
@@ -2235,6 +2250,21 @@
             "characterId": "shro",
             "assetId": "sud_vo_system_dear_shro_027-03",
             "title": "친애도 TOP (친애도 Lv27) ③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_dear_shro_037-01",
+            "title": "친애도 TOP (친애도 Lv37) ①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_dear_shro_037-02",
+            "title": "친애도 TOP (친애도 Lv37) ②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_dear_shro_037-03",
+            "title": "친애도 TOP (친애도 Lv37) ③"
         },
         {
             "characterId": "ssmk",
@@ -5853,6 +5883,26 @@
         },
         {
             "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_final_result-01",
+            "title": "본선 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_final_result-02",
+            "title": "본선 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_final_result-03",
+            "title": "본선 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_final_result-04",
+            "title": "본선 프로듀스 결과 (불합격)"
+        },
+        {
+            "characterId": "kcna",
             "assetId": "sud_vo_system_kcna_home_birthday-01",
             "title": "홈 (2024생일)"
         },
@@ -6343,6 +6393,121 @@
         },
         {
             "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-29",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-30",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-31",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-32",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-33",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-34",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-35",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-36",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-37",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-38",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-39",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-40",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-41",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-42",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-43",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-44",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-45",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-46",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_produce_schedule-47",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_selection_result-01",
+            "title": "선발시험 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_selection_result-02",
+            "title": "선발시험 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_selection_result-03",
+            "title": "선발시험 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "kcna",
+            "assetId": "sud_vo_system_kcna_selection_result-04",
+            "title": "선발시험 프로듀스 결과 (불합격)"
+        },
+        {
+            "characterId": "kcna",
             "assetId": "sud_vo_system_kcna_work_result-01",
             "title": "업무 성공"
         },
@@ -6365,6 +6530,26 @@
             "characterId": "kllj",
             "assetId": "sud_vo_system_kllj_cmmn_clothe-01",
             "title": "의상"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_final_result-01",
+            "title": "본선 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_final_result-02",
+            "title": "본선 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_final_result-03",
+            "title": "본선 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_final_result-04",
+            "title": "본선 프로듀스 결과 (불합격)"
         },
         {
             "characterId": "kllj",
@@ -6495,6 +6680,21 @@
             "characterId": "kllj",
             "assetId": "sud_vo_system_kllj_home_cmmn-25",
             "title": "메인 로비⑯"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_home_cmmn-26",
+            "title": "친애도 TOP (친애도 Lv37) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_home_cmmn-27",
+            "title": "친애도 TOP (친애도 Lv37) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_home_cmmn-28",
+            "title": "친애도 TOP (친애도 Lv37) ③"
         },
         {
             "characterId": "kllj",
@@ -6858,6 +7058,121 @@
         },
         {
             "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-29",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-30",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-31",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-32",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-33",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-34",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-35",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-36",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-37",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-38",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-39",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-40",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-41",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-42",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-43",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-44",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-45",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-46",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_produce_schedule-47",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_selection_result-01",
+            "title": "선발시험 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_selection_result-02",
+            "title": "선발시험 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_selection_result-03",
+            "title": "선발시험 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "kllj",
+            "assetId": "sud_vo_system_kllj_selection_result-04",
+            "title": "선발시험 프로듀스 결과 (불합격)"
+        },
+        {
+            "characterId": "kllj",
             "assetId": "sud_vo_system_kllj_work_result-01",
             "title": "업무 성공"
         },
@@ -6880,6 +7195,26 @@
             "characterId": "shro",
             "assetId": "sud_vo_system_shro_cmmn_clothe-01",
             "title": "의상"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_final_result-01",
+            "title": "본선 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_final_result-02",
+            "title": "본선 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_final_result-03",
+            "title": "본선 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_final_result-04",
+            "title": "본선 프로듀스 결과 (불합격)"
         },
         {
             "characterId": "shro",
@@ -7373,6 +7708,121 @@
         },
         {
             "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-29",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-30",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-31",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-32",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-33",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-34",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-35",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-36",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-37",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-38",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-39",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-40",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-41",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-42",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-43",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-44",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-45",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-46",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_produce_schedule-47",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_selection_result-01",
+            "title": "선발시험 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_selection_result-02",
+            "title": "선발시험 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_selection_result-03",
+            "title": "선발시험 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "shro",
+            "assetId": "sud_vo_system_shro_selection_result-04",
+            "title": "선발시험 프로듀스 결과 (불합격)"
+        },
+        {
+            "characterId": "shro",
             "assetId": "sud_vo_system_shro_work_result-01",
             "title": "업무 성공"
         },
@@ -7395,6 +7845,26 @@
             "characterId": "ssmk",
             "assetId": "sud_vo_system_ssmk_cmmn_clothe-01",
             "title": "의상"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_final_result-01",
+            "title": "본선 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_final_result-02",
+            "title": "본선 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_final_result-03",
+            "title": "본선 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_final_result-04",
+            "title": "본선 프로듀스 결과 (불합격)"
         },
         {
             "characterId": "ssmk",
@@ -7525,6 +7995,21 @@
             "characterId": "ssmk",
             "assetId": "sud_vo_system_ssmk_home_cmmn-25",
             "title": "메인 로비⑯"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_home_cmmn-26",
+            "title": "친애도 TOP (친애도 Lv37) ①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_home_cmmn-27",
+            "title": "친애도 TOP (친애도 Lv37) ②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_home_cmmn-28",
+            "title": "친애도 TOP (친애도 Lv37) ③"
         },
         {
             "characterId": "ssmk",
@@ -7885,6 +8370,121 @@
             "characterId": "ssmk",
             "assetId": "sud_vo_system_ssmk_produce_schedule-28",
             "title": "옥상③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-29",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-30",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-31",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-32",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-33",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-34",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-35",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-36",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-37",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-38",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-39",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-40",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-41",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-42",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-43",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-44",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-45",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-46",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_produce_schedule-47",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_selection_result-01",
+            "title": "선발시험 프로듀스 결과 (True End) ①"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_selection_result-02",
+            "title": "선발시험 프로듀스 결과 (True End) ②"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_selection_result-03",
+            "title": "선발시험 프로듀스 결과 (True End) ③"
+        },
+        {
+            "characterId": "ssmk",
+            "assetId": "sud_vo_system_ssmk_selection_result-04",
+            "title": "선발시험 프로듀스 결과 (불합격)"
         },
         {
             "characterId": "ssmk",

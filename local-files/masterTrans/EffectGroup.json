@@ -186,6 +186,10 @@
             "name": "지침 해제"
         },
         {
+            "id": "effect_group-visible-exam_status_enchant_encore-000",
+            "name": "재연"
+        },
+        {
             "id": "effect_group-visible-exam_status_enchant-000",
             "name": "지속 효과"
         },
