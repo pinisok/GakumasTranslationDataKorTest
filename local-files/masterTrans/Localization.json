@@ -15,7 +15,7 @@
         },
         {
             "id": "card.detail.enhance.invalid.point.exp.short",
-            "description": "トレーニングPtが足りません。"
+            "description": "트레이닝 Pt가 부족합니다."
         },
         {
             "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
@@ -55,11 +55,11 @@
         },
         {
             "id": "home.gasha.continuous_share.share_text",
-            "description": "＼ H.I.F開幕記念引き放題ガシャ開催中 ／\n\n「継続」が続く限り、無料でガシャ引き放題!\nガシャはSSR1枚以上確定!\n\n#学マス引き放題ガシャ #祝学マス2周年"
+            "description": "＼ H.I.F 개막 기념 무제한 가챠 개최 중 ／\n\n「계속」이 계속되는 한, 무료로 가챠 무제한!\n가챠는 SSR 1장 이상 확정!\n\n#学マス引き放題ガシャ #祝学マス2周年"
         },
         {
             "id": "home.gasha.continuous_share.title",
-            "description": "H.I.F開幕記念引き放題ガシャ結果"
+            "description": "H.I.F 개막 기념 무제한 가챠 결과"
         },
         {
             "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
