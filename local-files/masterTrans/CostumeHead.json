@@ -123,7 +123,7 @@
         {
             "id": "costume_head_amao-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
+            "description": "プレミアムミッションパス 2025年7月で獲得など"
         },
         {
             "id": "costume_head_amao-hair-0008",
@@ -346,6 +346,16 @@
             "description": "【전력을 다해 가자!】후지타 코토네의 재능 개화 4단계 달성"
         },
         {
+            "id": "costume_head_fktn-cstm-0138",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0139",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_fktn-hair-0001",
             "name": "수국 머리 장식",
             "description": "프리미엄 미션 패스 2024년 5월에서 획득 가능"
@@ -399,6 +409,11 @@
             "id": "costume_head_fktn-hair-0032",
             "name": "자기 긍정감 폭발 ↑↑ 슈키슈키 송 (포인트 컬러 어레인지)",
             "description": "【자기 긍정감 폭발 ↑↑ 슈키슈키 송】후지타 코토네 입수"
+        },
+        {
+            "id": "costume_head_fktn-hair-0038",
+            "name": "おしのび用メガネ",
+            "description": "プレミアムミッションパス 2026年7月で獲得"
         },
         {
             "id": "costume_head_hmsz-cstm-0011",
@@ -648,7 +663,7 @@
         {
             "id": "costume_head_hrnm-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
+            "description": "プレミアムミッションパス 2025年7月で獲得など"
         },
         {
             "id": "costume_head_hrnm-hair-0008",
@@ -814,6 +829,11 @@
             "id": "costume_head_hski-hair-0027",
             "name": "Wildest Flower (포인트 컬러 어레인지)",
             "description": "【Wildest Flower】하나미 사키의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "costume_head_hski-hair-0038",
+            "name": "おしのび用メガネ",
+            "description": "プレミアムミッションパス 2026年7月で獲得"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -1378,7 +1398,7 @@
         {
             "id": "costume_head_kllj-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
+            "description": "プレミアムミッションパス 2025年7月で獲得など"
         },
         {
             "id": "costume_head_kllj-hair-0008",
@@ -1668,7 +1688,7 @@
         {
             "id": "costume_head_ssmk-hair-0007",
             "name": "티어드롭 글래스",
-            "description": "프리미엄 미션 패스 2025년 7월 에서 획득"
+            "description": "プレミアムミッションパス 2025年7月で獲得など"
         },
         {
             "id": "costume_head_ssmk-hair-0008",
@@ -1844,6 +1864,11 @@
             "id": "costume_head_ttmr-hair-0025",
             "name": "대체 언제부터 (포인트 컬러 어레인지)",
             "description": "【대체 언제부터】츠키무라 테마리 입수"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0038",
+            "name": "おしのび用メガネ",
+            "description": "プレミアムミッションパス 2026年7月で獲得"
         }
     ]
 }

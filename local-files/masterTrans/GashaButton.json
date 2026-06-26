@@ -43,6 +43,12 @@
             "description": "유료 10회 가챠"
         },
         {
+            "id": "gasha_button_merge-ssr-00930",
+            "order": 1,
+            "name": "유료 10회 가챠",
+            "description": "유료 10회 가챠"
+        },
+        {
             "id": "gasha_button-001-01",
             "order": 2,
             "name": "1회 가챠",
@@ -212,6 +218,12 @@
         },
         {
             "id": "gasha_button-00920-wednesday-001",
+            "order": 1,
+            "name": "학원마스 수요일 가챠 티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-00930-wednesday-001",
             "order": 1,
             "name": "학원마스 수요일 가챠 티켓으로 뽑기",
             "description": "티켓으로 뽑기"

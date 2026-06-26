@@ -78,6 +78,10 @@
             "description": "交換Pt期限：{0}まで"
         },
         {
+            "id": "home.gasha.point_detail_overlay.resource_type_group_limit_time",
+            "description": "ラインナップ更新：{0}"
+        },
+        {
             "id": "home.produce.tutorial_reward",
             "description": "SSR 프로듀스 아이돌\n받을 수 있어!"
         },
@@ -183,7 +187,7 @@
         },
         {
             "id": "produce.hif.audition.qualify.title",
-            "description": "H.I.F選抜試験"
+            "description": "H.I.F 선발시험"
         },
         {
             "id": "produce.hif.result.qualify.title",
@@ -308,6 +312,10 @@
         {
             "id": "shop.web_store.confirm.description",
             "description": "웹 브라우저를 여시겠습니까?\\n생년월일은 【메뉴 > 기타 > 생년월일 입력】에서 설정할 수 있습니다."
+        },
+        {
+            "id": "startup.gasha_point_expire_sheet.bottom_message",
+            "description": "この交換Ptが獲得可能なガシャ"
         },
         {
             "id": "story.story_event.section.normal_condition_lock_text",

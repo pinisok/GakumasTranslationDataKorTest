@@ -62,6 +62,10 @@
             "name": "하츠미☆악세서리(아리무라 마오)"
         },
         {
+            "id": "shop_costume_costume_head_amao-hair-0007",
+            "name": "ティアドロップグラス（有村麻央）"
+        },
+        {
             "id": "shop_costume_costume_head_atbm-hair-0001",
             "name": "수국 머리 꽃 장식(아마야 츠바메)"
         },
@@ -140,6 +144,10 @@
         {
             "id": "shop_costume_costume_head_hrnm-hair-0006",
             "name": "하츠미☆악세서리(히메사키 리나미)"
+        },
+        {
+            "id": "shop_costume_costume_head_hrnm-hair-0007",
+            "name": "ティアドロップグラス（姫崎莉波）"
         },
         {
             "id": "shop_costume_costume_head_hski-hair-0001",
@@ -238,6 +246,10 @@
             "name": "하츠미☆악세서리(카츠라기 릴리야)"
         },
         {
+            "id": "shop_costume_costume_head_kllj-hair-0007",
+            "name": "ティアドロップグラス（葛城リーリヤ）"
+        },
+        {
             "id": "shop_costume_costume_head_nasr-hair-0004",
             "name": "고양이귀(네오 아사리)"
         },
@@ -284,6 +296,10 @@
         {
             "id": "shop_costume_costume_head_ssmk-hair-0006",
             "name": "하츠미☆악세서리(시운 스미카)"
+        },
+        {
+            "id": "shop_costume_costume_head_ssmk-hair-0007",
+            "name": "ティアドロップグラス（紫雲清夏）"
         },
         {
             "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -1048,6 +1064,10 @@
         {
             "id": "shop_pass_item-0026",
             "name": "프리미엄 미션 패스 2026년 6월"
+        },
+        {
+            "id": "shop_pass_item-0027",
+            "name": "プレミアムミッションパス 2026年7月"
         }
     ]
 }
