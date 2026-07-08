@@ -29,7 +29,7 @@
         {
             "id": "s_card_p_skill_filter-shopproducedrinkpricediscountmultiple-p_trigger-start_shop-no_description",
             "order": 37,
-            "title": "상담에서 P음료 할인"
+            "title": "상담에서 P드링크 할인"
         },
         {
             "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
@@ -49,7 +49,7 @@
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
             "order": 29,
-            "title": "상담으로 P음료 교환 시 파라미터 상승"
+            "title": "상담으로 P드링크 교환 시 파라미터 상승"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card",

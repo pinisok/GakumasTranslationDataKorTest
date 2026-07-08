@@ -1663,7 +1663,7 @@
         {
             "id": "achieve-i_card-hume-3-018-02",
             "name": "GO MY WAY!!",
-            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-3-018-03",
@@ -1673,17 +1673,17 @@
         {
             "id": "achieve-i_card-hume-3-018-04",
             "name": "GO MY WAY!! +",
-            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-3-018-05",
             "name": "GO MY WAY!! ++",
-            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-3-018-06",
             "name": "GO MY WAY!! +++",
-            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",

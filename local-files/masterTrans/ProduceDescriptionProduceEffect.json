@@ -171,7 +171,7 @@
         },
         {
             "type": "ProduceEffectType_ProduceDrinkGetDisable",
-            "name": "P음료 획득 불가"
+            "name": "P드링크 획득 불가"
         },
         {
             "type": "ProduceEffectType_ProduceReward",
@@ -227,7 +227,7 @@
         },
         {
             "type": "ProduceEffectType_ShopProduceDrinkPriceDiscountMultiple",
-            "name": "상담에서 P음료 할인"
+            "name": "상담에서 P드링크 할인"
         },
         {
             "type": "ProduceEffectType_ShopProduceCardUpgradePriceDiscountMultiple",
@@ -311,7 +311,7 @@
         },
         {
             "type": "ProduceEffectType_ShopProduceDrinkPriceUpMultiple",
-            "name": "상담의 P음료를 할증"
+            "name": "상담의 P드링크를 할증"
         },
         {
             "type": "ProduceEffectType_ShopProduceCardUpgradePriceUpMultiple",
