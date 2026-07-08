@@ -44,7 +44,7 @@
         {
             "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
             "order": 34,
-            "title": "활동 지급·선물 선택시 체력 회복"
+            "title": "활동 지급·응원 선물 선택시 체력 회복"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",
@@ -194,7 +194,7 @@
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",
             "order": 26,
-            "title": "활동 지급·선물 선택시 파라미터 상승"
+            "title": "활동 지급·응원 선물 선택시 파라미터 상승"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_refresh",

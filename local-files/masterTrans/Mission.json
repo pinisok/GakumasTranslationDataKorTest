@@ -23,7 +23,7 @@
         },
         {
             "id": "dearness_event_amao-005",
-            "name": "아리무라 마오의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "아리무라 마오의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_amao-006",
@@ -55,7 +55,7 @@
         },
         {
             "id": "dearness_event_fktn-005",
-            "name": "후지타 코토네의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "후지타 코토네의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_fktn-006",
@@ -87,7 +87,7 @@
         },
         {
             "id": "dearness_event_hmsz-005",
-            "name": "하타야 미스즈의 프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "하타야 미스즈의 프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_hmsz-006",
@@ -119,7 +119,7 @@
         },
         {
             "id": "dearness_event_hrnm-005",
-            "name": "히메사키 리나미의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "히메사키 리나미의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_hrnm-006",
@@ -151,7 +151,7 @@
         },
         {
             "id": "dearness_event_hski-005",
-            "name": "하나미 사키의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "하나미 사키의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_hski-006",
@@ -183,7 +183,7 @@
         },
         {
             "id": "dearness_event_hume-005",
-            "name": "하나미 우메의 프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "하나미 우메의 프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_hume-006",
@@ -215,7 +215,7 @@
         },
         {
             "id": "dearness_event_jsna-005",
-            "name": "주오 세나의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "주오 세나의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_jsna-006",
@@ -247,7 +247,7 @@
         },
         {
             "id": "dearness_event_kcna-005",
-            "name": "쿠라모토 치나의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "쿠라모토 치나의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_kcna-006",
@@ -279,7 +279,7 @@
         },
         {
             "id": "dearness_event_kllj-005",
-            "name": "카츠라기 릴리야의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "카츠라기 릴리야의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_kllj-006",
@@ -503,7 +503,7 @@
         },
         {
             "id": "dearness_event_shro-005",
-            "name": "시노사와 히로의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "시노사와 히로의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_shro-006",
@@ -535,7 +535,7 @@
         },
         {
             "id": "dearness_event_ssmk-005",
-            "name": "시운 스미카의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "시운 스미카의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_ssmk-006",
@@ -567,7 +567,7 @@
         },
         {
             "id": "dearness_event_ttmr-005",
-            "name": "츠키무라 테마리의 프로듀스에서 선물을 {threshold}회 선택하자"
+            "name": "츠키무라 테마리의 프로듀스에서 응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "dearness_event_ttmr-006",
@@ -5679,7 +5679,7 @@
         },
         {
             "id": "mission-panel-mission-1-8",
-            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "mission-panel-mission-1-9",
@@ -6555,7 +6555,7 @@
         },
         {
             "id": "panel_mission-event-002-mission_8",
-            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-002-mission_9",
@@ -6663,7 +6663,7 @@
         },
         {
             "id": "panel_mission-event-004-mission_8",
-            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-004-mission_9",
@@ -6735,7 +6735,7 @@
         },
         {
             "id": "panel_mission-event-006-mission_8",
-            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-006-mission_9",
@@ -6831,7 +6831,7 @@
         },
         {
             "id": "panel_mission-event-008-mission_14",
-            "name": "N.I.A에서 선물을 {threshold}번 선택하자"
+            "name": "N.I.A에서 응원 선물을 {threshold}번 선택하자"
         },
         {
             "id": "panel_mission-event-008-mission_15",
@@ -7015,7 +7015,7 @@
         },
         {
             "id": "panel_mission-event-010-mission_6",
-            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-010-mission_7",
@@ -9883,7 +9883,7 @@
         },
         {
             "id": "achieve-p_common-012",
-            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택"
+            "name": "프로듀스에서 활동 지급·응원 선물을 {threshold}회 선택"
         },
         {
             "id": "achieve-p_common-013",

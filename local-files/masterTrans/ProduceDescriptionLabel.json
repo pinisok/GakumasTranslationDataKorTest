@@ -8104,10 +8104,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "선물은, 다음 일정을 포함\n활동 지급·선물"
+                    "text": "응원 선물은, 다음 일정을 포함\n활동 지급·응원 선물"
                 }
             ],
-            "name": "선물"
+            "name": "응원 선물"
         },
         {
             "id": "Label_ProduceType_FirstStar",
