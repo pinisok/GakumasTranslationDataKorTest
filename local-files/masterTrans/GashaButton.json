@@ -229,6 +229,12 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00940-wednesday-001-ticket-01",
+            "order": 1,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-010-item_01",
             "order": 3,
             "name": "10회 아이템 가챠",

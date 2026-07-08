@@ -54,7 +54,7 @@
         {
             "characterId": "amao",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "amao",
@@ -239,7 +239,7 @@
         {
             "characterId": "atbm",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "atbm",
@@ -339,7 +339,7 @@
         {
             "characterId": "fktn",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "fktn",
@@ -474,7 +474,7 @@
         {
             "characterId": "hmsz",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "hmsz",
@@ -659,7 +659,7 @@
         {
             "characterId": "hrnm",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "hrnm",
@@ -844,7 +844,7 @@
         {
             "characterId": "hski",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "hski",
@@ -979,7 +979,7 @@
         {
             "characterId": "hume",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "hume",
@@ -1114,7 +1114,7 @@
         {
             "characterId": "jsna",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "jsna",
@@ -1249,7 +1249,7 @@
         {
             "characterId": "kcna",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "kcna",
@@ -1434,7 +1434,7 @@
         {
             "characterId": "kllj",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "kllj",
@@ -1619,7 +1619,7 @@
         {
             "characterId": "shro",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "shro",
@@ -1804,7 +1804,7 @@
         {
             "characterId": "ssmk",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "ssmk",
@@ -1989,7 +1989,7 @@
         {
             "characterId": "ttmr",
             "dearnessLevel": 10,
-            "produceConditionDescription": "프로듀스를 A+평가로 완료한다"
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
         },
         {
             "characterId": "ttmr",

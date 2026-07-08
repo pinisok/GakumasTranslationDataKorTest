@@ -1656,6 +1656,36 @@
             "description": "【새하얀 페이지와 수채화 주인공】하나미 우메의 특훈 단계를 {threshold}(으)로 만들기"
         },
         {
+            "id": "achieve-i_card-hume-3-018-01",
+            "name": "이것이야말로 아이돌!",
+            "description": "【GO MY WAY!!】하나미 우메의 프로듀스에서 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-02",
+            "name": "GO MY WAY!!",
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-03",
+            "name": "원조에게 보여드리겠습니다",
+            "description": "【GO MY WAY!!】하나미 우메의 프로듀스에서 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-04",
+            "name": "GO MY WAY!! +",
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-05",
+            "name": "GO MY WAY!! ++",
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-06",
+            "name": "GO MY WAY!! +++",
+            "description": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
             "id": "achieve-i_card-jsna-2-000-01",
             "name": "왕자의 행차",
             "description": "【샛별】주오 세나의 프로듀스로 최종 시험 합격"
@@ -3498,7 +3528,7 @@
         {
             "id": "achieve-p_common-012",
             "name": "유비무환",
-            "description": "프로듀스에서 활동 지급을 {threshold}회 선택"
+            "description": "프로듀스에서 활동 지급·선물을 {threshold}회 선택"
         },
         {
             "id": "achieve-p_common-013",
@@ -3818,12 +3848,12 @@
         {
             "id": "achieve-p_idol-atbm-012",
             "name": "자양강장",
-            "description": "아마야 츠바메의 프로듀스로 스킬 카드 {threshold}회 강화"
+            "description": "아마야 츠바메로 P드링크를 {threshold}회 사용"
         },
         {
             "id": "achieve-p_idol-atbm-013",
             "name": "쳐부수기 위하여",
-            "description": "아마야 츠바메의 프로듀싱 상담으로 {threshold}회 교환"
+            "description": "아마야 츠바메로 원기를 {threshold} 획득"
         },
         {
             "id": "achieve-p_idol-atbm-014",

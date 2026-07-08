@@ -5679,7 +5679,7 @@
         },
         {
             "id": "mission-panel-mission-1-8",
-            "name": "프로듀스에서 활동 지급을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
         },
         {
             "id": "mission-panel-mission-1-9",
@@ -6555,7 +6555,7 @@
         },
         {
             "id": "panel_mission-event-002-mission_8",
-            "name": "프로듀스에서 활동 지급을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-002-mission_9",
@@ -6663,7 +6663,7 @@
         },
         {
             "id": "panel_mission-event-004-mission_8",
-            "name": "프로듀스에서 활동 지급을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-004-mission_9",
@@ -6735,7 +6735,7 @@
         },
         {
             "id": "panel_mission-event-006-mission_8",
-            "name": "프로듀스에서 활동 지급을 {threshold}회 선택하자"
+            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
         },
         {
             "id": "panel_mission-event-006-mission_9",
@@ -6956,6 +6956,78 @@
         {
             "id": "panel_mission-event-009-mission_9",
             "name": "시노사와 히로의 친애도 Lv를 {threshold} 달성하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_1",
+            "name": "보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_11",
+            "name": "플랜: 센스 프로듀스 아이돌의 프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_12",
+            "name": "플랜: 로직 프로듀스 아이돌의 프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_13",
+            "name": "플랜: 어노말리 프로듀스 아이돌의 프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_14",
+            "name": "프로듀스를 {threshold}회 완료하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_15",
+            "name": "프로듀스에서 스킬 카드를 {threshold}번 강화하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_16",
+            "name": "P드링크를 총 {threshold}개를 획득하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_17",
+            "name": "스킬 카드를 총 {threshold}개 획득하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_18",
+            "name": "프로듀스에서 체력을 총 {threshold} 소모하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_19",
+            "name": "총 {threshold} P포인트 획득하기"
+        },
+        {
+            "id": "panel_mission-event-010-mission_2",
+            "name": "댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_3",
+            "name": "비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_4",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_5",
+            "name": "프로듀스에서 외출을 {threshold}회 선택하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_6",
+            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_7",
+            "name": "프로듀스에서 상담을 {threshold}번 선택하자"
+        },
+        {
+            "id": "panel_mission-event-010-mission_8",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+        },
+        {
+            "id": "panel_mission-event-010-mission_9",
+            "name": "P드링크를 {threshold}번 사용하자"
         },
         {
             "id": "panel_mission-event-niv-mission_1",
@@ -8312,6 +8384,30 @@
         {
             "id": "achieve-i_card-hume-3-017-06",
             "name": "【새하얀 페이지와 수채화 주인공】하나미 우메의 특훈 단계를 {threshold}(으)로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-01",
+            "name": "【GO MY WAY!!】하나미 우메의 프로듀스에서 최종시험에 합격"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-02",
+            "name": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-03",
+            "name": "【GO MY WAY!!】하나미 우메의 프로듀스에서 평가 A+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-04",
+            "name": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-05",
+            "name": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-06",
+            "name": "【GO MY WAY!!】하나미 우메의 특훈 단계를 {threshold}로 만들기"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",
@@ -9787,7 +9883,7 @@
         },
         {
             "id": "achieve-p_common-012",
-            "name": "프로듀스에서 활동 지급을 {threshold}회 선택"
+            "name": "프로듀스에서 활동 지급·선물을 {threshold}회 선택"
         },
         {
             "id": "achieve-p_common-013",
