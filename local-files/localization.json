@@ -6067,7 +6067,7 @@
     "pvp.rate.unit_template.button.edit": "편집",
     "produce.common.no_upgradable_card": "강화 가능한 스킬 카드가 없습니다",
     "produce.common.stamina_max": "체력이 최대입니다",
-    "produce.common.steps_label": "{0}번째",
+    "produce.common.steps_label": "{0}째",
     "produce.schedule.step_exam_vo_open_description": "체력을 소비하여\n주로 보컬과 스타성이 상승합니다.",
     "produce.selection_memory_limit.title": "선발시험 메모리 소지 상한",
     "produce.selection_memory_limit.description": "메모리 변환으로 소지 선발시험 메모리를 정리할 수 있습니다",
