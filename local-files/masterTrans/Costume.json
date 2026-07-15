@@ -266,6 +266,11 @@
             "description": "세일러 수영복(아마야 츠바메)를 구입"
         },
         {
+            "id": "atbm-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【理論武装して】'26Howling over the World 雨夜 燕を入手"
+        },
+        {
             "id": "atbm-cstm-0128",
             "name": "ENDLESS DANCE",
             "description": "【이론무장하고】'26ENDLESS DANCE 아마야 츠바메 입수"
@@ -614,6 +619,11 @@
             "id": "hmsz-cstm-0115",
             "name": "Star-mine",
             "description": "【Star-mine】하타야 미스즈의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "hmsz-cstm-0118",
+            "name": "Howling over the World",
+            "description": "【ツキノカメ】'26Howling over the World 秦谷 美鈴を入手"
         },
         {
             "id": "hmsz-cstm-0119",
@@ -1596,6 +1606,11 @@
             "description": "【Howling over the World】쿠라모토 치나의 재능 개화 4단계 달성"
         },
         {
+            "id": "kcna-cstm-0118",
+            "name": "叫びを届けるスーツ",
+            "description": "叫びを届けるスーツ（倉本千奈）を購入"
+        },
+        {
             "id": "kcna-cstm-0119",
             "name": "고금동서 식은 죽 먹기",
             "description": "【Wonder Scale】'25 애니메이트 쿠라모토 치나 입수"
@@ -1794,6 +1809,11 @@
             "id": "kllj-cstm-0117",
             "name": "Howling over the World",
             "description": "【Howling over the World】카츠라기 릴리야의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "kllj-cstm-0118",
+            "name": "叫びを届けるスーツ",
+            "description": "叫びを届けるスーツ（葛城リーリヤ）を購入"
         },
         {
             "id": "kllj-cstm-0119",
