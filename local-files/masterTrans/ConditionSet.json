@@ -5398,6 +5398,10 @@
             "description": ""
         },
         {
+            "id": "cd_time_26_0716-1600",
+            "description": ""
+        },
+        {
             "id": "cd_time_26_0801_27_0201",
             "description": ""
         },
@@ -12391,6 +12395,14 @@
         },
         {
             "id": "cd-open-gasha-00490-pickup-001",
+            "description": ""
+        },
+        {
+            "id": "cd-open-grade_mission",
+            "description": "준비 중입니다"
+        },
+        {
+            "id": "cd-open-grade_mission",
             "description": ""
         },
         {
