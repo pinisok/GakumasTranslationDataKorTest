@@ -67,9 +67,9 @@
         },
         {
             "tutorialType": 32,
-            "name": "P評価ランク実績",
-            "description": "「P評価ランク実績」機能解放",
-            "routeDescription": "ミッションのノーマルミッションから確認できます"
+            "name": "P 평가 랭크 업적",
+            "description": "「P 평가 랭크 업적」 기능 개방",
+            "routeDescription": "미션의 노멀 미션에서 확인할 수 있습니다"
         },
         {
             "tutorialType": "TutorialType_ProducerRanking",
