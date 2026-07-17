@@ -1,5 +1,60 @@
 # Localization Release Notes
 
+## 3.2.0 (2026-07-17)
+- Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.2.0
+- Published: 2026-07-16T19:03:43Z
+- Changes: +76 added / ~2 jp-changed / -80 removed
+
+### Added keys
+- `octo_file_download_confirm_sheet.option.include_movie`
+- `octo_file_download_confirm_sheet.option.exclude_movie`
+- `title.gpgs.link.title`
+- `title.gpgs.link.confirm.description`
+- `title.gpgs.link.button.not_link`
+- `title.gpgs.link.button.link`
+- `title.gpgs.link.already_linked.title`
+- `title.gpgs.link.already_linked.confirm.description`
+- `title.gpgs.link.error.description`
+- `title.gpgs.link.success.description`
+- `title.gpgs.migration.title`
+- `title.gpgs.migration.start.description`
+- `title.gpgs.migration.confirm.title`
+- `title.gpgs.migration.confirm.description`
+- `title.gpgs.migration.complete.title`
+- `title.gpgs.migration.complete.button`
+- `title.gpgs.migration.success.description`
+- `home.gasha.detail.idol.live_panorama.help`
+- `home.gasha.draw_limit_reached.label`
+- `produce_prepare.top.button.grade_mission`
+- … +56 more
+
+### JP changed
+- `octo_file_download_confirm_sheet.description.all`
+- `home.gasha.point_detail_overlay.resource_type_group_limit_time`
+
+### Removed keys
+- `card.idol_card.list.max`
+- `card.idol_card.release.confirm.sheet.message`
+- `card.upgrade_status_list.tab_button.item_upgrade_after`
+- `card.upgrade_status_list.tab_button.item_upgrade_before`
+- `common.step_count`
+- `costume.produce_setting_sheet.description`
+- `costume.produce_setting_sheet.subtitle.live`
+- `costume.produce_setting_sheet.subtitle.produce`
+- `costume.produce_setting_sheet.subtitle.training`
+- `home.footer.button_type.Story.dearness_story_campaign.label`
+- `home.gasha.free_noti.label`
+- `home.idol.produce.label`
+- `home.nia_master_ranking.reward_overlay.description`
+- `home.nia_master_ranking.reward_overlay.text`
+- `home.produce.week`
+- `home.produce_progress_sheet.progress.remaining_week_label`
+- `home.produce_progress_sheet.progress.weeks_label`
+- `memory.detail.produce_review.disabled.not_cleared_true_end`
+- `mission.mission_list.max_point_text.event`
+- `produce.card.move_position.deckall`
+- … +60 more
+
 ## 3.1.2 (2026-06-25)
 - Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.1.2
 - Published: 2026-06-24T19:31:06Z
