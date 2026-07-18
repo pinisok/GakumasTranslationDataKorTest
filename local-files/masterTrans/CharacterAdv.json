@@ -73,7 +73,7 @@
         {
             "characterId": "krnh",
             "name": "카야 린하",
-            "regexp": "린바$"
+            "regexp": "린하$"
         },
         {
             "characterId": "ktko",
@@ -103,7 +103,7 @@
         {
             "characterId": "ssmk",
             "name": "시운 스미카",
-            "regexp": "스미카$ "
+            "regexp": "스미카$"
         },
         {
             "characterId": "sson",

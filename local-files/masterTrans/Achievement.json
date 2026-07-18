@@ -3628,7 +3628,7 @@
         {
             "id": "achieve-p_common-032",
             "name": "P학과 수석",
-            "description": "『샛별』 해방을 {threshold}명 달성"
+            "description": "『샛별』 해금을 {threshold}명 달성"
         },
         {
             "id": "achieve-p_idol-amao-000",
@@ -5167,7 +5167,7 @@
         },
         {
             "id": "achieve-p_idol-kllj-000-2",
-            "name": "계속 함께 있어 줄래?",
+            "name": "계속 함께 있어 주시겠어요?",
             "description": "카츠라기 릴리야로 True End: H.I.F 보기"
         },
         {
