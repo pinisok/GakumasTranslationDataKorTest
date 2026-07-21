@@ -50,6 +50,14 @@
             "description": "교환했습니다"
         },
         {
+            "id": "grade_mission.top.button.idol.disabled",
+            "description": "プロデュース結果がありません"
+        },
+        {
+            "id": "grade_mission.top.next_mission.description",
+            "description": "アイドル{1}人で評価{0}以上を獲得"
+        },
+        {
             "id": "high_score_event.top.adv.title_label",
             "description": "아이돌 강화의 달\\n~별들의 반짝임~"
         },

@@ -1386,6 +1386,36 @@
             "description": "【Wildest Flower】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-hski-3-018-01",
+            "name": "手を伸ばした先に",
+            "description": "【ガラクタロード】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-018-02",
+            "name": "가라쿠타로드",
+            "description": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-018-03",
+            "name": "強力な山札を作りましょう！",
+            "description": "【ガラクタロード】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-018-04",
+            "name": "가라쿠타로드 +",
+            "description": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-018-05",
+            "name": "가라쿠타로드 ++",
+            "description": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-018-06",
+            "name": "가라쿠타로드 +++",
+            "description": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hski-3-019-01",
             "name": "전설을 향한 도전",
             "description": "【GO MY WAY!!】하나미 사키의 프로듀스로 최종 시험에 합격"
@@ -4621,6 +4651,11 @@
             "description": "하나미 사키로 True End: N.I.A 보기"
         },
         {
+            "id": "achieve-p_idol-hski-000-2",
+            "name": "わたしは不屈のトップアイドル",
+            "description": "花海 咲季でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-hski-001",
             "name": "이제 도망가지 않아",
             "description": "하나미 사키의 프로듀스에서 스킬 카드를 {threshold}회 사용함."
@@ -4741,6 +4776,16 @@
             "description": "하나미 사키로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
         },
         {
+            "id": "achieve-p_idol-hski-025",
+            "name": "最強の証明",
+            "description": "花海 咲季でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-026",
+            "name": "ベストを尽くした日々",
+            "description": "花海 咲季でH.I.Fの最終試験に{threshold}回合格"
+        },
+        {
             "id": "achieve-p_idol-hski-027",
             "name": "새로운 하나미 사키",
             "description": "하나미 사키로 최종 시험에 합격하여 평가 S4 이상을 {threshold}회 획득"
@@ -4754,6 +4799,11 @@
             "id": "achieve-p_idol-hume-000-1",
             "name": "아이돌을 정말 좋아해요!",
             "description": "하나미 우메로 True End: N.I.A 보기"
+        },
+        {
+            "id": "achieve-p_idol-hume-000-2",
+            "name": "あたしこそは世界最強のアイドル",
+            "description": "花海 佑芽でTrue End : H.I.Fをみる"
         },
         {
             "id": "achieve-p_idol-hume-001",
@@ -4869,6 +4919,16 @@
             "id": "achieve-p_idol-hume-024",
             "name": "언니의 목표로",
             "description": "하나미 우메로 최종 시험에 합격하여 평가 SSS+ 이상을 {threshold}회 획득"
+        },
+        {
+            "id": "achieve-p_idol-hume-025",
+            "name": "物語の始まり",
+            "description": "花海 佑芽でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-026",
+            "name": "信じて突き進んだ道",
+            "description": "花海 佑芽でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-hume-027",

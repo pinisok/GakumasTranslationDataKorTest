@@ -932,6 +932,56 @@
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
         },
         {
+            "characterId": "hski",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hski",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
+        },
+        {
             "characterId": "hume",
             "dearnessLevel": 1,
             "produceConditionDescription": ""
@@ -1065,6 +1115,56 @@
             "characterId": "hume",
             "dearnessLevel": 27,
             "produceConditionDescription": "친애도 Pt를 누적 600 획득하여 최종 시험/최종 오디션 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 28,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 시작"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 29,
+            "produceConditionDescription": "H.I.F 선발시험에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 30,
+            "produceConditionDescription": "H.I.F 선발시험 1회 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 31,
+            "produceConditionDescription": "H.I.F 선발시험 2회 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 32,
+            "produceConditionDescription": "H.I.F 선발시험 3회 돌파"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 33,
+            "produceConditionDescription": "H.I.F 선발시험 클리어"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 34,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 35,
+            "produceConditionDescription": "H.I.F 본선에서 프로듀스를 진행"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 36,
+            "produceConditionDescription": "H.I.F 본선에서 우승"
+        },
+        {
+            "characterId": "hume",
+            "dearnessLevel": 37,
+            "produceConditionDescription": "샛별이 되다"
         },
         {
             "characterId": "jsna",

@@ -235,6 +235,18 @@
             "description": "티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00950-free-10-08",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-00950-wednesday-001",
+            "order": 1,
+            "name": "학원마스 수요일 가챠 티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-010-item_01",
             "order": 3,
             "name": "10회 아이템 가챠",
@@ -314,6 +326,12 @@
         },
         {
             "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
+            "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-001-10-iwsf2026",
             "order": 1,
             "name": "10회 가챠",
             "description": "10회 가챠"

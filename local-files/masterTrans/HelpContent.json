@@ -293,7 +293,7 @@
             "helpCategoryId": "help-event-mission",
             "id": "event-mission-rookie",
             "order": 1,
-            "name": "데일리 해방 미션"
+            "name": "데일리 해금 미션"
         },
         {
             "helpCategoryId": "help-gasha",
@@ -306,6 +306,12 @@
             "id": "gasha-gasha-pt",
             "order": 2,
             "name": "교환 Pt와 플라워"
+        },
+        {
+            "helpCategoryId": "help-grade-mission",
+            "id": "grade-mission",
+            "order": 65,
+            "name": "P 평가 랭크 업적"
         },
         {
             "helpCategoryId": "help-guild",
@@ -503,7 +509,7 @@
             "helpCategoryId": "help-idol",
             "id": "idol-idol-card-release",
             "order": 52,
-            "name": "프로듀스 아이돌의 해방"
+            "name": "프로듀스 아이돌의 해금"
         },
         {
             "helpCategoryId": "help-idol",
@@ -737,7 +743,7 @@
             "helpCategoryId": "help-main-story-event",
             "id": "help-main-story-event-main-story",
             "order": 3,
-            "name": "하츠보시 커뮤니티 해방"
+            "name": "하츠보시 커뮤 해금"
         },
         {
             "helpCategoryId": "help-main-story-event",

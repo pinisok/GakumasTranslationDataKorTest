@@ -82,6 +82,12 @@
             "texts": []
         },
         {
+            "id": "help-grade-mission",
+            "order": 29,
+            "name": "P 평가 랭크 업적",
+            "texts": []
+        },
+        {
             "id": "help-guild",
             "order": 16,
             "name": "서클",
