@@ -823,51 +823,51 @@
         },
         {
             "id": "grade_mission-001-mission_1",
-            "name": "アイドル{threshold}人で評価A+以上を獲得しよう"
+            "name": "아이돌 {threshold}명으로 평가 A+ 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_10",
-            "name": "アイドル1人で評価S4+以上を獲得しよう"
+            "name": "아이돌 1명으로 평가 S4+ 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_11",
-            "name": "アイドル6人で評価S4+以上を獲得しよう"
+            "name": "아이돌 6명으로 평가 S4+ 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_12",
-            "name": "アイドル13人で評価S4+以上を獲得しよう"
+            "name": "아이돌 13명으로 평가 S4+ 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_2",
-            "name": "アイドル{threshold}人で評価A+以上を獲得しよう"
+            "name": "아이돌 {threshold}명으로 평가 A+ 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_3",
-            "name": "アイドル{threshold}人で評価A+以上を獲得しよう"
+            "name": "아이돌 {threshold}명으로 평가 A+ 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_4",
-            "name": "アイドル{threshold}人で評価SS以上を獲得しよう"
+            "name": "아이돌 {threshold}명으로 평가 SS 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_5",
-            "name": "アイドル{threshold}人で評価SS以上を獲得しよう"
+            "name": "아이돌 {threshold}명으로 평가 SS 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_6",
-            "name": "アイドル{threshold}人で評価SS以上を獲得しよう"
+            "name": "아이돌 {threshold}명으로 평가 SS 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_7",
-            "name": "アイドル1人で評価S4以上を獲得しよう"
+            "name": "아이돌 1명으로 평가 S4 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_8",
-            "name": "アイドル6人で評価S4以上を獲得しよう"
+            "name": "아이돌 6명으로 평가 S4 이상을 획득하자"
         },
         {
             "id": "grade_mission-001-mission_9",
-            "name": "アイドル13人で評価S4以上を獲得しよう"
+            "name": "아이돌 13명으로 평가 S4 이상을 획득하자"
         },
         {
             "id": "hidden_mission-achieve-o_014_001",
@@ -2135,11 +2135,11 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_17",
-            "name": "花海 咲季のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "하나미 사키의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_18",
-            "name": "花海 佑芽のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "하나미 우메의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_20",
@@ -8243,27 +8243,27 @@
         },
         {
             "id": "achieve-i_card-hski-3-018-01",
-            "name": "【ガラクタロード】花海 咲季のプロデュースで最終試験に合格"
+            "name": "【가라쿠타로드】하나미 사키의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hski-3-018-02",
-            "name": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-018-03",
-            "name": "【ガラクタロード】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【가라쿠타로드】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-hski-3-018-04",
-            "name": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-018-05",
-            "name": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-018-06",
-            "name": "【ガラクタロード】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-019-01",
@@ -10855,7 +10855,7 @@
         },
         {
             "id": "achieve-p_idol-hski-000-2",
-            "name": "花海 咲季でTrue End : H.I.Fをみる"
+            "name": "하나미 사키로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hski-001",
@@ -10955,11 +10955,11 @@
         },
         {
             "id": "achieve-p_idol-hski-025",
-            "name": "花海 咲季でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "하나미 사키로 H.I.F 최종시험에 합격해 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-hski-026",
-            "name": "花海 咲季でH.I.Fの最終試験に{threshold}回合格"
+            "name": "하나미 사키로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-hski-027",
@@ -10975,7 +10975,7 @@
         },
         {
             "id": "achieve-p_idol-hume-000-2",
-            "name": "花海 佑芽でTrue End : H.I.Fをみる"
+            "name": "하나미 우메로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-hume-001",
@@ -11071,11 +11071,11 @@
         },
         {
             "id": "achieve-p_idol-hume-025",
-            "name": "花海 佑芽でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "하나미 우메로 H.I.F 최종시험에 합격해 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-hume-026",
-            "name": "花海 佑芽でH.I.Fの最終試験に{threshold}回合格"
+            "name": "하나미 우메로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-hume-027",

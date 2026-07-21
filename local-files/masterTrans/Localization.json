@@ -51,11 +51,11 @@
         },
         {
             "id": "grade_mission.top.button.idol.disabled",
-            "description": "プロデュース結果がありません"
+            "description": "프로듀스 결과가 없습니다"
         },
         {
             "id": "grade_mission.top.next_mission.description",
-            "description": "アイドル{1}人で評価{0}以上を獲得"
+            "description": "아이돌 {1}명으로 평가 {0} 이상 획득"
         },
         {
             "id": "high_score_event.top.adv.title_label",
