@@ -1,5 +1,33 @@
 # Localization Release Notes
 
+## 3.2.1 (2026-07-23)
+- Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.2.1
+- Published: 2026-07-22T19:03:29Z
+- Changes: +0 added / ~0 jp-changed / -76 removed
+
+### Removed keys
+- `card.idol_card.list.max`
+- `card.idol_card.release.confirm.sheet.message`
+- `card.upgrade_status_list.tab_button.item_upgrade_after`
+- `card.upgrade_status_list.tab_button.item_upgrade_before`
+- `common.step_count`
+- `costume.produce_setting_sheet.description`
+- `costume.produce_setting_sheet.subtitle.live`
+- `costume.produce_setting_sheet.subtitle.produce`
+- `costume.produce_setting_sheet.subtitle.training`
+- `home.footer.button_type.Story.dearness_story_campaign.label`
+- `home.gasha.free_noti.label`
+- `home.idol.produce.label`
+- `home.nia_master_ranking.reward_overlay.description`
+- `home.nia_master_ranking.reward_overlay.text`
+- `home.produce.week`
+- `home.produce_progress_sheet.progress.remaining_week_label`
+- `home.produce_progress_sheet.progress.weeks_label`
+- `memory.detail.produce_review.disabled.not_cleared_true_end`
+- `mission.mission_list.max_point_text.event`
+- `produce.card.move_position.deckall`
+- … +56 more
+
 ## 3.2.0 (2026-07-17)
 - Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.2.0
 - Published: 2026-07-16T19:03:43Z
