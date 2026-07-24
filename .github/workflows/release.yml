@@ -19,7 +19,7 @@ jobs:
           
       - name: Package
         run: |
-          zip -r ${{ github.event.repository.name }}-$(cat version.txt).zip version.txt local-files
+          zip -r ${{ github.event.repository.name }}-$(cat version.txt).zip local-files version.txt
 
       - name: Get version
         id: vars
