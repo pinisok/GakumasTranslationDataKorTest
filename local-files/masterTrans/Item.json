@@ -164,7 +164,7 @@
         {
             "id": "item-coin-highscorerush-event-015",
             "name": "별의 반짝임",
-            "description": "十王邦夫のアイドル強化月間〜星々のきらめき〜(雨夜燕/十王星南)のイベントガシャで使用するアイテム",
+            "description": "주오 쿠니오의 아이돌 강화 월간 ~별들의 반짝임~ (아마야 츠바메/주오 세나)의 이벤트 가챠에서 사용하는 아이템",
             "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
         },
         {
@@ -469,8 +469,8 @@
         },
         {
             "id": "item-gashaticket-ssr-idol-fix_6",
-            "name": "STEP3全アイドル登場記念 SSR Pアイドル確定ガシャチケット",
-            "description": "STEP3全アイドル登場記念 SSR Pアイドル確定チケットガシャで使用するチケット",
+            "name": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 가챠 티켓",
+            "description": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 티켓 가챠에서 사용하는 티켓",
             "acquisitionRouteDescription": ""
         },
         {
@@ -997,7 +997,7 @@
         },
         {
             "id": "item-piece-idol_atbm-3-018",
-            "name": "[クライアイ]雨夜燕のピース",
+            "name": "[크라이아이] 아마야 츠바메의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

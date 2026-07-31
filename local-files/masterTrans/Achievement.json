@@ -337,33 +337,33 @@
         },
         {
             "id": "achieve-i_card-atbm-3-018-01",
-            "name": "星を散らせ",
-            "description": "【クライアイ】雨夜 燕のプロデュースで最終試験に合格"
+            "name": "별을 흩어라",
+            "description": "【크라이아이】아마야 츠바메의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-atbm-3-018-02",
-            "name": "クライアイ",
-            "description": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "크라이아이",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-018-03",
-            "name": "期待には応えてやる",
-            "description": "【クライアイ】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "기대에는 부응해 주지",
+            "description": "【크라이아이】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-atbm-3-018-04",
-            "name": "クライアイ +",
-            "description": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "크라이아이+",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-018-05",
-            "name": "クライアイ ++",
-            "description": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "크라이아이++",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-018-06",
-            "name": "クライアイ +++",
-            "description": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "크라이아이+++",
+            "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",
