@@ -12804,6 +12804,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-atbm-3-018-01",
+            "title": "クライアイ 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-018-02",
+            "title": "クライアイ 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-018-03",
+            "title": "クライアイ 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-fktn-3-000-01",
             "title": "세상에서 제일 귀여운 나 1화",
             "produceEventHintProduceConditionDescriptions": []
@@ -15134,6 +15149,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-2-0079-01",
+            "title": "ファンたちの出会い？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0079-02",
+            "title": "心配性で優しい先輩",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0000-01",
             "title": "『친구』런치",
             "produceEventHintProduceConditionDescriptions": []
@@ -16706,6 +16731,21 @@
         {
             "id": "p_story-s_card-3-0105-03",
             "title": "복잡한 자매 관계",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0108-01",
+            "title": "それぞれのこだわり",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0108-02",
+            "title": "怖くないですよ♪",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0108-03",
+            "title": "これが今のあたし",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

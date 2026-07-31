@@ -12,6 +12,11 @@
             "name": "친애도 미션"
         },
         {
+            "missionPanelSheetGroupId": "dearness_panel-mission_atbm_01",
+            "number": 1,
+            "name": "친애도 미션"
+        },
+        {
             "missionPanelSheetGroupId": "dearness_panel-mission_fktn_01",
             "number": 1,
             "name": "친애도 미션"
@@ -200,6 +205,11 @@
             "missionPanelSheetGroupId": "panel_mission-event-010",
             "number": 2,
             "name": "2번째"
+        },
+        {
+            "missionPanelSheetGroupId": "panel_mission-event-011",
+            "number": 1,
+            "name": "1번째"
         },
         {
             "missionPanelSheetGroupId": "panel_mission-event-niv",

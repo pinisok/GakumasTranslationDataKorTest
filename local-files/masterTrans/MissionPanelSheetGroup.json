@@ -10,6 +10,10 @@
             "name": "친애도 부스트 캠페인"
         },
         {
+            "id": "dearness_panel-mission_atbm_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
             "id": "dearness_panel-mission_fktn_01",
             "name": "친애도 부스트 캠페인"
         },
@@ -132,6 +136,10 @@
         {
             "id": "panel_mission-event-010",
             "name": "GO MY WAY!! 패널 미션"
+        },
+        {
+            "id": "panel_mission-event-011",
+            "name": "STEP3全アイドル登場記念パネルミッション"
         },
         {
             "id": "panel_mission-event-niv",

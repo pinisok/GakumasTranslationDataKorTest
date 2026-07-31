@@ -191,6 +191,16 @@
             "description": "아마야 츠바메의 아이돌 길 스테이지 25 클리어"
         },
         {
+            "id": "costume_head_atbm-cstm-0145",
+            "name": "クライアイ",
+            "description": "【クライアイ】雨夜 燕を入手"
+        },
+        {
+            "id": "costume_head_atbm-cstm-0146",
+            "name": "クライアイ",
+            "description": "【クライアイ】雨夜 燕の才能開花4段階目で入手"
+        },
+        {
             "id": "costume_head_atbm-hair-0001",
             "name": "수국 머리 장식",
             "description": "수국 머리 장식(아마야 츠바메)을 입수"
@@ -231,9 +241,19 @@
             "description": "프리미엄 미션 패스 2026년 2월에서 획득 가능"
         },
         {
+            "id": "costume_head_atbm-hair-0022",
+            "name": "クライアイ（シンプルアレンジ）",
+            "description": "【クライアイ】雨夜 燕を入手"
+        },
+        {
             "id": "costume_head_atbm-hair-0023",
             "name": "토끼 귀",
             "description": "프리미엄 미션 패스 2026년 6월에서 획득"
+        },
+        {
+            "id": "costume_head_atbm-hair-0036",
+            "name": "クライアイ（ポイントカラーアレンジ）",
+            "description": "【クライアイ】雨夜 燕を入手"
         },
         {
             "id": "costume_head_atbm-schl-0000",
@@ -388,7 +408,7 @@
         {
             "id": "costume_head_fktn-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+            "description": "プレミアムミッションパス 2025年8月で獲得など"
         },
         {
             "id": "costume_head_fktn-hair-0009",
@@ -823,7 +843,7 @@
         {
             "id": "costume_head_hski-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+            "description": "プレミアムミッションパス 2025年8月で獲得など"
         },
         {
             "id": "costume_head_hski-hair-0009",
@@ -1016,6 +1036,11 @@
             "description": "【새하얀 페이지와 수채화 주인공】하나미 우메 입수"
         },
         {
+            "id": "costume_head_hume-hair-0038",
+            "name": "잠행용 안경",
+            "description": "プレミアムミッションパス 2026年8月で獲得"
+        },
+        {
             "id": "costume_head_hume-schl-0000",
             "name": "평소의 헤어스타일",
             "description": "처음부터 소지"
@@ -1128,7 +1153,7 @@
         {
             "id": "costume_head_jsna-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+            "description": "プレミアムミッションパス 2025年8月で獲得など"
         },
         {
             "id": "costume_head_jsna-hair-0009",
@@ -1294,6 +1319,11 @@
             "id": "costume_head_kcna-hair-0034",
             "name": "하늘과 약속 (포인트 컬러 어레인지)",
             "description": "【하늘과 약속】쿠라모토 치나 입수"
+        },
+        {
+            "id": "costume_head_kcna-hair-0038",
+            "name": "잠행용 안경",
+            "description": "プレミアムミッションパス 2026年8月で獲得"
         },
         {
             "id": "costume_head_kllj-cstm-0007",
@@ -1616,6 +1646,11 @@
             "description": "【선 페이디드】시노사와 히로를 입수"
         },
         {
+            "id": "costume_head_shro-hair-0038",
+            "name": "잠행용 안경",
+            "description": "プレミアムミッションパス 2026年8月で獲得"
+        },
+        {
             "id": "costume_head_ssmk-cstm-0009",
             "name": "Tame-Lie-One-Step",
             "description": "【Tame-Lie-One-Step】 시운 스미카 입수"
@@ -1868,7 +1903,7 @@
         {
             "id": "costume_head_ttmr-hair-0008",
             "name": "개 귀",
-            "description": "프리미엄 미션 패스 2025년 8월 에서 획득"
+            "description": "プレミアムミッションパス 2025年8月で獲得など"
         },
         {
             "id": "costume_head_ttmr-hair-0009",

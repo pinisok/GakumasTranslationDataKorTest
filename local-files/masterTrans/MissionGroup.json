@@ -10,6 +10,10 @@
             "name": "아이돌 미션 마오"
         },
         {
+            "id": "dearness_normal-mission_atbm_01",
+            "name": "アイドルミッション燕"
+        },
+        {
             "id": "dearness_normal-mission_fktn_01",
             "name": "아이돌 미션 코토네"
         },
@@ -55,6 +59,10 @@
         },
         {
             "id": "dearness_panel-mission_amao_01",
+            "name": "친애도 부스트 캠페인"
+        },
+        {
+            "id": "dearness_panel-mission_atbm_01",
             "name": "친애도 부스트 캠페인"
         },
         {
@@ -666,6 +674,26 @@
             "name": "주오 쿠니오의 아이돌 강화월간~별들의 반짝임~(하타야 미스즈/시노사와 히로)"
         },
         {
+            "id": "mission-group-highscorerush-event-015_1",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_2",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_3",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_4",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
+            "id": "mission-group-highscorerush-event-015_5",
+            "name": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~"
+        },
+        {
             "id": "mission-group-main-story-event-001_1",
             "name": "하츠보시 커뮤 이벤트 미션"
         },
@@ -1020,6 +1048,10 @@
         {
             "id": "panel_mission-event-010-group_2",
             "name": "패널 미션 그룹 2"
+        },
+        {
+            "id": "panel_mission-event-011-group_1",
+            "name": "패널 미션 그룹 1"
         },
         {
             "id": "panel_mission-event-niv-group_1",
