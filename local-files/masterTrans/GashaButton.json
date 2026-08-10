@@ -315,19 +315,19 @@
         {
             "id": "gasha_button-gasha-00970-stepup-001-01-003",
             "order": 1,
-            "name": "ステップ1 3回",
-            "description": "3回ガシャ"
+            "name": "스텝 1 3회",
+            "description": "3회 가챠"
         },
         {
             "id": "gasha_button-gasha-00970-stepup-001-2-010",
             "order": 1,
-            "name": "ステップ2 10回",
+            "name": "스텝 2 10회",
             "description": "10회 가챠"
         },
         {
             "id": "gasha_button-gasha-00970-stepup-001-3-010",
             "order": 1,
-            "name": "ステップ3 10回",
+            "name": "스텝 3 10회",
             "description": "10회 가챠"
         },
         {
