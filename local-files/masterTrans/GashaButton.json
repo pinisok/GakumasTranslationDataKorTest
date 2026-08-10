@@ -259,6 +259,12 @@
             "description": "STEP3 전 아이돌 등장 기념 SSR P아이돌 확정 티켓으로 뽑기"
         },
         {
+            "id": "gasha_button-00970-wednesday-001-ticket-01",
+            "order": 1,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-010-item_01",
             "order": 3,
             "name": "10회 아이템 가챠",
@@ -307,6 +313,48 @@
             "description": "10회 가챠"
         },
         {
+            "id": "gasha_button-gasha-00970-stepup-001-01-003",
+            "order": 1,
+            "name": "ステップ1 3回",
+            "description": "3回ガシャ"
+        },
+        {
+            "id": "gasha_button-gasha-00970-stepup-001-2-010",
+            "order": 1,
+            "name": "ステップ2 10回",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-gasha-00970-stepup-001-3-010",
+            "order": 1,
+            "name": "ステップ3 10回",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-gasha-00970-ticket-001",
+            "order": 1,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-gasha-00970-ticket-002",
+            "order": 1,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-gasha-00970-ticket-003",
+            "order": 1,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
+            "id": "gasha_button-gasha-00970-ticket-004",
+            "order": 1,
+            "name": "티켓으로 뽑기",
+            "description": "티켓으로 뽑기"
+        },
+        {
             "id": "gasha_button-pickup-001-01",
             "order": 2,
             "name": "1회 가챠",
@@ -345,6 +393,12 @@
         {
             "id": "gasha_button-pickup-001-10-iwsf2026",
             "order": 1,
+            "name": "10회 가챠",
+            "description": "10회 가챠"
+        },
+        {
+            "id": "gasha_button-pickup-01-discount",
+            "order": 3,
             "name": "10회 가챠",
             "description": "10회 가챠"
         },
