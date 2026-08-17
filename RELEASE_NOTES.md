@@ -1,5 +1,56 @@
 # Localization Release Notes
 
+## 3.3.0 (2026-08-17)
+- Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.3.0
+- Published: 2026-08-17T09:54:02Z
+- Changes: +54 added / ~0 jp-changed / -77 removed
+
+### Added keys
+- `octo_all_file_download_sheet.description.all`
+- `octo_all_file_download_sheet.description.all.exclude_movie`
+- `octo_all_file_download_sheet.alert.all`
+- `octo_all_file_download_sheet.alert.all.limit_required`
+- `octo_all_file_download_sheet.app_storage_limit.title`
+- `octo_all_file_download_sheet.execute_disabled.toast`
+- `produce.replay.log_invalid.toast`
+- `produce.replay.data_not_found.toast`
+- `produce.replay.playing.toast`
+- `home.gasha.draw_button.resource_text.ticket`
+- `home.gasha.draw_button.resource_text.item`
+- `produce.history.replay.button`
+- `produce.history.replay.confirm.title`
+- `produce.support_card_event_produce_card_upgrade_confirm_sheet.title`
+- `produce.support_card_event_produce_card_upgrade_confirm_sheet.description`
+- `produce.support_card_event_produce_card_upgrade_confirm_sheet.type.upgrade`
+- `produce.support_card_event_produce_card_upgrade_confirm_sheet.type.no_upgrade`
+- `producer.level.support_card_event_produce_card_upgrade_name`
+- `producer.level.support_card_event_produce_card_upgrade_description`
+- `memory.inherit.disable.produce_only.toast`
+- … +34 more
+
+### Removed keys
+- `card.idol_card.list.max`
+- `card.idol_card.release.confirm.sheet.message`
+- `card.upgrade_status_list.tab_button.item_upgrade_after`
+- `card.upgrade_status_list.tab_button.item_upgrade_before`
+- `common.step_count`
+- `costume.produce_setting_sheet.description`
+- `costume.produce_setting_sheet.subtitle.live`
+- `costume.produce_setting_sheet.subtitle.produce`
+- `costume.produce_setting_sheet.subtitle.training`
+- `home.footer.button_type.Story.dearness_story_campaign.label`
+- `home.gasha.draw_button.item`
+- `home.gasha.free_noti.label`
+- `home.idol.produce.label`
+- `home.nia_master_ranking.reward_overlay.description`
+- `home.nia_master_ranking.reward_overlay.text`
+- `home.produce.week`
+- `home.produce_progress_sheet.progress.remaining_week_label`
+- `home.produce_progress_sheet.progress.weeks_label`
+- `memory.detail.produce_review.disabled.not_cleared_true_end`
+- `mission.mission_list.max_point_text.event`
+- … +57 more
+
 ## 3.2.3 (2026-08-05)
 - Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.2.3
 - Published: 2026-08-05T11:29:44Z
