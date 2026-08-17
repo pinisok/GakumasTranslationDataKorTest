@@ -279,7 +279,7 @@
         },
         {
             "id": "setting.preference.live.camera.position_depth",
-            "description": "준비 중"
+            "description": "前後カメラの反転"
         },
         {
             "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",

@@ -31,7 +31,7 @@
         },
         {
             "eventType": "EventType_StoryEventBoxGasha",
-            "name": "시즌"
+            "name": "스토리"
         },
         {
             "eventType": "EventType_StoryEventGuildMission",

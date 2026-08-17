@@ -181,6 +181,16 @@
             "description": "【Fluorite】'26 GO MY WAY!! 아리무라 마오 입수"
         },
         {
+            "id": "amao-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【Fluorite】'26水着 有村 麻央を入手"
+        },
+        {
+            "id": "amao-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【Fluorite】'26水着 有村 麻央を入手"
+        },
+        {
             "id": "amao-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(아리무라 마오) 구매하기"
@@ -319,6 +329,16 @@
             "id": "atbm-cstm-0146",
             "name": "크라이아이",
             "description": "【크라이아이】아마야 츠바메의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "atbm-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【理論武装して】'26水着 雨夜 燕を入手"
+        },
+        {
+            "id": "atbm-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【理論武装して】'26水着 雨夜 燕を入手"
         },
         {
             "id": "atbm-othr-0002",
@@ -519,6 +539,16 @@
             "id": "fktn-cstm-0139",
             "name": "GO MY WAY!!",
             "description": "【GO MY WAY!!】후지타 코토네의 재능 개화 4단계 달성"
+        },
+        {
+            "id": "fktn-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【世界一可愛い私】'26水着 藤田 ことねを入手"
+        },
+        {
+            "id": "fktn-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【世界一可愛い私】'26水着 藤田 ことねを入手"
         },
         {
             "id": "fktn-othr-0002",
@@ -896,6 +926,16 @@
             "description": "【clumsy trick】'26 GO MY WAY!! 히메사키 리나미 입수"
         },
         {
+            "id": "hrnm-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【clumsy trick】'26水着 姫崎 莉波を入手"
+        },
+        {
+            "id": "hrnm-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【clumsy trick】'26水着 姫崎 莉波を入手"
+        },
+        {
             "id": "hrnm-othr-0000",
             "name": "온천 목욕 타올",
             "description": "입수 불가"
@@ -1106,6 +1146,16 @@
             "description": "【GO MY WAY!!】하나미 사키 입수"
         },
         {
+            "id": "hski-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【Fighting My Way】'26水着 花海 咲季を入手"
+        },
+        {
+            "id": "hski-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【Fighting My Way】'26水着 花海 咲季を入手"
+        },
+        {
             "id": "hski-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(하나미 사키) 구매하기"
@@ -1301,6 +1351,16 @@
             "description": "【GO MY WAY!!】하나미 우메의 재능 개화 4단계에서 획득"
         },
         {
+            "id": "hume-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【The Rolling Riceball】'26水着 花海 佑芽を入手"
+        },
+        {
+            "id": "hume-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【The Rolling Riceball】'26水着 花海 佑芽を入手"
+        },
+        {
             "id": "hume-othr-0000",
             "name": "온천 목욕 타올",
             "description": "입수 불가"
@@ -1494,6 +1554,16 @@
             "id": "jsna-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【작은 야망】'26 GO MY WAY!! 주오 세나 입수"
+        },
+        {
+            "id": "jsna-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【「ねえ、言っちゃうよ。」】十王 星南を入手"
+        },
+        {
+            "id": "jsna-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【「ねえ、言っちゃうよ。」】十王 星南を入手"
         },
         {
             "id": "jsna-othr-0002",
@@ -1694,6 +1764,16 @@
             "id": "kcna-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【Wonder Scale】'26 GO MY WAY!! 쿠라모토 치나 입수"
+        },
+        {
+            "id": "kcna-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【Wonder Scale】'26水着 倉本 千奈を入手"
+        },
+        {
+            "id": "kcna-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【Wonder Scale】'26水着 倉本 千奈を入手"
         },
         {
             "id": "kcna-othr-0002",
@@ -1909,6 +1989,16 @@
             "id": "kllj-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【흰 선】'26 GO MY WAY!! 카츠라기 릴리야 입수"
+        },
+        {
+            "id": "kllj-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【白線】'26水着 葛城 リーリヤを入手"
+        },
+        {
+            "id": "kllj-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【白線】'26水着 葛城 リーリヤを入手"
         },
         {
             "id": "kllj-othr-0002",
@@ -2146,6 +2236,16 @@
             "description": "【광경】'26 GO MY WAY!! 시노사와 히로 입수"
         },
         {
+            "id": "shro-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【光景】'26水着 篠澤 広を入手"
+        },
+        {
+            "id": "shro-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【光景】'26水着 篠澤 広を入手"
+        },
+        {
             "id": "shro-othr-0002",
             "name": "온천용 수영복",
             "description": "온천용 수영복(시노사와 히로) 구매하기"
@@ -2334,6 +2434,16 @@
             "id": "ssmk-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【Tame-Lie-One-Step】'26 GO MY WAY!! 시운 스미카 입수"
+        },
+        {
+            "id": "ssmk-cstm-0175",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【Tame-Lie-One-Step】'26水着 紫雲 清夏を入手"
+        },
+        {
+            "id": "ssmk-cstm-0176",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【Tame-Lie-One-Step】'26水着 紫雲 清夏を入手"
         },
         {
             "id": "ssmk-othr-0002",
@@ -2539,6 +2649,26 @@
             "id": "ttmr-cstm-0140",
             "name": "GO MY WAY!!",
             "description": "【Luna say maybe】'26 GO MY WAY!! 츠키무라 테마리 입수"
+        },
+        {
+            "id": "ttmr-cstm-0173",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【「ねえ、言っちゃうよ。」】月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0174",
+            "name": "「ねえ、言っちゃうよ。」（水着）",
+            "description": "【「ねえ、言っちゃうよ。」】月村 手毬の才能開花4段階目で入手"
+        },
+        {
+            "id": "ttmr-cstm-0177",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【「ねえ、言っちゃうよ。」】月村 手毬を入手"
+        },
+        {
+            "id": "ttmr-cstm-0178",
+            "name": "「ねえ、言っちゃうよ。」（ワンピース）",
+            "description": "【「ねえ、言っちゃうよ。」】月村 手毬の才能開花4段階目で入手"
         },
         {
             "id": "ttmr-othr-0002",
