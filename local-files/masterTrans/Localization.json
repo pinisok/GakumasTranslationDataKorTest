@@ -262,20 +262,8 @@
             "description": "이벤트 모드 대상인 P아이돌만 이벤트 모드의 프로듀스에 도전할 수 있습니다"
         },
         {
-            "id": "setting.preference.live.camera.angle_horizontal",
-            "description": "준비 중"
-        },
-        {
-            "id": "setting.preference.live.camera.angle_vertical",
-            "description": "준비 중"
-        },
-        {
             "id": "setting.preference.live.camera.description",
             "description": "이 항목을 ON으로 설정하면, 라이브 촬영에서 제스처 조작을 사용할 경우 카메라 움직임이 반전됩니다"
-        },
-        {
-            "id": "setting.preference.live.camera.description_panorama",
-            "description": ""
         },
         {
             "id": "setting.preference.live.camera.position_depth",
