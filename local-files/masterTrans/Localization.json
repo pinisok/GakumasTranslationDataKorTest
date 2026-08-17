@@ -346,6 +346,10 @@
             "description": "스킬 카드를 선택해서 체인지할 때 확인 메시지를 표시합니다."
         },
         {
+            "id": "setting.produce.support_event_produce_card_upgrade",
+            "description": "강화된 스킬 카드를 획득"
+        },
+        {
             "id": "shop.need_init.description",
             "description": "정보를 가져옵니다.\\n업데이트해 주세요."
         },
