@@ -847,33 +847,33 @@
         },
         {
             "id": "achieve-i_card-hmsz-3-020-01",
-            "name": "波間に揺れる光",
-            "description": "【「ねえ、言っちゃうよ。」】秦谷 美鈴のプロデュースで最終試験に合格"
+            "name": "물결 사이로 일렁이는 빛",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hmsz-3-020-02",
             "name": "「있잖아, 고백할게.」",
-            "description": "【「ねえ、言っちゃうよ。」】秦谷 美鈴の特訓段階を{threshold}にする"
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hmsz-3-020-03",
-            "name": "あなたにとって、一番の被写体",
-            "description": "【「ねえ、言っちゃうよ。」】秦谷 美鈴のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "프로듀서님께는 최고의 피사체",
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-hmsz-3-020-04",
             "name": "「있잖아, 고백할게.」 +",
-            "description": "【「ねえ、言っちゃうよ。」】秦谷 美鈴の特訓段階を{threshold}にする"
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hmsz-3-020-05",
             "name": "「있잖아, 고백할게.」 ++",
-            "description": "【「ねえ、言っちゃうよ。」】秦谷 美鈴の特訓段階を{threshold}にする"
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hmsz-3-020-06",
             "name": "「있잖아, 고백할게.」 +++",
-            "description": "【「ねえ、言っちゃうよ。」】秦谷 美鈴の特訓段階を{threshold}にする"
+            "description": "【「있잖아, 고백할게.」】하타야 미스즈의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hrnm-2-000-04",

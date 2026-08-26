@@ -74896,7 +74896,7 @@
                     "text": ""
                 }
             ],
-            "name": "夏の足音"
+            "name": "여름의 발소리"
         },
         {
             "id": "pitem_01-3-341-1",
@@ -75142,7 +75142,7 @@
                     "text": ""
                 }
             ],
-            "name": "夏の足音+"
+            "name": "여름의 발소리+"
         },
         {
             "id": "pitem_01-3-351-0",
@@ -75165,7 +75165,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード獲得時、ボーカルが900以上の場合、\n"
+                    "text": " 효과의 스킬 카드 획득 시, 보컬이 900 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -75265,7 +75265,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード（R）を選択して獲得\n"
+                    "text": "스킬 카드(R)를 선택해 획득\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -75288,7 +75288,7 @@
                     "text": "(프로듀스 중 2회)"
                 }
             ],
-            "name": "真夏に咲く太陽"
+            "name": "한여름에 피는 태양"
         },
         {
             "id": "pitem_02-0-002-0-000",
