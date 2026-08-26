@@ -1638,6 +1638,12 @@
             "id": "tower-rule",
             "order": 2,
             "name": "아이돌의 길 규칙"
+        },
+        {
+            "helpCategoryId": "help-trail",
+            "id": "trail",
+            "order": 1,
+            "name": "思い出衣装"
         }
     ]
 }

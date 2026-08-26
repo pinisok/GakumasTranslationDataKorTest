@@ -231,6 +231,12 @@
             "order": 13,
             "name": "아이돌의 길",
             "texts": []
+        },
+        {
+            "id": "help-trail",
+            "order": 30,
+            "name": "思い出衣装",
+            "texts": []
         }
     ]
 }

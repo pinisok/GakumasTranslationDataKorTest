@@ -4107,6 +4107,76 @@
             "title": "옷 갈아입기②"
         },
         {
+            "id": "voice_group-cidol-hmsz-3-020_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020_home",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_01",
+            "title": "옷 갈아입기①(수영복)"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_02",
+            "title": "옷 갈아입기②(수영복)"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_01",
+            "title": "옷 갈아입기①(원피스)"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-detail",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_02",
+            "title": "옷 갈아입기②(원피스)"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-01",
+            "title": "프로듀스①"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-02",
+            "title": "프로듀스②"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-03",
+            "title": "프로듀스③"
+        },
+        {
+            "id": "voice_group-cidol-hmsz-3-020-produce_schedule",
+            "voiceAssetId": "sud_vo_system_cidol-hmsz-3-020_produce_schedule-04",
+            "title": "프로듀스④"
+        },
+        {
             "id": "voice_group-cidol-hrnm-1-000-detail",
             "voiceAssetId": "sud_vo_system_hrnm-schl-0000_01",
             "title": "옷 갈아입기①"
@@ -13815,6 +13885,26 @@
             "id": "voice_group-hmsz-cstm-0140-cmmn",
             "voiceAssetId": "sud_vo_system_hmsz-cstm-0140_02",
             "title": "GO MY WAY!!"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0173-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_01",
+            "title": "「있잖아, 고백할게.」"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0173-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0173_02",
+            "title": "「있잖아, 고백할게.」"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0177-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_01",
+            "title": "「있잖아, 고백할게.」"
+        },
+        {
+            "id": "voice_group-hmsz-cstm-0177-cmmn",
+            "voiceAssetId": "sud_vo_system_hmsz-cstm-0177_02",
+            "title": "「있잖아, 고백할게.」"
         },
         {
             "id": "voice_group-hmsz-othr-0002-cmmn",
