@@ -456,6 +456,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-new-wednesday-26-0909-1",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-fix_1",
             "name": "SSR 확정 가챠 티켓",
             "description": "SSR 확정 티켓 가챠에서 사용하는 티켓",
@@ -942,6 +948,12 @@
             "acquisitionRouteDescription": "라이브 투어 이벤트, 프로듀스"
         },
         {
+            "id": "item-medal-tour-event-006",
+            "name": "初星祭メダル",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "イベント「さいごの文化祭」、プロデュース"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "센스 코인",
             "description": "센스 가챠에 사용하는 코인",
@@ -1034,6 +1046,12 @@
         {
             "id": "item-piece-idol_amao-3-017",
             "name": "[SUGAR FLAVOR]아리무라 마오의 피스",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
+            "id": "item-piece-idol_amao-3-018",
+            "name": "[標]有村麻央のピース",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -1566,6 +1584,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_kcna-3-018",
+            "name": "[標]倉本千奈のピース",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_kllj-1-000",
             "name": "[학원생활] 카츠라기 릴리야의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1782,6 +1806,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_ssmk-3-018",
+            "name": "[標]紫雲清夏のピース",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_ttmr-1-000",
             "name": "[학원생활] 츠키무라 테마리의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1876,6 +1906,12 @@
             "name": "라이브 도전권 (시부야)",
             "description": "라이브 투어 이벤트에서 스테이지에 도전할 수 있는 아이템",
             "acquisitionRouteDescription": "시즌 이벤트"
+        },
+        {
+            "id": "item-play-ticket_tour-event-006",
+            "name": "初星祭チケット",
+            "description": "イベント「さいごの文化祭」でステージに挑戦できるアイテム",
+            "acquisitionRouteDescription": "イベント「さいごの文化祭」"
         },
         {
             "id": "item-primastellamaterial-common-001",

@@ -6734,6 +6734,34 @@
             "name": "SP 레슨을 {threshold}회 클리어하자"
         },
         {
+            "id": "mission-tour-event-006-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-tour-event-006-mission_2",
+            "name": "최종 시험에 {threshold}번 합격하자"
+        },
+        {
+            "id": "mission-tour-event-006-mission_3",
+            "name": "イベントで{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_4",
+            "name": "イベントでハコユレLv1以上のステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_5",
+            "name": "イベントでハコユレLv2以上のステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_6",
+            "name": "イベントでハコユレLv3以上のステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-tour-event-006-mission_7",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
             "id": "mission-weekly-competitionplaycount-1",
             "name": "링크 콘테스트에 {threshold}번 도전하자"
         },
@@ -7572,6 +7600,30 @@
         {
             "id": "achieve-i_card-amao-3-017-06",
             "name": "【SUGAR FLAVOR】아리무라 마오의 특훈 단계를 {threshold}로 만들기"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-01",
+            "name": "【標】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-02",
+            "name": "【標】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-03",
+            "name": "【標】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-04",
+            "name": "【標】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-05",
+            "name": "【標】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-018-06",
+            "name": "【標】有村 麻央の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-atbm-2-000-01",
@@ -9230,6 +9282,30 @@
             "name": "【미지의 펼쳐지는】쿠라모토 치나의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-kcna-3-018-01",
+            "name": "【標】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-02",
+            "name": "【標】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-03",
+            "name": "【標】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-04",
+            "name": "【標】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-05",
+            "name": "【標】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-018-06",
+            "name": "【標】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-kllj-2-000-04",
             "name": "【한 걸음 더 나아가】카츠라기 릴리야의 특훈 단계 {threshold} 달성"
         },
@@ -9876,6 +9952,30 @@
         {
             "id": "achieve-i_card-ssmk-3-017-06",
             "name": "【두근두근 이모션】시운 스미카의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-01",
+            "name": "【標】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-02",
+            "name": "【標】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-03",
+            "name": "【標】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-04",
+            "name": "【標】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-05",
+            "name": "【標】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-018-06",
+            "name": "【標】紫雲 清夏の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",
