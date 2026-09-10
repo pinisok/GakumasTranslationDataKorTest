@@ -354,6 +354,10 @@
             "description": "이 교환 Pt를 획득 가능한 가챠"
         },
         {
+            "id": "story.idol.others.birthday",
+            "description": "기타"
+        },
+        {
             "id": "story.story_event.section.normal_condition_lock_text",
             "description": "이벤트 Pt를 획득하고 이전 커뮤니티를 읽어 해방"
         },

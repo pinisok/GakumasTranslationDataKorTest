@@ -312,6 +312,12 @@
             "acquisitionRouteDescription": "프로듀스"
         },
         {
+            "id": "item-gacha-coin-2026-summer2",
+            "name": "プロデュース応援コイン",
+            "description": "H.I.F挑戦1,500万回突破記念！プロデュース応援コインガシャで使用するコイン",
+            "acquisitionRouteDescription": "프로듀스"
+        },
+        {
             "id": "item-gacha-coin-anniversary-001",
             "name": "하츠미 짱 코인",
             "description": "1st 애니버서리 코인 가챠에서 사용하는 코인",
@@ -1506,6 +1512,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_jsna-3-017",
+            "name": "[ガラクタロード]十王星南のピース",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_jsna-3-020",
             "name": "[「있잖아, 고백할게.」] 주오 세나의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -1926,6 +1938,12 @@
             "acquisitionRouteDescription": "도전 과제 등"
         },
         {
+            "id": "item-primastellamaterial-idol_fktn-001",
+            "name": "ことねの一番星の光",
+            "description": "藤田ことねの『一番星』解放で使用するアイテム",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
             "id": "item-primastellamaterial-idol_hmsz-001",
             "name": "미스즈의 샛별의 빛",
             "description": "하타야 미스즈의 『샛별』 해방에 사용하는 아이템",
@@ -1947,6 +1965,12 @@
             "id": "item-primastellamaterial-idol_hume-001",
             "name": "우메의 샛별의 빛",
             "description": "하나미 우메의 『샛별』 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "도전 과제 등"
+        },
+        {
+            "id": "item-primastellamaterial-idol_jsna-001",
+            "name": "星南の一番星の光",
+            "description": "十王星南の『一番星』解放で使用するアイテム",
             "acquisitionRouteDescription": "도전 과제 등"
         },
         {
@@ -2098,6 +2122,12 @@
             "name": "여름방학 서포트 셀렉션 티켓",
             "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
             "acquisitionRouteDescription": "여름방학 코인 가챠"
+        },
+        {
+            "id": "item-selection-ticket-008",
+            "name": "プロデュース応援サポートセレクションチケット",
+            "description": "티켓 교환소에서 서포트 카드를 교환할 수 있는 티켓",
+            "acquisitionRouteDescription": "H.I.F挑戦1,500万回突破記念！プロデュース応援コインガシャ"
         },
         {
             "id": "item-staminaregen-1",

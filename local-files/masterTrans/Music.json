@@ -542,6 +542,14 @@
             "arranger": "후지나가 류타로(Elements Garden)"
         },
         {
+            "id": "music-all-fktn-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
+        },
+        {
             "id": "music-all-fktn-017",
             "title": "GO MY WAY!! -후지타 코토네 cover-",
             "displayTitle": "GO MY WAY!! -후지타 코토네 cover-",
@@ -1212,6 +1220,14 @@
             "lyrics": "슈토 요시카츠",
             "composer": "슈토 요시카츠",
             "arranger": "후지나가 류타로(Elements Garden)"
+        },
+        {
+            "id": "music-all-jsna-016",
+            "title": "가라쿠타로드",
+            "displayTitle": "가라쿠타로드",
+            "lyrics": "Rou-hou",
+            "composer": "사토 타카후미",
+            "arranger": "스즈키 슌스케, 오사와 메이 (Bandai Namco Studios Inc.)"
         },
         {
             "id": "music-all-jsna-017",
