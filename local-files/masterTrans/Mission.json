@@ -1015,51 +1015,51 @@
         },
         {
             "id": "hidden_mission-dearness-story-amao-37",
-            "name": "麻央でHIF本戦を優勝"
+            "name": "마오로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-fktn-37",
-            "name": "ことねでHIF本戦を優勝"
+            "name": "코토네로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hmsz-37",
-            "name": "美鈴でHIF本戦を優勝"
+            "name": "미스즈로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hrnm-37",
-            "name": "莉波でHIF本戦を優勝"
+            "name": "리나미로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hski-37",
-            "name": "咲季でHIF本戦を優勝"
+            "name": "사키로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-hume-37",
-            "name": "佑芽でHIF本戦を優勝"
+            "name": "우메로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-jsna-37",
-            "name": "星南でHIF本戦を優勝"
+            "name": "세나로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-kcna-37",
-            "name": "千奈でHIF本戦を優勝"
+            "name": "치나로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-kllj-37",
-            "name": "リーリヤでHIF本戦を優勝"
+            "name": "릴리야로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-shro-37",
-            "name": "広でHIF本戦を優勝"
+            "name": "히로로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-ssmk-37",
-            "name": "清夏でHIF本戦を優勝"
+            "name": "스미카로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-ttmr-37",
-            "name": "手毬でHIF本戦を優勝"
+            "name": "테마리로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-normal-amao-piece-pack-remind",
@@ -2259,7 +2259,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_14",
-            "name": "藤田 ことねのプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "후지타 코토네의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_15",
@@ -2279,7 +2279,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_19",
-            "name": "十王 星南のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "주오 세나의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_20",
@@ -6815,19 +6815,19 @@
         },
         {
             "id": "mission-tour-event-006-mission_3",
-            "name": "イベントで{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_4",
-            "name": "イベントでハコユレLv1以上のステージに{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 하코유레 Lv1 이상의 무대에 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_5",
-            "name": "イベントでハコユレLv2以上のステージに{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 하코유레 Lv2 이상의 무대에 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_6",
-            "name": "イベントでハコユレLv3以上のステージに{threshold}回挑戦してクリアしよう"
+            "name": "이벤트에서 하코유레 Lv3 이상의 무대에 {threshold}회 도전하여 클리어하자"
         },
         {
             "id": "mission-tour-event-006-mission_7",
@@ -9115,27 +9115,27 @@
         },
         {
             "id": "achieve-i_card-jsna-3-017-01",
-            "name": "【ガラクタロード】十王 星南のプロデュースで最終試験に合格"
+            "name": "【가라쿠타로드】주오 세나의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-jsna-3-017-02",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-03",
-            "name": "【ガラクタロード】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【가라쿠타로드】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-jsna-3-017-04",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-05",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-017-06",
-            "name": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-020-01",
@@ -11047,7 +11047,7 @@
         },
         {
             "id": "achieve-p_idol-fktn-000-2",
-            "name": "藤田 ことねでTrue End : H.I.Fをみる"
+            "name": "후지타 코토네로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-fktn-001",
@@ -11147,11 +11147,11 @@
         },
         {
             "id": "achieve-p_idol-fktn-025",
-            "name": "藤田 ことねでH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "후지타 코토네로 H.I.F 최종시험에 합격하여 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-fktn-026",
-            "name": "藤田 ことねでH.I.Fの最終試験に{threshold}回合格"
+            "name": "후지타 코토네로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-fktn-027",
@@ -11639,7 +11639,7 @@
         },
         {
             "id": "achieve-p_idol-jsna-000-2",
-            "name": "十王 星南でTrue End : H.I.Fをみる"
+            "name": "주오 세나로 True End: H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-jsna-001",
@@ -11739,11 +11739,11 @@
         },
         {
             "id": "achieve-p_idol-jsna-025",
-            "name": "十王 星南でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "주오 세나로 H.I.F 최종시험에 합격하여 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-jsna-026",
-            "name": "十王 星南でH.I.Fの最終試験に{threshold}回合格"
+            "name": "주오 세나로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-jsna-027",

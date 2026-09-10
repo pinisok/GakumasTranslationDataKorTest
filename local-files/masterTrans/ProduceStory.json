@@ -11625,12 +11625,12 @@
         },
         {
             "id": "p_story-event-003_fktn_activity_021",
-            "title": "自由なドリンク",
+            "title": "자유로운 음료",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_fktn_activity_022",
-            "title": "水族館デート？",
+            "title": "수족관 데이트?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -11660,7 +11660,7 @@
         },
         {
             "id": "p_story-event-003_fktn_school_017",
-            "title": "『一番星』十王星南",
+            "title": "『샛별』 주오 세나",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12275,12 +12275,12 @@
         },
         {
             "id": "p_story-event-003_jsna_activity_021",
-            "title": "憧れのメニュー！",
+            "title": "꿈에 그리던 메뉴!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-event-003_jsna_activity_022",
-            "title": "水族館で気になるもの",
+            "title": "수족관에서 눈길이 가는 것",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12365,7 +12365,7 @@
         },
         {
             "id": "p_story-event-003_jsna_school_028",
-            "title": "『一番星』のその先へ",
+            "title": "『샛별』 그 너머로",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -17170,17 +17170,17 @@
         },
         {
             "id": "p_story-s_card-3-0099-01",
-            "title": "先生をやる理由は？",
+            "title": "선생님이 된 이유는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0099-02",
-            "title": "先生のイメージは？",
+            "title": "선생님의 이미지는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0099-03",
-            "title": "先生は何者？",
+            "title": "선생님의 정체는?",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -17320,17 +17320,17 @@
         },
         {
             "id": "p_story-s_card-3-0110-01",
-            "title": "回転寿司は奥が深い",
+            "title": "회전초밥은 심오해",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0110-02",
-            "title": "ときには貪欲に！",
+            "title": "때로는 욕심껏!",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
             "id": "p_story-s_card-3-0110-03",
-            "title": "受け継がれる伝統",
+            "title": "이어지는 전통",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

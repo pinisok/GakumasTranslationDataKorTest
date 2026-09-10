@@ -32789,7 +32789,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカードチェンジ時、ビジュアルが400以上の場合、\n"
+                    "text": "스킬 카드 변경 시, 비주얼이 400 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -32892,7 +32892,7 @@
                     "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "素敵なお仕事"
+            "name": "멋진 일"
         },
         {
             "id": "pitem_01-0-001-0-000",
@@ -124825,7 +124825,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンのターン開始後、"
+                    "text": "최종 턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125038,7 +125038,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "頂点の輝き"
+            "name": "정점의 빛"
         },
         {
             "id": "pitem_02-3-321-1",
@@ -125051,7 +125051,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "最終ターンのターン開始後、"
+                    "text": "최종 턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -125324,7 +125324,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "頂点の輝き+"
+            "name": "정점의 빛+"
         },
         {
             "id": "pitem_02-3-328-0",
@@ -125945,7 +125945,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "開始時、ビジュアルが700以上の場合、\n"
+                    "text": " 시작 시, 비주얼이 700 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -126008,7 +126008,7 @@
                     "text": "(프로듀스 중 4회)"
                 }
             ],
-            "name": "たらふくすし放題♪"
+            "name": "배불리 초밥 무한리필♪"
         },
         {
             "id": "pitem_03-0-003-0-000",
@@ -169107,7 +169107,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -173797,7 +173797,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -177339,7 +177339,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -180741,7 +180741,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -185331,7 +185331,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -189891,7 +189891,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）1枚につき、"
+                    "text": "제외된 스킬 카드(SSR) 1장당, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

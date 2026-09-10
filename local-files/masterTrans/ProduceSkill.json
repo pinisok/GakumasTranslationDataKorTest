@@ -36067,7 +36067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-100_039",
-                    "text": "好きを集める一番星"
+                    "text": "좋아하는 마음을 모으는 샛별 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -36389,7 +36389,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-ido-100_048",
-                    "text": "夢を追い続ける一番星"
+                    "text": "꿈을 계속 좇는 샛별 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -37447,7 +37447,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ダンス上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37503,7 +37503,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ダンス上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37559,7 +37559,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ダンス上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37615,7 +37615,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37671,7 +37671,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37727,7 +37727,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ビジュアル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37783,7 +37783,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ボーカル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37839,7 +37839,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ボーカル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37895,7 +37895,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "名前に「基本」を含むスキルカードチェンジ時、ボーカル上昇+"
+                    "text": "이름에 「기본」이 포함된 스킬 카드 변경 시, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41697,7 +41697,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ダンス上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41763,7 +41763,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ダンス上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41829,7 +41829,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ダンス上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 댄스 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41895,7 +41895,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ビジュアル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -41961,7 +41961,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ビジュアル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42027,7 +42027,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ビジュアル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42093,7 +42093,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ボーカル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42159,7 +42159,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ボーカル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -42225,7 +42225,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了時、所持しているスキルカードが15枚以上の場合、ボーカル上昇+"
+                    "text": " 종료 시, 보유한 스킬 카드가 15장 이상일 때, 보컬 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",

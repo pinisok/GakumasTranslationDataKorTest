@@ -156787,7 +156787,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "호조 "
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -156797,7 +156797,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が22ターン以上の場合、"
+                    "text": "가 22턴 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -156817,7 +156817,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "가 <nobr>"
+                    "text": "의 <nobr>"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -167871,7 +167871,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スコアが2000未満の場合、"
+                    "text": "스코어가 2000 미만일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -168013,7 +168013,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が4個以上の場合、"
+                    "text": "저하 상태가 4개 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -168267,7 +168267,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が5枚以下の場合、"
+                    "text": "제외된 스킬 카드(SSR)가 5장 이하일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -185005,7 +185005,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スコアが2000未満の場合、"
+                    "text": "스코어가 2000 미만일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -185127,7 +185127,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が4個以上の場合、"
+                    "text": "저하 상태가 4개 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -185381,7 +185381,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が5枚以下の場合、"
+                    "text": "제외된 스킬 카드(SSR)가 5장 이하일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -197777,7 +197777,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スコアが2000未満の場合、"
+                    "text": "스코어가 2000 미만일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -197929,7 +197929,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が4個以上の場合、"
+                    "text": "저하 상태가 4개 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -198213,7 +198213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が5枚以下の場合、"
+                    "text": "제외된 스킬 카드(SSR)가 5장 이하일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -208263,7 +208263,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スコアが2000未満の場合、"
+                    "text": "스코어가 2000 미만일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -208385,7 +208385,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が4個以上の場合、"
+                    "text": "저하 상태가 4개 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -208639,7 +208639,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が5枚以下の場合、"
+                    "text": "제외된 스킬 카드(SSR)가 5장 이하일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -225405,7 +225405,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スコアが2000未満の場合、"
+                    "text": "스코어가 2000 미만일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -225461,7 +225461,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuff",
-                    "text": "호조 "
+                    "text": "호조"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -225471,7 +225471,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が27ターン以上の場合、"
+                    "text": "가 27턴 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -225527,7 +225527,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が4個以上の場合、"
+                    "text": "저하 상태가 4개 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -225781,7 +225781,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が5枚以下の場合、"
+                    "text": "제외된 스킬 카드(SSR)가 5장 이하일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -243153,7 +243153,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スコアが2000未満の場合、"
+                    "text": "스코어가 2000 미만일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -243275,7 +243275,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "低下状態が4個以上の場合、"
+                    "text": "저하 상태가 4개 이상일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -243529,7 +243529,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカード（SSR）が5枚以下の場合、"
+                    "text": "제외된 스킬 카드(SSR)가 5장 이하일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
