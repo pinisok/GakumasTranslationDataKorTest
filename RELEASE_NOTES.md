@@ -1,5 +1,57 @@
 # Localization Release Notes
 
+## 3.4.0 (2026-09-17)
+- Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.4.0
+- Published: 2026-09-16T16:49:26Z
+- Changes: +16 added / ~4 jp-changed / -78 removed
+
+### Added keys
+- `common.network.error.access_timeout.description`
+- `card.idol_card.upgrade.potential_rank.annotation`
+- `card.idol_card.upgrade.potential_rank.disable_common_resource`
+- `conversion.top.button.all_off`
+- `conversion.top.button.all_on`
+- `produce_card_skin.get_confirm.title`
+- `produce_card_skin.get_confirm.description`
+- `produce_card_skin.get_confirm.button.execute`
+- `setting.preference.live.auto_photo_count`
+- `setting.preference.photography.auto_photo_count.label`
+- `setting.preference.photography.auto_photo_count.description1`
+- `setting.preference.photography.auto_photo_count.description2`
+- `research_event.result_reward.audition_score_title.hif_final`
+- `idol_dearness.top.mission.button.title`
+- `idol_dearness.top.mission.button.unlock_description`
+- `idol_dearness.character_select_sheet.ready_to_level_up`
+
+### JP changed
+- `card.idol_card.upgrade.potential_rank.description`
+- `setting.preference.photography.photo_button_execute.description`
+- `high_score_event.event_info.caution_plan`
+- `high_score_event.event_info.caution_exam_effect`
+
+### Removed keys
+- `card.idol_card.list.max`
+- `card.idol_card.release.confirm.sheet.message`
+- `card.idol_card.upgrade.potential_rank.description_with_common_resource`
+- `card.upgrade_status_list.tab_button.item_upgrade_after`
+- `card.upgrade_status_list.tab_button.item_upgrade_before`
+- `common.step_count`
+- `costume.produce_setting_sheet.description`
+- `costume.produce_setting_sheet.subtitle.live`
+- `costume.produce_setting_sheet.subtitle.produce`
+- `costume.produce_setting_sheet.subtitle.training`
+- `home.footer.button_type.Story.dearness_story_campaign.label`
+- `home.gasha.draw_button.item`
+- `home.gasha.free_noti.label`
+- `home.idol.produce.label`
+- `home.nia_master_ranking.reward_overlay.description`
+- `home.nia_master_ranking.reward_overlay.text`
+- `home.produce.week`
+- `home.produce_progress_sheet.progress.remaining_week_label`
+- `home.produce_progress_sheet.progress.weeks_label`
+- `memory.detail.produce_review.disabled.not_cleared_true_end`
+- … +58 more
+
 ## 3.3.0 (2026-08-17)
 - Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.3.0
 - Published: 2026-08-17T09:54:02Z
