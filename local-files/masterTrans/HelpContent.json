@@ -269,7 +269,7 @@
             "helpCategoryId": "help-dearness-doost-campaign",
             "id": "help-dearness-doost-campaign-info",
             "order": 57,
-            "name": "親愛度ブーストミッション"
+            "name": "친애도 부스트 미션"
         },
         {
             "helpCategoryId": "help-dearness-map",
@@ -695,7 +695,7 @@
             "helpCategoryId": "help-livetour-event",
             "id": "tour-play-ticket",
             "order": 4,
-            "name": "挑戦券"
+            "name": "도전권"
         },
         {
             "helpCategoryId": "help-livetour-event",
@@ -719,7 +719,7 @@
             "helpCategoryId": "help-livetour-event",
             "id": "tour-tour",
             "order": 1,
-            "name": "イベント概要"
+            "name": "이벤트 개요"
         },
         {
             "helpCategoryId": "help-main-story-event",
