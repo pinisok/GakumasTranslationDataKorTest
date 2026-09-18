@@ -326,6 +326,214 @@
             "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
         },
         {
+            "id": "dearness_event_permanent_amao-001",
+            "name": "아리무라 마오의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_amao-002",
+            "name": "아리무라 마오의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_amao-003",
+            "name": "아리무라 마오로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_amao-004",
+            "name": "아리무라 마오로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_atbm-001",
+            "name": "아마야 츠바메의 댄스를 1800 이상으로 육성하여 프로듀스를 클리어"
+        },
+        {
+            "id": "dearness_event_permanent_atbm-002",
+            "name": "아마야 츠바메의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_atbm-003",
+            "name": "아마야 츠바메로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_atbm-004",
+            "name": "아마야 츠바메로 최종시험에 합격하여 평가 SS 이상을 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_fktn-001",
+            "name": "후지타 코토네의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_fktn-002",
+            "name": "후지타 코토네의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_fktn-003",
+            "name": "후지타 코토네로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_fktn-004",
+            "name": "후지타 코토네로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_hmsz-001",
+            "name": "하타야 미스즈의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_hmsz-002",
+            "name": "하타야 미스즈의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_hmsz-003",
+            "name": "하타야 미스즈로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_hmsz-004",
+            "name": "하타야 미스즈로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_hrnm-001",
+            "name": "히메사키 리나미의 비주얼를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_hrnm-002",
+            "name": "히메사키 리나미의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_hrnm-003",
+            "name": "히메사키 리나미로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_hrnm-004",
+            "name": "히메사키 리나미로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_hski-001",
+            "name": "하나미 사키의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_hski-002",
+            "name": "하나미 사키의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_hski-003",
+            "name": "하나미 사키로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_hski-004",
+            "name": "하나미 사키로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_hume-001",
+            "name": "하나미 우메의 댄스를 1800 이상으로 육성하여 프로듀스를 클리어"
+        },
+        {
+            "id": "dearness_event_permanent_hume-002",
+            "name": "하나미 우메의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이즈하자"
+        },
+        {
+            "id": "dearness_event_permanent_hume-003",
+            "name": "하나미 우메로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_hume-004",
+            "name": "하나미 우메로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_jsna-001",
+            "name": "주오 세나의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_jsna-002",
+            "name": "주오 세나의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_jsna-003",
+            "name": "주오 세나로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_jsna-004",
+            "name": "주오 세나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_kcna-001",
+            "name": "쿠라모토 치나의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_kcna-002",
+            "name": "쿠라모토 치나의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_kcna-003",
+            "name": "쿠라모토 치나로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_kcna-004",
+            "name": "쿠라모토 치나로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_kllj-001",
+            "name": "카츠라기 릴리야의 비주얼을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_kllj-002",
+            "name": "카츠라기 릴리야의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_kllj-003",
+            "name": "카츠라기 릴리야로 비주얼 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_kllj-004",
+            "name": "카츠라기 릴리야로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_shro-001",
+            "name": "시노사와 히로의 보컬을 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_shro-002",
+            "name": "시노사와 히로의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_shro-003",
+            "name": "시노사와 히로로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_shro-004",
+            "name": "시노사와 히로로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_ssmk-001",
+            "name": "시운 스미카의 댄스를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_ssmk-002",
+            "name": "시운 스미카의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_ssmk-003",
+            "name": "시운 스미카로 댄스 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_ssmk-004",
+            "name": "시운 스미카로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
+            "id": "dearness_event_permanent_ttmr-001",
+            "name": "츠키무라 테마리의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
+        },
+        {
+            "id": "dearness_event_permanent_ttmr-002",
+            "name": "츠키무라 테마리의 프로듀스에서 스킬 카드를 {threshold}회 커스터마이징하자"
+        },
+        {
+            "id": "dearness_event_permanent_ttmr-003",
+            "name": "츠키무라 테마리로 보컬 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "dearness_event_permanent_ttmr-004",
+            "name": "츠키무라 테마리로 최종 시험에 합격하여 SS 이상 평가를 {threshold}회 획득하자"
+        },
+        {
             "id": "dearness_event_relaunch_amao-001",
             "name": "아리무라 마오의 보컬를 1800 이상으로 육성하여 프로듀스 완료"
         },
