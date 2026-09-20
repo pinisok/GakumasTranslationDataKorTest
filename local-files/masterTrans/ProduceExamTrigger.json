@@ -21009,7 +21009,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "使用時、体力が<nobr>80%以上</nobr>の場合、"
+                    "text": "사용 시, 체력이 <nobr>80% 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -34301,7 +34301,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、除外以外にある"
+                    "text": "턴 시작 시, 제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -34325,7 +34325,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "<nobr>2장 이상</nobr>일 때, "
+                    "text": "가 <nobr>2장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [

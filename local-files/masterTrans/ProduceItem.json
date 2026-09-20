@@ -42417,7 +42417,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始時、除外以外にある"
+                    "text": "턴 시작 시, 제외 이외에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -42437,7 +42437,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "<nobr>2장 이상</nobr>일 때, "
+                    "text": "가 <nobr>2장 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -86469,7 +86469,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "使用時、体力が<nobr>80%以上</nobr>の場合、"
+                    "text": "사용 시, 체력이 <nobr>80% 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -143752,7 +143752,7 @@
                     "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "限界への挑戦券"
+            "name": "한계 도전권"
         },
         {
             "id": "pitem_03-3-007-0",
@@ -165699,7 +165699,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBuffConsumptionAdd_Produce",
-                    "text": "強化状態コスト増加"
+                    "text": "강화 상태 비용 증가 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -165742,7 +165742,7 @@
                     "text": ""
                 }
             ],
-            "name": "止まない嵐"
+            "name": "그치지 않는 폭풍"
         },
         {
             "id": "pitem_03-3-345-1",
@@ -165965,7 +165965,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamBuffConsumptionAdd_Produce",
-                    "text": "強化状態コスト増加"
+                    "text": "강화 상태 비용 증가 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -166008,7 +166008,7 @@
                     "text": ""
                 }
             ],
-            "name": "止まない嵐+"
+            "name": "그치지 않는 폭풍+"
         },
         {
             "id": "pitem_03-3-350-0",

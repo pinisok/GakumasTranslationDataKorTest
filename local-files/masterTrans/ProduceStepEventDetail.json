@@ -118804,7 +118804,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "pitem_03-2-134-0",
-                    "text": "限界への挑戦券"
+                    "text": "한계 도전권"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127069,7 +127069,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-sup-3_252",
-                    "text": "うたたねレポート"
+                    "text": "선잠 리포트"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -127079,7 +127079,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "을 획득"
+                    "text": "를 획득"
                 }
             ]
         },
