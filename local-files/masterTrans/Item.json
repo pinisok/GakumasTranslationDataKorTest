@@ -588,6 +588,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-wednesday-260923",
+            "name": "학원마스 수요일 가챠 티켓",
+            "description": "학원마스 수요일 가챠에서 사용하는 티켓",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-wednesday-fainal-26-001-1",
             "name": "사키의 특별 티켓",
             "description": "매일 가쿠마스 수요일 파이널 시즌 가챠에서 사용하는 티켓",
@@ -859,6 +865,12 @@
         },
         {
             "id": "item-medal-research-event-007",
+            "name": "세미나 너구리",
+            "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-medal-research-event-008",
             "name": "세미나 너구리",
             "description": "이벤트 교환소에서 다양한 보상과 교환할 수 있는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
@@ -1752,6 +1764,12 @@
             "acquisitionRouteDescription": "가챠 등"
         },
         {
+            "id": "item-piece-idol_shro-3-022",
+            "name": "[め]篠澤広のピース",
+            "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
+            "acquisitionRouteDescription": "가챠 등"
+        },
+        {
             "id": "item-piece-idol_ssmk-1-000",
             "name": "[학원생활] 시운 스미카의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
@@ -2077,6 +2095,12 @@
         },
         {
             "id": "item-research-event-007",
+            "name": "아사리 선생님 인감",
+            "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
+            "acquisitionRouteDescription": "프로듀스 등"
+        },
+        {
+            "id": "item-research-event-008",
             "name": "아사리 선생님 인감",
             "description": "아사리 선생님의 프로듀스 세미나 이벤트에서 메모리의 재추첨에 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"

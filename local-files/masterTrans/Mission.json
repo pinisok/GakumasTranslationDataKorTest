@@ -6646,6 +6646,38 @@
             "name": "스킬 카드 「내가 스타」를 획득하고 프로듀스를 클리어하자"
         },
         {
+            "id": "mission-research-event-008-mission_1",
+            "name": "{threshold}일 로그인하자"
+        },
+        {
+            "id": "mission-research-event-008-mission_10",
+            "name": "スキルカード「至高のエンタメ」を獲得してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-008-mission_11",
+            "name": "スキルカード「ひと呼吸」を獲得してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-008-mission_12",
+            "name": "SP 레슨을 {threshold}회 클리어하자"
+        },
+        {
+            "id": "mission-research-event-008-mission_2",
+            "name": "플랜:아노말리의 프로듀스 아이돌로 최종 시험에 {threshold}회 합격하자"
+        },
+        {
+            "id": "mission-research-event-008-mission_3",
+            "name": "프로듀스 상담으로 {threshold}회 교환하자!"
+        },
+        {
+            "id": "mission-research-event-008-mission_8",
+            "name": "스킬 카드 「국민적 아이돌」 을 획득하고 프로듀스를 클리어하자"
+        },
+        {
+            "id": "mission-research-event-008-mission_9",
+            "name": "스킬 카드 「매혹적인 시선」 을 획득하고 프로듀스를 클리어하자"
+        },
+        {
             "id": "mission-story-event-001-mission_1",
             "name": "{threshold}일 로그인하자"
         },
@@ -10064,6 +10096,30 @@
         {
             "id": "achieve-i_card-shro-3-018-06",
             "name": "【가라쿠타 로드】시노사와 히로의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-01",
+            "name": "【め】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-02",
+            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-03",
+            "name": "【め】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-04",
+            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-05",
+            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-022-06",
+            "name": "【め】篠澤 広の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ssmk-2-000-04",
