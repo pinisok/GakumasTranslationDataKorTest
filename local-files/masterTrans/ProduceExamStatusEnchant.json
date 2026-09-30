@@ -92848,7 +92848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード使用後、手札の"
+                    "text": "스킬 카드 사용 후, 손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -93003,7 +93003,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード使用後、手札の"
+                    "text": "스킬 카드 사용 후, 손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",

@@ -52494,7 +52494,7 @@
                     "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "王子様隠しかぼちゃ"
+            "name": "왕자님을 숨긴 호박"
         },
         {
             "id": "pitem_01-3-003-0",
@@ -76703,7 +76703,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード使用後、手札の"
+                    "text": "스킬 카드 사용 후, 손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -76826,7 +76826,7 @@
                     "text": ""
                 }
             ],
-            "name": "天性の才能"
+            "name": "타고난 재능"
         },
         {
             "id": "pitem_01-3-346-1",
@@ -76839,7 +76839,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード使用後、手札の"
+                    "text": "스킬 카드 사용 후, 손 패의 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
@@ -77022,7 +77022,7 @@
                     "text": ""
                 }
             ],
-            "name": "天性の才能+"
+            "name": "타고난 재능+"
         },
         {
             "id": "pitem_01-3-351-0",
@@ -166672,7 +166672,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "小悪魔の色気"
+            "name": "소악마의 매력"
         },
         {
             "id": "pitem_03-3-347-1",
@@ -166878,7 +166878,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "小悪魔の色気+"
+            "name": "소악마의 매력+"
         },
         {
             "id": "pitem_03-3-350-0",

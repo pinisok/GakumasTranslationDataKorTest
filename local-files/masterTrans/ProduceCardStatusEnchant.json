@@ -1398,7 +1398,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+15（3回まで）"
+                    "text": "+15 (3회까지)"
                 }
             ]
         },
@@ -1483,7 +1483,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "+8（3回まで）"
+                    "text": "+8 (3회까지)"
                 }
             ]
         },

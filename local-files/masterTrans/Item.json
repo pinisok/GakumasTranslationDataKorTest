@@ -85,7 +85,7 @@
         },
         {
             "id": "item-coin-box-gasha-event-022",
-            "name": "はなやぐはつぼし",
+            "name": "화사한 하츠보시",
             "description": "이벤트 가챠에서 사용하는 아이템",
             "acquisitionRouteDescription": "프로듀스 등"
         },
@@ -1477,7 +1477,7 @@
         },
         {
             "id": "item-piece-idol_hume-3-022",
-            "name": "[Agitato]花海佑芽のピース",
+            "name": "[Agitato] 하나미 우메의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "이벤트 가챠 등"
         },
@@ -1711,7 +1711,7 @@
         },
         {
             "id": "item-piece-idol_kllj-3-022",
-            "name": "[Agitato]葛城リーリヤのピース",
+            "name": "[Agitato] 카츠라기 릴리야의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
