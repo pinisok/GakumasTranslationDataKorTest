@@ -1,5 +1,56 @@
 # Localization Release Notes
 
+## 3.5.0 (2026-10-15)
+- Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.5.0
+- Published: 2026-10-15T14:07:31Z
+- Changes: +59 added / ~0 jp-changed / -78 removed
+
+### Added keys
+- `produce.shop.tag.sold`
+- `produce.shop.tag.exclude`
+- `home.idol.memory_list_menu.memory_remake.label`
+- `home.idol.memory_list_menu.memory_remake.button`
+- `home.present.selectable_login_bonus`
+- `present.selectable_loginbonus`
+- `present.selectable_loginbonus.balloon`
+- `story_event.point_reward.label`
+- `story_event.point_reward.button`
+- `story_event.point_reward.complete`
+- `story_event.character_introduction.introduce_label`
+- `story.story_event.mission_header.title`
+- `story.play_confirm_sheet.description.number_sign.default`
+- `story.play_confirm_sheet.description.number_sign.unread_previous`
+- `login_bonus.selectable.button.decide`
+- `login_bonus.selectable.button.decide.disable`
+- `login_bonus.selectable.button.cancel`
+- `login_bonus.selectable.button.info`
+- `login_bonus.selectable.description`
+- `login_bonus.selectable.cancel_sheet.title`
+- … +39 more
+
+### Removed keys
+- `card.idol_card.list.max`
+- `card.idol_card.release.confirm.sheet.message`
+- `card.idol_card.upgrade.potential_rank.description_with_common_resource`
+- `card.upgrade_status_list.tab_button.item_upgrade_after`
+- `card.upgrade_status_list.tab_button.item_upgrade_before`
+- `common.step_count`
+- `costume.produce_setting_sheet.description`
+- `costume.produce_setting_sheet.subtitle.live`
+- `costume.produce_setting_sheet.subtitle.produce`
+- `costume.produce_setting_sheet.subtitle.training`
+- `home.footer.button_type.Story.dearness_story_campaign.label`
+- `home.gasha.draw_button.item`
+- `home.gasha.free_noti.label`
+- `home.idol.produce.label`
+- `home.nia_master_ranking.reward_overlay.description`
+- `home.nia_master_ranking.reward_overlay.text`
+- `home.produce.week`
+- `home.produce_progress_sheet.progress.remaining_week_label`
+- `home.produce_progress_sheet.progress.weeks_label`
+- `memory.detail.produce_review.disabled.not_cleared_true_end`
+- … +58 more
+
 ## 3.4.1 (2026-09-26)
 - Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.4.1
 - Published: 2026-09-25T14:35:33Z
