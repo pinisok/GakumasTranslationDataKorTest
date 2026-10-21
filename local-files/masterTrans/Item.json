@@ -182,7 +182,7 @@
         {
             "id": "item-coin-highscorerush-event-016",
             "name": "별의 반짝임",
-            "description": "十王邦夫のアイドル強化月間〜星々のきらめき〜(十王星南/月村手毬)のイベントガシャで使用するアイテム",
+            "description": "주오 쿠니오의 아이돌 강화의 달 ~별들의 반짝임~ (주오 세나/츠키무라 테마리)의 이벤트 가챠에서 사용하는 아이템",
             "acquisitionRouteDescription": "이벤트 모드 프로듀스 등"
         },
         {
@@ -1429,7 +1429,7 @@
         },
         {
             "id": "item-piece-idol_hski-3-022",
-            "name": "[Agitato]花海咲季のピース",
+            "name": "[Agitato] 하나미 사키의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -1579,7 +1579,7 @@
         },
         {
             "id": "item-piece-idol_jsna-3-021",
-            "name": "[Roar]十王星南のピース",
+            "name": "[Roar]주오 세나의 조각",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },

@@ -47396,7 +47396,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-ido-3_249",
-                    "text": "獲物はあなた"
+                    "text": "사냥감은 너 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47470,7 +47470,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-ido-3_249",
-                    "text": "獲物はあなた"
+                    "text": "사냥감은 너 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -264815,7 +264815,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-act-2_113",
-                    "text": "衝動"
+                    "text": "충동 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -264997,7 +264997,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-act-2_113",
-                    "text": "衝動"
+                    "text": "충동 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265122,7 +265122,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-1_026",
-                    "text": "競争原理"
+                    "text": "경쟁 원리 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265304,7 +265304,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-1_026",
-                    "text": "競争原理"
+                    "text": "경쟁 원리 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265712,7 +265712,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-1_091",
-                    "text": "安定感"
+                    "text": "안정감 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -265894,7 +265894,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-1_091",
-                    "text": "安定感"
+                    "text": "안정감 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -271070,7 +271070,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_044",
-                    "text": "天使の微笑み"
+                    "text": "천사의 미소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -271252,7 +271252,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_044",
-                    "text": "天使の微笑み"
+                    "text": "천사의 미소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272557,7 +272557,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_116",
-                    "text": "ごきげんスキップ"
+                    "text": "신나는 스킵 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -272739,7 +272739,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_116",
-                    "text": "ごきげんスキップ"
+                    "text": "신나는 스킵 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273785,7 +273785,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-1_093",
-                    "text": "メイクアップ"
+                    "text": "메이크업 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -273967,7 +273967,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-1_093",
-                    "text": "メイクアップ"
+                    "text": "메이크업 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -274092,7 +274092,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-1_094",
-                    "text": "ロマンチック"
+                    "text": "로맨틱 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -274274,7 +274274,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-1_094",
-                    "text": "ロマンチック"
+                    "text": "로맨틱 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282117,7 +282117,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_118",
-                    "text": "ラッシュ"
+                    "text": "러시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282299,7 +282299,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_118",
-                    "text": "ラッシュ"
+                    "text": "러시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282424,7 +282424,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_120",
-                    "text": "ブースト"
+                    "text": "부스트 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -282606,7 +282606,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_120",
-                    "text": "ブースト"
+                    "text": "부스트 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -328534,7 +328534,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -328716,7 +328716,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

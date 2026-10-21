@@ -36937,7 +36937,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>5ターン以内</nobr>の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "남은 턴이 <nobr>5턴 이내</nobr>일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -51466,7 +51466,7 @@
                     "text": "(프로듀스 중 2회)"
                 }
             ],
-            "name": "ねぎらいコーヒー"
+            "name": "수고했어 커피"
         },
         {
             "id": "pitem_01-2-096-0",
@@ -77377,7 +77377,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>4ターン以内</nobr>のターン開始後、"
+                    "text": "남은 <nobr>4턴 이내</nobr>의 턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77477,7 +77477,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-3_249",
-                    "text": "獲物はあなた"
+                    "text": "사냥감은 당신 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77680,7 +77680,7 @@
                     "text": "내 4회)"
                 }
             ],
-            "name": "世界を魅了する姿"
+            "name": "세계를 매료시키는 모습"
         },
         {
             "id": "pitem_01-3-349-1",
@@ -77693,7 +77693,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>5ターン以内</nobr>のターン開始後、"
+                    "text": "남은 <nobr>5턴 이내</nobr>의 턴 시작 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77793,7 +77793,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-ido-3_249",
-                    "text": "獲物はあなた"
+                    "text": "사냥감은 당신 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77996,7 +77996,7 @@
                     "text": "내 5회)"
                 }
             ],
-            "name": "世界を魅了する姿+"
+            "name": "세계를 매료시키는 모습+"
         },
         {
             "id": "pitem_01-3-351-0",
@@ -78258,7 +78258,7 @@
                     "text": "(프로듀스 중 4회)"
                 }
             ],
-            "name": "お誘いチケット"
+            "name": "초대 티켓"
         },
         {
             "id": "pitem_02-0-002-0-000",
@@ -100008,7 +100008,7 @@
                     "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "お手製ぴったり衣装"
+            "name": "손수 만든 맞춤 의상"
         },
         {
             "id": "pitem_02-3-005-0",
@@ -128410,7 +128410,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "規格外の魅力"
+            "name": "규격 밖의 매력"
         },
         {
             "id": "pitem_02-3-348-1",
@@ -128686,7 +128686,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "規格外の魅力+"
+            "name": "규격 밖의 매력+"
         },
         {
             "id": "pitem_02-3-353-0",
@@ -128795,7 +128795,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード強化時、ビジュアルが900以上の場合、\n"
+                    "text": "효과의 스킬 카드 강화 시, 비주얼이 900 이상일 때,\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -128898,7 +128898,7 @@
                     "text": "(프로듀스 중 2회)"
                 }
             ],
-            "name": "花海ファームランタン"
+            "name": "하나미 팜 랜턴"
         },
         {
             "id": "pitem_03-0-003-0-000",
@@ -132797,7 +132797,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード使用時、この"
+                    "text": "효과의 스킬 카드 사용 시, 이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",

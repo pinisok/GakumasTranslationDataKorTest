@@ -7374,7 +7374,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-act-2_113",
-                    "text": "衝動"
+                    "text": "충동 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7602,7 +7602,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-1_026",
-                    "text": "競争原理"
+                    "text": "경쟁 원리 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7716,7 +7716,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-01-men-1_091",
-                    "text": "安定感"
+                    "text": "안정감 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8856,7 +8856,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_044",
-                    "text": "天使の微笑み"
+                    "text": "천사의 미소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9255,7 +9255,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-act-2_116",
-                    "text": "ごきげんスキップ"
+                    "text": "신나는 스킵 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9882,7 +9882,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-1_093",
-                    "text": "メイクアップ"
+                    "text": "메이크업 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -9939,7 +9939,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-02-men-1_094",
-                    "text": "ロマンチック"
+                    "text": "로맨틱 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11877,7 +11877,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_118",
-                    "text": "ラッシュ"
+                    "text": "러시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -11934,7 +11934,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-act-2_120",
-                    "text": "ブースト"
+                    "text": "부스트 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16656,7 +16656,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "効果のスキルカード使用時、この"
+                    "text": "효과의 스킬 카드 사용 시, 이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -30753,7 +30753,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>5ターン以内</nobr>の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "남은 <nobr>5턴 이내</nobr>일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -34619,7 +34619,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -34645,7 +34645,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、使用可"
+                    "text": "가 <nobr>40 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -34671,7 +34671,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 }
             ]
         },
@@ -51862,7 +51862,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -51888,7 +51888,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、使用可"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -51914,7 +51914,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, "
                 }
             ]
         },
@@ -55549,7 +55549,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>4ターン以内</nobr>のターン開始後、"
+                    "text": "남은 <nobr>4턴 이내</nobr>의 턴 시작 후, "
                 }
             ],
             "playProduceDescriptions": [
@@ -55594,7 +55594,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "残り<nobr>5ターン以内</nobr>のターン開始後、"
+                    "text": "남은 <nobr>5턴 이내</nobr>의 턴 시작 후, "
                 }
             ],
             "playProduceDescriptions": [

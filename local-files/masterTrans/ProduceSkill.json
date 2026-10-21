@@ -18737,7 +18737,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-men-1_026",
-                    "text": "競争原理"
+                    "text": "경쟁 원리 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18893,7 +18893,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-men-1_091",
-                    "text": "安定感"
+                    "text": "안정감 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19205,7 +19205,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-01-act-2_113",
-                    "text": "衝動"
+                    "text": "충동 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19361,7 +19361,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_093",
-                    "text": "メイクアップ"
+                    "text": "메이크업 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19517,7 +19517,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-men-1_094",
-                    "text": "ロマンチック"
+                    "text": "로맨틱 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19673,7 +19673,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-2_044",
-                    "text": "天使の微笑み"
+                    "text": "천사의 미소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19829,7 +19829,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-02-act-2_116",
-                    "text": "ごきげんスキップ"
+                    "text": "신나는 스킵 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19985,7 +19985,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-2_118",
-                    "text": "ラッシュ"
+                    "text": "러시 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20141,7 +20141,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-act-2_120",
-                    "text": "ブースト"
+                    "text": "부스트 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -38169,7 +38169,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "相談でスキルカード交換後、ビジュアル上昇+"
+                    "text": "상담에서 스킬 카드 교환 후, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -38225,7 +38225,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "相談でスキルカード交換後、ビジュアル上昇+"
+                    "text": "상담에서 스킬 카드 교환 후, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -38281,7 +38281,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "相談でスキルカード交換後、ビジュアル上昇+"
+                    "text": "상담에서 스킬 카드 교환 후, 비주얼 상승 +"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_DiffText",

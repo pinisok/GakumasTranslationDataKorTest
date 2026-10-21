@@ -4691,7 +4691,7 @@
         },
         {
             "id": "mission-highscorerush-event-016-mission_32",
-            "name": "十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+            "name": "주오 세나의 프로듀스로 최종시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-016-mission_33",
@@ -4711,7 +4711,7 @@
         },
         {
             "id": "mission-highscorerush-event-016-mission_42",
-            "name": "十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+            "name": "주오 세나의 프로듀스로 최종시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-016-mission_43",
@@ -4731,7 +4731,7 @@
         },
         {
             "id": "mission-highscorerush-event-016-mission_52",
-            "name": "十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+            "name": "주오 세나의 프로듀스로 최종시험에 {threshold}회 합격하자"
         },
         {
             "id": "mission-highscorerush-event-016-mission_53",
@@ -6807,7 +6807,7 @@
         },
         {
             "id": "mission-research-event-009-mission_11",
-            "name": "スキルカード「エキサイト」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「익사이트」를 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-009-mission_12",
@@ -9099,27 +9099,27 @@
         },
         {
             "id": "achieve-i_card-hski-3-022-01",
-            "name": "【Agitato】花海 咲季のプロデュースで最終試験に合格"
+            "name": "【Agitato】하나미 사키의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hski-3-022-02",
-            "name": "【Agitato】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-022-03",
-            "name": "【Agitato】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【Agitato】하나미 사키의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-hski-3-022-04",
-            "name": "【Agitato】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-022-05",
-            "name": "【Agitato】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hski-3-022-06",
-            "name": "【Agitato】花海 咲季の特訓段階を{threshold}にする"
+            "name": "【Agitato】하나미 사키의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-hume-2-000-01",
@@ -9603,27 +9603,27 @@
         },
         {
             "id": "achieve-i_card-jsna-3-021-01",
-            "name": "【Roar】十王 星南のプロデュースで最終試験に合格"
+            "name": "【Roar】주오 세나의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-jsna-3-021-02",
-            "name": "【Roar】十王 星南の特訓段階を{threshold}にする"
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-021-03",
-            "name": "【Roar】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【Roar】주오 세나의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-jsna-3-021-04",
-            "name": "【Roar】十王 星南の特訓段階を{threshold}にする"
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-021-05",
-            "name": "【Roar】十王 星南の特訓段階を{threshold}にする"
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-jsna-3-021-06",
-            "name": "【Roar】十王 星南の特訓段階を{threshold}にする"
+            "name": "【Roar】주오 세나의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-kcna-2-000-04",

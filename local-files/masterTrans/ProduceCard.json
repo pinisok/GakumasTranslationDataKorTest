@@ -51795,7 +51795,7 @@
                     "text": ""
                 }
             ],
-            "name": "再始動+"
+            "name": "재시동+"
         },
         {
             "id": "p_card-01-act-2_108",
@@ -52052,7 +52052,7 @@
                     "text": ""
                 }
             ],
-            "name": "再始動++"
+            "name": "재시동++"
         },
         {
             "id": "p_card-01-act-2_108",
@@ -52309,7 +52309,7 @@
                     "text": ""
                 }
             ],
-            "name": "再始動+++"
+            "name": "재시동+++"
         },
         {
             "id": "p_card-01-act-2_113",
@@ -52566,7 +52566,7 @@
                     "text": ""
                 }
             ],
-            "name": "衝動"
+            "name": "충동"
         },
         {
             "id": "p_card-01-act-2_113",
@@ -52823,7 +52823,7 @@
                     "text": ""
                 }
             ],
-            "name": "衝動+"
+            "name": "충동+"
         },
         {
             "id": "p_card-01-act-2_113",
@@ -53080,7 +53080,7 @@
                     "text": ""
                 }
             ],
-            "name": "衝動++"
+            "name": "충동++"
         },
         {
             "id": "p_card-01-act-2_113",
@@ -53337,7 +53337,7 @@
                     "text": ""
                 }
             ],
-            "name": "衝動+++"
+            "name": "충동+++"
         },
         {
             "id": "p_card-01-act-3_010",
@@ -124046,7 +124046,7 @@
                     "text": ""
                 }
             ],
-            "name": "獲物はあなた"
+            "name": "사냥감은 너"
         },
         {
             "id": "p_card-01-ido-3_249",
@@ -124443,7 +124443,7 @@
                     "text": ""
                 }
             ],
-            "name": "獲物はあなた+"
+            "name": "사냥감은 너+"
         },
         {
             "id": "p_card-01-ido-3_249",
@@ -124840,7 +124840,7 @@
                     "text": ""
                 }
             ],
-            "name": "獲物はあなた++"
+            "name": "사냥감은 너++"
         },
         {
             "id": "p_card-01-ido-3_249",
@@ -125237,7 +125237,7 @@
                     "text": ""
                 }
             ],
-            "name": "獲物はあなた+++"
+            "name": "사냥감은 너+++"
         },
         {
             "id": "p_card-01-men-0_007",
@@ -131186,7 +131186,7 @@
                     "text": ""
                 }
             ],
-            "name": "競争原理"
+            "name": "경쟁 원리"
         },
         {
             "id": "p_card-01-men-1_026",
@@ -131453,7 +131453,7 @@
                     "text": ""
                 }
             ],
-            "name": "競争原理+"
+            "name": "경쟁 원리+"
         },
         {
             "id": "p_card-01-men-1_026",
@@ -131720,7 +131720,7 @@
                     "text": ""
                 }
             ],
-            "name": "競争原理++"
+            "name": "경쟁 원리++"
         },
         {
             "id": "p_card-01-men-1_026",
@@ -131987,7 +131987,7 @@
                     "text": ""
                 }
             ],
-            "name": "競争原理+++"
+            "name": "경쟁 원리+++"
         },
         {
             "id": "p_card-01-men-1_034",
@@ -132959,7 +132959,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -133042,7 +133042,7 @@
                     "text": ""
                 }
             ],
-            "name": "安定感"
+            "name": "안정감"
         },
         {
             "id": "p_card-01-men-1_091",
@@ -133226,7 +133226,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -133309,7 +133309,7 @@
                     "text": ""
                 }
             ],
-            "name": "安定感+"
+            "name": "안정감+"
         },
         {
             "id": "p_card-01-men-1_091",
@@ -133493,7 +133493,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -133576,7 +133576,7 @@
                     "text": ""
                 }
             ],
-            "name": "安定感++"
+            "name": "안정감++"
         },
         {
             "id": "p_card-01-men-1_091",
@@ -133760,7 +133760,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>9ターン以下</nobr>の場合、"
+                    "text": "가 <nobr>9턴 이하</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -133843,7 +133843,7 @@
                     "text": ""
                 }
             ],
-            "name": "安定感+++"
+            "name": "안정감+++"
         },
         {
             "id": "p_card-01-men-100_001",
@@ -177760,7 +177760,7 @@
                     "text": ""
                 }
             ],
-            "name": "天使の微笑み"
+            "name": "천사의 미소"
         },
         {
             "id": "p_card-02-act-2_044",
@@ -178037,7 +178037,7 @@
                     "text": ""
                 }
             ],
-            "name": "天使の微笑み+"
+            "name": "천사의 미소+"
         },
         {
             "id": "p_card-02-act-2_044",
@@ -178314,7 +178314,7 @@
                     "text": ""
                 }
             ],
-            "name": "天使の微笑み++"
+            "name": "천사의 미소++"
         },
         {
             "id": "p_card-02-act-2_044",
@@ -178591,7 +178591,7 @@
                     "text": ""
                 }
             ],
-            "name": "天使の微笑み+++"
+            "name": "천사의 미소+++"
         },
         {
             "id": "p_card-02-act-2_045",
@@ -184486,7 +184486,7 @@
                     "text": ""
                 }
             ],
-            "name": "ごきげんスキップ"
+            "name": "신나는 스킵"
         },
         {
             "id": "p_card-02-act-2_116",
@@ -184793,7 +184793,7 @@
                     "text": ""
                 }
             ],
-            "name": "ごきげんスキップ+"
+            "name": "신나는 스킵+"
         },
         {
             "id": "p_card-02-act-2_116",
@@ -185100,7 +185100,7 @@
                     "text": ""
                 }
             ],
-            "name": "ごきげんスキップ++"
+            "name": "신나는 스킵++"
         },
         {
             "id": "p_card-02-act-2_116",
@@ -185407,7 +185407,7 @@
                     "text": ""
                 }
             ],
-            "name": "ごきげんスキップ+++"
+            "name": "신나는 스킵+++"
         },
         {
             "id": "p_card-02-act-3_001",
@@ -268969,7 +268969,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269142,7 +269142,7 @@
                     "text": ""
                 }
             ],
-            "name": "スイートトラップ♡"
+            "name": "스위트 트랩♡"
         },
         {
             "id": "p_card-02-ido-3_248",
@@ -269326,7 +269326,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269499,7 +269499,7 @@
                     "text": ""
                 }
             ],
-            "name": "スイートトラップ♡+"
+            "name": "스위트 트랩♡+"
         },
         {
             "id": "p_card-02-ido-3_248",
@@ -269713,7 +269713,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -269886,7 +269886,7 @@
                     "text": ""
                 }
             ],
-            "name": "スイートトラップ♡++"
+            "name": "스위트 트랩♡++"
         },
         {
             "id": "p_card-02-ido-3_248",
@@ -270100,7 +270100,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>40以上</nobr>の場合、"
+                    "text": "가 <nobr>40 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -270273,7 +270273,7 @@
                     "text": ""
                 }
             ],
-            "name": "スイートトラップ♡+++"
+            "name": "스위트 트랩♡+++"
         },
         {
             "id": "p_card-02-men-0_011",
@@ -280320,7 +280320,7 @@
                     "text": ""
                 }
             ],
-            "name": "メイクアップ"
+            "name": "메이크업"
         },
         {
             "id": "p_card-02-men-1_093",
@@ -280567,7 +280567,7 @@
                     "text": ""
                 }
             ],
-            "name": "メイクアップ+"
+            "name": "메이크업+"
         },
         {
             "id": "p_card-02-men-1_093",
@@ -280814,7 +280814,7 @@
                     "text": ""
                 }
             ],
-            "name": "メイクアップ++"
+            "name": "메이크업++"
         },
         {
             "id": "p_card-02-men-1_093",
@@ -281061,7 +281061,7 @@
                     "text": ""
                 }
             ],
-            "name": "メイクアップ+++"
+            "name": "메이크업+++"
         },
         {
             "id": "p_card-02-men-1_094",
@@ -281298,7 +281298,7 @@
                     "text": ""
                 }
             ],
-            "name": "ロマンチック"
+            "name": "로맨틱"
         },
         {
             "id": "p_card-02-men-1_094",
@@ -281535,7 +281535,7 @@
                     "text": ""
                 }
             ],
-            "name": "ロマンチック+"
+            "name": "로맨틱+"
         },
         {
             "id": "p_card-02-men-1_094",
@@ -281772,7 +281772,7 @@
                     "text": ""
                 }
             ],
-            "name": "ロマンチック++"
+            "name": "로맨틱++"
         },
         {
             "id": "p_card-02-men-1_094",
@@ -282009,7 +282009,7 @@
                     "text": ""
                 }
             ],
-            "name": "ロマンチック+++"
+            "name": "로맨틱+++"
         },
         {
             "id": "p_card-02-men-100_007",
@@ -349229,7 +349229,7 @@
                     "text": ""
                 }
             ],
-            "name": "ラッシュ"
+            "name": "러시"
         },
         {
             "id": "p_card-03-act-2_118",
@@ -349556,7 +349556,7 @@
                     "text": ""
                 }
             ],
-            "name": "ラッシュ+"
+            "name": "러시+"
         },
         {
             "id": "p_card-03-act-2_118",
@@ -349883,7 +349883,7 @@
                     "text": ""
                 }
             ],
-            "name": "ラッシュ++"
+            "name": "러시++"
         },
         {
             "id": "p_card-03-act-2_118",
@@ -350210,7 +350210,7 @@
                     "text": ""
                 }
             ],
-            "name": "ラッシュ+++"
+            "name": "러시+++"
         },
         {
             "id": "p_card-03-act-2_120",
@@ -350457,7 +350457,7 @@
                     "text": ""
                 }
             ],
-            "name": "ブースト"
+            "name": "부스트"
         },
         {
             "id": "p_card-03-act-2_120",
@@ -350714,7 +350714,7 @@
                     "text": ""
                 }
             ],
-            "name": "ブースト+"
+            "name": "부스트+"
         },
         {
             "id": "p_card-03-act-2_120",
@@ -350971,7 +350971,7 @@
                     "text": ""
                 }
             ],
-            "name": "ブースト++"
+            "name": "부스트++"
         },
         {
             "id": "p_card-03-act-2_120",
@@ -351228,7 +351228,7 @@
                     "text": ""
                 }
             ],
-            "name": "ブースト+++"
+            "name": "부스트+++"
         },
         {
             "id": "p_card-03-act-3_053",
