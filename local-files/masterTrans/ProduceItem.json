@@ -82725,7 +82725,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が4回増加時、"
+                    "text": "이 4회 증가 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -137177,7 +137177,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>10以上</nobr>の場合、ターン内にスキルカードを5回使用するごとに、"
+                    "text": "가 <nobr>10 이상</nobr>일 때, 턴 내에 스킬 카드를 5회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -167887,7 +167887,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始後、この"
+                    "text": "턴 시작 후, 이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -168087,7 +168087,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_209",
-                    "text": "結果としての今"
+                    "text": "결과로서의 지금 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -168170,7 +168170,7 @@
                     "text": "내 1회)"
                 }
             ],
-            "name": "ヒーローの輝き"
+            "name": "히어로의 빛"
         },
         {
             "id": "pitem_03-3-337-1",
@@ -168183,7 +168183,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始後、この"
+                    "text": "턴 시작 후, 이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -168383,7 +168383,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_209",
-                    "text": "結果としての今"
+                    "text": "결과로서의 지금 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -168466,7 +168466,7 @@
                     "text": "내 1회)"
                 }
             ],
-            "name": "ヒーローの輝き+"
+            "name": "히어로의 빛+"
         },
         {
             "id": "pitem_03-3-338-0",

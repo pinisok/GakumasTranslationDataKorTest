@@ -19357,7 +19357,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外以外のスキルカードを<nobr>2枚</nobr>まで選択し、"
+                    "text": "제외되지 않은 스킬 카드를 <nobr>2장</nobr>까지 선택해, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -19455,7 +19455,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外以外のスキルカードを<nobr>2枚</nobr>まで選択し、"
+                    "text": "제외되지 않은 스킬 카드를 <nobr>2장</nobr>까지 선택해, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -47133,7 +47133,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-ido-3_209",
-                    "text": "結果としての今"
+                    "text": "결과로서의 지금 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47207,7 +47207,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-ido-3_209",
-                    "text": "結果としての今"
+                    "text": "결과로서의 지금 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55521,7 +55521,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "このターンのターン終了時、"
+                    "text": "이 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -55533,7 +55533,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamEnthusiasticTurnAdd",
-                    "text": "熱意延長"
+                    "text": "열의 연장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55607,7 +55607,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "このターンのターン終了時、"
+                    "text": "이 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -55619,7 +55619,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamEnthusiasticTurnAdd",
-                    "text": "熱意延長"
+                    "text": "열의 연장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -94191,7 +94191,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamEnthusiasticTurnAdd",
-                    "text": "熱意延長"
+                    "text": "열의 연장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -94253,7 +94253,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamEnthusiasticTurnAdd",
-                    "text": "熱意延長"
+                    "text": "열의 연장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260713,7 +260713,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamEnthusiasticTurnAdd",
-                    "text": "熱意延長"
+                    "text": "열의 연장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260823,7 +260823,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamEnthusiasticTurnAdd",
-                    "text": "熱意延長"
+                    "text": "열의 연장"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262466,7 +262466,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外以外のスキルカードを<nobr>2枚</nobr>まで選択し、"
+                    "text": "제외되지 않은 스킬 카드를 <nobr>2장</nobr>까지 선택해, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -262684,7 +262684,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外以外のスキルカードを<nobr>2枚</nobr>まで選択し、"
+                    "text": "제외되지 않은 스킬 카드를 <nobr>2장</nobr>까지 선택해, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",

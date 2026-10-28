@@ -367,33 +367,33 @@
         },
         {
             "id": "achieve-i_card-atbm-3-015-01",
-            "name": "結果としての今",
-            "description": "【ガラクタロード】雨夜 燕のプロデュースで最終試験に合格"
+            "name": "결과로서의 지금",
+            "description": "【가라쿠타로드】아마야 츠바메의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-atbm-3-015-02",
             "name": "가라쿠타로드",
-            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-015-03",
-            "name": "楽しんでくるぞ、プロデューサー！",
-            "description": "【ガラクタロード】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "즐기고 오겠다, 프로듀서!",
+            "description": "【가라쿠타로드】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-atbm-3-015-04",
             "name": "가라쿠타로드 +",
-            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-015-05",
             "name": "가라쿠타로드 ++",
-            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-015-06",
             "name": "가라쿠타로드 +++",
-            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "description": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-018-01",
@@ -4242,8 +4242,8 @@
         },
         {
             "id": "achieve-p_idol-atbm-000-2",
-            "name": "未来永劫、私のモノだ",
-            "description": "雨夜 燕でTrue End : H.I.Fをみる"
+            "name": "영원히 내 것이다",
+            "description": "아마야 츠바메로 True End : H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-atbm-001",
@@ -4362,13 +4362,13 @@
         },
         {
             "id": "achieve-p_idol-atbm-025",
-            "name": "望み続けた称号",
-            "description": "雨夜 燕でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "줄곧 바라던 칭호",
+            "description": "아마야 츠바메로 H.I.F 최종시험에 합격해 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-atbm-026",
-            "name": "星に届くまでの距離",
-            "description": "雨夜 燕でH.I.Fの最終試験に{threshold}回合格"
+            "name": "별에 닿기까지의 거리",
+            "description": "아마야 츠바메로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-atbm-027",

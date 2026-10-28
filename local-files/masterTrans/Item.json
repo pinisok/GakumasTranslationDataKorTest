@@ -1141,7 +1141,7 @@
         },
         {
             "id": "item-piece-idol_atbm-3-015",
-            "name": "[ガラクタロード]雨夜燕のピース",
+            "name": "[가라쿠타로드] 아마야 츠바메의 피스",
             "description": "프로듀스 아이돌의 재능 개화나 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "가챠 등"
         },
@@ -2029,8 +2029,8 @@
         },
         {
             "id": "item-primastellamaterial-idol_atbm-001",
-            "name": "燕の一番星の光",
-            "description": "雨夜燕の『一番星』解放で使用するアイテム",
+            "name": "츠바메의 샛별의 빛",
+            "description": "아마야 츠바메의 『샛별』 해방에 사용하는 아이템",
             "acquisitionRouteDescription": "도전 과제 등"
         },
         {

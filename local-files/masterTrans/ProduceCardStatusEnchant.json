@@ -6558,7 +6558,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "未定義のパターン(Type: ExamStanceChangeFullPower, PhaseValue: 0, ProduceCardSearchID: p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000, UpperCount: 0, LowerCount: 0)"
+                    "text": "미정의 패턴(Type: ExamStanceChangeFullPower, PhaseValue: 0, ProduceCardSearchID: p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000, UpperCount: 0, LowerCount: 0)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

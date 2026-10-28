@@ -1227,7 +1227,7 @@
         },
         {
             "id": "hidden_mission-dearness-story-atbm-37",
-            "name": "燕でHIF本戦を優勝"
+            "name": "츠바메로 HIF 본선에서 우승"
         },
         {
             "id": "hidden_mission-dearness-story-fktn-37",
@@ -2495,7 +2495,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_13",
-            "name": "雨夜 燕のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+            "name": "아마야 츠바메의 프로듀스로 「H.I.F」: 본선을 {threshold}회 완료하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_14",
@@ -2547,7 +2547,7 @@
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_26",
-            "name": "雨夜 燕の親愛度Lvを{threshold}にしよう"
+            "name": "아마야 츠바메의 친애도 Lv {threshold}을 달성하자"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_27",
@@ -6851,7 +6851,7 @@
         },
         {
             "id": "mission-research-event-010-mission_10",
-            "name": "スキルカード「覚醒」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「각성」을 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-research-event-010-mission_11",
@@ -6875,7 +6875,7 @@
         },
         {
             "id": "mission-research-event-010-mission_9",
-            "name": "スキルカード「魅惑のパフォーマンス」を獲得してプロデュースをクリアしよう"
+            "name": "스킬 카드 「매혹적인 퍼포먼스」를 획득하고 프로듀스를 클리어하자"
         },
         {
             "id": "mission-story-event-001-mission_1",
@@ -8211,27 +8211,27 @@
         },
         {
             "id": "achieve-i_card-atbm-3-015-01",
-            "name": "【ガラクタロード】雨夜 燕のプロデュースで最終試験に合格"
+            "name": "【가라쿠타로드】아마야 츠바메의 프로듀스로 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-atbm-3-015-02",
-            "name": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-015-03",
-            "name": "【ガラクタロード】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "【가라쿠타로드】아마야 츠바메의 프로듀스로 평가 A+ 이상을 {threshold}회 획득"
         },
         {
             "id": "achieve-i_card-atbm-3-015-04",
-            "name": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-015-05",
-            "name": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-015-06",
-            "name": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+            "name": "【가라쿠타로드】아마야 츠바메의 특훈 단계 {threshold} 달성"
         },
         {
             "id": "achieve-i_card-atbm-3-018-01",
@@ -11311,7 +11311,7 @@
         },
         {
             "id": "achieve-p_idol-atbm-000-2",
-            "name": "雨夜 燕でTrue End : H.I.Fをみる"
+            "name": "아마야 츠바메로 True End : H.I.F 보기"
         },
         {
             "id": "achieve-p_idol-atbm-001",
@@ -11407,11 +11407,11 @@
         },
         {
             "id": "achieve-p_idol-atbm-025",
-            "name": "雨夜 燕でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+            "name": "아마야 츠바메로 H.I.F 최종시험에 합격해 평가 S4+ 이상 획득"
         },
         {
             "id": "achieve-p_idol-atbm-026",
-            "name": "雨夜 燕でH.I.Fの最終試験に{threshold}回合格"
+            "name": "아마야 츠바메로 H.I.F 최종시험에 {threshold}회 합격"
         },
         {
             "id": "achieve-p_idol-atbm-027",

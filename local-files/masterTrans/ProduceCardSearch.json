@@ -1418,7 +1418,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_209",
-                    "text": "結果としての今"
+                    "text": "결과로서의 지금 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1658,7 +1658,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカード2枚"
+                    "text": "에 있는 스킬 카드 2장"
                 }
             ]
         },
@@ -1683,7 +1683,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "にある"
+                    "text": "에 있는 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

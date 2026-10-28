@@ -213,12 +213,12 @@
         {
             "id": "costume_head_atbm-cstm-0136",
             "name": "가라쿠타로드",
-            "description": "【ガラクタロード】雨夜 燕を入手"
+            "description": "【가라쿠타로드】아마야 츠바메 획득"
         },
         {
             "id": "costume_head_atbm-cstm-0137",
             "name": "가라쿠타로드",
-            "description": "【ガラクタロード】雨夜 燕の才能開花4段階目で入手"
+            "description": "【가라쿠타로드】아마야 츠바메의 재능 개화 4단계 달성"
         },
         {
             "id": "costume_head_atbm-cstm-0145",
@@ -458,7 +458,7 @@
         {
             "id": "costume_head_fktn-hair-0009",
             "name": "큼직한 리본",
-            "description": "プレミアムミッションパス 2025年11月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_fktn-hair-0012",
@@ -482,8 +482,8 @@
         },
         {
             "id": "costume_head_fktn-hair-0039",
-            "name": "ぴょこっとリボン",
-            "description": "プレミアムミッションパス 2026年11月で獲得"
+            "name": "쫑긋 리본",
+            "description": "프리미엄 미션 패스 2026년 11월에서 획득 가능"
         },
         {
             "id": "costume_head_hmsz-cstm-0011",
@@ -938,7 +938,7 @@
         {
             "id": "costume_head_hski-hair-0009",
             "name": "큼직한 리본",
-            "description": "プレミアムミッションパス 2025年11月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_hski-hair-0023",
@@ -957,8 +957,8 @@
         },
         {
             "id": "costume_head_hski-hair-0039",
-            "name": "ぴょこっとリボン",
-            "description": "プレミアムミッションパス 2026年11月で獲得"
+            "name": "쫑긋 리본",
+            "description": "프리미엄 미션 패스 2026년 11월에서 획득 가능"
         },
         {
             "id": "costume_head_hski-schl-0000",
@@ -2098,7 +2098,7 @@
         {
             "id": "costume_head_ttmr-hair-0009",
             "name": "큼직한 리본",
-            "description": "プレミアムミッションパス 2025年11月で獲得など"
+            "description": "프리미엄 미션 패스 2025년 11월에서 획득 가능 등"
         },
         {
             "id": "costume_head_ttmr-hair-0023",
@@ -2117,8 +2117,8 @@
         },
         {
             "id": "costume_head_ttmr-hair-0039",
-            "name": "ぴょこっとリボン",
-            "description": "プレミアムミッションパス 2026年11月で獲得"
+            "name": "쫑긋 리본",
+            "description": "프리미엄 미션 패스 2026년 11월에서 획득 가능"
         }
     ]
 }

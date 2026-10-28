@@ -31008,7 +31008,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が<nobr>10以上</nobr>の場合、ターン内にスキルカードを5回使用するごとに、"
+                    "text": "가 <nobr>10 이상</nobr>일 때, 턴 내에 스킬 카드를 5회 사용할 때마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -31185,7 +31185,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が4回増加時、"
+                    "text": "이 4회 증가 시, "
                 }
             ],
             "playProduceDescriptions": [
@@ -33687,7 +33687,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "未定義のパターン(Type: ExamStanceChangeFullPower, PhaseValue: 0, ProduceCardSearchID: p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000, UpperCount: 0, LowerCount: 0)"
+                    "text": "미정의 패턴(Type: ExamStanceChangeFullPower, PhaseValue: 0, ProduceCardSearchID: p_card_search-active_skill-deck_all-effect_group-visible-exam_full_power-000, UpperCount: 0, LowerCount: 0)"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -54955,7 +54955,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン開始後、この"
+                    "text": "턴 시작 후, 이 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",

@@ -331,7 +331,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
-            "name": "熱意延長"
+            "name": "열의 연장"
         },
         {
             "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
