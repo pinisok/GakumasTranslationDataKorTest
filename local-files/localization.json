@@ -6384,5 +6384,9 @@
     "setting.preference.live.camera.angle_vertical": "상하 앵글 반전",
     "setting.preference.live.camera.angle_horizontal": "좌우 앵글 반전",
     "setting.preference.live.camera.description_panorama": "※360° 라이브 전용 설정입니다",
-    "octo_all_file_download_sheet.description.all": "모든 게임 데이터 다운로드를 진행합니다. 다운로드 완료 후, 타이틀로 이동합니다."
+    "octo_all_file_download_sheet.description.all": "모든 게임 데이터 다운로드를 진행합니다. 다운로드 완료 후, 타이틀로 이동합니다.",
+    "octo_all_file_download_sheet.description.all.exclude_movie": "【미디어 > 동영상 콘텐츠】의 데이터를 제외한 모든 게임 데이터를 다운로드합니다.",
+    "octo_all_file_download_sheet.alert.all": "※ 일괄 다운로드를 통해 플레이 중 통신량을 \\n 줄일 수 있습니다\\n※ Wi-Fi 환경에서의 다운로드를 권장합니다.",
+    "octo_all_file_download_sheet.alert.all.limit_required": "※ 일괄 다운로드는 앱 용량 상한 설정이 \"제한 없음\"인 경우에만 가능합니다.",
+    "octo_all_file_download_sheet.app_storage_limit.title": "앱 용량 상한 설정"
 }
