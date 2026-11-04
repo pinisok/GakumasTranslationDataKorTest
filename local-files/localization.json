@@ -6383,5 +6383,6 @@
     "setting.preference.live.camera.position_depth": "카메라 앞뒤 이동 반전",
     "setting.preference.live.camera.angle_vertical": "상하 앵글 반전",
     "setting.preference.live.camera.angle_horizontal": "좌우 앵글 반전",
-    "setting.preference.live.camera.description_panorama": "※360° 라이브 전용 설정입니다"
+    "setting.preference.live.camera.description_panorama": "※360° 라이브 전용 설정입니다",
+    "octo_all_file_download_sheet.description.all": "모든 게임 데이터 다운로드를 진행합니다. 다운로드 완료 후, 타이틀로 이동합니다."
 }
