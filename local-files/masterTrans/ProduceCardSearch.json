@@ -1778,7 +1778,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2848,7 +2848,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음"
                 }
             ]
         },

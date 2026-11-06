@@ -725,13 +725,13 @@
             "helpCategoryId": "help-loginbonus",
             "id": "loginbonus-loginbonus",
             "order": 1,
-            "name": "ログインボーナス"
+            "name": "로그인 보너스"
         },
         {
             "helpCategoryId": "help-loginbonus",
             "id": "loginbonus-select-loginbonus",
             "order": 2,
-            "name": "選べるログインボーナス"
+            "name": "선택형 로그인 보너스"
         },
         {
             "helpCategoryId": "help-main-story-event",

@@ -261541,7 +261541,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が3回増加時、"
+                    "text": "이 3회 증가 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261654,7 +261654,7 @@
                     "text": ""
                 }
             ],
-            "name": "ありのままのわたし"
+            "name": "있는 그대로의 나"
         },
         {
             "id": "p_card-02-ido-3_208",
@@ -261858,7 +261858,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が3回増加時、"
+                    "text": "이 3회 증가 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261971,7 +261971,7 @@
                     "text": ""
                 }
             ],
-            "name": "ありのままのわたし+"
+            "name": "있는 그대로의 나+"
         },
         {
             "id": "p_card-02-ido-3_208",
@@ -262175,7 +262175,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が3回増加時、"
+                    "text": "이 3회 증가 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262288,7 +262288,7 @@
                     "text": ""
                 }
             ],
-            "name": "ありのままのわたし++"
+            "name": "있는 그대로의 나++"
         },
         {
             "id": "p_card-02-ido-3_208",
@@ -262492,7 +262492,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が3回増加時、"
+                    "text": "이 3회 증가 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -262605,7 +262605,7 @@
                     "text": ""
                 }
             ],
-            "name": "ありのままのわたし+++"
+            "name": "있는 그대로의 나+++"
         },
         {
             "id": "p_card-02-ido-3_211",
@@ -266213,7 +266213,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -266346,7 +266346,7 @@
                     "text": ""
                 }
             ],
-            "name": "認めてくれるひと"
+            "name": "인정해 주는 사람"
         },
         {
             "id": "p_card-02-ido-3_221",
@@ -266510,7 +266510,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -266643,7 +266643,7 @@
                     "text": ""
                 }
             ],
-            "name": "認めてくれるひと+"
+            "name": "인정해 주는 사람+"
         },
         {
             "id": "p_card-02-ido-3_221",
@@ -266807,7 +266807,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -266940,7 +266940,7 @@
                     "text": ""
                 }
             ],
-            "name": "認めてくれるひと++"
+            "name": "인정해 주는 사람++"
         },
         {
             "id": "p_card-02-ido-3_221",
@@ -267104,7 +267104,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -267237,7 +267237,7 @@
                     "text": ""
                 }
             ],
-            "name": "認めてくれるひと+++"
+            "name": "인정해 주는 사람+++"
         },
         {
             "id": "p_card-02-ido-3_232",
@@ -404023,7 +404023,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -404136,7 +404136,7 @@
                     "text": ""
                 }
             ],
-            "name": "なにかを続ける尊さ"
+            "name": "무언가를 이어 가는 소중함"
         },
         {
             "id": "p_card-03-ido-3_206",
@@ -404320,7 +404320,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -404433,7 +404433,7 @@
                     "text": ""
                 }
             ],
-            "name": "なにかを続ける尊さ+"
+            "name": "무언가를 이어 가는 소중함+"
         },
         {
             "id": "p_card-03-ido-3_206",
@@ -404617,7 +404617,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -404730,7 +404730,7 @@
                     "text": ""
                 }
             ],
-            "name": "なにかを続ける尊さ++"
+            "name": "무언가를 이어 가는 소중함++"
         },
         {
             "id": "p_card-03-ido-3_206",
@@ -404914,7 +404914,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -405027,7 +405027,7 @@
                     "text": ""
                 }
             ],
-            "name": "なにかを続ける尊さ+++"
+            "name": "무언가를 이어 가는 소중함+++"
         },
         {
             "id": "p_card-03-ido-3_209",
@@ -407957,7 +407957,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードを"
+                    "text": "에 있는 스킬 카드를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -408110,7 +408110,7 @@
                     "text": ""
                 }
             ],
-            "name": "わずかずつの歩み"
+            "name": "조금씩 내딛는 걸음"
         },
         {
             "id": "p_card-03-ido-3_219",
@@ -408244,7 +408244,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードを"
+                    "text": "에 있는 스킬 카드를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -408397,7 +408397,7 @@
                     "text": ""
                 }
             ],
-            "name": "わずかずつの歩み+"
+            "name": "조금씩 내딛는 걸음+"
         },
         {
             "id": "p_card-03-ido-3_219",
@@ -408531,7 +408531,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードを"
+                    "text": "에 있는 스킬 카드를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -408684,7 +408684,7 @@
                     "text": ""
                 }
             ],
-            "name": "わずかずつの歩み++"
+            "name": "조금씩 내딛는 걸음++"
         },
         {
             "id": "p_card-03-ido-3_219",
@@ -408818,7 +408818,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードを"
+                    "text": "에 있는 스킬 카드를 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -408971,7 +408971,7 @@
                     "text": ""
                 }
             ],
-            "name": "わずかずつの歩み+++"
+            "name": "조금씩 내딛는 걸음+++"
         },
         {
             "id": "p_card-03-ido-3_222",

@@ -5289,7 +5289,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30492,7 +30492,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 }
             ],
             "playProduceDescriptions": [
@@ -31323,7 +31323,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "が3回増加時、"
+                    "text": "이 3회 증가 시, "
                 }
             ],
             "playProduceDescriptions": [
@@ -38579,7 +38579,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": " かつ"
+                    "text": " 상태이며 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -38603,7 +38603,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードが<nobr>2枚以上</nobr>の場合、"
+                    "text": "에 있는 스킬 카드가 <nobr>2장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -38629,7 +38629,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": " かつ"
+                    "text": " 상태이며 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -38653,7 +38653,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードが<nobr>2枚以上</nobr>の場合、使用可"
+                    "text": "에 있는 스킬 카드가 <nobr>2장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -38679,7 +38679,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": " かつ"
+                    "text": " 상태이며 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -38703,7 +38703,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "にあるスキルカードが<nobr>2枚以上</nobr>の場合、"
+                    "text": "에 있는 스킬 카드가 <nobr>2장 이상</nobr>일 때, "
                 }
             ]
         },
@@ -49834,7 +49834,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, "
                 }
             ],
             "playProduceDescriptions": [
@@ -49848,7 +49848,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、使用可"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, 사용 가능"
                 }
             ],
             "playEffectProduceDescriptions": [
@@ -49862,7 +49862,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "除外にあるスキルカードが<nobr>11枚以上</nobr>の場合、"
+                    "text": "제외에 있는 스킬 카드가 <nobr>11장 이상</nobr>일 때, "
                 }
             ]
         },

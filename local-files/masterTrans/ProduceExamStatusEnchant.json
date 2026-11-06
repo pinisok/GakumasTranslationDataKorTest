@@ -13808,7 +13808,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "が3回増加時、"
+                    "text": "이 3회 증가 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -18003,7 +18003,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の場合、ターン内にスキルカードを2回使用するごとに、"
+                    "text": "일 때, 턴 내에 스킬 카드를 2회 사용할 때마다, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -156313,7 +156313,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -156363,7 +156363,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -156498,7 +156498,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -156548,7 +156548,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

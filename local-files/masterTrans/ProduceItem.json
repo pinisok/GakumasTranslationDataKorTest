@@ -128540,7 +128540,7 @@
                     "text": ""
                 }
             ],
-            "name": "星々を統べる輝き"
+            "name": "별들을 다스리는 빛"
         },
         {
             "id": "pitem_02-3-336-1",
@@ -128756,7 +128756,7 @@
                     "text": ""
                 }
             ],
-            "name": "星々を統べる輝き+"
+            "name": "별들을 다스리는 빛+"
         },
         {
             "id": "pitem_02-3-343-0",
@@ -129835,7 +129835,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "のスキルカード獲得時、ボーカルが900以上の場合、\n"
+                    "text": "스킬 카드 획득 시, 보컬이 900 이상일 때,\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -129938,7 +129938,7 @@
                     "text": "(프로듀스 중 2회)"
                 }
             ],
-            "name": "過激め？チョイス"
+            "name": "조금 과감한? 초이스"
         },
         {
             "id": "pitem_03-0-003-0-000",
@@ -168505,7 +168505,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -168555,7 +168555,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -168698,7 +168698,7 @@
                     "text": "내 3회)"
                 }
             ],
-            "name": "夢見る輝き"
+            "name": "꿈꾸는 빛"
         },
         {
             "id": "pitem_03-3-334-1",
@@ -168711,7 +168711,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -168761,7 +168761,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "p_card-03-ido-3_219",
-                    "text": "わずかずつの歩み"
+                    "text": "조금씩 내딛는 걸음 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -168904,7 +168904,7 @@
                     "text": "내 3회)"
                 }
             ],
-            "name": "夢見る輝き+"
+            "name": "꿈꾸는 빛+"
         },
         {
             "id": "pitem_03-3-337-0",
