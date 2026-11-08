@@ -95,7 +95,7 @@
             "helpCategoryId": "help-character-introduction-event",
             "id": "help-character-introduction-event-commu",
             "order": 3,
-            "name": "コミュの解放"
+            "name": "커뮤 해금"
         },
         {
             "helpCategoryId": "help-character-introduction-event",
@@ -119,7 +119,7 @@
             "helpCategoryId": "help-character-introduction-event",
             "id": "help-character-introduction-event-story",
             "order": 1,
-            "name": "氷渡香名江エピソード0"
+            "name": "히와타리 카나에 에피소드0"
         },
         {
             "helpCategoryId": "help-circle-battle-event",

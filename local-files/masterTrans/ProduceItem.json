@@ -78457,7 +78457,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "活動支給・差し入れ選択時、ボーカルが400以上の場合、\n"
+                    "text": "활동 지급·응원 선물 선택 시, 보컬이 400 이상일 때, \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -78497,7 +78497,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\n"
+                    "text": " \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -78537,7 +78537,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "\n"
+                    "text": " \n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -78560,7 +78560,7 @@
                     "text": "(프로듀스 중 2회)"
                 }
             ],
-            "name": "仲良しアルバム"
+            "name": "단짝 앨범"
         },
         {
             "id": "pitem_02-0-002-0-000",
