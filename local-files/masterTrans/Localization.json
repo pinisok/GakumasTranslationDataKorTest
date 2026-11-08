@@ -30,8 +30,16 @@
             "description": "※커스터마이즈는 특별 지도에서 할 수 있습니다"
         },
         {
+            "id": "card.sort.research_event_consumption_item_bonus",
+            "description": "あさり先生のプロデュースゼミ イベントボーナス"
+        },
+        {
+            "id": "card.sort.story_event_point_bonus",
+            "description": "氷渡香名江エピソード0 イベントボーナス"
+        },
+        {
             "id": "common.story_event_point",
-            "description": "아사리 선생님의 프로듀스 세미나"
+            "description": "イベントPt"
         },
         {
             "id": "competition.rehearsal_battle_confirm.label.description",
@@ -368,6 +376,10 @@
         {
             "id": "story.idol.others.birthday",
             "description": "기타"
+        },
+        {
+            "id": "story.story_event.section.main_story_condition_lock_text",
+            "description": "ミッションPt獲得で解放"
         },
         {
             "id": "story.story_event.section.normal_condition_lock_text",

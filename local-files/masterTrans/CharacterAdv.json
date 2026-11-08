@@ -31,6 +31,11 @@
             "regexp": "고쿠게츠 학원"
         },
         {
+            "characterId": "hkne",
+            "name": "氷渡 香名江",
+            "regexp": "香名江$"
+        },
+        {
             "characterId": "hmsz",
             "name": "하타야 미스즈",
             "regexp": "미스즈$"
