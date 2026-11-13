@@ -1,5 +1,71 @@
 # Localization Release Notes
 
+## 3.6.0 (2026-11-13)
+- Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.6.0
+- Published: 2026-11-12T17:32:48Z
+- Changes: +362 added / ~13 jp-changed / -94 removed
+
+### Added keys
+- `common.setting`
+- `common.network.error.refine_need_reset.title`
+- `common.network.error.refine_need_reset.description`
+- `common.refine_park`
+- `common.plan4`
+- `common.menu.button_type.RefineSchedule`
+- `produce.common.name`
+- `produce.park`
+- `produce.select_change.description_without_upgrade_count_inheritance`
+- `produce.add_stamina_max_sheet.title`
+- `produce.add_stamina_max_sheet.description`
+- `produce.add_stamina_max_sheet.button`
+- `produce.shop.change_without_upgrade_count_inheritance`
+- `produce.customize.select`
+- `produce.customize.select.title`
+- `produce.card.move_position.remove`
+- `produce.card.move_position.header_fusion`
+- `produce.card.type.derive`
+- `produce.reward.select.initial.common`
+- `produce.reward.bulk_select.title`
+- … +342 more
+
+### JP changed
+- `produce.select_change.description`
+- `produce.shop.change`
+- `produce.audition.result.continue_warning_sheet.description`
+- `produce.audition.result.continue_warning_sheet.button.end`
+- `produce.audition.result.continue_confirm_sheet.description`
+- `produce.audition.result.continue_confirm_sheet.description_warning`
+- `produce.interval.reroll_sheet.description`
+- `achievement.tower.detail.description`
+- `achievement.tower.detail.to_tower`
+- `story.story_event.section.unlockable_condition_lock_text`
+- `high_score_event.event_info.caution_plan`
+- `high_score_event.event_info.caution_exam_effect`
+- `research_event.target_idol_sheet.description`
+
+### Removed keys
+- `achievement.cell.idol_card_lock`
+- `achievement.filter.no_has`
+- `achievement.master.breakdown.title`
+- `achievement.master.breakdown.total`
+- `achievement.master.reward.description`
+- `achievement.master.reward.title`
+- `achievement.master.reward_button`
+- `achievement.master.title`
+- `achievement.setting`
+- `achievement.top.description1`
+- `achievement.top.description2`
+- `achievement.top.description3`
+- `achievement.tower.detail.title`
+- `achievement.tower.star_max_1`
+- `achievement.tower.title`
+- `achievement.true_end.receive.title`
+- `card.idol_card.list.max`
+- `card.idol_card.release.confirm.sheet.message`
+- `card.idol_card.upgrade.potential_rank.description_with_common_resource`
+- `card.upgrade_status_list.tab_button.item_upgrade_after`
+- … +74 more
+
 ## 3.5.3 (2026-11-03)
 - Source: https://github.com/pinisok/gaku-patcher/releases/tag/3.5.3
 - Published: 2026-11-02T19:27:06Z
