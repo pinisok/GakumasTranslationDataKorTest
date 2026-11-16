@@ -3432,6 +3432,441 @@
             "title": "업무 개시②"
         },
         {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_cmmn_clothe-01",
+            "title": "의상"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_birthday-01",
+            "title": "홈 (2024생일)"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-01",
+            "title": "홈①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-02",
+            "title": "홈②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-03",
+            "title": "홈③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-04",
+            "title": "메인 로비④"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-05",
+            "title": "메인 로비⑤"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-06",
+            "title": "메인 로비⑥"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-07",
+            "title": "메인 로비⑦"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-08",
+            "title": "메인 로비⑧"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-09",
+            "title": "메인 로비 (친애도 Lv1~3)"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-10",
+            "title": "홈 (친애도 Lv3~5) ①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-11",
+            "title": "홈 (친애도 Lv3~5) ②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-12",
+            "title": "홈 (친애도 Lv5~6)"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-13",
+            "title": "홈 (친애도 Lv6~8)"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-14",
+            "title": "홈 (친애도 Lv7~9)"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-15",
+            "title": "홈 (친애도 Lv10~) ①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-16",
+            "title": "홈 (친애도 Lv10~) ②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-17",
+            "title": "홈 (친애도 Lv10~)③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-18",
+            "title": "메인 로비⑨"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-19",
+            "title": "메인 로비⑩"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-20",
+            "title": "메인 로비⑪"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-21",
+            "title": "메인 로비⑫"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-22",
+            "title": "메인 로비⑬"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-23",
+            "title": "메인 로비⑭"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-24",
+            "title": "메인 로비⑮"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_cmmn-25",
+            "title": "메인 로비⑯"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_touch-01",
+            "title": "메인 로비⑰"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_touch-02",
+            "title": "메인 로비⑱"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-01",
+            "title": "메인 로비 (아침)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-02",
+            "title": "메인 로비 (아침)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-03",
+            "title": "메인 로비 (낮)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-04",
+            "title": "메인 로비 (낮)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-05",
+            "title": "메인 로비 (저녁)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-06",
+            "title": "메인 로비 (저녁)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-07",
+            "title": "메인 로비 (밤)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-08",
+            "title": "메인 로비 (밤)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-09",
+            "title": "ホーム（2027お正月）"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-10",
+            "title": "ホーム（2027バレンタイン）"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-11",
+            "title": "ホーム（2027ハロウィン）"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-12",
+            "title": "ホーム（2026クリスマス）"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-13",
+            "title": "ホーム（2026大晦日）"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-14",
+            "title": "메인 로비 (봄)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-15",
+            "title": "메인 로비 (봄)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-16",
+            "title": "메인 로비 (봄)③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-17",
+            "title": "메인 로비 (여름)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-18",
+            "title": "메인 로비 (여름)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-19",
+            "title": "메인 로비 (여름)③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-20",
+            "title": "메인 로비(가을)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-21",
+            "title": "메인 로비(가을)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-22",
+            "title": "메인 로비(가을)③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-23",
+            "title": "홈(겨울)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-24",
+            "title": "홈(겨울)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_home_transition-25",
+            "title": "홈(겨울)③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_idol_potential-01",
+            "title": "재능 개화①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_idol_potential-02",
+            "title": "재능 개화②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-01",
+            "title": "프로듀싱 결과(True End) ①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-02",
+            "title": "프로듀싱 결과(True End) ②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-03",
+            "title": "프로듀싱 결과(True End) ③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-04",
+            "title": "프로듀스 결과 (A End)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-05",
+            "title": "프로듀스 결과 (A End)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-06",
+            "title": "프로듀스 결과 (A End)③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-07",
+            "title": "프로듀스 결과 (B~C End)①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_result-08",
+            "title": "프로듀스 결과 (B~C End)②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-01",
+            "title": "활동 거점①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-02",
+            "title": "활동 거점②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-03",
+            "title": "활동 거점③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-04",
+            "title": "활동 거점④"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-05",
+            "title": "활동 거점⑤"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-06",
+            "title": "활동 거점⑥"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-07",
+            "title": "옥상①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-08",
+            "title": "옥상②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-09",
+            "title": "옥상③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-10",
+            "title": "안뜰①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-11",
+            "title": "안뜰②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-12",
+            "title": "안뜰③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-13",
+            "title": "아이돌과 교실①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-14",
+            "title": "아이돌과 교실②"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-15",
+            "title": "아이돌과 교실③"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-16",
+            "title": "활동 거점⑦"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-17",
+            "title": "활동 거점⑧"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-18",
+            "title": "아이돌과 교실④"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_produce_schedule-19",
+            "title": "아이돌과 교실⑤"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_work_result-01",
+            "title": "업무 성공"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_work_result-02",
+            "title": "업무 대성공"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_work_start-01",
+            "title": "업무 개시①"
+        },
+        {
+            "characterId": "hkne",
+            "assetId": "sud_vo_system_hkne_work_start-02",
+            "title": "업무 개시②"
+        },
+        {
             "characterId": "hmsz",
             "assetId": "sud_vo_system_hmsz_cmmn_clothe-01",
             "title": "의상"

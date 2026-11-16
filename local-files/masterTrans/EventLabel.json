@@ -54,7 +54,7 @@
             "name": "아사리 선생님의 프로듀스 세미나"
         },
         {
-            "eventType": 13,
+            "eventType": "EventType_Trail",
             "name": "추억 의상"
         }
     ]

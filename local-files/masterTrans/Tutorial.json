@@ -1363,21 +1363,21 @@
             "texts": []
         },
         {
-            "tutorialType": 32,
+            "tutorialType": "TutorialType_GradeMission",
             "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
-            "tutorialType": 33,
+            "tutorialType": "TutorialType_Panorama",
             "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
-            "tutorialType": 34,
+            "tutorialType": "TutorialType_PanoramaLive",
             "idolCardId": "",
             "step": 1,
             "subStep": 1,
@@ -1845,21 +1845,21 @@
             "texts": []
         },
         {
-            "tutorialType": 216,
+            "tutorialType": "TutorialType_Trail",
             "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
-            "tutorialType": 217,
+            "tutorialType": "TutorialType_StoryEventCharacterIntroduction",
             "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
-            "tutorialType": 218,
+            "tutorialType": "TutorialType_CharacterIntroductionTips",
             "idolCardId": "",
             "step": 1,
             "subStep": 1,

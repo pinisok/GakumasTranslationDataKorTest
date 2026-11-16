@@ -562,6 +562,56 @@
             "produceConditionDescription": "샛별이 되다"
         },
         {
+            "characterId": "hkne",
+            "dearnessLevel": 1,
+            "produceConditionDescription": ""
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 2,
+            "produceConditionDescription": "프로듀스 중 레슨을 1회 이상 완료한다"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 3,
+            "produceConditionDescription": "프로듀스 중 중간시험을 합격한 뒤 1주 경과한다"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 4,
+            "produceConditionDescription": "프로듀스 2주차"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 5,
+            "produceConditionDescription": "중간 시험을 1위로 통과한다"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 6,
+            "produceConditionDescription": "프로듀스 중 보컬을 450 이상으로 만든다"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 7,
+            "produceConditionDescription": "アチーブメント「減点なしのパフォーマンス」を獲得する"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 8,
+            "produceConditionDescription": "프로듀스 중 비주얼을 1000 이상으로 만든다"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 9,
+            "produceConditionDescription": "난이도 「프로」 프로듀스 최종시험에서 1등을 한다"
+        },
+        {
+            "characterId": "hkne",
+            "dearnessLevel": 10,
+            "produceConditionDescription": "프로듀스를 A+ 평가로 완료하고 True End 보기"
+        },
+        {
             "characterId": "hmsz",
             "dearnessLevel": 1,
             "produceConditionDescription": ""

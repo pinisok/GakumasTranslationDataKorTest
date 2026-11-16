@@ -61,6 +61,24 @@
             "description": "댄스 1000 이상"
         },
         {
+            "characterId": "hkne",
+            "number": 1,
+            "title": "自分の魅せ方",
+            "description": "댄스300 이상"
+        },
+        {
+            "characterId": "hkne",
+            "number": 2,
+            "title": "夢を見る力",
+            "description": "보컬 450 이상"
+        },
+        {
+            "characterId": "hkne",
+            "number": 3,
+            "title": "光の下へ",
+            "description": "비주얼 1000 이상"
+        },
+        {
             "characterId": "hmsz",
             "number": 1,
             "title": "여유롭게",
