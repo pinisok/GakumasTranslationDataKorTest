@@ -564,7 +564,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한 체력 증가\n강화 상태 ·"
+                    "text": "스킬 카드 사용에 필요한 체력 증가\n강화 상태·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -574,7 +574,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -584,7 +584,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "비용에 영향을 미치지 않음"
+                    "text": " 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "비용값 증가"
@@ -992,7 +992,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "스킬 카드 사용에 필요한 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1002,7 +1002,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1012,7 +1012,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "비용 증가"
+                    "text": " 비용 증가"
                 }
             ],
             "name": "체력 소비 비용 증가"
@@ -1028,7 +1028,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한"
+                    "text": "스킬 카드 사용에 필요한 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1038,7 +1038,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1048,7 +1048,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "비용 감소"
+                    "text": " 비용 감소"
                 }
             ],
             "name": "체력 소비 비용 감소"
@@ -1064,7 +1064,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "스킬 카드 사용에 필요한 체력 감소\n강화 상태 ·"
+                    "text": "스킬 카드 사용에 필요한 체력 감소\n강화 상태·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1074,7 +1074,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1084,7 +1084,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "비용에 영향을 미치지 않음"
+                    "text": " 비용에는 영향을 미치지 않음"
                 }
             ],
             "name": "소비 체력 감소"
