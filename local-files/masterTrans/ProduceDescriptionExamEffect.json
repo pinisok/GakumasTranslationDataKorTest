@@ -375,11 +375,11 @@
         },
         {
             "type": "ProduceExamEffectType_ExamMetamorphose",
-            "name": "メタモルフォーゼ（支度）"
+            "name": "메타모르포제（준비）"
         },
         {
             "type": "ProduceExamEffectType_ExamMetamorphoseAfter",
-            "name": "メタモルフォーゼ（披露）"
+            "name": "메타모르포제(선보이기)"
         },
         {
             "type": "ProduceExamEffectType_ExamStaminaReduceFixAffected",
