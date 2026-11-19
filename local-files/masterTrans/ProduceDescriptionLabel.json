@@ -4746,7 +4746,7 @@
                     "text": "になる"
                 }
             ],
-            "name": "メタモルフォーゼ（支度）"
+            "name": "메타모르포제（준비）"
         },
         {
             "id": "Label_ExamMetamorphose_Produce",
@@ -4759,7 +4759,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "前半ターンの間、"
+                    "text": "전반 턴 동안, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4819,7 +4819,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の増加量を1追加・"
+                    "text": "의 증가량을 1 추가·"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4839,7 +4839,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "上昇量が25%減少\n\n"
+                    "text": "상승량이 25% 감소\n\n"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4849,7 +4849,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "メタモルフォーゼ（支度）"
+                    "text": "메타모르포제（준비）"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4859,7 +4859,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "終了後、"
+                    "text": " 종료 후, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4869,7 +4869,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "メタモルフォーゼ（披露）"
+                    "text": "메타모르포제（공개）"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4879,10 +4879,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "になる"
+                    "text": "로 변경"
                 }
             ],
-            "name": "メタモルフォーゼ（支度）"
+            "name": "메타모르포제（준비）"
         },
         {
             "id": "Label_ExamOverPreservation_Exam",

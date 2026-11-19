@@ -215240,7 +215240,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamMetamorphose_Produce",
-                    "text": "メタモルフォーゼ（支度）"
+                    "text": "메타모르포제(준비)"
                 }
             ],
             "customizeProduceDescriptions": [
@@ -215266,7 +215266,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamMetamorphose_Produce",
-                    "text": "メタモルフォーゼ（支度）"
+                    "text": "메타모르포제(준비)"
                 }
             ]
         },
