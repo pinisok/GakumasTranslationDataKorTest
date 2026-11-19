@@ -61654,7 +61654,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 감소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62071,7 +62071,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 감소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62488,7 +62488,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 감소 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -70665,7 +70665,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -70798,7 +70798,7 @@
                     "text": ""
                 }
             ],
-            "name": "一途な従者"
+            "name": "한결같은 종자"
         },
         {
             "id": "p_card-01-ido-1_138",
@@ -71025,7 +71025,7 @@
                     "text": ""
                 }
             ],
-            "name": "一途な従者+"
+            "name": "한결같은 종자+"
         },
         {
             "id": "p_card-01-ido-1_138",
@@ -71119,7 +71119,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -71252,7 +71252,7 @@
                     "text": ""
                 }
             ],
-            "name": "一途な従者++"
+            "name": "한결같은 종자++"
         },
         {
             "id": "p_card-01-ido-1_138",
@@ -71479,7 +71479,7 @@
                     "text": ""
                 }
             ],
-            "name": "一途な従者+++"
+            "name": "한결같은 종자+++"
         },
         {
             "id": "p_card-01-ido-100_039",
@@ -76834,7 +76834,7 @@
                     "text": ""
                 }
             ],
-            "name": "忠義を胸に"
+            "name": "충의를 가슴에"
         },
         {
             "id": "p_card-01-ido-2_170",
@@ -77091,7 +77091,7 @@
                     "text": ""
                 }
             ],
-            "name": "忠義を胸に+"
+            "name": "충의를 가슴에+"
         },
         {
             "id": "p_card-01-ido-2_170",
@@ -77348,7 +77348,7 @@
                     "text": ""
                 }
             ],
-            "name": "忠義を胸に++"
+            "name": "충의를 가슴에++"
         },
         {
             "id": "p_card-01-ido-2_170",
@@ -77605,7 +77605,7 @@
                     "text": ""
                 }
             ],
-            "name": "忠義を胸に+++"
+            "name": "충의를 가슴에+++"
         },
         {
             "id": "p_card-01-ido-3_013",
@@ -127550,7 +127550,7 @@
                     "text": ""
                 }
             ],
-            "name": "柔らかな光の中で"
+            "name": "부드러운 빛 속에서"
         },
         {
             "id": "p_card-01-ido-3_292",
@@ -127997,7 +127997,7 @@
                     "text": ""
                 }
             ],
-            "name": "柔らかな光の中で+"
+            "name": "부드러운 빛 속에서+"
         },
         {
             "id": "p_card-01-ido-3_292",
@@ -128444,7 +128444,7 @@
                     "text": ""
                 }
             ],
-            "name": "柔らかな光の中で++"
+            "name": "부드러운 빛 속에서++"
         },
         {
             "id": "p_card-01-ido-3_292",
@@ -128891,7 +128891,7 @@
                     "text": ""
                 }
             ],
-            "name": "柔らかな光の中で+++"
+            "name": "부드러운 빛 속에서+++"
         },
         {
             "id": "p_card-01-men-0_007",

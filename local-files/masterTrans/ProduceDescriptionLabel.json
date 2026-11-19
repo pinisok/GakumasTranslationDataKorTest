@@ -1394,10 +1394,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を消費"
+                    "text": "소비"
                 }
             ],
-            "name": "やる気消費"
+            "name": "의욕 소비"
         },
         {
             "id": "Label_ExamAntiDebuff",
@@ -2924,10 +2924,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を消費"
+                    "text": " 소비"
                 }
             ],
-            "name": "全力値低下"
+            "name": "전력치 저하"
         },
         {
             "id": "Label_ExamGetCardUpgrade",
@@ -3927,10 +3927,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を消費"
+                    "text": "소비"
                 }
             ],
-            "name": "集中消費"
+            "name": "집중 소비"
         },
         {
             "id": "Label_ExamLessonBuff_Exam",
@@ -4514,7 +4514,7 @@
                     "text": "증가량이 1 감소"
                 }
             ],
-            "name": "メタモルフォーゼ（披露）"
+            "name": "메타모르포제（공개）"
         },
         {
             "id": "Label_ExamMetamorphoseAfter_Produce",
@@ -4600,7 +4600,7 @@
                     "text": "증가량이 1 감소"
                 }
             ],
-            "name": "メタモルフォーゼ（披露）"
+            "name": "메타모르포제（공개）"
         },
         {
             "id": "Label_ExamMetamorphose_Exam",
@@ -5757,10 +5757,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を消費"
+                    "text": "소비"
                 }
             ],
-            "name": "絶好調消費"
+            "name": "절호조 소비"
         },
         {
             "id": "Label_ExamParameterBuffReduce",
@@ -5783,10 +5783,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を消費"
+                    "text": "소비"
                 }
             ],
-            "name": "好調消費"
+            "name": "호조 소비"
         },
         {
             "id": "Label_ExamPlayableValueAdd_Exam",
@@ -6559,10 +6559,10 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "を消費"
+                    "text": "소비"
                 }
             ],
-            "name": "好印象消費"
+            "name": "호인상 소비"
         },
         {
             "id": "Label_ExamReview_Exam",
@@ -7016,7 +7016,7 @@
                     "text": "를 무시하고 체력 소비"
                 }
             ],
-            "name": "固定体力消費"
+            "name": "고정 체력 소비"
         },
         {
             "id": "Label_ExamStaminaReduceFixAffected",

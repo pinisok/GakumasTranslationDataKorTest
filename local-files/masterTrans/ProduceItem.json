@@ -14017,7 +14017,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -14243,7 +14243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25973,7 +25973,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26149,7 +26149,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -33221,7 +33221,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39731,7 +39731,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48354,7 +48354,7 @@
                     "text": "내 1회)"
                 }
             ],
-            "name": "従者の必需品"
+            "name": "시종의 필수품"
         },
         {
             "id": "pitem_01-1-100-1",
@@ -48570,7 +48570,7 @@
                     "text": "내 1회)"
                 }
             ],
-            "name": "従者の必需品+"
+            "name": "시종의 필수품+"
         },
         {
             "id": "pitem_01-2-021-0",
@@ -49107,7 +49107,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -53946,7 +53946,7 @@
                     "text": "(프로듀스 중 1회)"
                 }
             ],
-            "name": "お掃除の成果"
+            "name": "청소의 성과"
         },
         {
             "id": "pitem_01-2-171-0",
@@ -54082,7 +54082,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "お返しの髪飾り"
+            "name": "답례로 받은 머리 장식"
         },
         {
             "id": "pitem_01-2-171-1",
@@ -54218,7 +54218,7 @@
                     "text": "내 2회)"
                 }
             ],
-            "name": "お返しの髪飾り+"
+            "name": "답례로 받은 머리 장식+"
         },
         {
             "id": "pitem_01-3-003-0",
@@ -57859,7 +57859,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -58723,7 +58723,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62457,7 +62457,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62613,7 +62613,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -62915,7 +62915,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -66041,7 +66041,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72309,7 +72309,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -72831,7 +72831,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73067,7 +73067,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -74595,7 +74595,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79766,7 +79766,7 @@
                     "text": "(프로듀스 중 3회)"
                 }
             ],
-            "name": "お嬢様おでかけセット"
+            "name": "아가씨 외출 세트"
         },
         {
             "id": "pitem_01-3-362-0",
@@ -87069,7 +87069,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -92593,7 +92593,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -92799,7 +92799,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -93035,7 +93035,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -93271,7 +93271,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -94211,7 +94211,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -104207,7 +104207,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -104453,7 +104453,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -104739,7 +104739,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -105025,7 +105025,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -105483,7 +105483,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -105689,7 +105689,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -106015,7 +106015,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -106341,7 +106341,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -107219,7 +107219,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -108713,7 +108713,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -108969,7 +108969,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -109195,7 +109195,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -109667,7 +109667,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -112351,7 +112351,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -112823,7 +112823,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -128901,7 +128901,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -129715,7 +129715,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -130955,7 +130955,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -131131,7 +131131,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -132715,7 +132715,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -133243,7 +133243,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

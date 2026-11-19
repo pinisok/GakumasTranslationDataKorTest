@@ -2391,7 +2391,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",

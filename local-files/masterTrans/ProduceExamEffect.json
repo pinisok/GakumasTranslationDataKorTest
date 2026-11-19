@@ -20728,7 +20728,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20790,7 +20790,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20843,7 +20843,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20905,7 +20905,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20958,7 +20958,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -21020,7 +21020,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -55938,7 +55938,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56036,7 +56036,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56125,7 +56125,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56223,7 +56223,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56312,7 +56312,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56410,7 +56410,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56499,7 +56499,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56597,7 +56597,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "次のターンのターン終了時、"
+                    "text": "다음 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56710,7 +56710,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>後のターン終了時、"
+                    "text": "턴</nobr> 후의 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56832,7 +56832,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>後のターン終了時、"
+                    "text": "턴</nobr> 후의 턴 종료 시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -56945,7 +56945,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>後のターン終了時、"
+                    "text": "턴</nobr> 후 턴 종료시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -57067,7 +57067,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
-                    "text": "ターン</nobr>後のターン終了時、"
+                    "text": "턴</nobr> 후 턴 종료시, "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -98984,7 +98984,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamFullPowerPointReduceCancellable",
-                    "text": "全力値低下"
+                    "text": "전력치 저하 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -99046,7 +99046,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamFullPowerPointReduceCancellable",
-                    "text": "全力値低下"
+                    "text": "전력치 저하 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -121536,7 +121536,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -121598,7 +121598,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -121651,7 +121651,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -121713,7 +121713,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -238480,7 +238480,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffMultiplePerTurnReduce",
-                    "text": "絶好調消費"
+                    "text": "절호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -238542,7 +238542,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffMultiplePerTurnReduce",
-                    "text": "絶好調消費"
+                    "text": "절호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -239975,7 +239975,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -240037,7 +240037,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -240090,7 +240090,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -240152,7 +240152,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249566,7 +249566,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249628,7 +249628,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249681,7 +249681,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249743,7 +249743,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249796,7 +249796,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -249858,7 +249858,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260908,7 +260908,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -260970,7 +260970,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261023,7 +261023,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261085,7 +261085,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261138,7 +261138,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261200,7 +261200,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261253,7 +261253,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261315,7 +261315,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261368,7 +261368,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261430,7 +261430,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261483,7 +261483,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261545,7 +261545,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261598,7 +261598,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261660,7 +261660,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -261749,7 +261749,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ],
             "customizeProduceDescriptions": [
@@ -261811,7 +261811,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ]
         },
@@ -261864,7 +261864,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ],
             "customizeProduceDescriptions": [
@@ -261926,7 +261926,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ]
         },
@@ -261979,7 +261979,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ],
             "customizeProduceDescriptions": [
@@ -262041,7 +262041,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ]
         },
@@ -262094,7 +262094,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ],
             "customizeProduceDescriptions": [
@@ -262156,7 +262156,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ]
         },
@@ -262209,7 +262209,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ],
             "customizeProduceDescriptions": [
@@ -262271,7 +262271,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비"
                 }
             ]
         },
@@ -304855,7 +304855,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -305037,7 +305037,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -321875,7 +321875,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffMultiplePerTurnReduce",
-                    "text": "絶好調消費"
+                    "text": "절호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -322081,7 +322081,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffMultiplePerTurnReduce",
-                    "text": "絶好調消費"
+                    "text": "절호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -322724,7 +322724,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -322918,7 +322918,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323115,7 +323115,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323309,7 +323309,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323506,7 +323506,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323700,7 +323700,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -323897,7 +323897,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -324091,7 +324091,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -350962,7 +350962,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamParameterBuffReduce",
-                    "text": "好調消費"
+                    "text": "호조 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -351185,7 +351185,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamLessonBuffReduce",
-                    "text": "集中消費"
+                    "text": "집중 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -351727,7 +351727,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamReviewReduce",
-                    "text": "好印象消費"
+                    "text": "호인상 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -351950,7 +351950,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamAggressiveReduce",
-                    "text": "やる気消費"
+                    "text": "의욕 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -367385,7 +367385,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -367471,7 +367471,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -368181,7 +368181,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -368291,7 +368291,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -375074,7 +375074,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -375160,7 +375160,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -375942,7 +375942,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -376052,7 +376052,7 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "Label_ExamStaminaReduceFix",
-                    "text": "固定体力消費"
+                    "text": "고정 체력 소비 "
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
