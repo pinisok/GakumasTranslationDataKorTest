@@ -59,7 +59,7 @@
             "characterId": "amao",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "1월18일"
+            "content": "1월 18일"
         },
         {
             "characterId": "amao",
@@ -143,7 +143,7 @@
             "characterId": "atbm",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "5월20일"
+            "content": "5월 20일"
         },
         {
             "characterId": "atbm",
@@ -221,7 +221,7 @@
             "characterId": "fktn",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "4월29일"
+            "content": "4월 29일"
         },
         {
             "characterId": "fktn",
@@ -293,7 +293,7 @@
             "characterId": "hkne",
             "type": "CharacterDetailType_Cv",
             "order": 7,
-            "content": "安倍 彩野夏"
+            "content": "아베 사야카"
         },
         {
             "characterId": "hkne",
@@ -305,7 +305,7 @@
             "characterId": "hkne",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "8月20日"
+            "content": "8월 20일"
         },
         {
             "characterId": "hkne",
@@ -317,19 +317,19 @@
             "characterId": "hkne",
             "type": "CharacterDetailType_Birthplace",
             "order": 11,
-            "content": "静岡県"
+            "content": "시즈오카 현"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_SpecialSkill",
             "order": 12,
-            "content": "家事全般、護身術、歴史の雑学"
+            "content": "가사 전반, 호신술, 역사잡학"
         },
         {
             "characterId": "hkne",
             "type": "CharacterDetailType_Hobby",
             "order": 13,
-            "content": "主のお世話、「倉本千奈ファンクラブ」の運営"
+            "content": "주인의 수발, '쿠라모토 치나 팬클럽' 의 운영"
         },
         {
             "characterId": "hmsz",
@@ -383,7 +383,7 @@
             "characterId": "hmsz",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "2월6일"
+            "content": "2월 6일"
         },
         {
             "characterId": "hmsz",
@@ -413,7 +413,7 @@
             "characterId": "hmsz",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n츠키무라 테마리의 그늘에 가려져 다소 수수한 평가를 받았지만, 그 실력은 진짜다. 결점이 적은 완성된 아이돌이라는 인상. 한층 더 성장할 것도 기대할 수 있을 것이다."
+            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n츠키무라 테마리의 그늘에 가려져, 다소 수수한 평가를 받고 있었지만, 그 실력은 진짜다. 결점이 적은 완성된 아이돌이라는 인상. 한층 더 성장할 것도 기대할 수 있을 것이다."
         },
         {
             "characterId": "hrnm",
@@ -467,7 +467,7 @@
             "characterId": "hrnm",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "3월5일"
+            "content": "3월 5일"
         },
         {
             "characterId": "hrnm",
@@ -485,7 +485,7 @@
             "characterId": "hrnm",
             "type": "CharacterDetailType_SpecialSkill",
             "order": 12,
-            "content": "요리, 바느질·수공예"
+            "content": "요리, 바느질・수공예"
         },
         {
             "characterId": "hrnm",
@@ -551,7 +551,7 @@
             "characterId": "hski",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "4월2일"
+            "content": "4월 2일"
         },
         {
             "characterId": "hski",
@@ -569,19 +569,19 @@
             "characterId": "hski",
             "type": "CharacterDetailType_SpecialSkill",
             "order": 12,
-            "content": "운동, 가사, 마사지"
+            "content": "운동 전반, 가사 전반, 마사지"
         },
         {
             "characterId": "hski",
             "type": "CharacterDetailType_Hobby",
             "order": 13,
-            "content": "승부가 가능한 것"
+            "content": "승부 관련 전반"
         },
         {
             "characterId": "hski",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "입학시험 수석 신입생. 악착스럽고 지기 싫어하는 전 운동선수.\n신체능력이 뛰어나 전교생 중 상위 10%에 들 정도.\n미경험자이지만, 이해력이 매우 좋고, 성장이 빠르다.\n이미 완성되고 있는 능력은, 큰 성장을 기대할 수 없어 보이기도 하는데……"
+            "content": "입학시험 수석 신입생. 악착스럽고 지기 싫어하는 전 운동선수.\n뛰어난 신체능력은, 전교생 중, 상위 10%에 들 정도.\n미경험자이지만, 이해력이 매우 좋고, 성장이 빠르다.\n이미 완성되고 있는 능력은, 큰 성장을 기대할 수 없어 보이기도 하는데……"
         },
         {
             "characterId": "hume",
@@ -635,7 +635,7 @@
             "characterId": "hume",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "4월1일"
+            "content": "4월 1일"
         },
         {
             "characterId": "hume",
@@ -653,7 +653,7 @@
             "characterId": "hume",
             "type": "CharacterDetailType_SpecialSkill",
             "order": 12,
-            "content": "스포츠, 마사지"
+            "content": "스포츠 전반, 마사지"
         },
         {
             "characterId": "hume",
@@ -665,7 +665,7 @@
             "characterId": "hume",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "보결 입학한 신입생\n활기 넘치고, 신체 능력이 뛰어난 전직 운동 선수"
+            "content": "보결 입학한 신입생.\n활기 넘치고, 신체 능력이 뛰어난 전직 운동 선수."
         },
         {
             "characterId": "jsna",
@@ -719,7 +719,7 @@
             "characterId": "jsna",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "12월7일"
+            "content": "12월 7일"
         },
         {
             "characterId": "jsna",
@@ -737,7 +737,7 @@
             "characterId": "jsna",
             "type": "CharacterDetailType_SpecialSkill",
             "order": 12,
-            "content": "아이돌의 재능을 간파하기"
+            "content": "아이돌의 재능을 간파하는 것"
         },
         {
             "characterId": "jsna",
@@ -749,7 +749,7 @@
             "characterId": "jsna",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "하츠보시 학원의 학생회장이자, 지난 해의 『샛별』.\n『학원 최고의 아이돌』이라 불리며, 많은 학생들에게 존경받고 있다."
+            "content": "하츠보시 학원의 학생회장이자, 작년의 「샛별」.\n「학원 제일의 아이돌」이라 불리며, 많은 학생들에게 존경받고 있다."
         },
         {
             "characterId": "kcna",
@@ -803,7 +803,7 @@
             "characterId": "kcna",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "8월1일"
+            "content": "8월 1일"
         },
         {
             "characterId": "kcna",
@@ -887,7 +887,7 @@
             "characterId": "kllj",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "7월24일"
+            "content": "7월 24일"
         },
         {
             "characterId": "kllj",
@@ -971,7 +971,7 @@
             "characterId": "shro",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "12월21일"
+            "content": "12월 21일"
         },
         {
             "characterId": "shro",
@@ -995,13 +995,13 @@
             "characterId": "shro",
             "type": "CharacterDetailType_Hobby",
             "order": 13,
-            "content": "서투른 분야에 도전하기, 관엽식물 기르기"
+            "content": "서투른 분야에 도전하는 것, 관엽식물 기르기"
         },
         {
             "characterId": "shro",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "14세에 대학을 졸업한 천재 소녀. 자세한 경력은 별도 표기.\n촉망받던 장래를 버리고 아이돌을 목표로 하는 이유는 불명.\n입학시험은 필기 만점, 실기0점. 학원장의 면접 평가는 우수하다고 한다."
+            "content": "14세에 대학을 졸업한 천재 소녀. 자세한 경력은 별도 표기.\n촉망받던 장래를 버리고, 아이돌을 목표로 하는 이유는 불명.\n입학시험은, 필기 만점, 실기0점. 학원장의 면접 평가는 우수하다고 한다."
         },
         {
             "characterId": "ssmk",
@@ -1055,7 +1055,7 @@
             "characterId": "ssmk",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "11월11일"
+            "content": "11월 11일"
         },
         {
             "characterId": "ssmk",
@@ -1085,7 +1085,7 @@
             "characterId": "ssmk",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "건강하고 밝고, 누구와도 친해질 수 있는 성격의 소녀.\n입학 전에는 발레로 세계적으로 활약한 실적도 있어, 기대받고 있었다.\n하지만 수업이나 레슨을 자주 빼먹고 있으며, 의욕이 없어 보인다."
+            "content": "건강하고 밝고, 누구와도 친해질 수 있는 성격의 소녀.\n입학 전에는 발레로 세계적으로 활약한 실적도 있어, 기대받고 있었다.\n하지만, 수업이나 레슨을 자주 빼먹고 있으며, 의욕이 없어 보인다."
         },
         {
             "characterId": "ttmr",
@@ -1139,7 +1139,7 @@
             "characterId": "ttmr",
             "type": "CharacterDetailType_Birthday",
             "order": 9,
-            "content": "6월3일"
+            "content": "6월 3일"
         },
         {
             "characterId": "ttmr",
@@ -1169,7 +1169,7 @@
             "characterId": "ttmr",
             "type": "CharacterDetailType_Introduction",
             "order": 14,
-            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n1학년이지만, 이미 일선에 설 만한 가창력을 지녔다.\n품행에 문제 있음. 나쁜 소문 많음. 트러블 메이커."
+            "content": "중등부 넘버원 유닛 「SyngUp!」의 전 멤버.\n1학년이지만, 이미 일선급의 가창력을 지녔다.\n품행에 문제 있음. 나쁜 소문 많음. 트러블 메이커."
         }
     ]
 }

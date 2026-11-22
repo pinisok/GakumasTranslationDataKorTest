@@ -697,63 +697,63 @@
         },
         {
             "id": "achieve-i_card-hkne-2-000-01",
-            "name": "忠義を胸に",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで最終試験に合格"
+            "name": "충의를 가슴에",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 프로듀스에서 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hkne-2-000-02",
-            "name": "憧れを抱いて一歩ずつ",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-2-000-03",
-            "name": "いつの日か、同じ景色を",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+            "name": "언젠가, 같은 풍경을",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 프로듀스에서 평가 A+이상을\n{threshold}회 획득"
         },
         {
             "id": "achieve-i_card-hkne-2-000-04",
-            "name": "憧れを抱いて一歩ずつ +",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩 +",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-2-000-05",
-            "name": "憧れを抱いて一歩ずつ ++",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩 ++",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-2-000-06",
-            "name": "憧れを抱いて一歩ずつ +++",
-            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "동경을 품고 한 걸음씩 +++",
+            "description": "【동경을 품고 한 걸음씩】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-3-000-01",
-            "name": "柔らかな光の中で",
-            "description": "【メタモルフォーゼ】氷渡 香名江のプロデュースで最終試験に合格"
+            "name": "부드러운 빛 속에서",
+            "description": "【메타모르포제】히와타리 카나에의 프로듀스에서 최종시험에 합격"
         },
         {
             "id": "achieve-i_card-hkne-3-000-02",
-            "name": "メタモルフォーゼ",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제",
+            "description": "【메타모르포제】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-3-000-03",
-            "name": "アイドルとしての新しい私",
+            "name": "아이돌로서의 새로운 나",
             "description": "【メタモルフォーゼ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-i_card-hkne-3-000-04",
-            "name": "メタモルフォーゼ +",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제 +",
+            "description": "【메타모르포제】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-3-000-05",
-            "name": "メタモルフォーゼ ++",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제 ++",
+            "description": "【메타모르포제】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hkne-3-000-06",
-            "name": "メタモルフォーゼ +++",
-            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+            "name": "메타모르포제 +++",
+            "description": "【메타모르포제】히와타리 카나에의 특훈단계를 {threshold}로 만든다"
         },
         {
             "id": "achieve-i_card-hmsz-2-000-01",
@@ -3863,7 +3863,7 @@
         {
             "id": "achieve-m_hkne-001",
             "name": "마스터 업적",
-            "description": "氷渡 香名江のアチーブメントの★を{threshold}個獲得"
+            "description": "히와타리 카나에의 업적의 ★을{threshold}개 획득"
         },
         {
             "id": "achieve-m_hmsz-001",
