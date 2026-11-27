@@ -56,6 +56,10 @@
         {
             "eventType": "EventType_Trail",
             "name": "추억 의상"
+        },
+        {
+            "eventType": "EventType_StoryEventUnitStory",
+            "name": "マルチシナリオ"
         }
     ]
 }

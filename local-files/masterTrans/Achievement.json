@@ -276,6 +276,36 @@
             "description": "【시루베】아리무라 마오의 특훈 단계 {threshold} 달성"
         },
         {
+            "id": "achieve-i_card-amao-3-023-01",
+            "name": "噛み合わないプライド",
+            "description": "【アンバランス】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-02",
+            "name": "アンバランス",
+            "description": "【アンバランス】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-03",
+            "name": "輝きたい場所はここにある",
+            "description": "【アンバランス】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-04",
+            "name": "アンバランス +",
+            "description": "【アンバランス】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-05",
+            "name": "アンバランス ++",
+            "description": "【アンバランス】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-023-06",
+            "name": "アンバランス +++",
+            "description": "【アンバランス】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-atbm-2-000-01",
             "name": "자전일섬",
             "description": "【초지일관】아마야 츠바메의 프로듀스로 최종 시험에 합격"
@@ -424,6 +454,36 @@
             "id": "achieve-i_card-atbm-3-018-06",
             "name": "크라이아이+++",
             "description": "【크라이아이】아마야 츠바메의 특훈 단계 {threshold} 달성"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-01",
+            "name": "噛み合わない理屈",
+            "description": "【アンバランス】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-02",
+            "name": "アンバランス",
+            "description": "【アンバランス】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-03",
+            "name": "私たちふたりなら",
+            "description": "【アンバランス】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-04",
+            "name": "アンバランス +",
+            "description": "【アンバランス】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-05",
+            "name": "アンバランス ++",
+            "description": "【アンバランス】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-020-06",
+            "name": "アンバランス +++",
+            "description": "【アンバランス】雨夜 燕の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",
